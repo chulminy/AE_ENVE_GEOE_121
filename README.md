@@ -1,13 +1,18 @@
 # AE121: Computational Method (Spring, 2019)
 
 **Instructor:** Chul Min Yeum (E2-2313)  
-**Class:** Tuesday and Thursday, 8:30 to 10:00 AM at E2-3356     
-**Email:** cmyeum@uwaterloo.ca  
-**Office Hours:** Tuesdays and Thursday 10:00 to 11:00 AM at E2-2313 (You can also email for an appointment)  
+**Class:** Monday and Tuesday, 2:30 to 4:00 PM at CPH 1319
+**Lab:** Thursday, 9:30 to 11:30 AM at CPH 1346        
+**Email:** cmyeum@uwaterloo.ca
+**TA:** Jason Connelly, jpconnelly@edu.uwaterloo.ca
 
-Last updated: 2019-03-28
+**Office Hours (Instructor):** Monday and Tuesday 4:00 to 5:00 PM at E2-2313 (You can also email for an appointment)    
+**Office Hours (TA):** M 9:00 to 11:00 AM at E (You can also email for an appointment)    
+
+Last updated: 2019-04-10
 
 ## Announcement  
+
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -60,71 +65,67 @@ Slides and tutorials are will be updated soon.
 |Class|Topics|Slides|Tutorial|
 |:----|:-----|:----|:-----|
 |Class 01|**Introduction (MATLAB and Course)**|&nbsp;|&nbsp;|
-|Class 02|&nbsp;|&nbsp;|&nbsp;|
-|Class 03|&nbsp;|&nbsp;|&nbsp;|
-|Class 04|&nbsp;|&nbsp;|&nbsp;|
-|Class 05|&nbsp;|&nbsp;|&nbsp;|
-|Class 06|&nbsp;|&nbsp;|&nbsp;|
-|Class 07|&nbsp;|&nbsp;|&nbsp;|
-|Class 08|&nbsp;|&nbsp;|&nbsp;|
-|Class 09|&nbsp;|&nbsp;|&nbsp;|
-|Class 10|&nbsp;|&nbsp;|&nbsp;|
-|Class 11|&nbsp;|&nbsp;|&nbsp;|
-|Class 12|&nbsp;|&nbsp;|&nbsp;|
-|Class 13|&nbsp;|&nbsp;|&nbsp;|
-|Class 14|&nbsp;|&nbsp;|&nbsp;|
-|Class 15|&nbsp;|&nbsp;|&nbsp;|
-|Class 16|&nbsp;|&nbsp;|&nbsp;|
-|Class 17|&nbsp;|&nbsp;|&nbsp;|
-|Class 18|&nbsp;|&nbsp;|&nbsp;|
-|Class 19|&nbsp;|&nbsp;|&nbsp;|
-|Class 20|&nbsp;|&nbsp;|&nbsp;|
-|Class 21|&nbsp;|&nbsp;|&nbsp;|
-|Class 22|&nbsp;|&nbsp;|&nbsp;|
-|Class 23|&nbsp;|&nbsp;|&nbsp;|
-|Class 24|&nbsp;|&nbsp;|&nbsp;|
+|Class 02|**Basic MATLAB Programming I**|&nbsp;|&nbsp;|
+|Class 03|**Basic MATLAB Programming II**|&nbsp;|&nbsp;|
+|Class 04|**Vector & Matrices**|&nbsp;|&nbsp;|
+|Class 05|**Selection Statement**|&nbsp;|&nbsp;|
+|Class 06|**Loop Statement**|&nbsp;|&nbsp;|
+|Class 07|**Review Class**|&nbsp;|&nbsp;|
+|Class 08|**Text Manipulation**|&nbsp;|&nbsp;|
+|Class 09|**Function**|&nbsp;|&nbsp;|
+|Class 10|**Logical Indexing**|&nbsp;|&nbsp;|
+|Class 11|**Logical Functions**|&nbsp;|&nbsp;|
+|Class 12|**Review Class**|&nbsp;|&nbsp;|
+|Class 13|**Data Structure**|&nbsp;|&nbsp;|
+|Class 14|**Matrix Algebra I**|&nbsp;|&nbsp;|
+|Class 15|**Matrix Algebra II**|&nbsp;|&nbsp;|
+|Class 16|**Plotting**|&nbsp;|&nbsp;|
+|Class 17|**File I/O**|&nbsp;|&nbsp;|
+|Class 18|**Review Class**|&nbsp;|&nbsp;|
+|Class 19|**Symbolic Function**;|&nbsp;|&nbsp;|
+|Class 20|**Numerical Technique I**|&nbsp;|&nbsp;|
+|Class 21|**Numerical Technique II**|&nbsp;|&nbsp;|
+|Class 22|**Advanced MATLAB Programming I**|&nbsp;|&nbsp;|
+|Class 23|**Advanced MATLAB Programming II**|&nbsp;|&nbsp;|
+|Class 24|**Review Class**|&nbsp;|&nbsp;|
 
-
-- Introduction (1 class)
-- Basic Matlab programming (1 class)
-- Vector & Matrices (1 class) Logical operator
-- Plot function (1 class)
-- Selection statement (1 class)
-- Loop statement (1 class)
-- Linear algebra (theory and code) (2 classes) Matrix computations
-- Function (1 class)
-- Text manipulation (1 class)
-- Place holder (2 classes)
-
-- Data structure (cell & structure) (1 class)
-- Plotting (1 class)
-- File I/O (1 class)
-- Symbolic function (1 class)
-
-- Indexing
-- Text manipulation (1 class)
-- Function 
-
-
-
-
-## Tasks
-There will be **eight tasks** overall and posted on either weekly or biweekly on this course website. The task will have programming components or photography components, where students will use their own camera to capture and process their own images and discuss the results. The instructor will post two due dates. Students are supposed to complete all tasks and turn their works in by the first due date. After the first due data, some hints and solutions will be posted but, there is 25% deduction in the final mark. After the second due date, the submission of the works will not be accepted unless accompanied by a valid excuse and some additional points might be deducted depending upon the circumstances.  
+## Computer Labs
 
 [**Submission instruction of your work**](#submission-instruction-of-your-work)
 
-|Task|Topics|Announcement|1st due|2nd due|
-|:----|:-----|:----|:-----|:-----|
-|Task0|[**MATLAB and Digital Image Processing Tutorial**](task/Task0_Matlab_ImgProc_Tutorials) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> [Best report (Kareem Mostafa)](task/Task0_Matlab_ImgProc_Tutorials/Rept_Karee_PH_20767080.pdf)|Jan 10, 2019|Jan 19, 2019|Jan 26, 2019|
-|Task1-1|[**Signal Processing I**](task/Task1_Part1_SignalProcessing) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br> [Best report (Laurent)](task/Task1_Part1_SignalProcessing/solution/Rept_Laure_MA_20505439.pdf), [Best report (Wildt)](task/Task1_Part1_SignalProcessing/solution/Rept_Nilsw_MA_20807870.pdf)|Jan 27, 2019|Feb 06, 2019|Feb 10, 2019|
-|Task2|[**Camera Sensor**](task/Task2_CameraSensor)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </br>[Best report (Tianyi)](task/Task2_CameraSensor/solution/Rept_Tiany_BA_20550150_reduced.pdf), [Best report (Juan)](task/Task2_CameraSensor/solution/Rept_Juanp_BA_20577312_reduced.pdf)|Feb 01, 2019|Feb 11, 2019|Feb 16, 2019|
-|Task1-2|[**Signal Processing II**](task/Task1_Part2_SignalProcessing)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br> [Best report (Steven)](task/Task1_Part2_SignalProcessing/solution/Rept_Steve_MA_20522068.pdf)|Feb 06, 2019|Feb 20, 2019|Feb 23, 2019|
-|Task3|[**Homography**](task/Task3_Homography)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br> [Best report (Hongyi)](task/Task3_Homography/solution/Rept_Hongy_ME_20788389.pdf)|Feb 12, 2019|Feb 26, 2019|Mar 02, 2019|
-|Task4|[**Image Filter**](task/Task4_ImageFilter)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(**No best report**)|Mar 01, 2019|Mar 11, 2019|Mar 18, 2019|
-|Task5|[**Image Stitching**](task/Task5_ImageStitching)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 08, 2019|Mar 19, 2019|Mar 24, 2019|  
-|Task6|[**3D Measurement using SfM**](task/Task6_3DMeasurementSfM)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 15, 2019|Apr 10, 2019|Apr 10, 2019|  
-|Task7|[**Scan Registration**](task/Task7_ScanRegistration)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 25, 2019|Apr 10, 2019|Apr 10, 2019|  
-|Task8|[**Neural Network**](task/Task8_NeuralNetwork) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Mar 28, 2019|Apr 10, 2019|Apr 10, 2019|    
+|Lab|Topic|Date|Due data|
+|:----|:-----|:----|:-----|
+|Lab 1|:-----|:----|:-----|
+|Lab 2|:-----|:----|:-----|
+|Lab 3|:-----|:----|:-----|
+|Lab 4|:-----|:----|:-----|
+|Lab 5|:-----|:----|:-----|
+|Lab 6|:-----|:----|:-----|
+|Lab 7|:-----|:----|:-----|
+|Lab 8|:-----|:----|:-----|
+|Lab 9|:-----|:----|:-----|
+|Lab 10|:-----|:----|:-----|
+|Lab 11|:-----|:----|:-----|
+|Lab 12|:-----|:----|:-----|
+
+## Homeworks
+
+[**Submission instruction of your work**](#submission-instruction-of-your-work)
+
+|Lab|Topic|Date|Due data|
+|:----|:-----|:----|:-----|
+|Lab 1|:-----|:----|:-----|
+|Lab 2|:-----|:----|:-----|
+|Lab 3|:-----|:----|:-----|
+|Lab 4|:-----|:----|:-----|
+|Lab 5|:-----|:----|:-----|
+|Lab 6|:-----|:----|:-----|
+|Lab 7|:-----|:----|:-----|
+|Lab 8|:-----|:----|:-----|
+|Lab 9|:-----|:----|:-----|
+|Lab 10|:-----|:----|:-----|
+|Lab 11|:-----|:----|:-----|
+|Lab 12|:-----|:----|:-----|
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
@@ -134,15 +135,13 @@ In this course, both the instructor and the students are encouraged to engage in
 [**Discussion forum instruction**](#discussion-forum-instruction)
 
 ## Grading  
-The final grade will be based on the total marks earned during the semester. Each task will be graded on the basis of 100 points and will contribute the final grade with different weights. The evaluation guideline for the project can be seen [**here**](#guideline-for-the-project). Note that undergraduate and graduate students are marked using different evaluation metrics.
+The final grade will be based on the total marks earned from midterm exam, final exam, labs, and homeworks during the semester. Contributions
 
-**Undergraduate student**: Task (80%) and Project (20%)  
-**Graduate student**: Task (70%) and Project (30%)  
+Computer Lab (20%)
+Homework (20%)
+Midterm (30%)
+Final (30%) 
 
-## Project 
-Students are encouraged to bring their own problems related to their thesis, research projects or potential research in civil engineering that they plan to pursue near future. This course gives special attention to exploring theory and potential techniques in the field of smart structure to address real problems that students are exposed to or involved in. Thus, students need to devise feasible project topics that are achievable within your current or future graduate study. 
-
-[**Guideline for the project**](#guideline-for-the-project)
 
 ## Note
 
