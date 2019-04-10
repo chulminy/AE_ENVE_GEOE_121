@@ -86,7 +86,7 @@ Slides and tutorials are will be updated soon.
 |Class 20|**Numerical Technique I**|&nbsp;|&nbsp;|
 |Class 21|**Numerical Technique II**|&nbsp;|&nbsp;|
 |Class 22|**Advanced MATLAB Programming I**|&nbsp;|&nbsp;|
-|Class 23|**Advanced MATLAB Programming II**|&nbsp;|&nbsp;|
+|Class 23|**Advanced MATLAB Programming II**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;|
 |Class 24|**Review Class**|&nbsp;|&nbsp;|
 
 ## Computer Labs
@@ -114,18 +114,18 @@ Slides and tutorials are will be updated soon.
 
 |Lab|Topic|Date|Due data|
 |:----|:-----|:----|:-----|
-|Lab 1|:-----|:----|:-----|
-|Lab 2|:-----|:----|:-----|
-|Lab 3|:-----|:----|:-----|
-|Lab 4|:-----|:----|:-----|
-|Lab 5|:-----|:----|:-----|
-|Lab 6|:-----|:----|:-----|
-|Lab 7|:-----|:----|:-----|
-|Lab 8|:-----|:----|:-----|
-|Lab 9|:-----|:----|:-----|
-|Lab 10|:-----|:----|:-----|
-|Lab 11|:-----|:----|:-----|
-|Lab 12|:-----|:----|:-----|
+|HW 1|:-----|:----|:-----|
+|HW 2|:-----|:----|:-----|
+|HW 3|:-----|:----|:-----|
+|HW 4|:-----|:----|:-----|
+|HW 5|:-----|:----|:-----|
+|HW 6|:-----|:----|:-----|
+|HW 7|:-----|:----|:-----|
+|HW 8|:-----|:----|:-----|
+|HW 9|:-----|:----|:-----|
+|HW 10|:-----|:----|:-----|
+|HW 11|:-----|:----|:-----|
+|HW 12|:-----|:----|:-----|
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/CIVE497-CIVE700)**, especially for this web page. The instructor will make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes. Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. 
@@ -141,7 +141,6 @@ Computer Lab (20%)
 Homework (20%)
 Midterm (30%)
 Final (30%) 
-
 
 ## Note
 
