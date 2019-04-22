@@ -2,9 +2,9 @@
 
 **Instructor:** Chul Min Yeum (E2-2313)  
 **Class:** Monday and Tuesday, 2:30 to 4:00 PM at CPH 1319
-**Lab:** Thursday, 9:30 to 11:30 AM at CPH 1346        
+**Programming Lab:** Thursday, 9:30 to 11:30 AM at CPH 1346        
 **Email:** cmyeum@uwaterloo.ca
-**TA:** Jason Connelly, jpconnelly@edu.uwaterloo.ca
+**TA:** Jason Connelly (E2-xxxx), jpconnelly@edu.uwaterloo.ca
 
 **Office Hours (Instructor):** Monday and Tuesday 4:00 to 5:00 PM at E2-2313 (You can also email for an appointment)    
 **Office Hours (TA):** M 9:00 to 11:00 AM at E (You can also email for an appointment)    
@@ -12,7 +12,6 @@
 Last updated: 2019-04-10
 
 ## Announcement  
-
 **2019-04-14:**       
 
 ## Table of Contents
@@ -29,6 +28,8 @@ Last updated: 2019-04-10
 
 ## Course Description
 
+
+
 ## Course Objectives
 By the end of this course, students should be able to  
  
@@ -42,20 +43,23 @@ By the end of this course, students should be able to
 You can express same operation in various ways.
 (1) Make things working!! (Very important), (2) Understand a model answer and what you haven't thought about, (3) Think about how to improve your code with this logic, (4)
 
+How to read MATLAB documents and find information from Google using correct keywords
+
 ### FAQs
 #### How to complete the course with over 90 
 * Attend all labs and review lecture slides and tutorials before coming to labs
+* Post and answer at least one question
+* Visit a TA office
 * Editor & Debugging rather than command windows
 * Avoiding mnenonic variable names
 * Pleas use editor and workspace.
 * Googling and Doc command for  
+* Do not 
 
 #### 
 (1) Monday and Tuesday:   
 (2) Thursday to Monday: 
 (3)   
-
-
 
 #### I am a civil engineer. Why do I learn programming?  
 - Do not use an MS excel, Wolfram|Alpha, and calculator
@@ -65,6 +69,8 @@ You can express same operation in various ways.
 #### How to complete the course with over 90  
 Ask questions through a course website and visit a TA office. 
 
+
+Minimum use of loop-structures 
 
 ## Prerequisite
 This course requires basic knowledge in **linear algebra** and **calculus** that you learned in the 1A term. If you are not familiar with or would revisit these topics, students must complete the following tutorials and questions inside:
@@ -76,17 +82,17 @@ This course is not based on any particular textbook. The instructor will provide
 ## Course Outline
 Slides and tutorials are will be updated soon.   
 
-|Class|Topics|Slides|Tutorial|
+|Class|Topics|Slides & Tutorial|Last update|
 |:----|:-----|:----|:-----|
 |Class 01|**Introduction (MATLAB and Course)**|&nbsp;|&nbsp;|
 |Class 02|**Basic MATLAB Programming**|&nbsp;|&nbsp;|
-|Class 03|**Vector & Matrices**|&nbsp;|&nbsp;|
-|Class 04|**Built-in Functions I**|&nbsp;|&nbsp;|
-|Class 05|**Built-in Functions II**|&nbsp;|&nbsp;|
-|Class 06|**Selection Statement**|&nbsp;|&nbsp;|
-|Class 07|**Loop Statement**|&nbsp;|&nbsp;|
-|Class 08|**Review Class**|&nbsp;|&nbsp;|
-|Class 09|**Vectorization**|&nbsp;|&nbsp;|
+|Class 03|**Vector & Matrices I**|&nbsp;|&nbsp;|
+|Class 04|**Vector & Matrices II**|&nbsp;|&nbsp;|
+|Class 05|**Built-in Functions I**|&nbsp;|&nbsp;|
+|Class 06|**Built-in Functions II**|&nbsp;|&nbsp;|
+|Class 07|**Review Class**|&nbsp;|&nbsp;|
+|Class 08|**Selection Statement**|&nbsp;|&nbsp;|
+|Class 09|**Loop Statement**|&nbsp;|&nbsp;|
 |Class 10|**Function**|&nbsp;|&nbsp;|
 |Class 11|**Text Manipulation**|&nbsp;|&nbsp;|
 |Class 12|**Review Class**|&nbsp;|&nbsp;|
@@ -100,33 +106,36 @@ Slides and tutorials are will be updated soon.
 |Class 20|**Numerical Technique II**|&nbsp;|&nbsp;|
 |Class 21|**Advanced Topic I: Advanced Function**|&nbsp;|&nbsp;|
 |Class 22|**Advanced Topic II: Pseudocode**|&nbsp;|&nbsp;|
-|Class 23|**Advanced Topic III:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;|
+|Class 23|**Advanced Topic III: Image**|&nbsp;|&nbsp;|
 |Class 24|**Review Class**|&nbsp;|&nbsp;|
 
 Advanced: bsxfun, function handle, pseudocode reading,RREF
 
-## Computer Labs 
+## Programming Labs 
 Due data: Every Monday before a class (Thursday)
 [**Submission instruction of your work**](#submission-instruction-of-your-work)
 
-|Lab|Topic|Date|
-|:----|:-----|:----|
-|Lab 01|:-----|May 9|   
-|Lab 02|:-----|May 16|
-|Lab 03|:-----|May 23|
-|Lab 04|:-----|May 30|
-|Lab 05|:-----|June 6|
-|Lab 06|:-----|June 13|
-|Lab 07|:-----|June 20|
-|Lab 08|:-----|July 4|
-|Lab 09|:-----|July 11|
-|Lab 10|:-----|July 18|
-|Lab 11|:-----|July 25|
+|Lab|Topic|Starting Date|Lab Date|Due Date|
+|:----|:-----|:-----|:----|:----|
+|Lab 01|**Getting Started with MATLAB**|May 5|May 9|**No submission**|
+|Lab 02|**Vectors & Matrices**|May 12|May 16|May 16 at 11:30 am|
+|Lab 03|**Built-in Functions**|May 19|May 23|May 23 at 11:30 am|
+|Lab 04|**TBD**|May 26|May 30|May 30 at 11:30 am|
+|Lab 05|**TBD**|June 2|June 6|June 6 at 11:30 am|
+|Lab 06|**TBD**|June 9|June 13|June 13 at 11:30 am|
+|Lab 07|**TBD**|June 16|June 20|June 20 at 11:30 am|
+|Lab 08|**TBD**|**Midterm**|**No lab**|**No submission**|
+|Lab 09|**TBD**|July 07|July 11|July 10 at 11:30 am|
+|Lab 10|**TBD**|July 14|July 18|July 18 at 11:30 am|
+|Lab 11|**TBD**|July 21|July 25|July 25 at 11:30 am|
 
 Lab1: How to use live editors, autograders, how to setup matlab editor
 Three number compare, simple engineering example, value assigned
+doc function (solve one problem)
 
-Lab1
+Lab2 : matrix creation
+
+Lab3 : table arrange using sortrows 
 
 function: Unit converter
 Loop: number counter
@@ -136,22 +145,22 @@ File I/O: Copy and past
 Selection: random logical generators
 Loop: Guess logical values when x||y, x&&y, and(x,y) are given. 
  
-
-
 ## Homework Assignments 
 
-|HW|Topic|Posting date|Due date|
-|:---|:-----|:----|:-----|
-|HW 1|:-----|May 13 at 04:00 pm|May 21 at 02:30 pm|
-|HW 2|:-----|May 20 at 04:00 pm|May 27 at 02:30 pm|
-|HW 3|:-----|May 27 at 04:00 pm|June 03 at 02:30 pm|
-|HW 4|:-----|June 03 at 04:00 pm|June 10 at 02:30 pm|
-|HW 5|:-----|June 10 at 04:00 pm|June 17 at 02:30 pm|
-|HW 6|:-----|June 17 at 04:00 pm|June 24 at 02:30 pm|
-|HW 7|:-----|June 24 at 04:00 pm|July 08 at 02:30 pm|
-|HW 8|:-----|July 01 at 04:00 pm|July 15 at 02:30 pm|
-|HW 9|:-----|July 08 at 04:00 pm|July 22 at 02:30 pm|
-|HW 10|:-----|July 15 at 04:00 pm|July 29 at 02:30 pm|
+Sunday noon to before Monday class
+
+|HW|Topic|Starting date|Due date|Solution|
+|:---|:-----|:----|:-----|:----|
+|HW 01|**Vectors & Matrices**|May 12 at 00:00 am|May 20 at 02:30 pm||
+|HW 02|**Built-in Functions**|May 19 at 00:00 am|May 27 at 02:30 pm||
+|HW 03|**TBD**|May 26 at 00:00 pm|June 03 at 02:30 pm||
+|HW 04|**TBD**|June 2 at 00:00 pm|June 10 at 02:30 pm||
+|HW 05|**TBD**|June 9 at 00:00 pm|June 17 at 02:30 pm||
+|HW 06|**TBD**|June 16 at 00:00 pm|June 24 at 02:30 pm||
+|HW 07|**TBD**|June 23 at 00:00 pm|July 08 at 02:30 pm||
+|HW 08|**TBD**|July 07 at 00:00 pm|July 15 at 02:30 pm||
+|HW 09|**TBD**|July 14 at 00:00 pm|July 22 at 02:30 pm||
+|HW 10|**TBD**|July 21 at 00:00 pm|July 29 at 02:30 pm||
 
 
 ## Communication  
@@ -166,8 +175,8 @@ The final grade will be based on the total marks earned from midterm exam, final
 
 Computer Lab (20%)
 Homework (20%)
-Midterm (30%)
-Final (30%) 
+Midterm (25%)
+Final (35%) 
 
 ## Note
 
