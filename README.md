@@ -27,9 +27,34 @@ Last updated: 2019-04-10
 - [Note](#note)
 
 ## Course Description
-This course offers an introduction to MATLAB Programming for engineering students. Student will do many programming tasks to learn a basic programming concepts and skills needed for basic problem solving. In general, students who successfully complete this course will become familiar with general concepts in computer science, gain an understanding of the general concepts of programming, and obtain a solid foundation in the use of MATLAB. This course incorporate two new learning tools, Live Editor and MATLAB autograder, 
+This course offers a practical introduction to MATLAB programming and applications for engineering students. The course is intended for students with little or no prior programming experience but who have 
 
-Helps you understand the role that MATLAB can play in reducing the overall complexity of math and in experlaining math-relatied information to others more easily. 
+The course covers programming fundamentals, matrix operations, file I/O, symbolic operations and   
+
+Students who successfully complete this course will become familiar with general concepts in computer science, gain an understanding of programming, and obtain a solid foundation in the use of MATLAB. A tutorial 
+
+
+
+
+
+
+This course incorporate two new learning tools in MATLAB, Live Editor and MATLAB autograder, enhance 
+
+
+
+programming-learning environment.
+
+
+
+MATLAB is being used in a wide variety of domains from the natural sciences, through all disciplines of engineering, to finance, and beyond, and it is heavily used in industry. 
+
+
+
+Student will do many programming tasks and it takes 4 hours or more a week. Since the students can readily find your implementation  
+
+
+
+ to learn a basic programming concepts and skills needed for basic problem solving. This course is designed for those who have little to no previous programming experience.   
 
 Throughout the course, there are tutorials, programming labs, and homework assignments. 
 * Lectures will cover the major topics, emphasizing and discussing the important points, and programming examples in tutorials. 
@@ -37,14 +62,14 @@ Throughout the course, there are tutorials, programming labs, and homework assig
 * Programming labs
 * Homework assignments are 
 
+At the end of the course, students should be able to use MATLAB in their own work, and be prepared to deepen their MATLAB programming skills and tackle other languages for computing, such as Java, C++, or Python.
+
+Helps you understand the role that MATLAB can play in reducing the overall complexity of math and in experlaining math-relatied information to others more easily. 
 
 
+Variables, arrays, conditional statements, loops, functions, and plots are covered in a project-based style where much of the learning happens away from the classroom. Students are expected to spend about 4 hours per week on homework. 
 
-Variables, arrays, conditional statements, loops, functions, and plots are covered in a project-based style where much of the learning happens away from the classroom. Students are expected to spend about 4 hours per week on homework. At the end of the course, students should be able to use MATLAB in their own work, and be prepared to deepen their MATLAB programming skills and tackle other languages for computing, such as Java, C++, or Python.
-
-
-
-This course teaches computer programming to those with little to no previous experience. It uses the programming system and language called MATLAB to do so because it is easy to learn, versatile and very useful for engineers and other professionals. MATLAB is a special-purpose language that is an excellent choice for writing moderate-size programs that solve problems involving the manipulation of numbers. The design of the language makes it possible to write a powerful program in a few lines. The problems may be relatively complex, while the MATLAB programs that solve them are relatively simple: relative, that is, to the equivalent program written in a general-purpose language, such as C++ or Java. As a result, MATLAB is being used in a wide variety of domains from the natural sciences, through all disciplines of engineering, to finance, and beyond, and it is heavily used in industry. Hence, a solid background in MATLAB is an indispensable skill in today’s job market.
+This course teaches computer programming to those with little to no previous experience. It uses the programming system and language called MATLAB to do so because it is easy to learn, versatile and very useful for engineers and other professionals. MATLAB is a special-purpose language that is an excellent choice for writing moderate-size programs that solve problems involving the manipulation of numbers. The design of the language makes it possible to write a powerful program in a few lines. The problems may be relatively complex, while the MATLAB programs that solve them are relatively simple: relative, that is, to the equivalent program written in a general-purpose language, such as C++ or Java. As a result, Hence, a solid background in MATLAB is an indispensable skill in today’s job market.
 
 Nevertheless, this course is not a MATLAB tutorial. It is an introductory programming course that uses MATLAB to illustrate general concepts in computer science and programming. Students who successfully complete this course will become familiar with general concepts in computer science, gain an understanding of the general concepts of programming, and obtain a solid foundation in the use of MATLAB.
 
@@ -54,34 +79,34 @@ Students taking the course will get a MATLAB Online license free of charge for t
 ## Course Objectives
 By the end of this course, students should be able to  
 * Define your problems with programmable logic in MATLAB 
-* Compose efficient and readable code in various ways
+* Compose working, efficient, and readable code in various ways
 * Debug your code to identify and fix programming errors
 * Identify suitable keywords for searching for solutions on the web
-* Solve mathematical and engineering problems using MATLAB program
+* Solve mathematical and engineering problems through MATLAB programming
 
 ### Tip 1: How to improve your programming skills 
-Step 1. Make your program working without error message and drawing right answers
-Step 2. Understand a model answer provided (e.g. program logic, built-in functions, program styles)
-Step 3. Consider how to improve your program
-Step 4. Re-write your program from the scratch without copying your and model solutions
+Step 1. Make your program working without error by all means
+Step 2. Understand a model answer (e.g. program logic, useful built-in functions, programming styles)
+Step 3. Consider how to modify/improve your own programs
+Step 4. Re-write your program from the scratch without copying solutions
 
 ### Tip 2: How to complete the course with over 90 
-* Type every single code in tutorials and solutions   
-* Review lecture slides and tutorials before attending programming labs  
-* Post and answer **at least one question** on a course website
-* Write built-in functions as plain codes
-* Employ MATLAB editor, workspace, and debugging tools rather than command windows
+* Review lecture slides and tutorials before attending programming labs
+* Submit all lab and homework assignments
+* Do not read the code in tutorials and solutions with your eye only. Type all codes in the editor and run them by yourself. 
+* Post and answer **at least one question** on a course website every week
+* Replicate operations of the built-in functions with your own code
+* Employ MATLAB editor, workspace browser, and debugging tool actively
 * Solve problems without loop and selection statements
-* Replicate functions in MS excel, Wolfram|Alpha, and calculator to complete your tasks
+* Use MATLAB instead of MS excel, Wolfram|Alpha, and a calculator to complete your tasks
 
 ## Prerequisite
-"Linear algebra" (AE 115) and "Calulus 1 for Engineering" (MATH 116) are a prerequisite for this course that you learned in the 1A term. If you are not familiar with these topics, please revisit these topics.
+"Linear algebra" (AE 115) and "Calulus 1 for Engineering" (MATH 116) are prerequisites for this course, which you learned in the 1A term. If you are not familiar with these topics, please review their course notes. 
 
 ## Course Textbook 
-This course is not based on any particular textbook. However, lecture slides have been prepared using the following two books:
+This course is not based on any particular textbook. However, lecture slides have been prepared using the following references:
 * Attaway, Stormy. *"MATLAB-A Practical Introduction to Programming and Problem Solving Third Edition,"* Elsevie, 2018.
 * Moore, Holly. *"MATLAB for Engineers,"* Pearson, 2017.
-
 
 ## Course Outline
 |Class|Topics|Slide & Tutorial|Last update|
@@ -110,12 +135,9 @@ This course is not based on any particular textbook. However, lecture slides hav
 |Class 22|**Advanced Topic II: Pseudocode**|&nbsp;|&nbsp;|
 |Class 23|**Advanced Topic III: Graphics**|&nbsp;|&nbsp;|
 |Class 24|**Review Class**|&nbsp;|&nbsp;|
-Advanced: bsxfun, function handle, pseudocode reading,RREF
 
 ## Programming Labs 
-There will be ten programming labs and nine lab assignments. The assignments are designed to review lectures as well as build programming capabailyt. Students are asupposed to complete all tasks and turn their works by the end of the lab. Attendance in the labs is not mandatory, but students who do not attend/are absent from the labs for any reason must submit the lab assignment **before the lab starts (9:30 am)**. No late submission is accepted for those who do not attend the labs (TA will check your submission time). 
-
-Your partners will be changed in every single labs. 
+There will be ten programming labs and nine lab assignments. The assignments are designed to help understanding of course materials as well as build programming capability. Students are supposed to complete all tasks and turn their works **by the end of the lab (11:30 am)**. The instructor and two TAs will help complete the task within each lab session. Attendance in the labs is not mandatory, but students who do not attend/are absent from the labs for any reason must submit the lab assignment **before the lab starts (9:30 am)**. No late submission is accepted for those who do not attend the labs (TA will check your submission time). In each lab, the TA will assign your new partner to solve the problem together.   
 
 |Lab|Topic|Starting Date|Lab Date|Due Date|
 |:----|:-----|:-----|:----|:----|
@@ -130,39 +152,10 @@ Your partners will be changed in every single labs.
 |Lab 09|**TBD**|July 13|July 18|July 18 at 11:30 am|
 |Lab 10|**TBD**|July 20|July 25|July 25 at 11:30 am|
 
-Lab1: How to use live editors, autograders, how to setup matlab editor
-Three number compare, simple engineering example, value assigned
-doc function (solve one problem)
-Lab2 : matrix creation
-Lab3 : table arrange using sortrows 
 
-function: Unit converter
-Loop: number counter
-plot: create exact same graph
-logical indexing: matrix (max and min in matrix)
-File I/O: Copy and past
-Selection: random logical generators
-Loop: Guess logical values when x||y, x&&y, and(x,y) are given. 
- 
 ## Homework Assignments 
-
-Students should be encouraged to work in groups through collaborative learning. However, students do not share their solutions to other students. 
-
-
-, but to submit their homework individually. It can be very helpful for students to see where others struggled, and what solutions other students found to the same problems. Students understand that there are many working solutions but only a few efficient solutions.
-
-
-Do not share your
-
-Sunday noon to before Monday class
-After due data and time, homework assignment in online will be closed and you are not able to submit your works. 
-
-Different from, you know your code is properly working with your autograder tools. 
-
-Hard-coding and copying are easily detected by parallgien tools. 
-It will be very strict 
-
-
+Students should be encouraged to work in groups through collaborative learning, but to submit their assignments individually. Students must not share their solutions to other students. The TA will run a software to check the similarity of your code for detecting plagiarism. Please do not think you may be able to deceive graders. Although you pass all problems in a MATLAB grader, you fail the assignments. Each homework will be opened for solving on Saturday night and must be submitted before a Monday class on the following week. After due data and time, homework assignment in online will be closed and you are not able to submit your works. 
+No late submission is accepted and any missed homowork will be given a 0 grade. Thus, students must inform the TA in advance with an email or at the office hour if you have a valid excuse. 
 
 |HW|Topic|Starting date|Due date|Solution|
 |:---|:-----|:----|:-----|:----|
@@ -186,11 +179,7 @@ In this course, both the instructor and the students are encouraged to engage in
 [**Discussion forum instruction**](#discussion-forum-instruction)
 
 ## Grading  
-The final grade will be based on the total marks earned from two exams (midterm and final), nine programming lab assignments, and ten homework assignments. 
-is not required but there is no extension on all lab and homework assignments. 
-
-
-midterm exam, final exam, labs, and homeworks during the semester. Contributions
+The final grade will be based on the total marks earned from two exams (midterm and final), nine programming lab assignments, and ten homework assignments. Percentages of each grade component are provided as:
 
 Computer Lab (20%)
 Homework (20%)
