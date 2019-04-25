@@ -1,10 +1,10 @@
 # Lab01: Getting Started With MATLAB
 
-**Instructor:** Chul Min Yeum    
-**TAs:** Jason Connelly and Juan Park
-**Date:** May 9, 2019
+**Instructor:** Chul Min Yeum     
+**TAs:** Jason Connelly and Juan Park  
+**Date:** May 9, 2019   
 
-Last updated: 2019-04-28
+**Last updated**: 2019-04-28
 
 ## Table of Contents
 - [Github Account](#github-account)
@@ -24,16 +24,19 @@ Last updated: 2019-04-28
 
 ![](img/github.png)
 
-To post questions or comments, students should make their own Github account. Please sign up this website. Students **do not have to** make their accounts using **school emails** if they already have accounts or they want anonymity.
+>To post questions or comments, students should make their own Github account. Please sign up this website. Students **do not have to** make their accounts using **school emails** if they already have accounts or they want anonymity.
 
-## MATLAB Autograder registration  
+## MATLAB Grader Registration  
+
+You will receive the following email:
+
+![](img/matlab_grader_invitation.png)
 
 ### Solve a problem
-
+![]()
  
 ## MATLAB Window Arrangement
-
-The instructor recommends MATLAB window arrangements to set up the best programming environment.
+MATLAB window arrangements are recommended to set up your best programming environment.
 
 ### When you are using both the editor and command windows (best for writing short scripts)
 ![](img/window_command_window.png)
@@ -64,15 +67,10 @@ Please write and run a simple program using the live editor.
 ![](img/sample_problem_live_editor.png)
 
 ### Editor Shortcut
-
+**script**
 
 ### Live Editor Shortcut
 Please repeat the above processes using the keyboard shortcuts
-
-**Run**
-`Ctrl + Enter`: run section
-`F5`: run 
-`F10` (`Ctrl + c` in command window): stop
 
 **Text**
 `Alt + Enter`: insert code
@@ -80,6 +78,11 @@ Please repeat the above processes using the keyboard shortcuts
 `Ctrl + Scroll`: change text size (:+1: not possible in an editor)
 `Ctrl + B`, `Ctrl + I`, `Ctrl + U`: Bold, italic, and underline
 `Ctrl + Shift + 1,2,3`: heading level
+
+**Run**
+`Ctrl + Enter`: run section
+`F5`: run 
+`F10` (`Ctrl + c` in command window): stop
 
 ## Preferences 
 ### Change font size
