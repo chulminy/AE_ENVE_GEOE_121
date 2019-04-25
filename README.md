@@ -1,13 +1,12 @@
 # AE121: Computational Method (Spring, 2019)
 
-|<img src="civil_engineer.png" width="250">| **Instructor:** Chul Min Yeum (E2-2313), cmyeum@uwaterloo.ca <br> **Class:** Monday and Tuesday, 2:30 to 4:00 PM at CPH 1319 <br> **Programming Lab:** Thursday, 9:30 to 11:30 AM at CPH 1346 <br> **TA:** Jason Connelly (E2-2313), jpconnelly@edu.uwaterloo.ca <br> **Office Hours (Instructor):** Monday and Tuesday, 4:00 to 5:00 PM at E2-2313 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<br> **Office Hours (TA):** Monday to Friday 2:00 to 5:00 PM at E |
+|<img src="civil_engineer.png" width="250">| **Instructor:** Chul Min Yeum (E2-2313), cmyeum@uwaterloo.ca <br> **Class:** Monday and Tuesday, 2:30 to 4:00 PM at CPH 1319 <br> **Programming Lab:** Thursday, 9:30 to 11:30 AM at CPH 1346 <br> **TA:** Jason Connelly (E2-2313), jpconnelly@edu.uwaterloo.ca, Juan Park <br> **Office Hours (Instructor):** Monday and Tuesday, 4:00 to 5:00 PM at E2-2313 &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<br> **Office Hours (TA):** Monday to Friday 2:00 to 5:00 PM at E |
 |:--------|:----------- |
 
 **Last updated:** 2019-04-25
 
 ## Announcement  
 **2019-04-14:** The course website is published.       
-
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -29,7 +28,7 @@ This course incorporates two new learning tools in MATLAB to enhance programming
 Throughout the course, there are tutorials, programming labs, and homework assignments. 
 * [**Lectures**](#course-outline) will cover the major topics, emphasizing and discussing the important points, and programming examples in tutorials. 
 * [**Tutorials**](#course-outline) are intended to review the lectures and prepare for programming lab and homework assignments.
-* [#programming-labs](#programming-labs) provide an opportunity to practice writing programs and debugging with TA’s and instructor’s assistance.
+* [**programming-labs**](#programming-labs) provide an opportunity to practice writing programs and debugging with TA’s and instructor’s assistance.
 * [**Homework assignments**](#homework-assignments) are to provide additional practice for programming and evaluate your knowledge and programming skills
 
 ## Course Objectives
@@ -67,7 +66,7 @@ This course is not based on any particular textbook. However, lecture slides hav
 ## Course Outline
 |Class|Topics|Slide & Tutorial|
 |:----|:-----|:----|
-|Class 01|**Introduction (MATLAB and Course)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;**&nbsp;**&nbsp;**&nbsp;**&nbsp;**&nbsp;**&nbsp;**&nbsp;**&nbsp;**&nbsp;**&nbsp;**&nbsp;|&nbsp;|
+|Class 01|**Introduction (MATLAB and Course)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|
 |Class 02|**Basic MATLAB Programming**|&nbsp;|
 |Class 03|**Vector & Matrices I**|&nbsp;|
 |Class 04|**Vector & Matrices II**|&nbsp;|
@@ -101,30 +100,29 @@ The TA will check their submission status for absent students at 10:30 am in eac
 |Lab 01|[**Getting Started with MATLAB**](lab01)|May 9|May 9|**No submission**|
 |Lab 02|**Vectors & Matrices**|May 11|May 16|May 16 at 11:30 am|
 |Lab 03|**Built-in Functions**|May 18|May 23|May 23 at 11:30 am|
-|Lab 04|**TBD**|May 25|May 30|May 30 at 11:30 am|
-|Lab 05|**TBD**|June 1|June 6|June 6 at 11:30 am|
-|Lab 06|**TBD**|June 8|June 13|June 13 at 11:30 am|
-|Lab 07|**TBD**|June 15|June 20|June 20 at 11:30 am|
-|Lab 08|**TBD**|July 06|July 11|July 10 at 11:30 am|
-|Lab 09|**TBD**|July 13|July 18|July 18 at 11:30 am|
-|Lab 10|**TBD**|July 20|July 25|July 25 at 11:30 am|
+|Lab 04|*TBD*|May 25|May 30|May 30 at 11:30 am|
+|Lab 05|*TBD*|June 1|June 6|June 6 at 11:30 am|
+|Lab 06|*TBD*|June 8|June 13|June 13 at 11:30 am|
+|Lab 07|*TBD*|June 15|June 20|June 20 at 11:30 am|
+|Lab 08|*TBD*|July 06|July 11|July 10 at 11:30 am|
+|Lab 09|*TBD*|July 13|July 18|July 18 at 11:30 am|
+|Lab 10|*TBD*|July 20|July 25|July 25 at 11:30 am|
 
 ## Homework Assignments 
-Students will solve all problems in MATLAB Grader. Students should be encouraged to work in groups through collaborative learning, but to submit their assignments individually. Students **must not share their solutions with other students**. The TA will run software to check the similarity of your scripts for detecting plagiarism. Please do not think you may be able to deceive graders. Although you pass all the problems in a MATLAB grader, you will get a 0 grade if you copy their solutions. Each homework will be opened for solving on Saturday night and must be submitted before a Monday class on the following week. After due data and time, homework assignment online will be closed, and you are not able to submit your works. No late submission is accepted, and any missed homework will be given a 0 grade. Thus, students must inform the TA in advance with an email or at the office hour if you have a valid excuse. 
+Students should be encouraged to work in groups through collaborative learning, but to submit their assignments individually. Students **must not share their solutions with other students**. The TA will run software to check the similarity of your scripts for detecting plagiarism. Please do not think you may be able to deceive graders. Although you pass all the problems in a MATLAB grader, you will get a 0 grade if your solution is considered plagiarism. Each homework will be opened for solving on Saturday night and must be submitted before a Monday class on the following week. After due data and time, homework assignment online will be closed, and you are not able to submit your works. No late submission is accepted, and any missed homework will be given a 0 grade. Thus, students must inform the TA in advance with an email or at the office hour if you have a valid excuse. 
 
 |HW|Topic|Starting date|Due date|Solution|
 |:---|:-----|:----|:-----|:----|
 |HW 01|**Vectors & Matrices**|May 12 at 00:00 am|May 20 at 02:30 pm||
 |HW 02|**Built-in Functions**|May 19 at 00:00 am|May 27 at 02:30 pm||
-|HW 03|**TBD**|May 26 at 00:00 pm|June 03 at 02:30 pm||
-|HW 04|**TBD**|June 2 at 00:00 pm|June 10 at 02:30 pm||
-|HW 05|**TBD**|June 9 at 00:00 pm|June 17 at 02:30 pm||
-|HW 06|**TBD**|June 16 at 00:00 pm|June 24 at 02:30 pm||
-|HW 07|**TBD**|June 23 at 00:00 pm|July 08 at 02:30 pm||
-|HW 08|**TBD**|July 07 at 00:00 pm|July 15 at 02:30 pm||
-|HW 09|**TBD**|July 14 at 00:00 pm|July 22 at 02:30 pm||
-|HW 10|**TBD**|July 21 at 00:00 pm|July 29 at 02:30 pm||
-
+|HW 03|*TBD*|May 26 at 00:00 pm|June 03 at 02:30 pm||
+|HW 04|*TBD*|June 2 at 00:00 pm|June 10 at 02:30 pm||
+|HW 05|*TBD*|June 9 at 00:00 pm|June 17 at 02:30 pm||
+|HW 06|*TBD*|June 16 at 00:00 pm|June 24 at 02:30 pm||
+|HW 07|*TBD*|June 23 at 00:00 pm|July 08 at 02:30 pm||
+|HW 08|*TBD*|July 07 at 00:00 pm|July 15 at 02:30 pm||
+|HW 09|*TBD*|July 14 at 00:00 pm|July 22 at 02:30 pm||
+|HW 10|*TBD*|July 21 at 00:00 pm|July 29 at 02:30 pm||
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/AE121)**, especially for this web page. The instructor will frequently make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes (The link will be provided on every announcement to track the changes). Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. We will post an important announcement through LEARN, but LEAN will be only used for such announcement notification. Lecture slides, homework assignments, tutorials, and solutions are only accessible through this course website. 
