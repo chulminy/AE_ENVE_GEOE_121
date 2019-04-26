@@ -68,7 +68,8 @@ Please write and run a simple program using the live editor.
 ### Editor Shortcut
 Please repeat the above processes using the keyboard shortcuts
 
-**script**
+**script**  
+
 `F5`: run  
 `Ctrl + Enter`: run section  
 `Ctrl + R`: comment   
@@ -80,14 +81,16 @@ Please repeat the above processes using the keyboard shortcuts
 ### Live Editor Shortcut
 Please repeat the above processes using the keyboard shortcuts
 
-**Text**
+**Text**  
+
 `Alt + Enter`: insert code
 `Ctrl + Alt + Enter`: section break (important)
 `Ctrl + Scroll`: change text size (:+1: not possible in an editor)
 `Ctrl + B`, `Ctrl + I`, `Ctrl + U`: Bold, italic, and underline
 `Ctrl + Shift + 1,2,3`: heading level
 
-**Run**
+**Run**  
+
 `Ctrl + Enter`: run section
 `F5`: run 
 `F10` (`Ctrl + c` in command window): stop

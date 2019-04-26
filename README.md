@@ -115,14 +115,14 @@ Students should be encouraged to work in groups through collaborative learning, 
 |:---|:-----|:----|:-----|:----|
 |HW 01|**Vectors & Matrices**|May 12 at 00:00 am|May 20 at 02:30 pm||
 |HW 02|**Built-in Functions**|May 19 at 00:00 am|May 27 at 02:30 pm||
-|HW 03|*TBD*|May 26 at 00:00 pm|June 03 at 02:30 pm||
-|HW 04|*TBD*|June 2 at 00:00 pm|June 10 at 02:30 pm||
-|HW 05|*TBD*|June 9 at 00:00 pm|June 17 at 02:30 pm||
-|HW 06|*TBD*|June 16 at 00:00 pm|June 24 at 02:30 pm||
-|HW 07|*TBD*|June 23 at 00:00 pm|July 08 at 02:30 pm||
-|HW 08|*TBD*|July 07 at 00:00 pm|July 15 at 02:30 pm||
-|HW 09|*TBD*|July 14 at 00:00 pm|July 22 at 02:30 pm||
-|HW 10|*TBD*|July 21 at 00:00 pm|July 29 at 02:30 pm||
+|HW 03|*TBD*|May 26 at 00:00 am|June 03 at 02:30 pm||
+|HW 04|*TBD*|June 2 at 00:00 am|June 10 at 02:30 pm||
+|HW 05|*TBD*|June 9 at 00:00 am|June 17 at 02:30 pm||
+|HW 06|*TBD*|June 16 at 00:00 am|June 24 at 02:30 pm||
+|HW 07|*TBD*|June 23 at 00:00 am|July 08 at 02:30 pm||
+|HW 08|*TBD*|July 07 at 00:00 am|July 15 at 02:30 pm||
+|HW 09|*TBD*|July 14 at 00:00 am|July 22 at 02:30 pm||
+|HW 10|*TBD*|July 21 at 00:00 am|July 29 at 02:30 pm||
 
 ## Communication  
 **All communication will be made through [this course website](https://github.com/chulminy/AE121)**, especially for this web page. The instructor will frequently make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes (The link will be provided on every announcement to track the changes). Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. We will post an important announcement through LEARN, but LEARN will be only used for such announcement notification. Lecture slides, homework assignments, tutorials, and solutions are only accessible through this course website. 
