@@ -3,21 +3,14 @@
 **Instructor:** Chul Min Yeum     
 **TAs:** Jason Connelly and Juan Park  
 **Date:** May 9, 2019   
-
 **Last updated**: 2019-04-28
 
 ## Table of Contents
 - [Github Account](#github-account)
+- [MATLAB Grader Registration](#matlab-grader-registration)
 - [MATLAB Window Arrangement](#matlab-window-arrangement)
-- [Prerequisite](#prerequisite)
-- [Course Textbook](#course-textbook)
-- [Course Outline](#course-outline)
-- [Communication](#communication)
-- [Grading](#grading)
-- [Computer Labs](#tasks)
-- [Assignments](#assignments)
-- [Note](#note)
-
+- [Editor and Live Editor](#editor-and-live-editor)
+- [Preferences](#preferences)
 
 ## Github Accounts
 [**https://github.com**](https://github.com/)
@@ -33,7 +26,13 @@ You will receive the following email:
 ![](img/matlab_grader_invitation.png)
 
 ### Solve a problem
-![]()
+Click AE 121: Computational Method
+
+![](img/matlab_grader_main.png)
+
+Please solve the problem.
+
+![](img/lab01_problem1.png)
  
 ## MATLAB Window Arrangement
 MATLAB window arrangements are recommended to set up your best programming environment.
@@ -55,7 +54,7 @@ MATLAB window arrangements are recommended to set up your best programming envir
 ### When you are using a small screen, you can minimize the Toolstrip. 
 ![](img/toolstrip.png)
 
-## Editor & Live Editor
+## Editor and Live Editor
 ### Simple program (editor)
 Please write and run a simple program using the editor.
 ![](img/sample_problem_editor.png)
@@ -67,8 +66,17 @@ Please write and run a simple program using the live editor.
 ![](img/sample_problem_live_editor.png)
 
 ### Editor Shortcut
-**script**
+Please repeat the above processes using the keyboard shortcuts
 
+**script**
+`F5`: run  
+`Ctrl + Enter`: run section  
+`Ctrl + R`: comment   
+`Ctrl + T`: uncomment   
+`Ctrl + I`: smart indent   
+`Ctrl + J`: wrap comment 
+`Ctrl + c`: stop    
+ 
 ### Live Editor Shortcut
 Please repeat the above processes using the keyboard shortcuts
 
