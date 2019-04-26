@@ -67,14 +67,14 @@ This course is not based on any particular textbook. However, lecture slides hav
 |Class|Topics|Slide & Tutorial|
 |:----|:-----|:----:|
 |Class 01|**Introduction (MATLAB and Course)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|
-|Class 02|**Basic MATLAB Programming**|[**Link**](basic_matlab_programming)|
-|Class 03|**Vector & Matrices I**|[**Link**](vector_matrices)|
-|Class 04|**Vector & Matrices II**|[**Link**](vector_matrices)|
-|Class 05|**Built-in Functions I**|[**Link**](built_in_function)|
-|Class 06|**Built-in Functions II**|[**Link**](built_in_function)|
+|Class 02|**Basic MATLAB Programming**|[**Link**](lecture/basic_matlab_programming)|
+|Class 03|**Vector & Matrices I**|[**Link**](lecture/vector_matrices)|
+|Class 04|**Vector & Matrices II**|[**Link**](lecture/vector_matrices)|
+|Class 05|**Built-in Functions I**|[**Link**](lecture/built_in_function)|
+|Class 06|**Built-in Functions II**|[**Link**](lecture/built_in_function)|
 |Class 07|**Review Class**|&nbsp;|
-|Class 08|**Selection Statement**|[**Link**](selection_statement)|
-|Class 09|**Loop Statement**|[**Link**](loop_statement)|
+|Class 08|**Selection Statement**|[**Link**](lecture/selection_statement)|
+|Class 09|**Loop Statement**|[**Link**](lecture/loop_statement)|
 |Class 10|**Function**|&nbsp;|
 |Class 11|**Text Manipulation**|&nbsp;|
 |Class 12|**Review Class**|&nbsp;|
