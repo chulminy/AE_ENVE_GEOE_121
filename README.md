@@ -65,16 +65,16 @@ This course is not based on any particular textbook. However, lecture slides hav
 
 ## Course Outline
 |Class|Topics|Slide & Tutorial|
-|:----|:-----|:----|
-|Class 01|**Introduction (MATLAB and Course)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|
-|Class 02|**Basic MATLAB Programming**|&nbsp;|
-|Class 03|**Vector & Matrices I**|&nbsp;|
-|Class 04|**Vector & Matrices II**|&nbsp;|
-|Class 05|**Built-in Functions I**|&nbsp;|
-|Class 06|**Built-in Functions II**|&nbsp;|
+|:----|:-----|:----:|
+|Class 01|**Introduction (MATLAB and Course)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|
+|Class 02|**Basic MATLAB Programming**|[**Link**](basic_matlab_programming)|
+|Class 03|**Vector & Matrices I**|[**Link**](vector_matrices)|
+|Class 04|**Vector & Matrices II**|[**Link**](vector_matrices)|
+|Class 05|**Built-in Functions I**|[**Link**](built_in_function)|
+|Class 06|**Built-in Functions II**|[**Link**](built_in_function)|
 |Class 07|**Review Class**|&nbsp;|
-|Class 08|**Selection Statement**|&nbsp;|
-|Class 09|**Loop Statement**|&nbsp;|
+|Class 08|**Selection Statement**|[**Link**](selection_statement)|
+|Class 09|**Loop Statement**|[**Link**](loop_statement)|
 |Class 10|**Function**|&nbsp;|
 |Class 11|**Text Manipulation**|&nbsp;|
 |Class 12|**Review Class**|&nbsp;|
