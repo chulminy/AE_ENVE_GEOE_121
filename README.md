@@ -7,7 +7,7 @@
 
 ## Announcement  
 **2019-04-25:** The course website is published.  
-**2019-04-29:** The course materials are updated [**[Link]**]().       
+**2019-04-29:** The course materials are updated [**[Link]**](https://github.com/chulminy/AE121/compare/1c7792afa6007e5851ee085733aa25d4d3182c9a...master).       
 
 ## Table of Contents
 - [Course Description](#course-description)
