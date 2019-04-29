@@ -6,7 +6,7 @@
 **Last updated:** 2019-04-29
 
 ## Announcement  
-**2019-04-25:** The course website is published.
+**2019-04-25:** The course website is published.  
 **2019-04-29:** The course materials are updated [**[Link]**]().       
 
 ## Table of Contents
@@ -69,13 +69,13 @@ This course is not based on any particular textbook. However, lecture slides hav
 |:----|:-----|:----:|
 |Class 01|**Introduction (MATLAB and Course)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|
 |Class 02|**Basic MATLAB Programming**|[**Link**](lecture/basic_matlab_programming)|
-|Class 03|**Vector & Matrices I**|[**Link**](lecture/vector_matrices)|
-|Class 04|**Vector & Matrices II**|[**Link**](lecture/vector_matrices)|
-|Class 05|**Built-in Functions I**|[**Link**](lecture/built_in_function)|
-|Class 06|**Built-in Functions II**|[**Link**](lecture/built_in_function)|
+|Class 03|**Vector & Matrices I**||<!---[**Link**](lecture/vector_matrices)|-->
+|Class 04|**Vector & Matrices II**||
+|Class 05|**Built-in Functions I**||<!---[**Link**](lecture/built_in_function)|-->
+|Class 06|**Built-in Functions II**||
 |Class 07|**Review Class**|&nbsp;|
-|Class 08|**Selection Statement**|[**Link**](lecture/selection_statement)|
-|Class 09|**Loop Statement**|[**Link**](lecture/loop_statement)|
+|Class 08|**Selection Statement**||<!---[**Link**](lecture/selection_statement)|-->
+|Class 09|**Loop Statement**||<!---[**Link**](lecture/loop_statement)|-->
 |Class 10|**Function**|&nbsp;|
 |Class 11|**Text Manipulation**|&nbsp;|
 |Class 12|**Review Class**|&nbsp;|
@@ -98,7 +98,7 @@ The TA will check their submission status for absent students at **10:30 am** in
 
 |Lab|Topic|Starting Date|Lab Date|Due Date|Solution|
 |:----|:-----|:-----|:----|:----|:----| 
-|Lab 01|[**Getting Started with MATLAB**](lab01)|May 6|May 9|**No submission**||
+|Lab 01|[**Getting Started with MATLAB**](lab/lab01)|May 6|May 9|**No submission**||
 |Lab 02|**Vectors & Matrices**|May 11|May 16|May 16 at 11:30 am||
 |Lab 03|**Built-in Functions**|May 18|May 23|May 23 at 11:30 am||
 |Lab 04|**Selection and Loop Statement**|May 25|May 30|May 30 at 11:30 am||
