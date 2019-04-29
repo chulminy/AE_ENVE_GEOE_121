@@ -1,6 +1,6 @@
 # AE121: Computational Method (Spring, 2019)
 
-|<img src="civil_engineer.png" width="250">| **Instructor:** Chul Min Yeum (E2-2313), cmyeum@uwaterloo.ca <br> **Class:** Monday and Tuesday, 2:30 to 4:00 PM at CPH 1319 <br> **Programming Lab:** Thursday, 9:30 to 11:30 AM at CPH 1346 <br> **TA:** Jason Connelly (E2-2313), jpconnelly@edu.uwaterloo.ca, Juan Park <br> **Office Hours (Instructor):** Monday and Tuesday, 4:00 to 5:00 PM at E2-2313 <br> **Office Hours (TA):** Monday to Friday 2:00 to 5:00 PM at E2-2313|
+|<img src="civil_engineer.png" width="250">| **Instructor:** Chul Min Yeum (E2-2313), cmyeum@uwaterloo.ca <br> **Class:** Monday and Tuesday, 2:30 to 4:00 PM at CPH 1319 <br> **Programming Lab:** Thursday, 9:30 to 11:30 AM at CPH 1346 <br> **TA:** Jason Connelly (E2-2313), jpconnelly@edu.uwaterloo.ca, Juan Park j246park@edu.uwaterloo.ca<br> **Office Hours (Instructor):** Monday and Tuesday, 4:00 to 5:00 PM at E2-2313 <br> **Office Hours (TA):** Monday to Friday 2:00 to 5:00 PM at E2-2313|
 |:--------|:----------- |
 
 **Last updated:** 2019-04-25
