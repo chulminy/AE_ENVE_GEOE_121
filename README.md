@@ -21,14 +21,14 @@
 - [Note](#note)
 
 ## Course Description
-This course offers a practical introduction to computer programming for engineering students using MATLAB. MATLAB is an easy and understandable programming language and is an excellent choice for those who want to learn programming for the first time. This course will cover various topics including programming fundamentals, matrix operations, file I/O, numerical methods, and data visualization. Students who successfully complete this course will gain a fundamental knowledge and skills of computer programming techniques that enable them to operate, analyze, and visualize all types of data.  
+This course offers a practical introduction to computer programming for engineering students using MATLAB. MATLAB is an easy and readable programming language and is an excellent choice for those learning programming for the first time. This course will cover various topics including programming fundamentals, matrix operations, file I/O, numerical methods, and data visualization. Students who successfully complete this course will gain a fundamental understanding of computer programming techniques and apply to operate, analyze, and visualize all types of data.  
 
-This course incorporates two new learning tools in MATLAB to enhance programming-learning environment: [**Live Editor**](https://www.mathworks.com/products/matlab/live-editor.html) and [**MATLAB Grader**](https://www.mathworks.com/products/matlab-grader.html). The *Live Editor* is a scripting platform to create, edit and run MATLAB scripts as well as add formatted text, images, and equations so that students can learn programing in more informative and interactive ways. A tutorial for each topic is provided in the Live Editor format. Next, programming lab and homework assignments will be designed using the MATLAB Grader. This tool allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with conducting the assignments. You are expected to spend 8 hours a week studying class materials as well as working on the programming lab and homework assignments. 
+This course incorporates two new learning tools in MATLAB to enhance programming-learning environment: [**Live Editor**](https://www.mathworks.com/products/matlab/live-editor.html) and [**MATLAB Grader**](https://www.mathworks.com/products/matlab-grader.html). The *Live Editor* is a scripting platform to create, edit and run MATLAB scripts as well as add formatted text, images, and equations so that students can learn programing in more informative and interactive ways. A tutorial for each topic is provided in the Live Editor format. Next, programming lab and homework assignments will be designed using the MATLAB Grader. This tool allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments. You are expected to spend 8 hours a week studying class materials as well as working on the programming lab and homework assignments. 
 
-Throughout the course, there are tutorials, programming labs, and homework assignments. 
+Throughout the course, there are tutorials, programming labs, and homework assignments: 
 * [**Lectures**](#course-outline) will cover the major topics, emphasizing and discussing the important points, and programming examples in tutorials. 
 * [**Tutorials**](#course-outline) are intended to review the lectures and prepare for programming lab and homework assignments.
-* [**programming-labs**](#programming-labs) provide an opportunity to practice writing and debugging programs with TA’s and instructor’s assistance.  
+* [**Programming-labs**](#programming-labs) provide an opportunity to practice writing and debugging programs with TA’s and instructor’s assistance.  
 * [**Homework assignments**](#homework-assignments) are to provide additional practice for programming and evaluate your knowledge and programming skills
 
 ## Course Objectives
@@ -37,22 +37,22 @@ By the end of this course, students should be able to
 * Compose working, efficient, and readable code in various ways
 * Debug your code to identify and fix programming errors
 * Identify suitable keywords to search for code snippets on the web
-* Solve mathematical and engineering problems through MATLAB programming
+* Apply MATLAB to solve mathematical and engineering problems   
 
 ### Tip 1: How to improve your programming skills 
-* Step 1: Make your program working without errors by all means
-* Step 2. Understand a model solution (e.g., program logic, useful built-in functions, programming styles)
+* Step 1: Ensure your program run without errors or warnings  
+* Step 2. Understand a model solution provided (e.g., program logic, useful built-in functions, programming styles)
 * Step 3. Consider how to modify/improve your own programs
 * Step 4. Re-write your program from scratch without copying solutions
 
 ### Tip 2: How to complete this course with over 90 
 * Review lecture slides and tutorials before attending programming labs
 * Submit all lab and homework assignments
-* Do not read the code in tutorials and assignment solutions with your eye only. Type all scripts in your editor and run them by yourself
+* Do not skim the code in tutorials and assignment solutions. Type and run all scripts in your editor to familiarize yourself with the syntax  
 * Post **at least one question** on a course website every week and help/teach other students
-* Replicate operations of the built-in functions with your own code
+* Replicate built-in functions with your own code
 * Employ a MATLAB editor, workspace browser, and debugging tool actively
-* Solve problems without loop and selection statements (ie. vector operations!)
+* Vectorize your code without loop and selection statements  
 * Use MATLAB instead of MS Excel, Wolfram|Alpha, or a calculator to complete your tasks
 
 ## Prerequisite
@@ -109,7 +109,7 @@ The TA will check their submission status for absent students at **10:30 am** in
 |Lab 10|*TBD*|July 20|July 25|July 25 at 11:30 am|
 
 ## Homework Assignments 
-Students should be encouraged to work in groups through collaborative learning, but to submit their assignments individually. Students **must not share their solutions with other students**. The TA will run software to check the similarity of your scripts for detecting plagiarism. Please do not think that you may be able to deceive graders. Although you pass all the problems in MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism. Each homework will be uploaded on Saturday night and must be submitted before the Monday class on the following week (ten days). After the due date, homework assignment online will be closed, and you are not able to submit your works. Again, **no late submission is accepted**, and any missed homework will be given a grade of 0. Thus, students who are not able to submit their assignment must inform the TA in advance with an email or at the office hour if you have a valid excuse. 
+Students should be encouraged to work in groups through collaborative learning, but to submit their assignments individually. Students **must not share their solutions with other students**. The TA will run software to check your scripts to detect plagiarism. Please do not think that you may be able to deceive graders. Although you pass all the problems in MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism. Each homework will be uploaded on Saturday night and must be submitted before the Monday class on the following week (ten days). After the due date, homework assignment online will be closed, and you are not able to submit your works. Again, **no late submission is accepted**, and any missed homework will be given a grade of 0. Thus, students who are not able to submit their assignment must inform the TA in advance with an email or at the office hour if you have a valid excuse. 
 
 |HW|Topic|Starting date|Due date|Solution|
 |:---|:-----|:----|:-----|:----|
@@ -170,4 +170,4 @@ Text matching software (Turnitin®) may be used to screen assignments in this co
 - Please be respectful of your peers, instructor, and others in your posts and comments.
 - Asking good questions is another way of learning by summarizing and explaining what you know and do not know. Thoughtful questions and answers will help all students in this class. Before posting a question, please ask yourself whether you are truly stuck (meaning that the answers can be readily found on the web) and your question are complete and legible. 
 - In addition, please check if the same question was asked before.   
-- Inappropriate posts and comments will be immediately deleted and closed without notice.   
+- Inappropriate posts and comments will be immediately deleted and closed without a notice.   
