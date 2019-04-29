@@ -15,7 +15,6 @@ Please read, understand, and complete all the following sections.
 
 ## Github Account Creation
 [**https://github.com**](https://github.com/)
-Github is a 
 
 ![](img/github.png)
 
@@ -64,7 +63,7 @@ Please write and run a simple program using the editor (Sample found [here](mode
 
 ### Simple program ([live editor](https://www.mathworks.com/products/matlab/live-editor.html)) 
 Please write and run a simple program using the live editor.
-[**See this page to examine the structure of the live editor**](sample_problem_live_editor.html)   
+[**See this page to examine the structure of the live editor**](sample_problem_live_editor.pdf)   
 The actual live editor file is available [**here**](model/sample_problem_live_editor.mlx) for download.
 
 ![](img/sample_problem_live_editor.png)
