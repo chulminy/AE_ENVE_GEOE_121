@@ -1,6 +1,6 @@
 # AE121: Computational Method (Spring, 2019)
 
-|<img src="civil_engineer.png" width="250">| **Instructor:** Chul Min Yeum (E2-2313), cmyeum@uwaterloo.ca <br> **Class:** Monday and Tuesday, 2:30 to 4:00 PM at CPH 1319 <br> **Programming Lab:** Thursday, 9:30 to 11:30 AM at CPH 1346 <br> **TA:** Jason Connelly (E2-2313), jpconnelly@edu.uwaterloo.ca, Juan Park<br> **Office Hours (Instructor):** Monday and Tuesday, 4:00 to 5:00 PM at E2-2313 <br> **Office Hours (TA):** Monday to Friday 2:00 to 5:00 PM at E2-2313|
+|<img src="civil_engineer.png" width="250">| **Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **Class:** Monday and Tuesday, 2:30 to 4:00 PM at CPH 1319 <br> **Programming Lab:** Thursday, 9:30 to 11:30 AM at CPH 1346 <br> **TA:** Jason Connelly (jpconnelly@edu.uwaterloo.ca) and Juan Park<br> **Office Hours (Instructor):** Monday and Tuesday, 4:00 to 5:00 PM at E2-2313 <br> **Office Hours (TA):** Monday to Friday 2:00 to 5:00 PM at E2-2313|
 |:--------|:----------- |
 
 **Last updated:** 2019-04-29
@@ -69,7 +69,7 @@ This course is not based on any particular textbook. However, lecture slides hav
 |:----|:-----|:----:|
 |Class 01|**Introduction (MATLAB and Course)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|
 |Class 02|**Basic MATLAB Programming**|[**Link**](lecture/basic_matlab_programming)|
-|Class 03|**Vector & Matrices I**||<!---[**Link**](lecture/vector_matrices)|-->
+|Class 03|**Vector & Matrices I**|[**Link**](lecture/vector_matrices)|
 |Class 04|**Vector & Matrices II**||
 |Class 05|**Built-in Functions I**||<!---[**Link**](lecture/built_in_function)|-->
 |Class 06|**Built-in Functions II**||
