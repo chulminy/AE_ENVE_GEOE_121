@@ -42,9 +42,9 @@ By the end of this course, students should be able to
 
 ### Tip 1: How to improve your programming skills 
 * Step 1: Ensure your program run without errors or warnings  
-* Step 2. Understand a model solution provided (e.g., program logic, useful built-in functions, programming styles)
-* Step 3. Consider how to modify/improve your own programs
-* Step 4. Re-write your program from scratch without copying solutions
+* Step 2: Understand a model solution provided (e.g., program logic, useful built-in functions, programming styles)
+* Step 3: Consider how to modify/improve your own programs
+* Step 4: Re-write your program from scratch without copying solutions
 
 ### Tip 2: How to complete this course with over 90 
 * Review lecture slides and tutorials before attending programming labs
@@ -71,7 +71,7 @@ This course is not based on any particular textbook. However, lecture slides hav
 |Class 02|**Basic MATLAB Programming**|[**Link**](lecture/basic_matlab_programming)|
 |Class 03|**Vector & Matrices I**|[**Link**](lecture/vector_matrices)|
 |Class 04|**Vector & Matrices II**||
-|Class 05|**Built-in Functions I**||<!---[**Link**](lecture/built_in_function)|-->
+|Class 05|**Built-in Functions I**|[**Link**](lecture/built_in_function)|
 |Class 06|**Built-in Functions II**||
 |Class 07|**Review Class**|&nbsp;|
 |Class 08|**Selection Statement**||<!---[**Link**](lecture/selection_statement)|-->
