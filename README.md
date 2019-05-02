@@ -1,13 +1,13 @@
 # AE121: Computational Method (Spring, 2019)
 
-|<img src="civil_engineer.png" width="250">| **Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **Class:** Monday and Tuesday, 2:30 to 4:00 PM at CPH 1319 <br> **Programming Lab:** Thursday, 9:30 to 11:30 AM at CPH 1346 <br> **TA:** Jason Connelly (jpconnelly@edu.uwaterloo.ca) and Juan Park<br> **Office Hours (Instructor):** Monday and Tuesday, 4:00 to 5:00 PM at E2-2313 <br> **Office Hours (TA):** Monday to Friday 2:00 to 5:00 PM at E2-2313|
+|<img src="civil_engineer.png" width="250">| **Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **Class:** Monday and Tuesday, 2:30 to 4:00 PM at CPH 1319 <br> **Programming Lab:** Thursday, 9:30 to 11:30 AM at CPH 1346 <br> **TA:** Jason Connelly (jpconnelly@edu.uwaterloo.ca) and Juan Park<br> **Office Hours (Instructor):** Monday and Tuesday, 4:00 to 5:00 PM at E2-2313 <br> **Office Hours (TA):** Wednesday 11:30 AM to 12:30 PM, Thursday 11:30 AM to 1 PM, and Friday 1:00 to 2:00 PM at E2-1787|
 |:--------|:----------- |
 
-**Last updated:** 2019-04-29
+**Last updated:** 2019-05-02
 
 ## Announcement  
-**2019-04-25:** The course website is published.  
-**2019-04-29:** The course materials are updated [**[Link]**](https://github.com/chulminy/AE121/compare/1c7792afa6007e5851ee085733aa25d4d3182c9a...master).       
+**2019-04-25:** The course website is published.         
+**2019-05-02:** The course materials are updated [**[Link]**](https://github.com/chulminy/AE121/compare/dc8e7d6f8c433ff0164340827a2f45386275172c...master).       
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -68,7 +68,7 @@ This course is not based on any particular textbook. However, lecture slides hav
 ## Course Outline
 |Class|Topics|Slide & Tutorial|
 |:----|:-----|:----:|
-|Class 01|**Introduction (MATLAB and Course)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|
+|Class 01|**Introduction (MATLAB and Course)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[**Link**](lecture/introduction)|   
 |Class 02|**Basic MATLAB Programming**|[**Link**](lecture/basic_matlab_programming)|
 |Class 03|**Vector & Matrices I**|[**Link**](lecture/vector_matrices)|
 |Class 04|**Vector & Matrices II**||
