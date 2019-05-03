@@ -77,20 +77,20 @@ This course is not based on any particular textbook. However, lecture slides hav
 |Class 07|**Review Class**|&nbsp;|
 |Class 08|**Selection Statement**||<!---[**Link**](lecture/selection_statement)|-->
 |Class 09|**Loop Statement**||<!---[**Link**](lecture/loop_statement)|-->
-|Class 10|**Function**|&nbsp;|
-|Class 11|**Text Manipulation**|&nbsp;|
+|Class 10|**Pseudocode**|&nbsp;|
+|Class 11|**Function**|&nbsp;|
 |Class 12|**Review Class**|&nbsp;|
-|Class 13|**Plotting**|&nbsp;|
-|Class 14|**Data Structure**|&nbsp;|
-|Class 15|**File I/O**|&nbsp;|
-|Class 16|**Symbolic Function**|&nbsp;|
-|Class 17|**Matrix Algebra**|&nbsp;|
-|Class 18|**Review Class**|&nbsp;|
-|Class 19|**Numerical Technique I**|&nbsp;|
-|Class 20|**Numerical Technique II**|&nbsp;|
-|Class 21|**Advanced Topic I: Advanced Function**|&nbsp;|
-|Class 22|**Advanced Topic II: Pseudocode**|&nbsp;|
-|Class 23|**Advanced Topic III: Graphics**|&nbsp;|
+|Class 13|**Text Manipulation**|&nbsp;|
+|Class 14|**Plotting**|&nbsp;|
+|Class 15|**Data Structure**|&nbsp;|
+|Class 16|**File I/O**|&nbsp;|
+|Class 17|**Symbolic Function**|&nbsp;|
+|Class 18|**Matrix Algebra**|&nbsp;|
+|Class 19|**Review Class**|&nbsp;|
+|Class 20|**Numerical Technique I**|&nbsp;|
+|Class 21|**Numerical Technique II**|&nbsp;|
+|Class 22|**Advanced Topic I: Advanced Function**|&nbsp;|
+|Class 23|**Advanced Topic II: Graphics**|&nbsp;|
 |Class 24|**Review Class**|&nbsp;|
 
 ## Programming Labs 

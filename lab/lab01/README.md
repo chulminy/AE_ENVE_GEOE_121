@@ -33,7 +33,11 @@ Click AE 121: Computational Method
 
 Please solve all the questions in problem 1.
 
+**NOTE:** PLEASE SOLVE YOUR PROBLEM IN THE MATLAB EDITOR and CHECK YOUR SOLUTION THROUGH GRADER. 
+
 ![](img/lab01_problem1.png)
+
+
  
 ## Recommended MATLAB Window Arrangements
 The following MATLAB window arrangements are recommended to provide an optimal programming environment.
