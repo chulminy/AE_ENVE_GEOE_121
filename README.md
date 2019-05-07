@@ -1,12 +1,13 @@
 # AE121: Computational Method (Spring, 2019)
 
-|<img src="civil_engineer.png" width="250">| **Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **Class:** Monday and Tuesday, 2:30 to 4:00 PM at CPH 1319 <br> **Programming Lab:** Thursday, 9:30 to 11:30 AM at CPH 1346 <br> **TA:** Jason Connelly (jpconnelly@edu.uwaterloo.ca) and Juan Park<br> **Office Hours (Instructor):** Monday and Tuesday, 4:00 to 5:00 PM at E2-2313 <br> **Office Hours (TA):** Wednesday 11:30 AM to 12:30 PM, Thursday 11:30 AM to 1 PM, and Friday 1:00 to 2:00 PM at E2-1787|
+|<img src="civil_engineer.png" width="250">| **Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **Class:** Monday and Tuesday, 2:30 to 4:00 PM at CPH 1319 <br> **Programming Lab:** Thursday, 9:30 to 11:30 AM at CPH 1346 <br> **TA:** Jason Connelly (jpconnelly@edu.uwaterloo.ca) and Juan Park<br> **Office Hours (Instructor):** Monday and Tuesday, 4:00 to 5:00 PM at E2-2313 <br> **Office Hours (TA):** Wednesday 11:30 AM to 12:30 PM, Thursday 11:30 AM to 1 PM, and Friday 12:30 to 1:30 PM at E2-1787|
 |:--------|:----------- |
 
-**Last updated:** 2019-05-02
+**Last updated:** 2019-05-07
 
 ## Announcement  
-**2019-04-25:** The course website is published.         
+:loudspeaker: **2019-05-07: PLEASE BRING YOUR LAPTOP TO THE CLASS TODAY (May 07, 2019) !!!!!**    
+**2019-05-07:** Slides and a tutorial code for **Basic MATLAB Programming** are updated [**[Link]**](lecture/basic_matlab_programming).      
 **2019-05-02:** The course materials are updated [**[Link]**](https://github.com/chulminy/AE121/compare/dc8e7d6f8c433ff0164340827a2f45386275172c...master).       
 
 ## Table of Contents
