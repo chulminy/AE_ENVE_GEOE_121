@@ -6,7 +6,7 @@
 **Last updated:** 2019-05-07
 
 ## Announcement  
-:loudspeaker: **2019-05-07: PLEASE BRING YOUR LAPTOP TO THE CLASS TODAY (May 07, 2019) !!!!!**    
+**2019-05-08:** Slides and a tutorial code for **Vector & Matrices** are updated [**[Link]**](lecture/vector_matrices).        
 **2019-05-07:** Slides and a tutorial code for **Basic MATLAB Programming** are updated [**[Link]**](lecture/basic_matlab_programming).      
 **2019-05-02:** The course materials are updated [**[Link]**](https://github.com/chulminy/AE121/compare/dc8e7d6f8c433ff0164340827a2f45386275172c...master).       
 
