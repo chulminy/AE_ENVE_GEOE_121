@@ -8,10 +8,10 @@
 Please read, understand, and complete all the following sections.
 ## Table of Contents
 - [Github Account Creation](#github-account-creation)
-- [MATLAB Grader Registration](#matlab-grader-registration)
 - [Recommended MATLAB Window Arrangements](#recommended-matlab-window-arrangements)
 - [Editor and Live Editor](#editor-and-live-editor)
 - [Preferences](#preferences)
+- [MATLAB Grader Registration](#matlab-grader-registration)
 
 ## Github Account Creation
 [**https://github.com**](https://github.com/)
@@ -20,25 +20,6 @@ Please read, understand, and complete all the following sections.
 
 >To post questions or comments, students should make their own Github account. Please sign up this website. Students **do not have to** make their accounts using **school emails** if they already have accounts or they want anonymity.
 
-## MATLAB Grader Registration  
-
-You will receive the following email:
-
-![](img/matlab_grader_invitation.png)
-
-### Solve a problem
-Click AE 121: Computational Method
-
-![](img/matlab_grader_main.png)
-
-Please solve all the questions in problem 1.
-
-**NOTE:** PLEASE SOLVE YOUR PROBLEM IN THE MATLAB EDITOR and CHECK YOUR SOLUTION THROUGH GRADER. 
-
-![](img/lab01_problem1.png)
-
-
- 
 ## Recommended MATLAB Window Arrangements
 The following MATLAB window arrangements are recommended to provide an optimal programming environment.
 
@@ -62,11 +43,11 @@ The following MATLAB window arrangements are recommended to provide an optimal p
 ## Editor and Live Editor
 Please look in the [model](model) folder for sample files.
 ### Simple program (editor)
-Please write and run a simple program using the editor (Sample found [here](model/sample_problem_editor.m)).
+Please run a simple program using the editor (Sample found [here](model/sample_problem_editor.m)).
 ![](img/sample_problem_editor.png)
 
 ### Simple program ([live editor](https://www.mathworks.com/products/matlab/live-editor.html)) 
-Please write and run a simple program using the live editor.
+Please run a simple program using the live editor.
 [**See this page to examine the structure of the live editor**](sample_problem_live_editor.pdf)   
 The actual live editor file is available [**here**](model/sample_problem_live_editor.mlx) for download.
 
@@ -84,7 +65,7 @@ Please repeat the above processes using the keyboard shortcuts
 `Ctrl + I`: smart indent   
 `Ctrl + J`: wrap comment 
 `Ctrl + c`: stop   
- 
+
 ### Live Editor Shortcuts
 Please repeat the above processes using the keyboard shortcuts
 
@@ -113,4 +94,24 @@ Run `change_color.m`.
 
 You can reset the color in your editor.
 ![](img/default_color.png)
+
+## MATLAB Grader Registration  
+
+You will receive the following email:
+
+![](/home/jp/Desktop/juan/2019/20190501_AE121/AE121/lab/lab01/img/matlab_grader_invitation.png)
+
+### Solve a problem
+
+Click AE 121: Computational Method
+
+![](/home/jp/Desktop/juan/2019/20190501_AE121/AE121/lab/lab01/img/matlab_grader_main.png)
+
+Please solve all the questions in problem 1.
+
+**NOTE:** PLEASE SOLVE YOUR PROBLEM IN THE MATLAB EDITOR and CHECK YOUR SOLUTION THROUGH GRADER. 
+
+![](/home/jp/Desktop/juan/2019/20190501_AE121/AE121/lab/lab01/img/lab01_problem1.png)
+
+
 
