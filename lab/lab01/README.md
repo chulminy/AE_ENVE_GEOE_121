@@ -99,19 +99,19 @@ You can reset the color in your editor.
 
 You will receive the following email:
 
-![](/home/jp/Desktop/juan/2019/20190501_AE121/AE121/lab/lab01/img/matlab_grader_invitation.png)
+![](img/matlab_grader_invitation.png)
 
 ### Solve a problem
 
 Click AE 121: Computational Method
 
-![](/home/jp/Desktop/juan/2019/20190501_AE121/AE121/lab/lab01/img/matlab_grader_main.png)
+![](img/matlab_grader_main.png)
 
 Please solve all the questions in problem 1.
 
 **NOTE:** PLEASE SOLVE YOUR PROBLEM IN THE MATLAB EDITOR and CHECK YOUR SOLUTION THROUGH GRADER. 
 
-![](/home/jp/Desktop/juan/2019/20190501_AE121/AE121/lab/lab01/img/lab01_problem1.png)
+![](img/lab01_problem1.png)
 
 
 
