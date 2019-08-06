@@ -93,7 +93,7 @@ This course is not based on any particular textbook. However, lecture slides hav
 ## Exams  
 |Exam|Problems|Date|Duration|
 |:---|:-------|:-----|:----|
-|**Midterm**|[**Exams**](exam/midterm/AE121_Midterm_2019_Spring.pdf)|June 27, 2019 (10:00~11:50 am)|110 minutes|
+|**Midterm**|[**Exams**](exam/midterm)|June 27, 2019 (10:00~11:50 am)|110 minutes|
 |**Final**|**Not available**|Aug 2, 2019|150 minutes|  
 
 
