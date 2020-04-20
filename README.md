@@ -56,7 +56,7 @@ This course is not based on any particular textbook. However, lecture slides hav
 ## Course Outline
 All lectures and tutorials will be delivered using prerecorded videos. All videos will be uploaded on a YouTube Channel. For those who cannot access YouTube for some reason, video files will be shared in person. There are twelve modules and each module has 1 ~ 3 lecture videos and tutorial videos. The study load for each module is marked as the number of regular offline class, which becomes a total of 24 classes. Roughly, students are expected to complete two classes every week. The expected time to finish (ETF) in each module is also provided to help students' time management and keep up with lectures, assignments, and quizzes. The course material will be posted as a PDF. Homework assignments and quizzes are all cumulative. The modules to be covered on homework are all past modules including the current one. For example, Quiz #2 will cover Module 01 to Module 05. 
 
-|Module|Topics|Load\*|ETF\**|Slide|[Homework](#homework-assignment)|[Quiz](#quiz)| 
+|Module|Topics|Load|ETF|Slide|[Homework](#homework-assignment)|[Quiz](#quiz)| 
 |:----|:-----|:----:|:----:|:----:|:----:|:----:|
 |Module 00| Preliminaries|0.5|May 15|| |
 |Module 01| Basic MATLAB Programming|2|May 15 ||HW #1|
@@ -71,9 +71,6 @@ All lectures and tutorials will be delivered using prerecorded videos. All video
 |Module 10| File I/O|1.5|July 24||HW #7|
 |Module 11| Text Manipulation|1.5|July 31|||
 |Module 12| Symbolic Function|1|Aug 05||HW #8|**Quiz #4**|
-
-\* Study load: 
-\** Estimated time to finish (ETF):
 
 ### Lecture and Tutorial Video 
 |Module|Lecture|Tutorial| 
