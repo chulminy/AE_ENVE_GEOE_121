@@ -1,34 +1,32 @@
-# AE121: Computational Method (Spring, 2019)
+# AE/ENVE/GEOE 121: Computational Method (Spring, 2020)
 
-|<img src="civil_engineer.png" width="250">| **Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **Class:** Monday and Tuesday, 2:30 to 4:00 PM at CPH 1319 <br> **Programming Lab:** Thursday, 9:30 to 11:30 AM at CPH 1346 <br> **TA:** Jason Connelly (jpconnelly@edu.uwaterloo.ca) and Juan Park<br> **Office Hours (Instructor):** Monday and Tuesday, 4:00 to 5:00 PM at E2-2313 <br> **Office Hours (TA):** Wednesday 11:30 AM to 12:30 PM, Thursday 11:30 AM to 1 PM, and Friday 12:30 to 1:30 PM at E2-1787|
+|<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafierastrau@edu.uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (12:30PM ~ 02:30PM) (EST) <br> **Live Help Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (9:30AM ~ 11:30AM) (EST) <br> **Live Help Session (Instructor): TBD**|
 |:--------|:----------- |
 
-**Last updated:** 2019-08-05  
+**Last updated:** 2020-04-17  
 
 ## Table of Contents
 - [Course Description](#course-description)
 - [Course Objectives](#course-objectives)
+- [Study Guide](#study-guide)
 - [Prerequisite](#prerequisite)
 - [Course Textbook](#course-textbook)
 - [Course Outline](#course-outline)
-- [Exams](#exams)
-- [Programming Labs](#programming-labs)
-- [Homework Assignments](#homework-assignments)
+- [Quiz](#quiz)
+- [Live Help Session](#live-help-session)
+- [Homework Assignment](#homework-assignment)
 - [Communication](#communication)
 - [Grading](#grading)
 - [Note](#note)
 
 ## Course Description
-This course offers a practical introduction to computer programming for engineering students using MATLAB. MATLAB is an easy and readable programming language and is an excellent choice for those learning programming for the first time. This course will cover various topics including programming fundamentals, matrix operations, file I/O, numerical methods, and data visualization. Students who successfully complete this course will gain a fundamental understanding of computer programming techniques and be able to operate, analyze, and visualize all types of data.  
+This course introduces computer programming for engineering students using MATLAB. MATLAB is an easy and readable programming language and is an excellent choice for those learning programming for the first time. This course will cover various topics including programming fundamentals, matrix operations, file I/O, and data visualization. Students who complete this course will gain a fundamental understanding of computer programming techniques and be able to operate, analyze, and visualize all types of data for future engineering studies. This course is not simply a MATLAB tutorial. It is an introductory programming course that uses MATLAB to illustrate general concepts in computer programming.  
 
-This course incorporates two new learning tools in MATLAB to enhance programming-learning environment: [**Live Editor**](https://www.mathworks.com/products/matlab/live-editor.html) and [**MATLAB Grader**](https://www.mathworks.com/products/matlab-grader.html). The *Live Editor* is a scripting platform to create, edit and run MATLAB scripts as well as add formatted text, images, and equations so that students can learn programing in more informative and interactive ways. A tutorial for each topic is provided in the Live Editor format. The programming lab and homework assignments will be designed using the MATLAB Grader. This tool allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments. You are expected to spend extra 6 hours a week studying class materials as well as working on the programming lab and homework assignments. 
-
-This course includes lectures, tutorials, programming labs, and homework assignments:
- 
-* [**Lectures**](#course-outline) will cover the major topics, emphasizing and discussing the important points, and introduce programming examples in tutorials. 
-* [**Tutorials**](#course-outline) are intended to review the lectures and prepare for programming lab and homework assignments.
-* [**Programming-labs**](#programming-labs) provide an opportunity to practice writing and debugging programs with TA’s and instructor’s assistance.  
-* [**Homework assignments**](#homework-assignments) are to provide additional practice for programming and evaluate your knowledge and programming skills
+This course includes lectures, tutorials, homework assignments, and quizzes:
+* [**Lecture**](#course-outline) is to cover the major topics, emphasizing and discussing the important points, and solve examples. 
+* [**Tutorial**](#course-outline) is to solve problems in the course material and homework assignments.     
+* [**Homework assignment**](#homework-assignment) is to provide practice for programming and evaluate your progress on the course material.
+* [**Quiz**](#quiz) is to evaluate your knowledge and programming skills.   
 
 ## Course Objectives
 By the end of this course, students should be able to  
@@ -36,116 +34,114 @@ By the end of this course, students should be able to
 * Compose working, efficient, and readable code in various ways
 * Debug your code to identify and fix programming errors
 * Identify suitable keywords to search for code snippets on the web
-* Apply MATLAB to solve mathematical and engineering problems   
+* Apply MATLAB to write your program
 
-### Tip 1: How to improve your programming skills 
-* Step 1: Ensure your program runs without errors or warnings  
-* Step 2: Understand a model provided (e.g., program logic, useful built-in functions, programming styles)
-* Step 3: Consider how to modify/improve your own programs
-* Step 4: Re-write your program from scratch without copying solutions
-
-### Tip 2: How to complete this course with over 90 
-* Review lecture slides and tutorials before attending programming labs
-* Submit all lab and homework assignments
-* Do not skim the code in tutorials and assignment solutions. Type and run all scripts in your editor to familiarize yourself with the syntax  
-* Post **at least one question** on a course website every week and help/teach other students
-* Replicate built-in functions with your own code
-* Employ a MATLAB editor, workspace browser, and debugging tool actively
-* Vectorize your code without loop and selection statements  
-* Use MATLAB instead of MS Excel, Wolfram|Alpha, or a calculator to complete your tasks
+## Study Guide
+* Watch lecture video(s) of each module. 
+* Do not skim the code. Type and run all scripts in the module and sample solutions in tutorial videos. 
+* Make online engagement through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/549056) or live help session.   
+* Solve problems in the course material by yourself.
+* Watch tutorial videos to check your answers for the problems.
+* Employ an editor, Workspace browser, and debugging tool to solve the problems. 
+* Work with your colleagues or TAs if possible.  
 
 ## Prerequisite
-"Linear algebra" (AE 115) and "Calculus 1 for Engineering" (MATH 116) are prerequisites for this course, which you learned in the 1A term. If you are not familiar with these topics, please review corresponding course notes or tutorials. 
+"Linear algebra" (AE/ENVE/GEOE 115) and "Calculus 1 for Engineering" (MATH 116) are prerequisites for this course, which you learned in the 1A term. If you are not familiar with these topics, please review corresponding lecture slides or tutorials. 
 
 ## Course Textbook 
-This course is not based on any particular textbook. However, lecture slides have been prepared using the following references:
+This course is not based on any particular textbook. However, lecture slides have been prepared using the following two references:
 * Attaway, Stormy. *"MATLAB-A Practical Introduction to Programming and Problem Solving,"* Elsevier, 2018.
 * Moore, Holly. *"MATLAB for Engineers,"* Pearson, 2017.
 
 ## Course Outline
-|Class|Topics|Slide, Tutorial, & Review|
-|:----|:-----|:----:|
-|Class 01|**Introduction (MATLAB and Course)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|[**Link**](lecture/introduction)|   
-|Class 02|**Basic MATLAB Programming**|[**Link**](lecture/basic_matlab_programming)|
-|Class 03|**Vector & Matrices I**|[**Link**](lecture/vector_matrices)|
-|Class 04|**Vector & Matrices II**||
-|Class 05|**Built-in Functions I**|[**Link**](lecture/built_in_function)|
-|Class 06|**Built-in Functions II**||
-|Class 07|**Review Class**||
-|Class 08|**Selection Statement**|[**Link**](lecture/selection_statement)|  
-|Class 09|**Loop Statement**|[**Link**](lecture/loop_statement)|  
-|Class 10|**Review Class**|&nbsp;|
-|Class 11|**Function**|[**Link**](lecture/function)|  
-|Class 12|**Review Class**|&nbsp;|
-|Class 13|**Plotting**|[**Link**](lecture/plotting)|
-|Class 14|**Data Structure**|[**Link**](lecture/data_structure)|
-|Class 15|**Review Class**|&nbsp;|
-|Class 16|**Text Manipulation**|[**Link**](lecture/text_manipulation)|
-|Class 17|**Review Class**|&nbsp;|
-|Class 18|**File I/O**|[**Link**](lecture/file_io)|
-|Class 19|**Symbolic Function**|[**Link**](lecture/symbolic_function)|  
-|Class 20|**Review Class**|&nbsp;|
-|Class 21|**Pseudocode**|[**Link**](lecture/pseducode)|
-|Class 22|**Numerical Technique I**|[**Link**](lecture/numerical_technique)|
-|Class 23|**Numerical Technique II**|&nbsp;|
-|Class 24|**Review Class**|&nbsp;|
+All lectures and tutorials will be delivered using prerecorded videos. All videos will be uploaded on a YouTube Channel. For those who cannot access YouTube for some reason, video files will be shared in person. There are twelve modules and each module has 1 ~ 3 lecture videos and tutorial videos. The study load for each module is marked as the number of regular offline class, which becomes a total of 24 classes. Roughly, students are expected to complete two classes every week. The expected time to finish (ETF) in each module is also provided to help students' time management and keep up with lectures, assignments, and quizzes. The course material will be posted as a PDF. Homework assignments and quizzes are all cumulative. The modules to be covered on homework are all past modules including the current one. For example, Quiz #2 will cover Module 01 to Module 05. 
 
-## Exams  
-|Exam|Problems|Date|Duration|
+|Module|Topics|Load\*|ETF\**|Slide|[Homework](#homework-assignment)|[Quiz](#quiz)| 
+|:----|:-----|:----:|:----:|:----:|:----:|:----:|
+|Module 00| Preliminaries|0.5|May 15|| |
+|Module 01| Basic MATLAB Programming|2|May 15 ||HW #1|
+|Module 02| Vectors and Matrices|2|May 22||HW #2|**Quiz #1**|
+|Module 03| Selection Statement |2|May 29|||
+|Module 04| Loop Statement|2|June 05||HW #3|
+|Module 05| Built-in Functions|3|June 17||HW #4|**Quiz #2**|
+|Module 06| Operator|3|July 03||HW #5||
+|Module 07| Function|3|July 15||HW #6|**Quiz #3**|
+|Module 08| Plotting|1|July 17||
+|Module 09| Data Structure|1.5|July 22|||
+|Module 10| File I/O|1.5|July 24||HW #7|
+|Module 11| Text Manipulation|1.5|July 31|||
+|Module 12| Symbolic Function|1|Aug 05||HW #8|**Quiz #4**|
+
+\* Study load: 
+\** Estimated time to finish (ETF):
+
+### Lecture and Tutorial Video 
+|Module|Lecture|Tutorial| 
+|:----|:----|:-----|
+|Module 00|[<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() |[<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() |
+
+## Quiz  
+|Exam|Topics|Date|Duration|
 |:---|:-------|:-----|:----|
-|**Midterm**|[**Exams**](exam/midterm)|June 27, 2019 (10:00~11:50 am)|110 minutes|
-|**Final**|**Not available**|Aug 2, 2019|150 minutes|  
+|**Quiz #1**|Module 01 ~ Module 02|TBD|120 minutes|
+|**Quiz #2**|Module 01 ~ Module 05|TBD|120 minutes|
+|**Quiz #3**|Module 01 ~ Module 07|TBD|150 minutes| 
+|**Quiz #4**|Module 01 ~ Module 12|TBD|150 minutes|   
 
+## Live Help Session
+To accommodate online training, an instructor and two TAs will have live help sessions online. We will open a WebEX meeting every help session so students feel free to join the meeting without an appointment. These help sessions are scheduled during regular lectures and lab hours for two courses (AE and ENVE/GEOE 121). It becomes a total of 10 hours a week.    
 
-## Programming Labs 
-There will be ten programming labs and nine lab assignments. The lab assignments are designed to help understand course materials as well as build programming capabilities. Students are supposed to complete all tasks and turn in their works **by the end of the lab (11:30 am)**. ***The instructor and two TAs will actively help complete the task within each lab session.*** Attendance in the labs is **not required**, but students who do not attend/are absent from the labs for any reason **must submit the lab assignment before the lab starts (9:30 am)**. 
-The TA will check their submission status for absent students at **10:30 am** in each lab. **No late submission will be accepted for absent students.**     
+The instructor will have one-hour a special help session for the students who will stay in different time-zones (e.g., Asia or Europe). The session will be scheduled early in the morning or late evening in the EST timezone. 
 
-|Lab|Topic|Starting Date|Lab Date|Due Date|
-|:----|:-----|:-----|:----|:----|
-|Lab 01|[**Getting Started with MATLAB**](lab/lab01)|May 6|May 9|**No submission**|
-|Lab 02|**Vectors & Matrices I**|May 11|May 16|May 16 at 12:30 am|
-|Lab 03|**Vectors & Matrices II**|May 18|May 23|May 23 at 12:30 am|
-|Lab 04|**Built-in Functions**|May 25|May 30|May 30 at 12:30 am|
-|Lab 05|**Selection and Loop Statement**|June 1|June 6|June 6 at 12:30 am|
-|Lab 06|**Function I**|June 8|June 13|June 13 at 12:30 am|
-|Lab 07|**Function II (Poker Game)**|June 15|June 20|**No submission**|
-|Lab 08|**Plotting**|June 29|July 4|**No submission**|
-|Lab 09|**File I/O**|July 6|July 11|July 11 at 12:30 am|
-|Lab 10|**Symbolic Function**|July 13|July 18|July 18 at 12:30 am|
-|Lab 11|**Numerical Technique**|July 20|July 25|July 25 at 12:30 am|
+## Homework Assignment
+The homework assignments will be designed using the MATLAB Grader. This tool allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments.  
 
-## Homework Assignments 
-Students should be encouraged to work in groups through collaborative learning, but to submit their assignments individually. Students **must not share their solutions with other students**. The TA will run software to check your scripts to detect plagiarism. Please do not think that you may be able to deceive graders. Although you pass all the problems in MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism and may be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). Each homework will be uploaded on Saturday night and must be submitted before the Monday class on the following week (ten days). After the due date, homework assignment online will be closed, and you are not able to submit your works. Again, **no late submission is accepted**, and any missed homework will be given a grade of 0. Thus, students who are not able to submit their assignment must inform the TA in advance with an email or at the office hour if you have a valid excuse. 
+Problems in the homework assignments are more challenging than examples or problems in the course materials. or use live help sessions to receive an idea or hint. Students are encouraged to work in groups through collaborative learning, but to submit their assignments individually. Students **must not share their solutions with other students**. The TA will run software to check your scripts to detect plagiarism. Please do not think that you may be able to deceive graders. Although you pass all the problems in MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism and may be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). 
 
-|HW|Topic|Starting date|Due date|
-|:---|:-----|:----|:-----|
-|HW 01|**Vectors & Matrices**|May 11|June 03 at 02:30 pm|
-|EX 01|**Vectors & Matrices**|May 20|**No submission**| 
-|HW 02|**Built-in Functions**|June 1|June 10 at 02:30 pm|
-|HW 03|**Selection and Loop Statement**|June 8|June 20 at 09:30 am|
-|HW 04|**Function I**|June 15|**Canceled**|
-|HW 05|**Function II (Poker Game)**|June 13|June 24 at 02:30 pm|
-|HW 06|**File I/O**|July 06|July 15 at 02:30 pm|
-|HW 07|**Symbolic Function**|July 13|July 22 at 02:30 pm|
-|HW 08|**Numerical Technique**|July 13|July 29 at 02:30 pm|
+**Late submission policy** Students allows the maximum one-week delay for two among eight assignments. Students do not need to inform TA for their delay submission as well as the reason for the delay. TAs will just count the number of delays in your homework assignments. If the number of delays is more than two, the third delayed homework will be zero. Students must pay close attention to deadlines. 
+
+Unless there is significant health issues that are not allowed to submit assignments on time more than two times, students should both contact the First-Year Engineering Office and the instructor and sufficiently explain why they are not able to submit all three homework late. Thus, please do not waste two chances for delay submission. Again, **no late submission is accepted**, and any missed homework will be given a grade of 0. 
+
+### Schedule
+|HW|Topic|Start date|First due date|Second due date|
+|:---|:-----|:----|:-----|:-----|
+|HW #1|Module 01|May 11 |May 21 at 11:59PM|May 28 at 11:59PM|
+|HW #2|Module 01 ~ Module 02|May 21 |May 28 at 11:59PM|June 04 at 11:59PM|
+|HW #3|Module 01 ~ Module 04|May 28 |June 11 at 11:59PM|June 18 at 11:59PM|
+|HW #4|Module 01 ~ Module 05|June 11|June 19 at 11:59PM|June 26 at 11:59PM|
+|HW #5|Module 01 ~ Module 06|June 19|July 09 at 11:59PM|July 16 at 11:59PM|
+|HW #6|Module 01 ~ Module 07|July 09|July 17 at 11:59PM|July 24 at 11:59PM|
+|HW #7|Module 01 ~ Module 10|July 17|July 28 at 11:59PM|Aug 04 at 11:59PM|
+|HW #8|Module 01 ~ Module 12|July 28|Aug 05 at 11:59PM|Aug 12 at 11:59PM|
 
 ## Communication  
-**All communication will be made through [this course website](https://github.com/chulminy/AE121)**, especially for this web page. The instructor will frequently make a note in the ["Announcement"](#announcement) section after updating the web page. Students can configure email notification for by ["watching"](https://help.github.com/articles/watching-and-unwatching-repositories/) this course website or use a version control system for tracking its changes (The link will be provided on every announcement to track the changes). Thus, **students are responsible for checking the website regularly** for any relevant course information or announcements. We will post an important announcement through LEARN, but LEARN will be only used for such announcement notification. Lecture slides, homework assignments, tutorials, and solutions are only accessible through this course website. 
+**All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/549056). The instructor will frequently announce in LEARN or the ["Announcement"](#announcement) section after updating the web page. **Students are responsible for checking the course website regularly** for any relevant course information or announcements. LEARN will be only used for announcements and discussion and the other course information is posted on the course website.   
 
-In this course, the instructor, TAs, and the students are encouraged to engage in online discussions to create and facilitate a **collaborative learning experience**. Students are invited to ask questions and answer them and share their knowledge and resources. **Please direct your communications to the** [***Issues***](https://github.com/chulminy/AE121/issues) **board (tab) on this website.** However, if there is a good reason not to use the discussion forum (e.g., personal matters, a question that might reveal your solution of your report, etc.), please directly contact the TA via email (jpconnelly@edu.uwaterloo.ca) or use the office hours. 
+In this course, the students are highly encouraged to engage in online discussions to create and facilitate a **collaborative learning experience**. Students are invited to ask questions and answer them and share their knowledge and resources. **Please direct your communications to the Discussion board on LEARN. However, if there is a good reason not to use the discussion forum (e.g., personal matters, a question that might reveal your solution of your report, etc.), please directly contact the TAs or use [live help session]() (private chat).  
 
-[**Discussion forum instruction**](#discussion-forum-instruction)
+At the end of the course, TAs will evaluate the online activity of each student and measure an "online engagement" score. You will get a higher score if students 
+- Ask many and useful questions in LEARN or TA sessions
+- Comments on the colleague's questions
+- Share your solutions for examples or problems in the course material 
+
+Here is the instruction of Discussion in LEARN
+- Please be respectful of your peers, instructor, and others in your posts and comments.
+- Asking good questions is another way of learning by summarizing and explaining what you know and do not know. Thoughtful questions and answers will help all students in this class. Before posting a question, please ask yourself whether you are truly stuck (meaning that the answers cannot be readily found on the web) and your question are complete and legible. 
+- In addition, please check if the same question was asked before.   
+- Inappropriate posts and comments will be immediately deleted and closed without notice.  
 
 ## Grading  
-The final grade will be based on the total marks earned from two exams (midterm and final), 6 to 8 programming lab assignments, and 6 to 8 homework assignments. Percentages of the grade components are provided as:
+The final grade will be based on the total marks earned from 8 homework assignments and 4 quizzes. Their grade components are provided as:
 
-* **Programming lab assignments** (20%)
-* **Homework assignments** (20%)
-* **Midterm exam** (25%)
-* **Final exam** (35%) 
-
-Note that assignments and exams are cumulative. 
+|Component|Scores|
+|:---|:-----|
+|**Homework assignments**| 25 |
+|**Quiz #1**| 10 |
+|**Quiz #2**| 15 |
+|**Quiz #3**| 20 |
+|**Quiz #4**| 30 |
+|**Online engagement**|extra up to 10|
+|**Total** |100| 
 
 ## Note
 ### Academic integrity
@@ -167,12 +163,3 @@ A decision made or penalty imposed under <a href="/secretariat-general-counsel/n
 Text matching software (Turnitin®) may be used to screen assignments in this course. Turnitin® is used to verify that all materials and sources in assignments are documented. Students' submissions are stored on a U.S. server, therefore students must be given an alternative (e.g., scaffolded assignment or annotated bibliography), if they are concerned about their privacy and/or security. Students will be given due notice, in the first week of the term and/or at the time assignment details are provided, about arrangements and alternatives for the use of Turnitin in this course.</p>
 
 <p>It is the responsibility of the student to notify the instructor if they, in the first week of term or at the time assignment details are provided, wish to submit alternate assignment.</p>
-
-## Supplement
-
-### Discussion forum instruction
-- To post questions or comments, students should make their own Github account. **Students do not need to make their accounts using school emails if they already have accounts or they would have anonymity.**
-- Please be respectful of your peers, instructor, and others in your posts and comments.
-- Asking good questions is another way of learning by summarizing and explaining what you know and do not know. Thoughtful questions and answers will help all students in this class. Before posting a question, please ask yourself whether you are truly stuck (meaning that the answers cannot be readily found on the web) and your question are complete and legible. 
-- In addition, please check if the same question was asked before.   
-- Inappropriate posts and comments will be immediately deleted and closed without notice.   

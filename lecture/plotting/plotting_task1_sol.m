@@ -7,6 +7,8 @@
 
 %% Task 1: Plot point
 close;clc;clear
+fig = figure(1);
+set(fig,'Position', [100 100 300 200]);
 
 x = 10;
 y = 12;
@@ -14,7 +16,6 @@ plot(x,y, 'r*')
 
 xlabel('Time');
 ylabel('Temperature');
-title('Task1-base plot');
 
 %% Task1-Q0: Change point color
 % https://www.mathworks.com/help/matlab/ref/plot.html#btzitot-LineSpec
