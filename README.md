@@ -96,17 +96,17 @@ Students are encouraged to work in groups through collaborative learning only fo
 
 Experience has shown that the students who copy friend's solutions **do not know how to make them different** and do not even make them change them. You should not trust your friends. Once you share the solution to your friend, you likely get caught for cheating. Sharing your solutions to your friend is a pretty dumb thing. 
 
-What's worse, once you are cheating, you and your friend's previous assignments and solutions for quizzes will be re-evaluated. If evidence is shown that solutions are shared among them more than one time, you will fail the course and should retake in the future. Do not feel easy if your cheating is undetected. You might end in disaster.  
+What's worse, once you are cheating, you and your friend's previous assignments and solutions for quizzes will be re-evaluated. If evidence is shown that solutions are shared among them more than one time, you will fail the course and will have to retake it in the future. Do not feel easy if your cheating is undetected. You might end in disaster.  
 
 ## Live Help Session
 To accommodate online training, an instructor and two TAs will have live help sessions online. We will open a WebEX meeting every help session so students feel free to join the meeting without an appointment. These help sessions are scheduled during regular lectures and lab hours for two courses (AE and ENVE/GEOE 121). It becomes a total of 10 hours a week.    
 
-The instructor will have one-hour a special help session for the students who will stay in different time-zones (e.g., Asia or Europe). The session will be scheduled early in the morning or late evening in the EST timezone. Any student can use this help session as well. 
+The instructor will have a one-hour special help session for the students who will stay in different time-zones (e.g., Asia or Europe). The session will be scheduled early in the morning or late evening in the EST timezone. Any student can use this help session as well. 
 
 ## Homework Assignment
-The homework assignments will be designed using the MATLAB Grader. This tool allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments.  
+The homework assignments will be designed using the MATLAB Grader tool. This tool allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments.  
 
-Problems in the homework assignments are more challenging than examples or problems in the course materials. or use live help sessions to receive an idea or hint. Do not write your script directly to the MATLAB Grader only to pass the testers. The submission per problem is only one time in the quizzes. This means you do not have a chance to revise your code although you are using the MATLAB Grader. If students do not know how to use MATLAB editor, you will get a high mark on quizzes.  
+Problems in the homework assignments are more challenging than examples or problems in the course materials or use concepts that are covered during live help sessions to receive an idea or hint. Do not write your script directly to the MATLAB Grader only to pass the testers. The submission per problem is only one time in the quizzes. This means you do not have a chance to revise your code although you are using the MATLAB Grader. If students do not know how to use MATLAB editor, you will get a high mark on quizzes.  
 
 **Late submission policy** Students allows **the maximum one-week delay for two among eight assignments.** Students do not need to inform TA for their delay submission as well as the reason for the delay. TAs will just count the number of delays in your homework assignments. TAs will inform the students who delay the submissions two times. If the number of delays is more than two, the third delayed homework will be zero. Students must pay close attention to deadlines. 
 
