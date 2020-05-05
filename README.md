@@ -78,17 +78,18 @@ All lectures and tutorials will be delivered using prerecorded videos. All video
 |:----|:----|:-----|
 |Module 00|[<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() |[<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() |
 
-## Quiz  
+## Quiz
+The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged that their solutions are fully tested and evaluated using a MATLAB editor before submission.    
+
+The students must thoroughly prepare and be ready for taking the online quizzes in advance, such as internet connection, computer peripheral devices, MATLAB access, laptop power status, personal circumstance. If they fail for some reason, the students should contact both the First-Year Engineering Office and the instructor and provide sensible reasons. If accepted, they will take another set of the quiz individually.   
+
+### Schedule  
 |Exam|Topics|Date|Duration|
 |:---|:-------|:-----|:----|
 |**Quiz #1**|Module 01 ~ Module 02|1st week of June|120 minutes|
 |**Quiz #2**|Module 01 ~ Module 05|4th week of June|120 minutes|
 |**Quiz #3**|Module 01 ~ Module 07|4th week of July|150 minutes| 
 |**Quiz #4**|Module 01 ~ Module 12|3rd week of August|150 minutes|   
-
-The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged that their solutions are fully tested and evaluated using a MATLAB editor before submission.    
-
-The students must thoroughly prepare and be ready for taking the online quizzes in advance, such as internet connection, computer peripheral devices, MATLAB access, laptop power status, personal circumstance. If they fail for some reason, the students should contact both the First-Year Engineering Office and the instructor and provide sensible reasons. If accepted, they will take another set of the quiz individually.   
 
 ## Policy for Cheating 
 Students are encouraged to work in groups through collaborative learning only for homework assignments (not quizzes), but to submit their assignments individually. Students **must not share their solutions with other students**. The TAs will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs. Although you pass all the problems in MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. You will be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). Both copiers and copyees are guilty of cheating and will receive an equal penalty. The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will receive extra points.  
