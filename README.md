@@ -41,12 +41,12 @@ By the end of this course, students should be able to
 * Watch lecture video(s) of each module. 
 * Solve problems in the course material and tutorials by yourself.
 * Type and run all scripts in the course material and sample solutions in tutorial videos. Do not skim the code.  
-* Make online engagement through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/549056) or live help session.   
+* Make online engagement through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/549056) or attending live help sessions.   
 * Watch tutorial videos to check your answers for the problems.
 * Employ an editor, Workspace browser, and debugging tool to solve the problems. 
 * Work with your colleagues or TAs if possible.  
 
-## Prerequisite
+## Prerequisites
 "Linear algebra" (AE/ENVE/GEOE 115) and "Calculus 1 for Engineering" (MATH 116) are prerequisites for this course, which you learned in the 1A term. If you are not familiar with these topics, please review corresponding lecture slides or tutorials. 
 
 ## Course Textbook 
