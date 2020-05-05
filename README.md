@@ -99,7 +99,7 @@ Experience has shown that the students who copy friend's solutions **do not know
 What's worse, once you are cheating, you and your friend's previous assignments and solutions for quizzes will be re-evaluated. If evidence is shown that solutions are shared among them more than one time, you will fail the course and should retake in the future. Do not feel easy if your cheating is undetected. You might end in disaster.  
 
 ## Live Help Session
-To accommodate online training, an instructor and two TAs will have live help sessions online. We will open a WebEX meeting every help session so students feel free to join the meeting without an appointment. These help sessions are scheduled during regular lectures and lab hours for two courses (AE and ENVE/GEOE 121). It becomes a total of 10 hours a week.    
+To accommodate online training, an instructor and two TAs will have live help sessions online. We will open a WebEX meeting every help session so students can feel free to join the meeting without an appointment. These help sessions are scheduled during regular lectures and lab hours for two courses (AE and ENVE/GEOE 121). It becomes a total of 10 hours a week.    
 
 The instructor will have one-hour a special help session for the students who will stay in different time-zones (e.g., Asia or Europe). The session will be scheduled early in the morning or late evening in the EST timezone. Any student can use this help session as well. 
 
