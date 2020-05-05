@@ -24,10 +24,10 @@
 This course introduces computer programming for engineering students using MATLAB. MATLAB is an easy and readable programming language and is an excellent choice for those learning programming for the first time. This course will cover various topics including programming fundamentals, matrix operations, file I/O, and data visualization. Students who complete this course will gain a fundamental understanding of computer programming techniques and be able to operate, analyze, and visualize all types of data for future engineering studies. This course is not a MATLAB tutorial course. It is an introductory programming course that uses MATLAB to illustrate general concepts in computer programming.  
 
 This course includes lectures, tutorials, homework assignments, and quizzes:
-* [**Lecture**](#course-outline) is to cover the major topics, emphasizing and discussing the important points, and solve examples. 
-* [**Tutorial**](#course-outline) is to solve problems in the course material and homework assignments.     
-* [**Homework assignment**](#homework-assignment) is to provide practice for programming and evaluate your progress on the course material.
-* [**Quiz**](#quiz) is to evaluate your knowledge and programming skills.   
+* [**Lectures**](#course-outline) are to cover the major topics, emphasizing and discussing the important points, and solve examples. 
+* [**Tutorials**](#course-outline) are to solve problems in the course material and homework assignments.     
+* [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the course material.
+* [**Quizzes**](#quiz) are to evaluate your knowledge and programming skills.   
 
 ## Course Objectives
 By the end of this course, students should be able to  
