@@ -44,7 +44,7 @@ By the end of this course, students should be able to
 * Make online engagement through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/549056) or attend live help sessions.   
 * Watch tutorial videos to check your answers for the problems.
 * Employ an editor, Workspace browser, and debugging tool to solve the problems. 
-* Work with your colleagues or ask help from TAs if possible.  (Comment: I'm just wondering if they would interpret "working with TAs " as "asking solutions from TAs. Some students would just ask solutions to finish the aasignments without devoting any effort into learning the concepts.)
+* Work with your colleagues or ask help from TAs if possible. 
 
 ## Prerequisites
 "Linear algebra" (AE/ENVE/GEOE 115) and "Calculus 1 for Engineering" (MATH 116) are prerequisites for this course, which you learned in the 1A term. If you are not familiar with these topics, please review corresponding lecture slides or tutorials. 
@@ -58,7 +58,7 @@ This course is not based on any particular textbook. However, lecture slides hav
 * Moore, Holly. *"MATLAB for Engineers,"* Pearson, 2017.
 
 ## Course Outline
-All lectures and tutorials will be delivered using pre-recorded videos. All videos will be uploaded on a YouTube Channel. For those who cannot access YouTube for some reason, video files will be shared in person. There are twelve modules and each module has 1 ~ 3 lecture and tutorial videos. The study load for each module is marked as the number of regular offline classes, which becomes a total of 24 classes. Roughly, students are expected to complete two classes every week. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures, assignments and quizzes. The course material will be posted as a PDF. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and previous modules. For example, Quiz #2 will cover Module 01 to Module 05. 
+All lectures and tutorials will be delivered using pre-recorded videos. All videos will be uploaded on a [**YouTube Channel**](https://www.youtube.com/playlist?list=PLa1nAPP8qUX90fanmEze3zLD41N-4lV25). For those who cannot access YouTube for some reason, video files will be shared in person. There are twelve modules and each module has 1 ~ 3 lecture and tutorial videos. The study load for each module is marked as the number of regular offline classes, which becomes a total of 24 classes. Roughly, students are expected to complete two classes every week. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures, assignments and quizzes. The course material will be posted as a PDF. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and previous modules. For example, Quiz #2 will cover Module 01 to Module 05. 
 
 |Module|Topics|Load|ETF|Slide|[Homework](#homework-assignment)|[Quiz](#quiz)| 
 |:----|:-----|:----:|:----:|:----:|:----:|:----:|
@@ -82,21 +82,22 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |Module 00|[<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() |[<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() |
 
 ## Quiz
-The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB editor before submitting.  (*Comment: are they be able to evaluate sols with the matlab grader? like "run the script"?)  
-The students must thoroughly prepare and be ready for taking the online quizzes in advance, such as internet connection, computer peripheral devices, MATLAB access, laptop power status, personal circumstance. If they fail for some reason, the students should contact both the First-Year Engineering Office and the instructor and provide sensible reasons. If accepted, each student will receive a different set of quizzes with alternative questions that will cover the same content.
+The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB editor before submitting. 
+ 
+The students **must thoroughly prepare and be ready for taking the online quizzes** in advance, such as internet connection, computer peripheral devices, MATLAB access, laptop power status, personal circumstance. If they fail for some reason, the students should contact both the First-Year Engineering Office and the instructor and provide sensible reasons. If accepted, each student will receive a different set of quizzes with alternative questions that will cover the same content.
 
 ### Schedule  
 |Exam|Topics|Date|Duration|
 |:---|:-------|:-----|:----|
-|**Quiz #1**|Module 01 ~ Module 02|1st week of June|120 minutes|
-|**Quiz #2**|Module 01 ~ Module 05|4th week of June|120 minutes|
-|**Quiz #3**|Module 01 ~ Module 07|4th week of July|150 minutes| 
+|**Quiz #1**|Module 01 ~ Module 02|June 01 or June 02 at 2:30|120 minutes|
+|**Quiz #2**|Module 01 ~ Module 05|June 29 or June 30 at 2:30|120 minutes|
+|**Quiz #3**|Module 01 ~ Module 07|July 20 or July 21 at 2:30|150 minutes| 
 |**Quiz #4**|Module 01 ~ Module 12|3rd week of August|150 minutes|   
 
 ## Policy for Cheating 
-Students are encouraged to work in groups through collaborative learning only for homework assignments (not quizzes), but are required to submit their assignments individually. Students **must not share their solutions with other students**. The TAs will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs. Although you pass all the problems in MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. You will be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). Both copiers and copyees are guilty of cheating and will receive an equal penalty. The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
+Students are encouraged to work in groups through collaborative learning only for homework assignments (not quizzes), but are required to submit their assignments individually. Students **must not share their solutions with other students**. The TAs will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. You will be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). Both copiers and copyees are guilty of cheating and will receive an equal penalty. The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
 
-Experience has shown that the students who copy friend's solutions **do not know how to make them different** and tend to not bother to change their friends' code. You should not trust your friends. Once you share the solution to your friend, you will likely get caught for cheating. Sharing your solutions to your friend will benefit you or your friends, and overall is a dumb thing to do. 
+Experience has shown that the students who copy friend's solutions **do not know how to make them different** and tend to not bother to change their friends' code. You should not trust your friends. Once you share the solution to your friend, you will likely get caught for cheating. Sharing your solutions to your friend will not benefit you or your friends, and overall is a dumb thing to do. 
 
 What's worse, once you are cheating, your and your friend's previous assignments and solutions for quizzes will be re-evaluated. If evidence is shown that solutions are shared among them more than one time, you will fail the course and should retake it in the future. Do not feel easy if your cheating is undetected as it can still end up in a disaster. 
 
