@@ -1,6 +1,6 @@
 # AE/ENVE/GEOE 121: Computational Method (Spring, 2020)
 
-|<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (12:30PM ~ 02:30PM) (EST) <br> **Live Help Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (9:30AM ~ 11:30AM) (EST) <br> **Live Help Session (Instructor): ** Fri (08:00 AM) (EST)|
+|<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (12:30PM ~ 02:30PM) (EST) <br> **Live Help Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (9:30AM ~ 11:30AM) (EST) <br> **Live Help Session (Instructor):** Fri (08:00 AM) (EST)|
 |:--------|:----------- |
 
 **Last updated:** 2020-05-06  
@@ -24,9 +24,9 @@
 This course introduces computer programming for engineering students using MATLAB. MATLAB is an easy and readable programming language and is an excellent choice for those learning programming for the first time. This course will cover various topics including programming fundamentals, matrix operations, file I/O, and data visualization. Students who complete this course will gain a fundamental understanding of computer programming techniques and be able to operate, analyze, and visualize all types of data for future engineering studies. This course is not a MATLAB tutorial course. It is an introductory programming course that uses MATLAB to illustrate general concepts in computer programming.  
 
 This course includes lectures, tutorials, homework assignments, and quizzes:
-* [**Lectures**](#course-outline) are to cover the major topics, emphasizing and discussing the important points, and solve examples. 
-* [**Tutorials**](#course-outline) are to solve problems in the course material and homework assignments.     
-* [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the course material.
+* [**Lectures**](#course-outline) are to cover the major topics, emphasizing and discussing the important concepts with worked-out examples. 
+* [**Tutorials**](#course-outline) are to assist students in the problems of course material and homework assignments.     
+* [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material.
 * [**Quizzes**](#quiz) are to evaluate your knowledge and programming skills.   
 
 ## Course Objectives
@@ -40,11 +40,11 @@ By the end of this course, students should be able to
 ## Study Guide
 * Watch lecture video(s) of each module. 
 * Solve problems in the course material and tutorials by yourself.
-* Type and run all scripts in the course material and sample solutions in tutorial videos. Do not skim the code.  
-* Make online engagement through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/549056) or attending live help sessions.   
+* Type and run all scripts of sample solutions in the course material and tutorial videos. Do not skim the code.  
+* Make online engagement through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/549056) or attend live help sessions.   
 * Watch tutorial videos to check your answers for the problems.
 * Employ an editor, Workspace browser, and debugging tool to solve the problems. 
-* Work with your colleagues or TAs if possible.  
+* Work with your colleagues or ask help from TAs if possible.  (Comment: I'm just wondering if they would interpret "working with TAs " as "asking solutions from TAs. Some students would just ask solutions to finish the aasignments without devoting any effort into learning the concepts.)
 
 ## Prerequisites
 "Linear algebra" (AE/ENVE/GEOE 115) and "Calculus 1 for Engineering" (MATH 116) are prerequisites for this course, which you learned in the 1A term. If you are not familiar with these topics, please review corresponding lecture slides or tutorials. 
@@ -58,7 +58,7 @@ This course is not based on any particular textbook. However, lecture slides hav
 * Moore, Holly. *"MATLAB for Engineers,"* Pearson, 2017.
 
 ## Course Outline
-All lectures and tutorials will be delivered using pre-recorded videos. All videos will be uploaded on a YouTube Channel. For those who cannot access YouTube for some reason, video files will be shared in person. There are twelve modules and each module has 1 ~ 3 lecture and tutorial videos. The study load for each module is marked as the number of regular offline classes, which becomes a total of 24 classes. Roughly, students are expected to complete two classes every week. The expected time to finish (ETF) in each module is also provided to help students' time management and keep up with lectures, assignments, and quizzes. The course material will be posted as a PDF. Homework assignments and quizzes are all cumulative. The modules to be covered on homework include all past modules and the current one. For example, Quiz #2 will cover Module 01 to Module 05. 
+All lectures and tutorials will be delivered using pre-recorded videos. All videos will be uploaded on a YouTube Channel. For those who cannot access YouTube for some reason, video files will be shared in person. There are twelve modules and each module has 1 ~ 3 lecture and tutorial videos. The study load for each module is marked as the number of regular offline classes, which becomes a total of 24 classes. Roughly, students are expected to complete two classes every week. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures, assignments and quizzes. The course material will be posted as a PDF. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and previous modules. For example, Quiz #2 will cover Module 01 to Module 05. 
 
 |Module|Topics|Load|ETF|Slide|[Homework](#homework-assignment)|[Quiz](#quiz)| 
 |:----|:-----|:----:|:----:|:----:|:----:|:----:|
@@ -82,9 +82,9 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |Module 00|[<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() |[<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() |
 
 ## Quiz
-The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged that their solutions are fully tested and evaluated using a MATLAB editor before submitting.    
+The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB editor before submitting.  (*Comment: are they be able to evaluate sols with the matlab grader? like "run the script"?)  
 
-The students must thoroughly prepare and be ready for taking the online quizzes in advance, such as internet connection, computer peripheral devices, MATLAB access, laptop power status, personal circumstance. If they fail for some reason, the students should contact both the First-Year Engineering Office and the instructor and provide sensible reasons. If accepted, each student will receive a different set of quizzes that are different from the initial quizzes
+The students must thoroughly prepare and be ready for taking the online quizzes in advance, checking their internet connection, computer peripheral devices, MATLAB access, laptop power status, personal circumstance. If they fail for some reason, the students should contact both the First-Year Engineering Office and the instructor to provide reasonable excuses. If accepted, each student will receive a different set of quizzes that are different from the original quizzes.
 ### Schedule  
 |Exam|Topics|Date|Duration|
 |:---|:-------|:-----|:----|
@@ -94,27 +94,27 @@ The students must thoroughly prepare and be ready for taking the online quizzes 
 |**Quiz #4**|Module 01 ~ Module 12|3rd week of August|150 minutes|   
 
 ## Policy for Cheating 
-Students are encouraged to work in groups through collaborative learning only for homework assignments (not quizzes), but require to submit their assignments individually. Students **must not share their solutions with other students**. The TAs will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs. Although you pass all the problems in MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. You will be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). Both copiers and copyees are guilty of cheating and will receive an equal penalty. The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
+Students are encouraged to work in groups through collaborative learning only for homework assignments (not quizzes), but are required to submit their assignments individually. Students **must not share their solutions with other students**. The TAs will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs. Although you pass all the problems in MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. You will be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). Both copiers and copyees are guilty of cheating and will receive an equal penalty. The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
 
 Experience has shown that the students who copy friend's solutions **do not know how to make them different** and tend to not bother to change them. You should not trust your friends. Once you share the solution to your friend, you will likely get caught for cheating. Sharing your solutions to your friend is a pretty dumb thing. 
 
-What's worse, once you are cheating, you and your friend's previous assignments and solutions for quizzes will be re-evaluated. If evidence is shown that solutions are shared among them more than one time, you will fail the course and should retake in the future. Do not feel easy if your cheating is undetected as it can still end up in a disaster.  
+What's worse, once you are cheating, your and your friend's previous assignments and solutions for quizzes will be re-evaluated. If evidence is shown that solutions are shared among them more than one time, you will fail the course and should retake it in the future. Do not feel easy if your cheating is undetected as it can still end up in a disaster. 
 
 ## Live Help Session
-To accommodate online training, an instructor and two TAs will have live help sessions online. We will open a WebEX meeting every help session so students can feel free to join the meeting without an appointment. These help sessions are scheduled during regular lectures and lab hours for two courses (AE and ENVE/GEOE 121). It becomes a total of 10 hours a week.    
+To accommodate online training, an instructor and two TAs will have live help sessions online. We will schedule a WebEX meeting during every help session so students can feel free to join the meeting without an appointment. These help sessions are scheduled during regular lectures and lab hours for two courses (AE and ENVE/GEOE 121). It becomes a total of 10 hours a week.    
 
 The instructor will have a one-hour special help session for the students who will stay in different time-zones (e.g., Asia or Europe). The session will be scheduled early in the morning or late evening in the EST timezone. Any other student can use this help session as well. 
 
 ## Homework Assignment
-The homework assignments will be designed using the MATLAB Grader tool. This tool allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments.  
+The homework assignments will be designed using the MATLAB Grader tool. This tool allows students to get instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments.  
 
 Problems in the homework assignments are more challenging than examples or problems in the course materials. Make sure to use concepts covered in live help sessions, as they provide hints and ideas towards the homework problems. Do not get used to writing your script directly to the MATLAB Grader only to pass the testers. This is because the submission per problem will be **only one time in the quizzes**. This means you do not have a chance to revise your code using the feedback from the MATLAB Grader. Thus, students are encouraged to use the MATLAB editor to prepare the problems in the quizzes.  
 
-The **Late submission policy** allow students to have **a maximum one-week delay for two among eight assignments.** Students do not need to inform TA for their delay submission as well as the reason for the delay. The MATLAB Grader records your submission time. TAs will just count the number of delays in your homework assignments. TAs will inform the students who delay their submission a second time. If the number of delays is more than two, the third delayed homework will be zero. Students must pay close attention to deadlines. 
+The **Late submission policy** allows students to have **a maximum one-week delay for two among eight assignments.** Students do not need to inform TA for their delay submission as well as the reason for the delay. The MATLAB Grader records your submission time. TAs will just count the number of delays in your homework assignments. TAs will inform the students who delay their submission for a second time. If the number of delays is more than two, the third delayed homework will be marked as zero. Students must pay close attention to deadlines. 
 
-Unless there are significant health issues that may cause students to not to submit assignments on time for more than a second time, students should contact both the First-Year Engineering Office and the instructor and sufficiently explain why they are not able to submit **all three homework assignments** late. Thus, **please do not waste two chances for delay submission.** Again, **no late submission is accepted**, and any missed homework will be given a grade of 0. There is no exception.  
+Unless there are significant health issues that may cause late submissions for more than a second time, students should contact both the First-Year Engineering Office and the instructor with sufficient explainations of why they submit **all three homework assignments** late. Thus, **please do not waste two chances for delayed submission.** Again, **no late submission is accepted** other than the two chances allowd, and any missed homework will be given a grade of 0. There is no exception.  
 
-Note that TAs will check the time records of the latest submitted solutions. If the students revise their solution after the first due date, it will be considered as a late submission. 
+Note that TAs will check the time records of the latest submitted solutions. If the students revise their solution after the first due date, it will be considered as a late submission. (*commmet: can we access their previous sols before the ddl instead of marking the latst one?)
 
 ### Schedule
 |HW|Topic|Start date|First due date|Second due date|
@@ -129,13 +129,13 @@ Note that TAs will check the time records of the latest submitted solutions. If 
 |HW #8|Module 01 ~ Module 12|July 28|Aug 05 at 11:59PM|Aug 12 at 11:59PM|
 
 ## Communication  
-**All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/549056) but all information related the course will be posted on this course website. The instructor and TAs will frequently announce in LEARN after updating the web page.** Students are responsible for checking the course website regularly**. LEARN will be only used for announcements and online Q&A discussion.   
+**All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/549056) but all information related to the course will be posted on this course website. The instructor and TAs will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly**. LEARN will be only used for announcements and online Q&A discussion.   
 
-In this course, the students are highly encouraged to engage in online discussions to create and facilitate a **collaborative learning experience**. Students are invited to ask questions and answer them and share their knowledge and resources. **Please direct your communications to the Discussion board on LEARN. However, if there is a good reason not to use the discussion forum (e.g., personal matters, a question that might reveal your solution of your report, etc.), please directly contact the TAs or use [live help session](#live-help-session) (private chat).  
+In this course, the students are highly encouraged to engage in online discussions to create and facilitate a **collaborative learning experience**. Students are invited to ask questions and answer them, and share their knowledge and resources. **Please direct your communications to the Discussion board on LEARN. However, if there is a good reason not to use the discussion forum (e.g., personal matters, a question that might reveal your solution of your report, etc.), please directly contact the TAs or use [live help session](#live-help-session) (private chat).  
 
 At the end of the course, TAs will evaluate the online activity of each student and measure an "online engagement" score. You will get a higher score if students 
 - Ask many and useful questions in LEARN or TA sessions
-- Comments on the colleague's questions
+- Comment on the colleague's questions
 - Share your solutions for examples or problems in the course material 
 
 Here are the instructions of having Discussions on LEARN
