@@ -49,9 +49,8 @@ By the end of this course, students should be able to
 ## Prerequisites
 "Linear algebra" (AE/ENVE/GEOE 115) and "Calculus 1 for Engineering" (MATH 116) are prerequisites for this course, which you learned in the 1A term. If you are not familiar with these topics, please review corresponding lecture slides or tutorials. 
 
-* [**How to download and install MATLAB in your computer?**](tutorial/matlab_install)
 * [**How to use MATLAB Grader?**](tutorial/matlab_grader)
-
+* [**How to download and install MATLAB in your computer?**](tutorial/matlab_install)
 
 ## Course Textbook 
 This course is not based on any particular textbook. However, lecture slides have been prepared using the following two references:
