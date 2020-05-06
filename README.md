@@ -1,9 +1,9 @@
 # AE/ENVE/GEOE 121: Computational Method (Spring, 2020)
 
-|<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (12:30PM ~ 02:30PM) (EST) <br> **Live Help Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (9:30AM ~ 11:30AM) (EST) <br> **Live Help Session (Instructor): TBD**|
+|<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (12:30PM ~ 02:30PM) (EST) <br> **Live Help Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (9:30AM ~ 11:30AM) (EST) <br> **Live Help Session (Instructor): ** Fri (08:00 AM) (EST)|
 |:--------|:----------- |
 
-**Last updated:** 2020-05-05  
+**Last updated:** 2020-05-06  
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -105,9 +105,9 @@ The instructor will have a one-hour special help session for the students who wi
 ## Homework Assignment
 The homework assignments will be designed using the MATLAB Grader tool. This tool allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments.  
 
-Problems in the homework assignments are more challenging than examples or problems in the course materials. Make sure to use concepts covered in live help sessions, as they provide hints and ideas towards the homework problems. Do not get used to writing your script directly to the MATLAB Grader only to pass the testers. The submission per problem is only one time in the quizzes. This means you do not have a chance to revise your code although you are using the MATLAB Grader. If students do not know how to use MATLAB editor, you will not get a high mark on quizzes.  
+Problems in the homework assignments are more challenging than examples or problems in the course materials. Make sure to use concepts covered in live help sessions, as they provide hints and ideas towards the homework problems. Do not get used to writing your script directly to the MATLAB Grader only to pass the testers. This is because the submission per problem will be **only one time in the quizzes**. This means you do not have a chance to revise your code using the feedback from the MATLAB Grader. Thus, students are encouraged to use the MATLAB editor to prepare the problems in the quizzes.  
 
-The **Late submission policy** allow students to have **a maximum one-week delay for two among eight assignments.** Students do not need to inform TA for their delay submission as well as the reason for the delay. TAs will just count the number of delays in your homework assignments. TAs will inform the students who delay their submission a second time. If the number of delays is more than two, the third delayed homework will be zero. Students must pay close attention to deadlines. 
+The **Late submission policy** allow students to have **a maximum one-week delay for two among eight assignments.** Students do not need to inform TA for their delay submission as well as the reason for the delay. The MATLAB Grader records your submission time. TAs will just count the number of delays in your homework assignments. TAs will inform the students who delay their submission a second time. If the number of delays is more than two, the third delayed homework will be zero. Students must pay close attention to deadlines. 
 
 Unless there are significant health issues that may cause students to not to submit assignments on time for more than a second time, students should contact both the First-Year Engineering Office and the instructor and sufficiently explain why they are not able to submit **all three homework assignments** late. Thus, **please do not waste two chances for delay submission.** Again, **no late submission is accepted**, and any missed homework will be given a grade of 0. There is no exception.  
 
@@ -128,7 +128,7 @@ Note that TAs will check the time records of the latest submitted solutions. If 
 ## Communication  
 **All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/549056) but all information related the course will be posted on this course website. The instructor and TAs will frequently announce in LEARN after updating the web page.** Students are responsible for checking the course website regularly**. LEARN will be only used for announcements and online Q&A discussion.   
 
-In this course, the students are highly encouraged to engage in online discussions to create and facilitate a **collaborative learning experience**. Students are invited to ask questions and answer them and share their knowledge and resources. **Please direct your communications to the Discussion board on LEARN. However, if there is a good reason not to use the discussion forum (e.g., personal matters, a question that might reveal your solution of your report, etc.), please directly contact the TAs or use [live help session]() (private chat).  
+In this course, the students are highly encouraged to engage in online discussions to create and facilitate a **collaborative learning experience**. Students are invited to ask questions and answer them and share their knowledge and resources. **Please direct your communications to the Discussion board on LEARN. However, if there is a good reason not to use the discussion forum (e.g., personal matters, a question that might reveal your solution of your report, etc.), please directly contact the TAs or use [live help session](#live-help-session) (private chat).  
 
 At the end of the course, TAs will evaluate the online activity of each student and measure an "online engagement" score. You will get a higher score if students 
 - Ask many and useful questions in LEARN or TA sessions
