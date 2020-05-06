@@ -9,7 +9,7 @@
 - [Course Description](#course-description)
 - [Course Objectives](#course-objectives)
 - [Study Guide](#study-guide)
-- [Prerequisite](#prerequisite)
+- [Prerequisites](#prerequisites)
 - [Course Textbook](#course-textbook)
 - [Course Outline](#course-outline)
 - [Quiz](#quiz)
@@ -55,7 +55,7 @@ This course is not based on any particular textbook. However, lecture slides hav
 * Moore, Holly. *"MATLAB for Engineers,"* Pearson, 2017.
 
 ## Course Outline
-All lectures and tutorials will be delivered using pre-recorded videos. All videos will be uploaded on a YouTube Channel. For those who cannot access YouTube for some reason, video files will be shared in person. There are twelve modules and each module has 1 ~ 3 lecture videos and tutorial videos. The study load for each module is marked as the number of regular offline class, which becomes a total of 24 classes. Roughly, students are expected to complete two classes every week. The expected time to finish (ETF) in each module is also provided to help students' time management and keep up with lectures, assignments, and quizzes. The course material will be posted as a PDF. Homework assignments and quizzes are all cumulative. The modules to be covered on homework include all past modules and the current one. For example, Quiz #2 will cover Module 01 to Module 05. 
+All lectures and tutorials will be delivered using pre-recorded videos. All videos will be uploaded on a YouTube Channel. For those who cannot access YouTube for some reason, video files will be shared in person. There are twelve modules and each module has 1 ~ 3 lecture and tutorial videos. The study load for each module is marked as the number of regular offline classes, which becomes a total of 24 classes. Roughly, students are expected to complete two classes every week. The expected time to finish (ETF) in each module is also provided to help students' time management and keep up with lectures, assignments, and quizzes. The course material will be posted as a PDF. Homework assignments and quizzes are all cumulative. The modules to be covered on homework include all past modules and the current one. For example, Quiz #2 will cover Module 01 to Module 05. 
 
 |Module|Topics|Load|ETF|Slide|[Homework](#homework-assignment)|[Quiz](#quiz)| 
 |:----|:-----|:----:|:----:|:----:|:----:|:----:|
@@ -79,10 +79,9 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |Module 00|[<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() |[<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() |
 
 ## Quiz
-The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged that their solutions are fully tested and evaluated using a MATLAB editor before submission.    
+The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged that their solutions are fully tested and evaluated using a MATLAB editor before submitting.    
 
-The students must thoroughly prepare and be ready for taking the online quizzes in advance, such as internet connection, computer peripheral devices, MATLAB access, laptop power status, personal circumstance. If they fail for some reason, the students should contact both the First-Year Engineering Office and the instructor and provide sensible reasons. If accepted, they will take another set of the quiz individually.   
-
+The students must thoroughly prepare and be ready for taking the online quizzes in advance, such as internet connection, computer peripheral devices, MATLAB access, laptop power status, personal circumstance. If they fail for some reason, the students should contact both the First-Year Engineering Office and the instructor and provide sensible reasons. If accepted, each student will receive a different set of quizzes that are different from the initial quizzes
 ### Schedule  
 |Exam|Topics|Date|Duration|
 |:---|:-------|:-----|:----|
@@ -92,25 +91,25 @@ The students must thoroughly prepare and be ready for taking the online quizzes 
 |**Quiz #4**|Module 01 ~ Module 12|3rd week of August|150 minutes|   
 
 ## Policy for Cheating 
-Students are encouraged to work in groups through collaborative learning only for homework assignments (not quizzes), but to submit their assignments individually. Students **must not share their solutions with other students**. The TAs will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs. Although you pass all the problems in MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. You will be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). Both copiers and copyees are guilty of cheating and will receive an equal penalty. The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will receive extra points.  
+Students are encouraged to work in groups through collaborative learning only for homework assignments (not quizzes), but require `to submit their assignments individually. Students **must not share their solutions with other students**. The TAs will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs. Although you pass all the problems in MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. You will be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). Both copiers and copyees are guilty of cheating and will receive an equal penalty. The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
 
-Experience has shown that the students who copy friend's solutions **do not know how to make them different** and do not even make them change them. You should not trust your friends. Once you share the solution to your friend, you likely get caught for cheating. Sharing your solutions to your friend is a pretty dumb thing. 
+Experience has shown that the students who copy friend's solutions **do not know how to make them different** and tend to not bother to change them. You should not trust your friends. Once you share the solution to your friend, you will likely get caught for cheating. Sharing your solutions to your friend is a pretty dumb thing. 
 
-What's worse, once you are cheating, you and your friend's previous assignments and solutions for quizzes will be re-evaluated. If evidence is shown that solutions are shared among them more than one time, you will fail the course and should retake in the future. Do not feel easy if your cheating is undetected. You might end in disaster.  
+What's worse, once you are cheating, you and your friend's previous assignments and solutions for quizzes will be re-evaluated. If evidence is shown that solutions are shared among them more than one time, you will fail the course and should retake in the future. Do not feel easy if your cheating is undetected as it can still end up in a disaster.  
 
 ## Live Help Session
 To accommodate online training, an instructor and two TAs will have live help sessions online. We will open a WebEX meeting every help session so students can feel free to join the meeting without an appointment. These help sessions are scheduled during regular lectures and lab hours for two courses (AE and ENVE/GEOE 121). It becomes a total of 10 hours a week.    
 
-The instructor will have one-hour a special help session for the students who will stay in different time-zones (e.g., Asia or Europe). The session will be scheduled early in the morning or late evening in the EST timezone. Any student can use this help session as well. 
+The instructor will have a one-hour special help session for the students who will stay in different time-zones (e.g., Asia or Europe). The session will be scheduled early in the morning or late evening in the EST timezone. Any other student can use this help session as well. 
 
 ## Homework Assignment
-The homework assignments will be designed using the MATLAB Grader. This tool allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments.  
+The homework assignments will be designed using the MATLAB Grader tool. This tool allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments.  
 
-Problems in the homework assignments are more challenging than examples or problems in the course materials. or use live help sessions to receive an idea or hint. Do not write your script directly to the MATLAB Grader only to pass the testers. The submission per problem is only one time in the quizzes. This means you do not have a chance to revise your code although you are using the MATLAB Grader. If students do not know how to use MATLAB editor, you will get a high mark on quizzes.  
+Problems in the homework assignments are more challenging than examples or problems in the course materials. Make sure to use concepts covered in live help sessions, as they provide hints and ideas towards the homework problems. Do not get used to writing your script directly to the MATLAB Grader only to pass the testers. The submission per problem is only one time in the quizzes. This means you do not have a chance to revise your code although you are using the MATLAB Grader. If students do not know how to use MATLAB editor, you will not get a high mark on quizzes.  
 
-**Late submission policy** Students allows **the maximum one-week delay for two among eight assignments.** Students do not need to inform TA for their delay submission as well as the reason for the delay. TAs will just count the number of delays in your homework assignments. TAs will inform the students who delay the submissions two times. If the number of delays is more than two, the third delayed homework will be zero. Students must pay close attention to deadlines. 
+The **Late submission policy** allow students to have **a maximum one-week delay for two among eight assignments.** Students do not need to inform TA for their delay submission as well as the reason for the delay. TAs will just count the number of delays in your homework assignments. TAs will inform the students who delay their submission a second time. If the number of delays is more than two, the third delayed homework will be zero. Students must pay close attention to deadlines. 
 
-Unless there are significant health issues that are not allowed to submit assignments on time more than two times, students should both contact the First-Year Engineering Office and the instructor and sufficiently explain why they are not able to submit **all three homework assignments** late. Thus, **please do not waste two chances for delay submission.** Again, **no late submission is accepted**, and any missed homework will be given a grade of 0. There is no exception.  
+Unless there are significant health issues that may cause students to not to submit assignments on time for more than a second time, students should contact both the First-Year Engineering Office and the instructor and sufficiently explain why they are not able to submit **all three homework assignments** late. Thus, **please do not waste two chances for delay submission.** Again, **no late submission is accepted**, and any missed homework will be given a grade of 0. There is no exception.  
 
 Note that TAs will check the time records of the latest submitted solutions. If the students revise their solution after the first due date, it will be considered as a late submission. 
 
