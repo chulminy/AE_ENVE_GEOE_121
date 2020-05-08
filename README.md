@@ -138,7 +138,7 @@ At the end of the course, TAs will evaluate the online activity of each student 
 - Comment on the colleague's questions
 - Share your solutions for examples or problems in the course material 
 
-**Note that TAs will only measure the online activity of the students in different timezones **
+**Note that TAs will only measure the LEARN activity of the students in specific time zones (More than 6 hour time difference: GMT+4 - GMT+9)**
 
 Here are the instructions of having Discussions on LEARN
 - Please be respectful of your peers, instructor, and others in your posts and comments.
