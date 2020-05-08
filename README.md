@@ -1,6 +1,6 @@
 # AE/ENVE/GEOE 121: Computational Method (Spring, 2020)
 
-|<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (12:30PM ~ 02:30PM) (EST) <br> **Live Help Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (9:30AM ~ 11:30AM) (EST) <br> **Live Help Session (Instructor):** Fri (08:00 AM) (EST)|
+|<img src="img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (12:30PM ~ 02:30PM) (EST) <br> **Live Help Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (9:30AM ~ 11:30AM) (EST) <br> **Live Help Session (Instructor):** Fri (08:00 AM) (EST)|
 |:--------|:----------- |
 
 **Last updated:** 2020-05-06  
@@ -114,7 +114,7 @@ The **Late submission policy** allow students to have **a maximum one-week delay
 
 Unless there are significant health issues that may cause students to submit more than two of their assignemnts late, students should contact both the First-Year Engineering Office and the instructor and sufficiently explain why they are not able to submit **all three homework assignments** late. Thus, **please do not waste two chances for delay submission.** Again, **no late submission is accepted**, and any missed homework will be given a grade of 0. There is no exception.  
 
-Note that TAs will check the time records of the latest submitted solutions. If the students revise their solution after the first due date, it will be considered as a late submission. (*commmet: can we access their previous sols before the ddl instead of marking the latst one?)
+Note that TAs will check the time records of the latest submitted solutions. If the students revise their solution after the first due date, it will be considered as a late submission. 
 
 ### Schedule
 |HW|Topic|Start date|First due date|Second due date|
@@ -131,7 +131,7 @@ Note that TAs will check the time records of the latest submitted solutions. If 
 ## Communication  
 **All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/549056) but all information related to the course will be posted on this course website. The instructor and TAs will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly**. LEARN will be only used for announcements and online Q&A discussion.   
 
-In this course, the students are highly encouraged to engage in online discussions to create and facilitate a **collaborative learning experience**. Students are invited to ask questions and answer them, and share their knowledge and resources. **Please direct your communications to the Discussion board on LEARN. However, if there is a good reason not to use the discussion forum (e.g., personal matters, a question that might reveal your solution of your report, etc.), please directly contact the TAs or use [live help session](#live-help-session) (private chat).  
+In this course, the students are highly encouraged to engage in online discussions to create and facilitate a **collaborative learning experience**. Students are invited to ask questions and answer them, and share their knowledge and resources. Please direct your communications to the Discussion board on LEARN. However, if there is a good reason not to use the discussion forum (e.g., personal matters, a question that might reveal your solution of your report, etc.), please directly contact the TAs or use [live help session](#live-help-session) (private chat).  
 
 At the end of the course, TAs will evaluate the online activity of each student and measure an "online engagement" score. You will get a higher score if students 
 - Ask many and useful questions in LEARN or TA sessions
