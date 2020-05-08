@@ -138,6 +138,8 @@ At the end of the course, TAs will evaluate the online activity of each student 
 - Comment on the colleague's questions
 - Share your solutions for examples or problems in the course material 
 
+**Note that TAs will only measure the online activity of the students in different timezones **
+
 Here are the instructions of having Discussions on LEARN
 - Please be respectful of your peers, instructor, and others in your posts and comments.
 - Asking good questions is another way of learning by summarizing and explaining what you know and do not know. Thoughtful questions and answers will help all students in this class. Before posting a question, please ask yourself whether you are truly stuck (meaning that the answers cannot be readily found on the web) and your questions are complete and legible. 
