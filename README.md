@@ -3,7 +3,7 @@
 |<img src="img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (12:30PM ~ 02:30PM) (EST) <br> **Live Help Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (9:30AM ~ 11:30AM) (EST) <br> **Live Help Session (Instructor):** Fri (08:00 AM) (EST)|
 |:--------|:----------- |
 
-**Last updated:** 2020-05-06  
+**Last updated:** 2020-05-09  
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -62,8 +62,8 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 
 |Module|Topics|Load|ETF|Slide|[Homework](#homework-assignment)|[Quiz](#quiz)| 
 |:----|:-----|:----:|:----:|:----:|:----:|:----:|
-|Module 00| Preliminaries|0.5|May 15|| |
-|Module 01| Basic MATLAB Programming|2|May 15 ||HW #1|
+|Module 00| Preliminaries|0.5|May 15|[**Link**](slide/Module00_Preliminaries.pdf)| |
+|Module 01| Basic MATLAB Programming|2|May 15 |[**Link**](slide/Module01_Basic_MATLAB_Programming.pdf)|HW #1|
 |Module 02| Vectors and Matrices|2|May 22||HW #2|**Quiz #1**|
 |Module 03| Selection Statement |2|May 29|||
 |Module 04| Loop Statement|2|June 05||HW #3|
@@ -79,7 +79,7 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 ### Lecture and Tutorial Video 
 |Module|Lecture|Tutorial| 
 |:----|:----|:-----|
-|Module 00|[<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() |[<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() [<img src="https://via.placeholder.com/120x80">]() |
+|Module 00|[<img src="https://via.placeholder.com/150x80">]() [<img src="https://via.placeholder.com/150x80">]()|[<img src="https://via.placeholder.com/150x80">]() [<img src="https://via.placeholder.com/150x80">]()|
 
 ## Quiz
 The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB editor before submitting. 
@@ -127,6 +127,8 @@ Note that TAs will check the time records of the latest submitted solutions. If 
 |HW #6|Module 01 ~ Module 07|July 09|July 17 at 11:59PM|July 24 at 11:59PM|
 |HW #7|Module 01 ~ Module 10|July 17|July 28 at 11:59PM|Aug 04 at 11:59PM|
 |HW #8|Module 01 ~ Module 12|July 28|Aug 05 at 11:59PM|Aug 12 at 11:59PM|
+
+*Students can start homework assignments if they are visible in the MATLAB Grader.*
 
 ## Communication  
 **All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/549056) but all information related to the course will be posted on this course website. The instructor and TAs will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly**. LEARN will be only used for announcements and online Q&A discussion.   
