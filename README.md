@@ -79,7 +79,8 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 ### Lecture and Tutorial Video 
 |Module|Lecture|Tutorial| 
 |:----|:----|:-----|
-|Module 00|[<img src="https://via.placeholder.com/150x80">]() [<img src="https://via.placeholder.com/150x80">]()|[<img src="https://via.placeholder.com/150x80">]() [<img src="https://via.placeholder.com/150x80">]()|
+|Module 00|[<img src="http://img.youtube.com/vi/u-4vrJCBp6g/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=u-4vrJCBp6g) [<img src="http://img.youtube.com/vi/ShIknVixJ_4/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=ShIknVixJ_4)|[<img src="http://img.youtube.com/vi/bLF2Q3yKnGo/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=bLF2Q3yKnGo) |
+|Module 01|[<img src="http://img.youtube.com/vi/11qN4tJh7Lw/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=11qN4tJh7Lw) | [<img src="http://img.youtube.com/vi/nYWJNN0uQCg/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=nYWJNN0uQCg)|
 
 ## Quiz
 The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB editor before submitting. 
