@@ -132,20 +132,23 @@ Note that TAs will check the time records of the latest submitted solutions. If 
 *Students can start homework assignments if they are visible in the MATLAB Grader.*
 
 ## Communication  
-**All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/549056) but all information related to the course will be posted on this course website. The instructor and TAs will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly**. LEARN will be only used for announcements and online Q&A discussion.   
+**All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/549056) but all information related to the course will be posted on this course website. The instructor and TAs will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussion.   
 
 In this course, the students are highly encouraged to engage in online discussions to create and facilitate a **collaborative learning experience**. Students are invited to ask questions and answer them, and share their knowledge and resources. Please direct your communications to the Discussion board on LEARN. However, if there is a good reason not to use the discussion forum (e.g., personal matters, a question that might reveal your solution of your report, etc.), please directly contact the TAs or use [live help session](#live-help-session) (private chat).  
 
-At the end of the course, TAs will evaluate the online activity of each student and measure an "online engagement" score. You will get a higher score if students 
-- Ask many and useful questions in LEARN or TA sessions
-- Comment on the colleague's questions
-- Share your solutions for examples or problems in the course material 
+**OLD**
+> At the end of the course, TAs will evaluate the online activity of each student and measure > > an "online engagement" score. You will get a higher score if students 
+> - Ask many and useful questions in LEARN or TA sessions
+> - Comment on the colleague's questions
+> - Share your solutions for examples or problems in the course material 
 
-Here are the instructions of having Discussions on LEARN
-- Please be respectful of your peers, instructor, and others in your posts and comments.
-- Asking good questions is another way of learning by summarizing and explaining what you know and do not know. Thoughtful questions and answers will help all students in this class. Before posting a question, please ask yourself whether you are truly stuck (meaning that the answers cannot be readily found on the web) and your questions are complete and legible. 
-- In addition, please check if the same question was asked before.   
-- Inappropriate posts and comments will be immediately deleted and closed without notice.  
+**NEW (05/11/20)**
+The TAs and instructor realized that marking individual engagement scores are not feasible. The extra credit is to encourage students involving online discussion. However, it is not easy to gauge the activity as a score. Thus, we have created a simple rule to provide a fair score. Students must ask questions to receive credit. When students ask at least one question, they will receive 2 points in each month. Also, when students answer the question and the TAs or instructor endorse the answer, the student can also receive 2 points. Thus, students will receive up to 8 points in total. TAs or the instructor will ask a question as well. If the questions are trivial and easy to be answered from the course materials or lecture/tutorial videos, they are not counted. Please follow the instruction having Discussions on LEARN below:
+
+ - Please be respectful of your peers, instructor, and others in your posts and comments.
+- Asking good questions is another way of learning by summarizing and explaining what you know and do not know. Thoughtful questions and answers will help all students in this class. Before posting a question, please ask yourself whether you are truly stuck (meaning that the answers cannot be readily found on the web) and your questions are complete and legible.
+- In addition, please check if the same question was asked before.  
+- Inappropriate posts and comments will be immediately deleted and closed without notice.
 
 ## Grading  
 The final grade will be based on the total marks earned from 8 homework assignments and 4 quizzes. Their grade components are provided as:
@@ -157,7 +160,7 @@ The final grade will be based on the total marks earned from 8 homework assignme
 |**Quiz #2**| 15 |
 |**Quiz #3**| 20 |
 |**Quiz #4**| 30 |
-|**Online engagement**|extra up to 15|
+|**Online engagement**|extra up to 8*|
 |**Total** |100| 
 
 ## Note
