@@ -60,21 +60,21 @@ This course is not based on any particular textbook. However, lecture slides hav
 ## Course Outline
 All lectures and tutorials will be delivered using pre-recorded videos. All videos will be uploaded on a [**YouTube Channel**](https://www.youtube.com/playlist?list=PLa1nAPP8qUX90fanmEze3zLD41N-4lV25). For those who cannot access YouTube for some reason, video files will be shared in person. There are twelve modules and each module has 1 ~ 3 lecture and tutorial videos. The study load for each module is marked as the number of regular offline classes, which becomes a total of 24 classes. Roughly, students are expected to complete two classes every week. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures, assignments and quizzes. The course material will be posted as a PDF. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and previous modules. For example, Quiz #2 will cover Module 01 to Module 05. 
 
-|Module|Topics|Load|ETF|Slide|[Homework](#homework-assignment)|[Quiz](#quiz)| 
-|:----|:-----|:----:|:----:|:----:|:----:|:----:|
+|Module|Topics|Load|ETF|Slide|[Quiz](#quiz)| 
+|:----|:-----|:----:|:----:|:----:|:----:|
 |Module 00| Preliminaries|0.5|May 15|[**Link**](slide/Module00_Preliminaries.pdf)| |
-|Module 01| Basic MATLAB Programming|2|May 15 |[**Link**](slide/Module01_Basic_MATLAB_Programming.pdf)|HW #1|
-|Module 02| Vectors and Matrices|2|May 22||HW #2|**Quiz #1**|
-|Module 03| Selection Statement |2|May 29|||
-|Module 04| Loop Statement|2|June 05||HW #3|
-|Module 05| Built-in Functions|3|June 17||HW #4|**Quiz #2**|
-|Module 06| Operator|3|July 03||HW #5||
-|Module 07| Function|3|July 15||HW #6|**Quiz #3**|
+|Module 01| Basic MATLAB Programming|2|May 15 |[**Link**](slide/Module01_Basic_MATLAB_Programming.pdf)|
+|Module 02| Vectors and Matrices|2|May 22||**Quiz #1**|
+|Module 03| Selection Statement |2|May 29||
+|Module 04| Loop Statement|2|June 05||
+|Module 05| Built-in Functions|3|June 17||**Quiz #2**|
+|Module 06| Operator|3|July 03|||
+|Module 07| Function|3|July 15||**Quiz #3**|
 |Module 08| Plotting|1|July 17||
 |Module 09| Data Structure|1.5|July 22|||
-|Module 10| File I/O|1.5|July 24||HW #7|
+|Module 10| File I/O|1.5|July 24||
 |Module 11| Text Manipulation|1.5|July 31|||
-|Module 12| Symbolic Function|1|Aug 05||HW #8|**Quiz #4**|
+|Module 12| Symbolic Function|1|Aug 05||**Quiz #4**|
 
 ### Lecture and Tutorial Video 
 |Module|Lecture|Tutorial| 
