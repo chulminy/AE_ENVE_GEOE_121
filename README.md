@@ -1,9 +1,9 @@
 # AE/ENVE/GEOE 121: Computational Method (Spring, 2020)
 
-|<img src="img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (12:30PM ~ 02:30PM) (EST) <br> **Live Help Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (9:30AM ~ 11:30AM) (EST) <br> **Live Help Session (Instructor):** Fri (08:00 AM) (EST)|
+|<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (12:30PM ~ 02:30PM) (EST) <br> **Live Help Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (9:30AM ~ 11:30AM) (EST) <br> **Live Help Session (Instructor):** Fri (08:00 AM) (EST)|
 |:--------|:----------- |
 
-**Last updated:** 2020-05-09  
+**Last updated:** 2020-05-24  
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -65,7 +65,7 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |Module 00| Preliminaries|0.5|May 15|[**Link**](slide/Module00_Preliminaries.pdf)| |
 |Module 01| Basic MATLAB Programming|2|May 15 |[**Link**](slide/Module01_Basic_MATLAB_Programming.pdf)||
 |Module 02| Vectors and Matrices|2|May 22|[**Link**](slide/Module02_Vectors_Matrices.pdf)|**Quiz #1**|
-|Module 03| Selection Statement |2|May 29||
+|Module 03| Selection Statement |2|May 29|[**Link**](slide/Module03_Selection_Statement.pdf)|
 |Module 04| Loop Statement|2|June 05||
 |Module 05| Built-in Functions|3|June 17||**Quiz #2**|
 |Module 06| Operator|3|July 03|||
@@ -82,6 +82,7 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |Module 00|[<img src="http://img.youtube.com/vi/u-4vrJCBp6g/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=u-4vrJCBp6g) [<img src="http://img.youtube.com/vi/ShIknVixJ_4/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=ShIknVixJ_4)|[<img src="http://img.youtube.com/vi/bLF2Q3yKnGo/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=bLF2Q3yKnGo) |
 |Module 01|[<img src="http://img.youtube.com/vi/11qN4tJh7Lw/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=11qN4tJh7Lw) | [<img src="http://img.youtube.com/vi/nYWJNN0uQCg/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=nYWJNN0uQCg)|
 |Module 02|[<img src="http://img.youtube.com/vi/ASP_TVCMHyQ/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=ASP_TVCMHyQ) [<img src="http://img.youtube.com/vi/2TDD6vV6Lfg/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=2TDD6vV6Lfg) |[<img src="http://img.youtube.com/vi/jjcuh5eLEKk/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=jjcuh5eLEKk)|
+|Module 03|[<img src="http://img.youtube.com/vi/X06EorAmBSU/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=X06EorAmBSU) |[<img src="http://img.youtube.com/vi/ySMWZkQTz-U/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=ySMWZkQTz-U)|
 
 ## Quiz
 The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB editor before submitting. 
