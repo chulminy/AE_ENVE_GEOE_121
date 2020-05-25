@@ -1,5 +1,8 @@
 # Quiz #1
 
+WE Will MAKE A GENERAL ANNOUCEMENT TRHOUGH WEBEX TEAM WITH VOICE AND CHAT DURING EXAM. P
+
+
 ## General description
 This quiz is to evaluate your understanding of key concepts covered up to Module 2. This is an individual online live exam. You can ask questions anytime through the WebEX team in person during the quiz. If you leave a message in a personal chat window (TAs or instructor), we will call you in person. You must solve all problems on your own and must not discuss them with other people. During the quiz, you can only access (0) WebEx Team (1) Course website, (2) MATLAB Grader, (3) MATLAB program in your computer, (4) Lecture/Tutorial videos, (5) Lecture slides, (6) MATLAB files that you have created while you study this course, and (7) Digital/Offline note that you have made your own. Your digital note (in pdf or word) contains only texts and should not be a form of drag/drop website content. Your internet browser must be only used to access the course website, the MATLAB Grader, or Lecture/tutorial videos. 
 
