@@ -96,9 +96,9 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 ### Schedule  
 |Exam|Topics|Date|Duration|
 |:---|:-------|:-----|:----|
-|**Quiz #1**|Module 01 ~ Module 02|June 01 or June 02 at 2:30|120 minutes|
-|**Quiz #2**|Module 01 ~ Module 05|June 29 or June 30 at 2:30|120 minutes|
-|**Quiz #3**|Module 01 ~ Module 07|July 20 or July 21 at 2:30|150 minutes| 
+|**Quiz #1**|Module 01 ~ Module 02|June 01 or June 02 at 2:30 pm (or at 7:00 am)|100 minutes|
+|**Quiz #2**|Module 01 ~ Module 05|June 29 or June 30 at 2:30 pm (or at 7:00 am)|120 minutes|
+|**Quiz #3**|Module 01 ~ Module 07|July 20 or July 21 at 2:30 pm (or at 7:00 am)|150 minutes| 
 |**Quiz #4**|Module 01 ~ Module 12|3rd week of August|150 minutes|   
 
 ## Policy for Cheating 

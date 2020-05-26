@@ -6,7 +6,7 @@ This quiz is to evaluate your understanding of key concepts covered **up to Modu
 ## Quiz Schedule
 Group 1:  June 1 at 2:30 ~ 4:10 pm (EST).  
 Group 2:  June 2 at 2:30 ~ 4:10 pm (EST).  
-Group 3:  June 2 at 7:00 ~ 8:40 am (EST).   
+Group 3:  June 2 at 7:00 ~ 8:40 am (EST) for the student who stay in Asia or Middle East.   
 
 ## Submission & Grading
 For Quiz 1, you must solve all questions within **100 minutes**. Since the length of the quiz is also set to accommodate students who have technology challenges (e.g., slow internet connection, computer), no extra time will be awarded. Note that the solution that is submitted after the designated due time will not be graded. Please submit the solution on time. You can access and solve the problems in any order. However, you can submit your answer **only one time**. Once you submit your solution for each problem, you can still view the problem but the “submit” button is inactive (meaning that you cannot re-submit a problem that you already submitted). Great care should be taken before you submit your solution. Thus, it is highly recommended that you run and check your solution in the MATLAB program installed on your computer. 
