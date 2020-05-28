@@ -87,6 +87,8 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |Module 01|[<img src="http://img.youtube.com/vi/11qN4tJh7Lw/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=11qN4tJh7Lw) | [<img src="http://img.youtube.com/vi/nYWJNN0uQCg/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=nYWJNN0uQCg)|
 |Module 02|[<img src="http://img.youtube.com/vi/ASP_TVCMHyQ/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=ASP_TVCMHyQ) [<img src="http://img.youtube.com/vi/2TDD6vV6Lfg/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=2TDD6vV6Lfg) |[<img src="http://img.youtube.com/vi/jjcuh5eLEKk/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=jjcuh5eLEKk)|
 |Module 03|[<img src="http://img.youtube.com/vi/X06EorAmBSU/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=X06EorAmBSU) |[<img src="http://img.youtube.com/vi/ySMWZkQTz-U/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=ySMWZkQTz-U)|
+|Quiz 01|[<img src="http://img.youtube.com/vi/v8lJBAa4V_Q/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=v8lJBAa4V_Q) [<img src="http://img.youtube.com/vi/XwPQW-kNYpw/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=XwPQW-kNYpw)| |
+
 
 ## Quiz
 The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB editor before submitting. 
