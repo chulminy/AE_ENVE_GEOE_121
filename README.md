@@ -73,7 +73,7 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |Module 02| Vectors and Matrices|2|May 22|[**Link**](slide/Module02_Vectors_Matrices.pdf)|**Quiz #1**|
 |Module 03| Selection Statement |2|May 29|[**Link**](slide/Module03_Selection_Statement.pdf)|
 |Module 04| Loop Statement|2|June 05|[**Link**](slide/Module04_Loop_Statement.pdf)|
-|Module 05| Built-in Functions|3|June 17||**Quiz #2**|
+|Module 05| Built-in Functions|3|June 17|[**Link**](slide/Module05_Builtin_Functions.pdf)|**Quiz #2**|
 |Module 06| Operator|3|July 03|||
 |Module 07| Function|3|July 15||**Quiz #3**|
 |Module 08| Plotting|1|July 17||
@@ -85,12 +85,16 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 ### Lecture and Tutorial Video 
 |Module|Lecture|Tutorial| 
 |:----|:----|:-----|
-|Module 00|[<img src="http://img.youtube.com/vi/u-4vrJCBp6g/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=u-4vrJCBp6g) [<img src="http://img.youtube.com/vi/ShIknVixJ_4/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=ShIknVixJ_4)|[<img src="http://img.youtube.com/vi/bLF2Q3yKnGo/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=bLF2Q3yKnGo) |
-|Module 01|[<img src="http://img.youtube.com/vi/11qN4tJh7Lw/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=11qN4tJh7Lw) | [<img src="http://img.youtube.com/vi/nYWJNN0uQCg/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=nYWJNN0uQCg)|
-|Module 02|[<img src="http://img.youtube.com/vi/ASP_TVCMHyQ/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=ASP_TVCMHyQ) [<img src="http://img.youtube.com/vi/2TDD6vV6Lfg/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=2TDD6vV6Lfg) |[<img src="http://img.youtube.com/vi/jjcuh5eLEKk/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=jjcuh5eLEKk)|
-|Module 03|[<img src="http://img.youtube.com/vi/X06EorAmBSU/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=X06EorAmBSU) |[<img src="http://img.youtube.com/vi/ySMWZkQTz-U/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=ySMWZkQTz-U)|
-|Quiz 01|[<img src="http://img.youtube.com/vi/v8lJBAa4V_Q/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=v8lJBAa4V_Q) [<img src="http://img.youtube.com/vi/XwPQW-kNYpw/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=XwPQW-kNYpw)| |
-|Module 04|[<img src="http://img.youtube.com/vi/ShsiQ4RzLQU/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=ShsiQ4RzLQU) [<img src="http://img.youtube.com/vi/eZOud6UgXO0/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=eZOud6UgXO0)|[<img src="http://img.youtube.com/vi/d-jmA0pK97c/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=d-jmA0pK97c) [<img src="http://img.youtube.com/vi/tNU7PFt6RzU/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=tNU7PFt6RzU)|
+|**Module 00**|[<img src="http://img.youtube.com/vi/u-4vrJCBp6g/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=u-4vrJCBp6g) [<img src="http://img.youtube.com/vi/ShIknVixJ_4/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=ShIknVixJ_4)|[<img src="http://img.youtube.com/vi/bLF2Q3yKnGo/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=bLF2Q3yKnGo) |
+|**Module 01**|[<img src="http://img.youtube.com/vi/11qN4tJh7Lw/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=11qN4tJh7Lw) | [<img src="http://img.youtube.com/vi/nYWJNN0uQCg/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=nYWJNN0uQCg)|
+|**Module 02**|[<img src="http://img.youtube.com/vi/ASP_TVCMHyQ/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=ASP_TVCMHyQ) [<img src="http://img.youtube.com/vi/2TDD6vV6Lfg/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=2TDD6vV6Lfg) |[<img src="http://img.youtube.com/vi/jjcuh5eLEKk/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=jjcuh5eLEKk)|
+|**Module 03**|[<img src="http://img.youtube.com/vi/X06EorAmBSU/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=X06EorAmBSU) |[<img src="http://img.youtube.com/vi/ySMWZkQTz-U/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=ySMWZkQTz-U)|
+|**Quiz 01**<br>(Review)|[<img src="http://img.youtube.com/vi/v8lJBAa4V_Q/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=v8lJBAa4V_Q) [<img src="http://img.youtube.com/vi/XwPQW-kNYpw/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=XwPQW-kNYpw)| |
+|**Module 04**|[<img src="http://img.youtube.com/vi/ShsiQ4RzLQU/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=ShsiQ4RzLQU) [<img src="http://img.youtube.com/vi/eZOud6UgXO0/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=eZOud6UgXO0)|[<img src="http://img.youtube.com/vi/d-jmA0pK97c/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=d-jmA0pK97c) [<img src="http://img.youtube.com/vi/tNU7PFt6RzU/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=tNU7PFt6RzU)|
+|**Module 05**|[<img src="http://img.youtube.com/vi/UMX01agBHXg/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=UMX01agBHXg) [<img src="http://img.youtube.com/vi/gtkP2lnFbzs/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=gtkP2lnFbzs)||
+|**HW 01**|[<img src="http://img.youtube.com/vi/-pMPGr9RxFc/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=-pMPGr9RxFc)||
+
+
 
 ## Quiz
 The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB editor before submitting. 
