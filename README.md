@@ -93,7 +93,7 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |**Module 04**|[<img src="http://img.youtube.com/vi/ShsiQ4RzLQU/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=ShsiQ4RzLQU) [<img src="http://img.youtube.com/vi/eZOud6UgXO0/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=eZOud6UgXO0)|[<img src="http://img.youtube.com/vi/d-jmA0pK97c/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=d-jmA0pK97c) [<img src="http://img.youtube.com/vi/tNU7PFt6RzU/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=tNU7PFt6RzU)|
 |**Module 05**|[<img src="http://img.youtube.com/vi/UMX01agBHXg/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=UMX01agBHXg) [<img src="http://img.youtube.com/vi/gtkP2lnFbzs/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=gtkP2lnFbzs)||
 |**HW 01**|[<img src="http://img.youtube.com/vi/-pMPGr9RxFc/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=-pMPGr9RxFc)||
-
+|**HW 02**|[<img src="http://img.youtube.com/vi/CX8nq9Zia6Y/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=CX8nq9Zia6Y) [<img src="http://img.youtube.com/vi/nW773qWe6I8/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=nW773qWe6I8)||
 
 
 ## Quiz
