@@ -7,7 +7,7 @@
 
 # Announcement (Please read!)
 
-### June 09, 2020:  We answered your feedback for Study Progress Survey (4th Week): [**Link**](annoucement\4th_week_feedback). Please pay attention to the new homework schedule. 
+### June 09, 2020:  We answered your feedback for Study Progress Survey (4th Week): [**Link**](annoucement/4th_week_feedback). Please pay attention to the new homework schedule. 
 
 ### June 2, 2020: We answered your feedback for Quiz 1 [**Link**](tutorial/Q1_Feedback_Answer.md). Please review them carefully.  
 
