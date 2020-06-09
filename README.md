@@ -3,13 +3,16 @@
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (09:30AM ~ 10:30AM) (EST) <br> **Live Help Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (10:30AM ~ 11:30AM) (EST) <br> **Live Help Session (Instructor):** Fri (08:00 AM) (EST)|
 |:--------|:----------- |
 
-**Last updated:** 2020-06-02  
+**Last updated:** 2020-06-09  
 
-# Announcement 
+# Announcement (Please read!)
 
-### An instruction for Quiz 1 is posted here: [**Link**](annoucement/Quiz1_Description.md). 
+### June 09, 2020:  We answered your feedback for Study Progress Survey (4th Week): [**Link**](annoucement\4th_week_feedback). Please pay attention to the new homework schedule. 
 
-### We answered your feedback for Quiz 1 [**Link**](tutorial/Q1_Feedback_Answer.md). Please review them carefully. There is a guidance to prepare the following quizzes. 
+### June 2, 2020: We answered your feedback for Quiz 1 [**Link**](tutorial/Q1_Feedback_Answer.md). Please review them carefully.  
+
+### May 25, 2020: An instruction for Quiz 1 is posted here: [**Link**](annoucement/Quiz1_Description.md). 
+
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -136,9 +139,9 @@ Note that TAs will check the time records of the latest submitted solutions. If 
 |:---|:-----|:----|:-----|:-----|
 |HW #1|Module 01|May 11 |May 21 at 11:59PM|May 28 at 11:59PM|
 |HW #2|Module 01 ~ Module 02|May 21 |May 28 at 11:59PM|June 04 at 11:59PM|
-|HW #3|Module 01 ~ Module 04|May 28 |June 11 at 11:59PM|June 18 at 11:59PM|
-|HW #4|Module 01 ~ Module 05|June 11|June 19 at 11:59PM|June 26 at 11:59PM|
-|HW #5|Module 01 ~ Module 06|June 19|July 09 at 11:59PM|July 16 at 11:59PM|
+|HW #3|Module 01 ~ Module 04|May 28 |June 16 at 11:59PM|June 20 at 11:59PM|
+|HW #4|Module 01 ~ Module 05|June 16|June 24 at 11:59PM|June 27 at 11:59PM|
+|HW #5|Module 01 ~ Module 06|June 24|July 09 at 11:59PM|July 16 at 11:59PM|
 |HW #6|Module 01 ~ Module 07|July 09|July 17 at 11:59PM|July 24 at 11:59PM|
 |HW #7|Module 01 ~ Module 10|July 17|July 28 at 11:59PM|Aug 04 at 11:59PM|
 |HW #8|Module 01 ~ Module 12|July 28|Aug 05 at 11:59PM|Aug 12 at 11:59PM|
