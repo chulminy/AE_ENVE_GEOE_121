@@ -1,9 +1,9 @@
 # AE/ENVE/GEOE 121: Study Process Survey (4th Week)
 
 ## Overview
-We have surveyed to monitor your study progress on this course. Loop and selection statements are the basis of programming and will be frequently utilized in the following modules. We strongly encourage students to fully understand these topics. That's why we would give you more time to study these modules thoroughly. 
+We have surveyed to monitor your study progress in this course. Loop and selection statements are the basis of programming and will be frequently utilized in the following modules. We strongly encourage students to fully understand these topics. That's why we would give you more time to study these modules thoroughly. 
 
-All 74 students responded to the survey and the [**results**](results) are presented below. As a result, we decide to delay the due date of HW#3 and HW#4 for five days. We hope that students can catch up with the modules and homework assignments during this extended period. However, this does not mean shifting the rest of the course schedules or delivery. Instead, the second submission period for HW#3 and HW#4 is shortened. This is because we would post the HW#4 review video before students take Quiz 2 (June 29). Regardless of this delay, students would finish studying each module on the corresponding ETF (no changes on the current ETFs). 
+All 74 students responded to the survey and the [**results**](results) are presented below. As a result, we decide to delay the due date of HW#3 and HW#4 for five days. We hope that students can catch up with the modules and homework assignments during this extended period. However, this does not mean shifting the rest of the course schedules or delivery. Instead, the second submission period for HW#3 and HW#4 is shortened. This is because we plan on posting the HW#4 review video before students attend Quiz 2 (June 29). Regardless of this delay, students are still able to finish studying each module on the corresponding ETF (no changes on the current ETFs). 
 
 The following new schedule has been posted on the course website. 
 
