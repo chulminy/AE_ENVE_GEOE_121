@@ -9,8 +9,8 @@
 ## Summary
 
 **Average Score**
-**Group 1:** 69.01
-**Group 2 & 3:** 71.31
+* **Group 1:** 69.01
+* **Group 2 & 3:** 71.31
 
 **Distribution**
 <img src="distribution.png" width="500">
@@ -387,11 +387,11 @@ mat_e = ones(n,3*n)*3*n;
 ### Array Manipulation (20 points)
 This program is to use matrix and element-wise operations. Assume that a row vector A, matrix B, matrix C, and a column vector R are defined as follows.
 
-<img src="q1_matrix_1.png" width="200">
+<img src="q1_matrix_1.PNG" width="200">
 
 val_a, mat_a, mat_b, vec_a, mat_c, and val_b are defined as the following. 
  
-<img src="q1_matrix.png" width="800">
+<img src="q1_matrix.PNG" width="800">
 
 These values should be computed from A, B, C, and R through matrix and element-wise operations. Individual allocation of the elements is not permitted. 
 Please write a script to compute 'val_a', 'mat_a', 'mat_b', 'vec_a', 'mat_c', and 'val_b' when values for 'A', 'B', 'C', and 'R' are given. For example, when A = [1 2 3], 'val_a' become 14. (= 1x1 + 2x2 + 3x3).
