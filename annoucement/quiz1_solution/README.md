@@ -19,6 +19,7 @@
 ### Array Manipulation (20 points)
 This program is to use matrix and element-wise operations. 
 Assume that matrix A, a column vector c, and a row vector r are defined as follows.
+
 <img src="array_manipulation_1.PNG" height="120">
 
 Then, val_a, mat_b, mat_c, mat_d, mat_e, and val_f are defined as follows.
