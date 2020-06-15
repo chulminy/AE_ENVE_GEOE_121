@@ -13,13 +13,13 @@
 * **Group 2 & 3:** 71.31
 
 **Distribution**
-<img src="distribution.PNG" width="500">
+<img src="distribution.png" width="500">
 
 ## Group 1 
 ### Array Manipulation (20 points)
 This program is to use matrix and element-wise operations. 
 Assume that matrix A, a column vector c, and a row vector r are defined as follows.
-<img src="array_manipulation_1.png" height="120">
+<img src="array_manipulation_1.PNG" height="120">
 
 Then, val_a, mat_b, mat_c, mat_d, mat_e, and val_f are defined as follows.
  
