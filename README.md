@@ -1,9 +1,9 @@
 # AE/ENVE/GEOE 121: Computational Method (Spring, 2020)
 
-|<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (09:30AM ~ 10:30AM) (EST) <br> **Live Help Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (10:30AM ~ 11:30AM) (EST) <br> **Live Help Session (Instructor):** Fri (08:00 AM) (EST)|
+|<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (09:30AM ~ 10:30AM) (EST) <br> **Live Help Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (10:30AM ~ 11:30AM) (EST) <br>|
 |:--------|:----------- |
 
-**Last updated:** 2020-06-09  
+**Last updated:** 2020-06-22  
 
 # Announcement (Please read!)
 
@@ -122,7 +122,7 @@ What's worse, once you are cheating, your and your friend's previous assignments
 ## Live Help Session
 To accommodate online training, an instructor and two TAs will have live help sessions online. We will schedule a WebEX meeting during every help session so students can feel free to join the meeting without an appointment. These help sessions are scheduled during regular lectures and lab hours for two courses (AE and ENVE/GEOE 121). It becomes a total of 10 hours a week.    
 
-The instructor will have a one-hour special help session for the students who will stay in different time-zones (e.g., Asia or Europe). The session will be scheduled early in the morning or late evening in the EST timezone. Any other student can use this help session as well. 
+The instructor will have a one-hour special help session for the students who will stay in different time-zones (e.g., Asia or Europe). The session will be scheduled early in the morning or late evening in the EST timezone. Any other student can use this help session as well. (Note that there is no instructor's session since June 22)
 
 ## Homework Assignment
 The homework assignments will be designed using MATLAB Grader. This tool allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments.  
