@@ -1,6 +1,6 @@
 # AE/ENVE/GEOE 121: Computational Method (Spring, 2020)
 
-|<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (09:30AM ~ 10:30AM) (EST) <br> **Live Help Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (10:30AM ~ 11:30AM) (EST) <br>|
+|<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (09:30AM ~ 10:30AM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (10:30AM ~ 11:30AM) <br>|
 |:--------|:----------- |
 
 **Last updated:** 2020-06-22  
@@ -110,9 +110,9 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 ### Schedule  
 |Exam|Topics|Date|Duration|Instruction|
 |:---|:-------|:-----|:----|:----|
-|**Quiz #1**|Module 01 ~ Module 02|June 01 or June 02 at 2:30 pm (or at 7:00 am)|100 minutes|[**Link**](annoucement/Quiz1_Description.md)|
-|**Quiz #2**|Module 01 ~ Module 05|June 29 or June 30 at 2:30 pm (or at 7:00 am)|110 minutes|[**Link**](annoucement/Quiz2_Description.md)|
-|**Quiz #3**|Module 01 ~ Module 07|July 20 or July 21 at 2:30 pm (or at 7:00 am)|TBD ||
+|**Quiz #1**|Module 01 ~ Module 02|June 01 or June 02 at 2:30 pm |100 minutes|[**Link**](annoucement/Quiz1_Description.md)|
+|**Quiz #2**|Module 01 ~ Module 05|June 29 or June 30 at 2:30 pm |110 minutes|[**Link**](annoucement/Quiz2_Description.md)|
+|**Quiz #3**|Module 01 ~ Module 07|July 20 or July 21 at 2:30 pm |TBD ||
 |**Quiz #4**|Module 01 ~ Module 12|August 11|TBD||   
 
 ## Policy for Cheating 
