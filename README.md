@@ -97,7 +97,8 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |**Module 05**|[<img src="http://img.youtube.com/vi/UMX01agBHXg/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=UMX01agBHXg) [<img src="http://img.youtube.com/vi/gtkP2lnFbzs/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=gtkP2lnFbzs)|[<img src="http://img.youtube.com/vi/wqQB_Xti4CU/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=wqQB_Xti4CU) [<img src="http://img.youtube.com/vi/cepQyvVi3CM/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=cepQyvVi3CM)|
 |**HW 01**|[<img src="http://img.youtube.com/vi/-pMPGr9RxFc/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=-pMPGr9RxFc)||
 |**HW 02**|[<img src="http://img.youtube.com/vi/CX8nq9Zia6Y/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=CX8nq9Zia6Y) [<img src="http://img.youtube.com/vi/nW773qWe6I8/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=nW773qWe6I8)||
-|**Module 06**|[<img src="http://img.youtube.com/vi/RTEe1O0pyNY/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=RTEe1O0pyNY) [<img src="http://img.youtube.com/vi/j6S3At52Fuc/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=j6S3At52Fuc)||
+|**Module 06**|[<img src="http://img.youtube.com/vi/RTEe1O0pyNY/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=RTEe1O0pyNY) [<img src="http://img.youtube.com/vi/j6S3At52Fuc/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=j6S3At52Fuc)|[<img src="http://img.youtube.com/vi/JGcSm0YARNk/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=JGcSm0YARNk) [<img src="http://img.youtube.com/vi/dzlSFfTIQYU/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=dzlSFfTIQYU)|
+|**HW 03**|[<img src="http://img.youtube.com/vi/6Bywtq3eDBc/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=6Bywtq3eDBc) [<img src="http://img.youtube.com/vi/7BrS_CDvdlE/0.jpg" width = "180" height="140">](https://www.youtube.com/watch?v=7BrS_CDvdlE)||
 
 ## Quiz
 The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB editor before submitting. 
@@ -105,12 +106,12 @@ The quizzes will be delivered through the MATLAB Grader like tutorials or homewo
 The students **must thoroughly prepare and be ready for taking the online quizzes** in advance, such as internet connection, computer peripheral devices, MATLAB access, laptop power status, personal circumstance. If they fail for some reason, the students should contact both the First-Year Engineering Office and the instructor and provide sensible reasons. If accepted, each student will receive a different set of quizzes with alternative questions that will cover the same content.
 
 ### Schedule  
-|Exam|Topics|Date|Duration|
-|:---|:-------|:-----|:----|
-|**Quiz #1**|Module 01 ~ Module 02|June 01 or June 02 at 2:30 pm (or at 7:00 am)|100 minutes|
-|**Quiz #2**|Module 01 ~ Module 05|June 29 or June 30 at 2:30 pm (or at 7:00 am)|120 minutes|
-|**Quiz #3**|Module 01 ~ Module 07|July 20 or July 21 at 2:30 pm (or at 7:00 am)|150 minutes| 
-|**Quiz #4**|Module 01 ~ Module 12|August 11|150 minutes|   
+|Exam|Topics|Date|Duration|Instruction|
+|:---|:-------|:-----|:----|:----|
+|**Quiz #1**|Module 01 ~ Module 02|June 01 or June 02 at 2:30 pm (or at 7:00 am)|100 minutes|[**Link**](annoucement/Quiz1_Description)|
+|**Quiz #2**|Module 01 ~ Module 05|June 29 or June 30 at 2:30 pm (or at 7:00 am)|110 minutes|[**Link**](annoucement/Quiz2_Description)|
+|**Quiz #3**|Module 01 ~ Module 07|July 20 or July 21 at 2:30 pm (or at 7:00 am)|TBD ||
+|**Quiz #4**|Module 01 ~ Module 12|August 11|TBD||   
 
 ## Policy for Cheating 
 Students are encouraged to work in groups through collaborative learning only for homework assignments (not quizzes), but are required to submit their assignments individually. Students **must not share their solutions with other students**. The TAs will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. You will be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). Both copiers and copyees are guilty of cheating and will receive an equal penalty. The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
