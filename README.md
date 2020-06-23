@@ -5,7 +5,9 @@
 
 **Last updated:** 2020-06-22  
 
-# Announcement (Please read!)
+# Announcement (PLEASE READ!)
+
+### June 22, 2020: An instruction for Quiz 2 is posted here: [**Link**](annoucement/Quiz2_Description.md). 
 
 ### June 09, 2020:  We answered your feedback for Study Progress Survey (4th Week): [**Link**](annoucement/4th_week_feedback). Please pay attention to the new homework schedule. 
 
@@ -108,8 +110,8 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 ### Schedule  
 |Exam|Topics|Date|Duration|Instruction|
 |:---|:-------|:-----|:----|:----|
-|**Quiz #1**|Module 01 ~ Module 02|June 01 or June 02 at 2:30 pm (or at 7:00 am)|100 minutes|[**Link**](annoucement/Quiz1_Description)|
-|**Quiz #2**|Module 01 ~ Module 05|June 29 or June 30 at 2:30 pm (or at 7:00 am)|110 minutes|[**Link**](annoucement/Quiz2_Description)|
+|**Quiz #1**|Module 01 ~ Module 02|June 01 or June 02 at 2:30 pm (or at 7:00 am)|100 minutes|[**Link**](annoucement/Quiz1_Description.md)|
+|**Quiz #2**|Module 01 ~ Module 05|June 29 or June 30 at 2:30 pm (or at 7:00 am)|110 minutes|[**Link**](annoucement/Quiz2_Description.md)|
 |**Quiz #3**|Module 01 ~ Module 07|July 20 or July 21 at 2:30 pm (or at 7:00 am)|TBD ||
 |**Quiz #4**|Module 01 ~ Module 12|August 11|TBD||   
 
