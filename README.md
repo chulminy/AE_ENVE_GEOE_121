@@ -80,7 +80,7 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |Module 04| Loop Statement|2|June 05|[**Link**](slide/Module04_Loop_Statement.pdf)|
 |Module 05| Built-in Functions|3|June 17|[**Link**](slide/Module05_Builtin_Functions.pdf)|**Quiz #2**|
 |Module 06| Operator|3|July 03|[**Link**](slide/Module06_Operators.pdf)||
-|Module 07| Function|3|July 15||**Quiz #3**|
+|Module 07| Function|3|July 15|[**Link**](slide/Module07_Function.pdf)|**Quiz #3**|
 |Module 08| Plotting|1|July 17||
 |Module 09| Data Structure|1.5|July 22|||
 |Module 10| File I/O|1.5|July 24||
@@ -103,6 +103,9 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |**HW 03**|[<img src="http://img.youtube.com/vi/6Bywtq3eDBc/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=6Bywtq3eDBc) [<img src="http://img.youtube.com/vi/7BrS_CDvdlE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=7BrS_CDvdlE)||
 |**Quiz 02**<br>(Review)|[<img src="http://img.youtube.com/vi/II6FngQNw_8/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=II6FngQNw_8)| |
 |**HW 04**|[<img src="http://img.youtube.com/vi/LkVoMboitnE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=LkVoMboitnE) [<img src="http://img.youtube.com/vi/ABpr2DvMtBk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=ABpr2DvMtBk)||
+|**Module 07**|[<img src="http://img.youtube.com/vi/XgExQptUjXk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=XgExQptUjXk) [<img src="http://img.youtube.com/vi/Pj-VrO7urqI/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Pj-VrO7urqI)||
+
+https://youtu.be/
 
 ## Quiz
 The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB editor before submitting. 
