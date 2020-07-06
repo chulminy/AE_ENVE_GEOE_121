@@ -3,9 +3,10 @@
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (09:30AM ~ 10:30AM) <br> **Live Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (10:30AM ~ 11:30AM) <br>|
 |:--------|:----------- |
 
-**Last updated:** 2020-07-05  
+**Last updated:** 2020-07-06  
 
 # Reading List (Please READ!) 
+* (07/06/20): Study Progress Survey (8th-week): [**Link**](annoucement/8th_week_feedback)
 * (06/22/20): Instruction for Quiz 2: [**Link**](annoucement/Quiz2_Description.md)
 * (06/15/20): Solutions for Quiz 1: [**Link**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/annoucement/quiz1_solution/README.md)
 * (06/09/20): Study Progress Survey (4th-week): [**Link**](annoucement/4th_week_feedback)
