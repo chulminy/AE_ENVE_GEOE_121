@@ -10,7 +10,7 @@
 * (06/15/20): Solutions for Quiz 1: [**Link**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/annoucement/quiz1_solution/README.md)
 * (06/09/20): Study Progress Survey (4th-week): [**Link**](annoucement/4th_week_feedback)
 * (06/02/20): Feedback for Quiz 1: [**Link**](tutorial/Q1_Feedback_Answer.md)
-* (06/22/20): Instruction for Quiz 1: [**Link**](annoucement/Quiz1_Description.md)
+* (05/22/20): Instruction for Quiz 1: [**Link**](annoucement/Quiz1_Description.md)
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -101,7 +101,6 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |**HW 04**|[<img src="http://img.youtube.com/vi/LkVoMboitnE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=LkVoMboitnE) [<img src="http://img.youtube.com/vi/ABpr2DvMtBk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=ABpr2DvMtBk)||
 |**Module 07**|[<img src="http://img.youtube.com/vi/XgExQptUjXk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=XgExQptUjXk) [<img src="http://img.youtube.com/vi/Pj-VrO7urqI/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Pj-VrO7urqI)||
 
-https://youtu.be/
 
 ## Quiz
 The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB editor before submitting. 
