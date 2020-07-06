@@ -4,9 +4,9 @@
 We have provided a survey to monitor your study progress in this course. As you know, **Quiz 3 will be in 2 weeks** and, unfortunately, we cannot change the schedule due 
 to the conflict dates with the other courses and different cohorts. Thus, we need to closely monitor your progress on this course. 
 
-All 83 students responded to the survey and the [**results**](results) are presented below. The student feedback or comments were more positive than the ones from the 4th-week progress survey. Students felt like Quiz 2 is fair and reasonable, and more than half of the students think its level of the difficulty is moderate or easy. The major written comments were also similar to the survey results. 
+All 83 students responded to the survey and the [**results**](results) are presented below. The student feedback or comments were more positive than the ones from the 4th-week progress survey. Overall, students felt that Quiz 2 was fair and reasonable, and more than half of the students think its level of the difficulty is moderate or easy. The major written comments were also similar to the survey results. 
 
-However, still more than the half of the students ask for a few more days to catch up with the course schedule. We recently heard that the CEE students are overwhelmed due to course workloads. Thus, we decided to arrange the schedule again. First, we are going to delay the due date of HW #5 for three days (The first and second due dates will become July 12 and 19, respectively). Next, there will be no HW #6. Instead, I will post more tutorial problems to prepare Quiz #3. We will give a full marks to all students for HW #6. 
+However, there are still more than half of students who are asking for a few more days to catch up with the course schedule. We recently heard that the CEE students are overwhelmed due to course workloads. Thus, we decided to arrange our schedule again. First, we are going to delay the due date of HW #5 for three days (The first and second due dates will become July 12 and 19, respectively). Next, there will be no HW #6. Instead, I will post more tutorial problems to prepare Quiz #3. We will give a full marks to all students for HW #6. 
 
 The following new schedule has been posted on the course website. 
 
@@ -91,7 +91,7 @@ Please do practice more on the problems in tutorial and homework assignments. Ou
 
 * **Student:** It has been a bit difficult learning on our own and it has been hard to fully grasp all the concepts and apply them to different test questions. The assignments are a bit easier because there is much more time to think about how to do the questions, but when the time window is much shorter, it is much more difficult to correctly think of solutions.
 
-**CM:** The questions were already covered in the tutorial and assignments. You will get used to solving such problems by doing more practice on those problems. The quizzes are open book and online exam. This format is not the best but the only way to evaluate your knowledge and progress on this course in this online environment.
+**CM:** The questions were already covered in the tutorial and assignments. You will get used to solving such problems by doing more practice on those problems. The quizzes are open book as well as the online exam. This format is not the best but the only way to evaluate your knowledge and progress on this course in this online environment.
 
 -------
 * **Student:** This course has been really good (great TAs!), but again, it takes me so long to figure out the questions, that I often see myself handing in solutions not fully finished because I can't get to them early enough, or they take too long to do.
