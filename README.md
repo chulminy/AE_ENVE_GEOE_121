@@ -1,20 +1,16 @@
-# AE/ENVE/GEOE 121: Computational Method (Spring, 2020)
+# AE/ENVE/GEOE 121: Computational Method (S2020)
 
-|<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (09:30AM ~ 10:30AM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (10:30AM ~ 11:30AM) <br>|
+|<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (09:30AM ~ 10:30AM) <br> **Live Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (10:30AM ~ 11:30AM) <br>|
 |:--------|:----------- |
 
-**Last updated:** 2020-06-22  
+**Last updated:** 2020-07-05  
 
-# Announcement (PLEASE READ!)
-
-### June 22, 2020: An instruction for Quiz 2 is posted here: [**Link**](annoucement/Quiz2_Description.md). 
-
-### June 09, 2020:  We answered your feedback for Study Progress Survey (4th Week): [**Link**](annoucement/4th_week_feedback). Please pay attention to the new homework schedule. 
-
-### June 2, 2020: We answered your feedback for Quiz 1 [**Link**](tutorial/Q1_Feedback_Answer.md). Please review them carefully.  
-
-### May 25, 2020: An instruction for Quiz 1 is posted here: [**Link**](annoucement/Quiz1_Description.md). 
-
+# Reading List (Please READ!) 
+* (06/22/20): Instruction for Quiz 2: [**Link**](annoucement/Quiz2_Description.md)
+* (06/15/20): Solutions for Quiz 1: [**Link**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/annoucement/quiz1_solution/README.md)
+* (06/09/20): Study Progress Survey (4th-week): [**Link**](annoucement/4th_week_feedback)
+* (06/02/20): Feedback for Quiz 1: [**Link**](tutorial/Q1_Feedback_Answer.md)
+* (06/22/20): Instruction for Quiz 1: [**Link**](annoucement/Quiz1_Description.md)
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -117,7 +113,7 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 |:---|:-------|:-----|:----|:----|
 |**Quiz #1**|Module 01 ~ Module 02|June 01 or June 02 at 2:30 pm |100 minutes|[**Link**](annoucement/Quiz1_Description.md)|
 |**Quiz #2**|Module 01 ~ Module 05|June 30 at 2:30 pm |110 minutes|[**Link**](annoucement/Quiz2_Description.md)|
-|**Quiz #3**|Module 01 ~ Module 07|July 21 at 2:30 pm |TBD ||
+|**Quiz #3**|Module 01 ~ Module 07|July 21 at 2:30 pm |120 minutes ||
 |**Quiz #4**|Module 01 ~ Module 12|August 11|TBD||   
 
 ## Policy for Cheating 
@@ -149,13 +145,15 @@ Note that TAs will check the time records of the latest submitted solutions. If 
 |HW #2|Module 01 ~ Module 02|May 21 |May 28 at 11:59PM|June 04 at 11:59PM|
 |HW #3|Module 01 ~ Module 04|May 28 |June 16 at 11:59PM|June 20 at 11:59PM|
 |HW #4|Module 01 ~ Module 05|June 16|June 24 at 11:59PM|June 27 at 11:59PM|
-|HW #5|Module 01 ~ Module 06|June 24|July 09 at 11:59PM|July 16 at 11:59PM|
-|HW #6|Module 01 ~ Module 07|July 09|July 17 at 11:59PM|July 24 at 11:59PM|
+|HW #5|Module 01 ~ Module 06|June 24|July 12 at 11:59PM|July 19 at 11:59PM|
+|HW #6|Module 01 ~ Module 07|July 09|**No submission required**||
 |HW #7|Module 01 ~ Module 10|July 17|July 28 at 11:59PM|Aug 04 at 11:59PM|
 |HW #8|Module 01 ~ Module 12|July 28|Aug 05 at 11:59PM|Aug 12 at 11:59PM|
 
 *Students can start homework assignments if they are visible in the MATLAB Grader.*
 
+* (07/05/20): All students will receive a full mark for HW #6. 
+ 
 ## Communication  
 **All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/549056) but all information related to the course will be posted on this course website. The instructor and TAs will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussion.   
 
