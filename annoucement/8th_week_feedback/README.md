@@ -1,11 +1,12 @@
 # AE/ENVE/GEOE 121: Study Progress Survey (8th Week)
 
 ## Overview
-We have surveyed to monitor your study progress in this course. As you know, **Quiz 3 will be in 2 weeks** and, unfortunately, we cannot change the schedule due to the schedule conflict with the other courses and different cohorts. Thus, we would closely monitor your progress on this course. 
+We have provided a survey to monitor your study progress in this course. As you know, **Quiz 3 will be in 2 weeks** and, unfortunately, we cannot change the schedule due 
+to the conflict dates with the other courses and different cohorts. Thus, we need to closely monitor your progress on this course. 
 
 All 83 students responded to the survey and the [**results**](results) are presented below. The student feedback or comments were more positive than the ones from the 4th-week progress survey. Students felt like Quiz 2 is fair and reasonable, and more than half of the students think its level of the difficulty is moderate or easy. The major written comments were also similar to the survey results. 
 
-However, still more than the half of the students ask for a few more days to catch up with the course schedule. We recently heard that the CEE students are overwhelming due to course workloads. Thus, we decide to arrange the schedule again. First, we would delay the due date of HW #5 for three days (The first and second due dates will become July 12 and 19, respectively). Next, we will post a poker game problem as your HW #6 but you do not need to submit them. We will give a full grade for HW #6 to all students. However, this does mean that you do not need to study the poker game problem. We will make at least one problem from the poker game in your upcoming Quiz #3 or #4. Thus, although you don't need to submit your solution, you have to study the problem. The instructor **will not** post the solution for HW #6 to the course website so you can make the best effort to solve them with your colleagues or find better solutions through TA sessions or discussion in LEARN. 
+However, still more than the half of the students ask for a few more days to catch up with the course schedule. We recently heard that the CEE students are overwhelmed due to course workloads. Thus, we decided to arrange the schedule again. First, we are going to delay the due date of HW #5 for three days (The first and second due dates will become July 12 and 19, respectively). Next, we will post a poker game problems as your HW #6 but you do not need to submit them. Additionally,we will give a full marks to all students for HW #6. However, this does not mean that you do not need to study the poker game problem(s). We will make at least one poker game problem in your upcoming Quiz #3 or #4. Thus, although you don't need to submit your solution, you have to study the problem. The instructor **will not** post the solution for HW #6 to the course website, so you can make the best effort to solve the problems with your colleagues or find better solutions through TA sessions or discussion posts on LEARN. 
 
 The following new schedule has been posted on the course website. 
 
@@ -34,7 +35,7 @@ The following new schedule has been posted on the course website.
 
 ## Comments & Answers 
 
-**I would answer some major feedback and address your concerns.**
+**In this section of this announcement, I have answered some major feedback to address your concerns.**
 
 --------
 * **Student 1:** I really appreciate having the stars for difficulty and points listed beside each question, really allows me to manage my time wisely. 
@@ -54,9 +55,9 @@ The following new schedule has been posted on the course website.
 * **Student 5:** The quiz was a bit long and I definitely felt the pressure when doing it. It was a little overwhelming.
 * **Student6:** The quiz was difficult. It would be great if future quizzes are a bit easier than this. Knowing that average of this class should be around 70 but still if was easier
 
-**CM:** I'm sorry for your frustration. We will try to make better descriptions of the following quizzes. However, actually, there is nothing new on the quiz problems and all problems are very similar to the ones in homework assignments and tutorials. We will do our best to answer your questions regarding the unclearness of quiz questions during the quiz through WebEX. Please use WebEX Teams in-person chat next time.  
+**CM:** I'm sorry for your frustration. We will try to make better descriptions of the following quizzes. However, nothing in the quiz problems is new content, and all problems are very similar to the ones in homework assignments and tutorials. We will do our best to answer your questions regarding the unclearness of quiz questions during the quiz through WebEX. Please use WebEX Teams in-person chat next time.  
 
-As mentioned, if the class average for Quiz #2 will be more than 70, the following quizzes will not be easier than the Quiz 2 [**Link**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/tutorial/Q1_Feedback_Answer.md#review-of-the-grading). 
+As mentioned, if the class average for Quiz #2 is more than 70, the following quizzes will not be easier than Quiz 2 [**Link**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/tutorial/Q1_Feedback_Answer.md#review-of-the-grading). 
 Please do practice more on the problems in tutorial and homework assignments. Our TAs make live help sessions four days a week and answer your questions in LEARN every day.  
 
 -------
