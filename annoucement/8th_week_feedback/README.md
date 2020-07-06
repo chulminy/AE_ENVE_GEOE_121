@@ -6,7 +6,7 @@ to the conflict dates with the other courses and different cohorts. Thus, we nee
 
 All 83 students responded to the survey and the [**results**](results) are presented below. The student feedback or comments were more positive than the ones from the 4th-week progress survey. Students felt like Quiz 2 is fair and reasonable, and more than half of the students think its level of the difficulty is moderate or easy. The major written comments were also similar to the survey results. 
 
-However, still more than the half of the students ask for a few more days to catch up with the course schedule. We recently heard that the CEE students are overwhelmed due to course workloads. Thus, we decided to arrange the schedule again. First, we are going to delay the due date of HW #5 for three days (The first and second due dates will become July 12 and 19, respectively). Next, we will post a poker game problems as your HW #6 but you do not need to submit them. Additionally, we will give a full marks to all students for HW #6. However, this does not mean that you do not need to study the poker game problem(s). We will make at least one poker game problem in your upcoming Quiz #3 and/or #4. Thus, although you don't need to submit your solution, you have to study the problem. The instructor **will not** post the solution for HW #6 to the course website, so you can make the best effort to solve the problems with your colleagues or find better solutions through TA sessions or discussion posts on LEARN. 
+However, still more than the half of the students ask for a few more days to catch up with the course schedule. We recently heard that the CEE students are overwhelmed due to course workloads. Thus, we decided to arrange the schedule again. First, we are going to delay the due date of HW #5 for three days (The first and second due dates will become July 12 and 19, respectively). Next, there will be no HW #6. Instead, I will post more tutorial problems to prepare Quiz #3. We will give a full marks to all students for HW #6. 
 
 The following new schedule has been posted on the course website. 
 
@@ -17,7 +17,7 @@ The following new schedule has been posted on the course website.
 |HW #3|Module 01 ~ Module 04|May 28 |June 16 at 11:59PM|June 20 at 11:59PM|
 |HW #4|Module 01 ~ Module 05|June 16|June 24 at 11:59PM|June 27 at 11:59PM|
 |HW #5|Module 01 ~ Module 06|June 24|**July 12 at 11:59PM**|**July 19 at 11:59PM**|
-|HW #6|Module 01 ~ Module 07|July 09|**No submission required**||
+|HW #6|Module 01 ~ Module 07|**No homework**|||
 |HW #7|Module 01 ~ Module 10|July 17|July 28 at 11:59PM|Aug 04 at 11:59PM|
 |HW #8|Module 01 ~ Module 12|July 28|Aug 05 at 11:59PM|Aug 12 at 11:59PM|
 * (07/05/20): All students will receive a full mark for HW #6. 
@@ -85,7 +85,7 @@ Please do practice more on the problems in tutorial and homework assignments. Ou
 * **Student 3:** Easier assignments, As a student who is taking 6 courses right now, some of the assignment questions are very difficult and takes quite a long time to figure it out. So I hope it can be a bit easier so that we don’t spend too much time just on the assignment.
 
 
-**CM:** Understood. This is not an easy course for some students, especially for those who are very new to the programming. However, during your academic years, this is the only and last time that you can formally learn programming. However, I agree that my course has to reduce some workloads. As mentioned at the beginning, we delay the due date for HW #5 and will not grade your HW #6. Hopefully, this change would help you reduce your workload. 
+**CM:** Understood. This is not an easy course for some students, especially for those who are very new to the programming. However, during your academic years, this is the only and last time that you can formally learn programming. However, I agree that my course has to reduce some workloads. As mentioned at the beginning, we delay the due date for HW #5 and there is no HW #6. Hopefully, this change would help you reduce your workload. 
 
 -------
 

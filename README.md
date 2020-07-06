@@ -146,7 +146,7 @@ Note that TAs will check the time records of the latest submitted solutions. If 
 |HW #3|Module 01 ~ Module 04|May 28 |June 16 at 11:59PM|June 20 at 11:59PM|
 |HW #4|Module 01 ~ Module 05|June 16|June 24 at 11:59PM|June 27 at 11:59PM|
 |HW #5|Module 01 ~ Module 06|June 24|July 12 at 11:59PM|July 19 at 11:59PM|
-|HW #6|Module 01 ~ Module 07|July 09|**No submission required**||
+|HW #6|Module 01 ~ Module 07|**No homework**|||
 |HW #7|Module 01 ~ Module 10|July 17|July 28 at 11:59PM|Aug 04 at 11:59PM|
 |HW #8|Module 01 ~ Module 12|July 28|Aug 05 at 11:59PM|Aug 12 at 11:59PM|
 
