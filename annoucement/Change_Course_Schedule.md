@@ -7,8 +7,8 @@ The recent S20 CEE student workload survey that ran last week showed that the ov
 As we mentioned before, this course mainly focuses on improving your programming skills. Although MATLAB has many useful functions that might be used in your undergraduate study, we believe that you can easily learn how to use MATALB once you are familiar with the programming. Thus, we will reduce the size of the courseload and exlude some of the less fundemental topics. Therefore, we will not make lectures and tutorials for those respective topics.  Also, the topics on the posted videos (Module 01~ Module 08) are much more important than the ones in the following modules. It is better to give students time to watch and review those topics rather than giving students new material with less time to study the less important content. 
 
 Here is the list of major schedule changes:
-* The lecture slides for Module 10 and 12 will be posted but there will be no lecture and tutorial video. This means there will be no quiz problems from these modules. Students will study these topics later when you need such functions in MATLAB for your undergraduate study.  
-* There will be no HW #8. Instead, we will post more tutorial problems on Module 11 to prepare Quiz #4. Students will receive full marks for HW #8.
+* The lecture slides for Module 10 and 12 will be posted but there will be no lecture and tutorial video. This means there will be no quiz problems from these modules. Students can study this topic later when you need such functions in MATLAB for your undergraduate study.  
+* There will be no HW #8. Instead, we will post more tutorial problems on Module 11 for students to prepare Quiz #4. They will receive full marks for HW #8.
 * There is no lecture for Module 09. There is not much to discuss about this topic in a lecture video. Rather, we will show you how to draw graphs in MATLAB using hands-on examples in the tutorial (TUT08). There will be no quiz problem for this topic but we will post a question for drawing plot in LEARN soon, and this will be counted for extra credit.
 
 ## List of the videos to be uploaded (estimated upload date)

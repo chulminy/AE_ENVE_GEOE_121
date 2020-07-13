@@ -3,9 +3,10 @@
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (09:30AM ~ 10:30AM) <br> **Live Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (10:30AM ~ 11:30AM) <br>|
 |:--------|:----------- |
 
-**Last updated:** 2020-07-06  
+**Last updated:** 2020-07-13  
 
 # Reading List (Please READ!) 
+* (07/13/20): Major Change in the Course Schedule: [**Link**](annoucement/Change_Course_Schedule.md)
 * (07/06/20): Study Progress Survey (8th-week): [**Link**](annoucement/8th_week_feedback)
 * (06/22/20): Instruction for Quiz 2: [**Link**](annoucement/Quiz2_Description.md)
 * (06/15/20): Solutions for Quiz 1: [**Link**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/annoucement/quiz1_solution/README.md)
@@ -80,9 +81,9 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |Module 07| Function|3|July 15|[**Link**](slide/Module07_Function.pdf)|**Quiz #3**|
 |Module 08| Plotting|1|July 17||
 |Module 09| Data Structure|1.5|July 22|||
-|Module 10| File I/O|1.5|July 24||
+|Module 10| File I/O|1.5|extra||
 |Module 11| Text Manipulation|1.5|July 31|||
-|Module 12| Symbolic Function|1|Aug 05||**Quiz #4**|
+|Module 12| Symbolic Function|1|extra||**Quiz #4**|
 
 ### Lecture and Tutorial Video 
 |Module|Lecture|Tutorial| 
@@ -113,7 +114,7 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 |**Quiz #1**|Module 01 ~ Module 02|June 01 or June 02 at 2:30 pm |100 minutes|[**Link**](annoucement/Quiz1_Description.md)|
 |**Quiz #2**|Module 01 ~ Module 05|June 30 at 2:30 pm |110 minutes|[**Link**](annoucement/Quiz2_Description.md)|
 |**Quiz #3**|Module 01 ~ Module 07|July 21 at 2:30 pm |120 minutes ||
-|**Quiz #4**|Module 01 ~ Module 12|August 11|150 minutes||   
+|**Quiz #4**|Module 01 ~ Module 07, 09, 11|August 11|150 minutes||   
 
 ## Policy for Cheating 
 Students are encouraged to work in groups through collaborative learning only for homework assignments (not quizzes), but are required to submit their assignments individually. Students **must not share their solutions with other students**. The TAs will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. You will be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). Both copiers and copyees are guilty of cheating and will receive an equal penalty. The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
@@ -146,12 +147,13 @@ Note that TAs will check the time records of the latest submitted solutions. If 
 |HW #4|Module 01 ~ Module 05|June 16|June 24 at 11:59PM|June 27 at 11:59PM|
 |HW #5|Module 01 ~ Module 06|June 24|July 12 at 11:59PM|July 19 at 11:59PM|
 |HW #6|Module 01 ~ Module 07|**No homework**|||
-|HW #7|Module 01 ~ Module 10|July 17|July 28 at 11:59PM|Aug 04 at 11:59PM|
-|HW #8|Module 01 ~ Module 12|July 28|Aug 05 at 11:59PM|Aug 12 at 11:59PM|
+|HW #7|Module 01 ~ Module 10|July 17|July 29 at 11:59PM|Aug 02 at 11:59PM|
+|HW #8|Module 01 ~ Module 12|**No homework**|||
 
 *Students can start homework assignments if they are visible in the MATLAB Grader.*
 
-* (07/05/20): All students will receive a full mark for HW #6. 
+* (07/05/20): All students will receive a full mark for HW #6.
+* (07/13/20): All students will receive a full mark for HW #8. 
  
 ## Communication  
 **All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/549056) but all information related to the course will be posted on this course website. The instructor and TAs will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussion.   
