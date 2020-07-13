@@ -33,3 +33,6 @@ Here is the list of major schedule change:
 *  Start working on HW#7 as soon as possible because it requires designing many functions to solve the problem. 
 *  Review all quiz solutions. 
 *  Write a vectorized script to solve the problems in the rest of assignments and quizzes. 
+
+## Homework Submissions
+*  submission required only for HW #7.
