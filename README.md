@@ -79,7 +79,7 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |Module 05| Built-in Functions|3|June 17|[**Link**](slide/Module05_Builtin_Functions.pdf)|**Quiz #2**|
 |Module 06| Operator|3|July 03|[**Link**](slide/Module06_Operators.pdf)||
 |Module 07| Function|3|July 15|[**Link**](slide/Module07_Function.pdf)|**Quiz #3**|
-|Module 08| Plotting|1|July 17||
+|Module 08| Plotting|1|July 17|[**Link**](slide/Module08_Plotting.pdf)|
 |Module 09| Data Structure|1.5|July 22|||
 |Module 10| File I/O|1.5|extra||
 |Module 11| Text Manipulation|1.5|July 31|||
