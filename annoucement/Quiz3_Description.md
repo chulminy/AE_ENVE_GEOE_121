@@ -5,9 +5,9 @@ This quiz is to evaluate your understanding of key concepts covered **up to Modu
 During the quiz, you can only access (0) WebEx Teams (1) Course website, (2) MATLAB Grader, (3) MATLAB program in your computer, (4) Lecture/Tutorial videos, (5) Lecture slides, (6) MATLAB files that you have created while you study this course, and (7) Digital/Offline notes that you have made your own. Your digital note (in pdf or word) contains only texts and should not be a form of drag/drop website content. **Your internet browser must only be used to access the course website, MATLAB Grader, or Lecture/tutorial videos.**
 
 ## Quiz Schedule
-Group 1:  **June 30** at 2:30 ~ 4:30 pm (EST).  
-Group 2:  **June 30** at 2:30 ~ 4:30 pm (EST).  
-Group 3:  July 01 at 7:00 ~ 8:50 am (EST) for the student who stay in Asia or Middle East.   
+Group 1:  **July 21** at 2:30 ~ 4:30 pm (EST).  
+Group 2:  **July 21** at 2:30 ~ 4:30 pm (EST).  
+Group 3:  July 22 at 7:00 ~ 8:50 am (EST) for the student who stay in Asia or Middle East.   
 
 ## Submission & Grading
 For Quiz 2, you must solve all questions within **120 minutes**. Since the length of the quiz is also set to accommodate students who have technology challenges (e.g., slow internet connection, computer), no extra time will be provided. Note that if your solution is submitted after the designated due time, it will not be graded. Please submit your solutions on time. You can access and solve the problems in any order. As promised, the number of stars to identify the difficulty of the problems will be provided to help students time management. You can submit your answer **only three times**. But, if you submit the solution three times, we will disregard your first and second submissions and only grade your third submission. Once you make the third submission of your solution for each problem, you can still view the problem but the “submit” button is inactive (meaning that you cannot re-submit a problem that you already submitted twice). **We will only grade your second submission if you submit your solution two times.** Great care should be taken before you submit your solution. Thus, it is highly recommended that you run and check your solution in the MATLAB program installed on your computer. 
