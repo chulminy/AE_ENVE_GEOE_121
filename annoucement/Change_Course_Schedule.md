@@ -12,7 +12,7 @@ Here is the list of major schedule changes:
 * There is no lecture for Module 09. There is not much to discuss about this topic in a lecture video. Rather, we will show you how to draw graphs in MATLAB using hands-on examples in the tutorial (TUT08). There will be no quiz problem for this topic but we will post a question for drawing plot in LEARN soon, and this will be counted for extra credit.
 
 ## List of the videos to be uploaded (estimated upload date)
-*  HW#6 review video (July 14) 
+*  HW#6 review video (July 19) 
 *  TUT08 (July 16) 
 *  Quiz #3 review video (July 16)
 *  Lec09 and TUT09 (July 21)
