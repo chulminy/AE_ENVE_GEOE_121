@@ -9,7 +9,7 @@ As we mentioned before, this course mainly focuses on improving your programming
 Here is the list of major schedule changes:
 * The lecture slides for Module 10 and 12 will be posted but there will be no lecture and tutorial video. This means there will be no quiz problems from these modules. Students can study this topic later when you need such functions in MATLAB for your undergraduate study.  
 * There will be no HW #8. Instead, we will post more tutorial problems on Module 11 for students to prepare Quiz #4. They will receive full marks for HW #8.
-* There is no lecture for Module 09. There is not much to discuss about this topic in a lecture video. Rather, we will show you how to draw graphs in MATLAB using hands-on examples in the tutorial (TUT08). There will be no quiz problem for this topic but we will post a question for drawing plot in LEARN soon, and this will be counted for extra credit.
+* There is no lecture for Module 08. There is not much to discuss about this topic in a lecture video. Rather, we will show you how to draw graphs in MATLAB using hands-on examples in the tutorial (TUT08). There will be no quiz problem for this topic but we will post a question for drawing plot in LEARN soon, and this will be counted for extra credit.
 
 ## List of the videos to be uploaded (estimated upload date)
 *  HW#5 review video (July 19) 
