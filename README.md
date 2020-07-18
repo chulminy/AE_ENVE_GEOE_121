@@ -3,7 +3,7 @@
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Noreen Gao (x97gao@uwaterloo.ca) <br>**TA2:** Vlad Andrei Fierastrau (vafieras@uwaterloo.ca) <br> **Live Session (TA1)**: Mon & Wed (11:00 AM to 12:30 PM), Thu (09:30AM ~ 10:30AM) <br> **Live Session (TA2)**: Mon & Tue (02:30 PM to 04:00 PM), Thu (10:30AM ~ 11:30AM) <br>|
 |:--------|:----------- |
 
-**Last updated:** 2020-07-13  
+**Last updated:** 2020-07-17  
 
 # Reading List (Please READ!) 
 * (07/13/20): Major Change in the Course Schedule: [**Link**](annoucement/Change_Course_Schedule.md)
@@ -103,6 +103,9 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |**HW 04**|[<img src="http://img.youtube.com/vi/LkVoMboitnE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=LkVoMboitnE) [<img src="http://img.youtube.com/vi/ABpr2DvMtBk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=ABpr2DvMtBk)||
 |**Module 07**|[<img src="http://img.youtube.com/vi/XgExQptUjXk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=XgExQptUjXk) [<img src="http://img.youtube.com/vi/Pj-VrO7urqI/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Pj-VrO7urqI)|[<img src="http://img.youtube.com/vi/BbUvzLtOT5c/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=BbUvzLtOT5c) [<img src="http://img.youtube.com/vi/Y1M5wF78r24/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Y1M5wF78r24)|
 |**Quiz 03**<br>(Review)|[<img src="http://img.youtube.com/vi/XZxohFgc3LI/1.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=XZxohFgc3LI) [<img src="http://img.youtube.com/vi/zhZNVmJaDTk/1.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=zhZNVmJaDTk)| |
+|**Module 08**||[<img src="http://img.youtube.com/vi/slQYIlPGkHY/1.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=slQYIlPGkHY)|
+|**HW 07**<br>(Tutorial)|[<img src="http://img.youtube.com/vi/d3ORQ_OCGUs/1.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=d3ORQ_OCGUs)||
+
 
 ## Quiz
 The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB editor before submitting. 
