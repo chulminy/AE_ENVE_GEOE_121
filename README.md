@@ -107,6 +107,7 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |**Quiz 03**<br>(Review)|[<img src="http://img.youtube.com/vi/XZxohFgc3LI/1.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=XZxohFgc3LI) [<img src="http://img.youtube.com/vi/zhZNVmJaDTk/1.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=zhZNVmJaDTk)| |
 |**Module 08**||[<img src="http://img.youtube.com/vi/slQYIlPGkHY/1.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=slQYIlPGkHY)|
 |**HW 07**<br>(Tutorial)|[<img src="http://img.youtube.com/vi/d3ORQ_OCGUs/1.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=d3ORQ_OCGUs)||
+|**HW 05**<br>|[<img src="http://img.youtube.com/vi/7jw7aGccDRU/1.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=7jw7aGccDRU)||
 
 
 ## Quiz
