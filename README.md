@@ -6,6 +6,8 @@
 **Last updated:** 2020-07-17  
 
 # Reading List (Please READ!) 
+* (07/19/20): Solutions for Quiz 2: [**Link**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/annoucement/quiz2_solution/README.md)
+* (07/14/20): Instruction for Quiz 3: [**Link**](annoucement/Quiz3_Description.md)
 * (07/13/20): Major Change in the Course Schedule: [**Link**](annoucement/Change_Course_Schedule.md)
 * (07/06/20): Study Progress Survey (8th-week): [**Link**](annoucement/8th_week_feedback)
 * (06/22/20): Instruction for Quiz 2: [**Link**](annoucement/Quiz2_Description.md)
