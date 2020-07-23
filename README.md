@@ -83,7 +83,7 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |Module 06| Operator|3|July 03|[**Link**](slide/Module06_Operators.pdf)||
 |Module 07| Function|3|July 15|[**Link**](slide/Module07_Function.pdf)|**Quiz #3**|
 |Module 08| Plotting|1|July 17|[**Link**](slide/Module08_Plotting.pdf)|
-|Module 09| Data Structure|1.5|July 22||[**Link**](slide/Module09_Data_Structure.pdf)|
+|Module 09| Data Structure|1.5|July 22|[**Link**](slide/Module09_Data_Structure.pdf)||
 |Module 10| File I/O|1.5|extra|[**Link**](slide/Module10_File_IO.pdf)|
 |Module 11| Text Manipulation|1.5|July 31|[**Link**](slide/Module11_Text_Manipulation.pdf)||**Quiz #4**|
 |Module 12| Symbolic Function|1|extra|||
@@ -105,8 +105,8 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |**Quiz 02**<br>(Review)|[<img src="http://img.youtube.com/vi/II6FngQNw_8/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=II6FngQNw_8)| |
 |**HW 04**|[<img src="http://img.youtube.com/vi/LkVoMboitnE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=LkVoMboitnE) [<img src="http://img.youtube.com/vi/ABpr2DvMtBk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=ABpr2DvMtBk)||
 |**Module 07**|[<img src="http://img.youtube.com/vi/XgExQptUjXk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=XgExQptUjXk) [<img src="http://img.youtube.com/vi/Pj-VrO7urqI/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Pj-VrO7urqI)|[<img src="http://img.youtube.com/vi/BbUvzLtOT5c/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=BbUvzLtOT5c) [<img src="http://img.youtube.com/vi/Y1M5wF78r24/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Y1M5wF78r24)|
-|**Quiz 03**<br>(Review)|[<img src="http://img.youtube.com/vi/XZxohFgc3LI/1.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=XZxohFgc3LI) [<img src="http://img.youtube.com/vi/zhZNVmJaDTk/1.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=zhZNVmJaDTk)| |
-|**Module 08**||[<img src="http://img.youtube.com/vi/slQYIlPGkHY/1.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=slQYIlPGkHY)|
+|**Quiz 03**<br>(Review)|[<img src="http://img.youtube.com/vi/XZxohFgc3LI/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=XZxohFgc3LI) [<img src="http://img.youtube.com/vi/zhZNVmJaDTk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=zhZNVmJaDTk)| |
+|**Module 08**||[<img src="http://img.youtube.com/vi/slQYIlPGkHY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=slQYIlPGkHY)|
 |**HW 07**<br>(Tutorial)|[<img src="http://img.youtube.com/vi/d3ORQ_OCGUs/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=d3ORQ_OCGUs)||
 |**HW 05**<br>|[<img src="http://img.youtube.com/vi/mlFJIMdrhNs/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=mlFJIMdrhNs)||
 |**Module 09**|[<img src="http://img.youtube.com/vi/deu2vPizjnk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=deu2vPizjnk) [<img src="http://img.youtube.com/vi/kzzaZOwdurw/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=kzzaZOwdurw)||
@@ -122,7 +122,7 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 |:---|:-------|:-----|:----|:----|
 |**Quiz #1**|Module 01 ~ Module 02|June 01 or June 02 at 2:30 pm |100 minutes|[**Link**](annoucement/Quiz1_Description.md)|
 |**Quiz #2**|Module 01 ~ Module 05|June 30 at 2:30 pm |110 minutes|[**Link**](annoucement/Quiz2_Description.md)|
-|**Quiz #3**|Module 01 ~ Module 07|July 21 at 2:30 pm |120 minutes ||
+|**Quiz #3**|Module 01 ~ Module 07|July 21 at 2:30 pm |120 minutes |[**Link**](annoucement/Quiz3_Description.md)|
 |**Quiz #4**|Module 01 ~ Module 07, **09**, **11**|August 11|150 minutes||   
 
 ## Policy for Cheating 
