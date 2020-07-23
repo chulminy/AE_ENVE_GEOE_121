@@ -83,10 +83,10 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |Module 06| Operator|3|July 03|[**Link**](slide/Module06_Operators.pdf)||
 |Module 07| Function|3|July 15|[**Link**](slide/Module07_Function.pdf)|**Quiz #3**|
 |Module 08| Plotting|1|July 17|[**Link**](slide/Module08_Plotting.pdf)|
-|Module 09| Data Structure|1.5|July 22|||
-|Module 10| File I/O|1.5|extra||
-|Module 11| Text Manipulation|1.5|July 31|||
-|Module 12| Symbolic Function|1|extra||**Quiz #4**|
+|Module 09| Data Structure|1.5|July 22||[**Link**](slide/Module09_Data_Structure.pdf)|
+|Module 10| File I/O|1.5|extra|[**Link**](slide/Module10_File_IO.pdf)|
+|Module 11| Text Manipulation|1.5|July 31|[**Link**](slide/Module11_Text_Manipulation.pdf)||**Quiz #4**|
+|Module 12| Symbolic Function|1|extra|||
 
 ### Lecture and Tutorial Video 
 |Module|Lecture|Tutorial| 
@@ -107,9 +107,10 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |**Module 07**|[<img src="http://img.youtube.com/vi/XgExQptUjXk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=XgExQptUjXk) [<img src="http://img.youtube.com/vi/Pj-VrO7urqI/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Pj-VrO7urqI)|[<img src="http://img.youtube.com/vi/BbUvzLtOT5c/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=BbUvzLtOT5c) [<img src="http://img.youtube.com/vi/Y1M5wF78r24/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Y1M5wF78r24)|
 |**Quiz 03**<br>(Review)|[<img src="http://img.youtube.com/vi/XZxohFgc3LI/1.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=XZxohFgc3LI) [<img src="http://img.youtube.com/vi/zhZNVmJaDTk/1.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=zhZNVmJaDTk)| |
 |**Module 08**||[<img src="http://img.youtube.com/vi/slQYIlPGkHY/1.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=slQYIlPGkHY)|
-|**HW 07**<br>(Tutorial)|[<img src="http://img.youtube.com/vi/d3ORQ_OCGUs/1.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=d3ORQ_OCGUs)||
-|**HW 05**<br>|[<img src="http://img.youtube.com/vi/7jw7aGccDRU/1.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=7jw7aGccDRU)||
-
+|**HW 07**<br>(Tutorial)|[<img src="http://img.youtube.com/vi/d3ORQ_OCGUs/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=d3ORQ_OCGUs)||
+|**HW 05**<br>|[<img src="http://img.youtube.com/vi/mlFJIMdrhNs/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=mlFJIMdrhNs)||
+|**Module 09**|[<img src="http://img.youtube.com/vi/deu2vPizjnk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=deu2vPizjnk) [<img src="http://img.youtube.com/vi/kzzaZOwdurw/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=kzzaZOwdurw)||
+|**Module 11**|[<img src="http://img.youtube.com/vi/WsO7I93H7Ng/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=WsO7I93H7Ng) [<img src="http://img.youtube.com/vi/orQeEun5ccU/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=orQeEun5ccU)||
 
 ## Quiz
 The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB editor before submitting. 
@@ -122,7 +123,7 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 |**Quiz #1**|Module 01 ~ Module 02|June 01 or June 02 at 2:30 pm |100 minutes|[**Link**](annoucement/Quiz1_Description.md)|
 |**Quiz #2**|Module 01 ~ Module 05|June 30 at 2:30 pm |110 minutes|[**Link**](annoucement/Quiz2_Description.md)|
 |**Quiz #3**|Module 01 ~ Module 07|July 21 at 2:30 pm |120 minutes ||
-|**Quiz #4**|Module 01 ~ Module 07, 09, 11|August 11|150 minutes||   
+|**Quiz #4**|Module 01 ~ Module 07, **09**, **11**|August 11|150 minutes||   
 
 ## Policy for Cheating 
 Students are encouraged to work in groups through collaborative learning only for homework assignments (not quizzes), but are required to submit their assignments individually. Students **must not share their solutions with other students**. The TAs will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. You will be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). Both copiers and copyees are guilty of cheating and will receive an equal penalty. The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
