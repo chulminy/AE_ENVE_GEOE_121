@@ -6,6 +6,7 @@
 **Last updated:** 2020-07-24  
 
 # Reading List (Please READ!) 
+* (07/24/20): Study Progress Survey (12th-week): [**Link**](annoucement/12th_week_feedback)
 * (07/22/20): Solutions for Quiz 3: [**Link**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/annoucement/quiz3_solution/README.md)
 * (07/19/20): Solutions for Quiz 2: [**Link**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/annoucement/quiz2_solution/README.md)
 * (07/14/20): Instruction for Quiz 3: [**Link**](annoucement/Quiz3_Description.md)
@@ -110,7 +111,7 @@ All lectures and tutorials will be delivered using pre-recorded videos. All vide
 |**HW 07**<br>(Tutorial)|[<img src="http://img.youtube.com/vi/d3ORQ_OCGUs/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=d3ORQ_OCGUs)||
 |**HW 05**<br>|[<img src="http://img.youtube.com/vi/mlFJIMdrhNs/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=mlFJIMdrhNs)||
 |**Module 09**|[<img src="http://img.youtube.com/vi/deu2vPizjnk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=deu2vPizjnk) [<img src="http://img.youtube.com/vi/kzzaZOwdurw/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=kzzaZOwdurw)|[<img src="http://img.youtube.com/vi/Lfnj7DJsXak/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Lfnj7DJsXak) |
-|**Module 11**|[<img src="http://img.youtube.com/vi/WsO7I93H7Ng/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=WsO7I93H7Ng) [<img src="http://img.youtube.com/vi/orQeEun5ccU/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=orQeEun5ccU)||
+|**Module 11**|[<img src="http://img.youtube.com/vi/WsO7I93H7Ng/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=WsO7I93H7Ng) [<img src="http://img.youtube.com/vi/orQeEun5ccU/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=orQeEun5ccU)|[<img src="http://img.youtube.com/vi/WybZTRqNxsU/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=WybZTRqNxsU) [<img src="http://img.youtube.com/vi/mY2fjUiDNo/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=mY2fjUiDNo)|
 
 ## Quiz
 The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments. The major differences are a time limit and a limited submission (only one time). Although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB editor before submitting. 
