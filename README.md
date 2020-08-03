@@ -126,7 +126,7 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 |**Quiz #1**|Module 01 ~ Module 02|June 01 or June 02 at 2:30 pm |100 minutes|[**Link**](annoucement/Quiz1_Description.md)|
 |**Quiz #2**|Module 01 ~ Module 05|June 30 at 2:30 pm |110 minutes|[**Link**](annoucement/Quiz2_Description.md)|
 |**Quiz #3**|Module 01 ~ Module 07|July 21 at 2:30 pm |120 minutes |[**Link**](annoucement/Quiz3_Description.md)|
-|**Quiz #4**|Module 01 ~ Module 07, **09**, **11**|August 11|150 minutes||   
+|**Quiz #4**|Module 01 ~ Module 07, **09**, **11**|August 11|150 minutes|[**Link**](annoucement/Quiz4_Description.md)|   
 
 ## Policy for Cheating 
 Students are encouraged to work in groups through collaborative learning only for homework assignments (not quizzes), but are required to submit their assignments individually. Students **must not share their solutions with other students**. The TAs will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. You will be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). Both copiers and copyees are guilty of cheating and will receive an equal penalty. The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
