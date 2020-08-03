@@ -5,9 +5,9 @@ This quiz is to evaluate your understanding of key concepts covered **up to Modu
 During the quiz, you can only access (0) WebEx Teams (1) Course website, (2) MATLAB Grader, (3) MATLAB program in your computer, (4) Lecture/Tutorial videos, (5) Lecture slides, (6) MATLAB files that you have created while you study this course, and (7) Digital/Offline notes that you have made your own. Your digital note (in pdf or word) contains only texts and should not be a form of drag/drop website content. **Your internet browser must only be used to access the course website, MATLAB Grader, or Lecture/tutorial videos.**
 
 ## Quiz Schedule
-Group 1:  **August 11** at 2:30 ~ 4:30 pm (EST).  
-Group 2:  **August 11** at 2:30 ~ 4:30 pm (EST).  
-Group 3:  **August 12** at 7:00 ~ 9:00 am (EST) for the student who stay in Asia or Middle East.   
+Group 1:  **August 11** at 2:30 ~ 5:00 pm (EST).  
+Group 2:  **August 11** at 2:30 ~ 5:00 pm (EST).  
+Group 3:  **August 12** at 7:00 ~ 9:30 am (EST) for the student who stay in Asia or Middle East.   
 
 ## Submission & Grading
 For Quiz 4, you must solve all questions within **150 minutes**. Since the length of the quiz is also set to accommodate students who have technology challenges (e.g., slow internet connection, computer), **no extra time will be provided**. Note that if your solution is submitted after the designated due time, it will not be graded. Please submit your solutions on time. You can access and solve the problems in any order. As promised, the number of stars to identify the difficulty of the problems will be provided to help students with time management. You can submit your answer **unlimited  times**. **But, we will only grade your last submission.** Great care should be taken before you submit your solution. Thus, it is highly recommended that you run and check your solution in the MATLAB program installed on your computer. 
