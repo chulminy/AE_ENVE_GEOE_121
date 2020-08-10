@@ -280,7 +280,32 @@ Note that you cannot manually calculate the score and then assign the result. Yo
 
 **Hint:** a built-in function count can be used
 
-**Solution**
+**Solution 1**
+
+```matlab
+test_char_seq = 'Students in AEG121 are in ENVE, GEOE, or AE';
+test_upper_score = UpperLetterScore(test_char_seq);
+
+% please design your function called UpperLetterScore
+
+function upper_score = UpperLetterScore(char_seq)
+
+char_seq_db = double(char_seq);
+values = 26:-1:1;
+alp_vec = 65:90;
+
+upper_score = 0;
+for ii = 1:numel(alp_vec)
+    score = sum(char_seq_db == alp_vec(ii)) * values(ii);
+    upper_score = upper_score + score;
+end
+
+
+end
+
+```
+
+**Solution 2**
 
 ```matlab
 
