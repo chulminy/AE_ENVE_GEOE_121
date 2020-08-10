@@ -16,7 +16,7 @@
 * (06/22/20): Instruction for Quiz 2: [**Link**](annoucement/Quiz2_Description.md)
 * (06/15/20): Solutions for Quiz 1: [**Link**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/annoucement/quiz1_solution/README.md)
 * (06/09/20): Study Progress Survey (4th-week): [**Link**](annoucement/4th_week_feedback)
-* (06/02/20): Feedback for Quiz 1: [**Link**](tutorial/Q1_Feedback_Answer.md)
+* (06/02/20): Feedback for Quiz 1: [**Link**](annoucement/Q1_Feedback_Answer.md)
 * (05/22/20): Instruction for Quiz 1: [**Link**](annoucement/Quiz1_Description.md)
 
 ## Table of Contents
