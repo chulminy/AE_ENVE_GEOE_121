@@ -1,4 +1,7 @@
 # Computational Method (University of Waterloo)
+**Instructor**: Chul Min Yeum (cmyeum@uwaterloo.ca)
+
+**Last updated:** 2020-08-13
 
 ## Table of Contents
 - [Course Description](#course-description)
