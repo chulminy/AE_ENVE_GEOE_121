@@ -1,5 +1,0 @@
-Toronto; Ontario; 5429524
-Montreal; Quebec; 3519595
-Vancouver; British Columbia; 2264823
-Calgary; Alberta; 1237656
-Edmonton; Alberta; 1062643
