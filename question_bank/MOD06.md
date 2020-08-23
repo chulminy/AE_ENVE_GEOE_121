@@ -1,8 +1,9 @@
 # Module 06: Operators
 
 ## Table of Contents
-- [**M06001. Parking data (★★★★)**](m06001.-parking-data)
-- [**M06002. Course Grading using Array Operations (★★★)**](m06002.-course-grading-using-array-perations (★★★))
+- [**M06001. Parking data (★★★★)**](m06001-parking-data)
+- [**M06002. Course Grading using Array Operations (★★★)**](m06002-course-grading-using-array-perations)
+
 ## M06001. Parking data (★★★★)
 
 ```matlab
