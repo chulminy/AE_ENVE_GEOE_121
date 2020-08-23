@@ -278,10 +278,86 @@ I have gotten this error a couple times and I'm not too sure what it exactly mea
 
 
 ## Module 08. Plotting
+
 ## Module 09. Data Structure 
 
 
-### 
+### "strcmp" vs. "isequal"
+I was going over the lectures again and I noticed that the strcmp function was labelled as isequal in one of the videos. It's clear that strcmp is for strings, however is there any other big difference between them?
+
+**Answer**: I think strcmp is literally comparing strings and supported cell array as an input. 
+Here is the example:
+![image10](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/QnA/github10.png)
+
+
+### String Indexing Vs. Character Indexing
+What are the differences to string indexing and character indexing? With string indexing we use { } to reference a certain string in the array but with character indexing, can we still index i.e. x(1)(1) for first cell first character? Or does character indexing only follow rules of linear indexing in an array?
+
+**Answer**: Please see the following examples:
+![image11](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/QnA/11.png)
+
+
+### Tutorial 9 Question (last part)
+For the last part of the question in tutorial 9, I was wondering why we use curly brackets in the for loop to see what students are in 2A but then in the vectorized code, we use normal brackets.
+![12](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/QnA/12.jpg)
+
+**Answer**:Very good question.
+https://www.mathworks.com/help/matlab/ref/strcmp.html
+![13](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/QnA/13.png)
+In the vectorized code, the s1 input for strcmp is a cell array of character vectors. 
+In the loop implement, the s1 input is a character vector. 
+You can use class_data(ii,6) but in this case, you are inputting cell array of character vectors (but its dimension is 1 x 1). 
+Thus, the final outcome is the same at the end. 
+
+
+### "strcmp" Vs. "find"
+What are the limitations to using strcmp function vs. find function? Are there situations where it is advantageous to use one over the other?
+
+**Answer**: Very good question. I think you are asking strfnd and find, right? strfnd is to find location(s) of a pattern.e.g., strfnd(char_vec, 'banana')
+find is to give the location of logical true. e.g., find(char_vec == 'b')
+strfind accept two string or character vectors as input. 
+find accepts an input for a logical vector. 
+I think they are different functions. 
+Is it clear?
+
+
 ## Module 10. File I/O
+
 ## Module 11. Text Manipulation 
+
+
+### Creating an empty String
+When creating an empty string, do both of these syntaxes give the same result:
+
+a = strings(1,1);
+
+b = "";
+
+**Answer**: All three are the same. 
+![14](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/QnA/14.png)
+
+
+### "Pokemon Trading Cards"
+![15](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/QnA/15.png)
+Just wondering if i can have some further explanation on this code, like why the line of logi_vec = cards is needed, as well as why the char type cast needs to have the 0 added to logi_vec. 
+
+**Answer**: The logi_vec=cards line is not really needed, I just thought that the name would make more sense when I was writing the script. As for the +'0' part, matlab changes the '0' to the number 48 (since we are performing math operations with character elements), and adds that to the vector with ones and zeros. our resulting vector is a double vector with 49's and 48's. However since that processes has changed the vector into a double, we need to change it back into a character vector so that strfind can compare a character string with ones's and zeros's with the subset string '11'. 
+
+
+### TUT 11 ("Word Finder Puzzle")
+![16](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/QnA/16.png)
+For the error "conversion from cell to double is not possible" what would I have to do to fix this?
+
+**Answer**:Good question. 
+word_loc(kk) is to refer to the "cell" element, not the value space. 
+Thus, you need to assign a cell, not the value. 
+word_loc{kk} = test_loc;
+
+OR 
+
+word_loc(kk) = {test_loc};
+
+is the right syntax. 
+
+
 ## Module 12. Symbolic Function
