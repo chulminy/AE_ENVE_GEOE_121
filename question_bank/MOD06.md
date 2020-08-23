@@ -234,7 +234,9 @@ Please watch this:[**https://youtu.be/mlFJIMdrhNs?t=5**](https://youtu.be/mlFJIM
 
 
 ## M06010. Co-op Decisions (★★★★)
+
 ![M06010](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/question_bank/M06010.png)
+
 ```matlab
 salary = randi([12 25],7,1);
 daily_comm = randi([0 60],7,1);
@@ -267,7 +269,9 @@ The goal of this problem is to find a  3 x 3 sensor location that has the lowest
 If you recall, the "building sensor installation" problem from homework #5 required you to find "five sensor locations and they should be consecutively placed in a row or column direction. The sensor location is determined by whatever five consecutive points that have the highest average force". 
 However in this problem, instead of finding a 1 x 5 row or column, you are finding a 3 x 3 array or submatrix within "force_data" that gives you the lowest average force.
 You need a create a variable called 'sens_loc', which is a 1 x 2 array that contains the center sensor location of the 3 x 3 matrix.
+
 ![M06011](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/question_bank/M06011.png)
+
 For example, if the coordinate of the middle point is (5, 4), 'sens_loc' will be [5 4]. Note that the tested variable of this question is 'sens_loc'.
 
 **Solution**
@@ -289,6 +293,7 @@ point_ids = 1:num_point;
 For example, there are four 3D points, points = [1 1 1; 2 2 2; 10 10 10; 12 12 12], point_ids=[1,2,3,4]
 ‘max_dist’ becomes 19.0526 between two points, 1 1 1 and 12 12 12 . ‘id_max1’ and ‘id_max2’ becomes 1 and 4, respectively. 
 ‘min_dist’ becomes 1.7321 between two point 1 1 1 and 2 2 2. ‘id_min1’ and ‘id_min2’ becomes 1 and 2, respectively. 
+
 ![M0612](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/question_bank/M06012.png)
 
 **Solution**
