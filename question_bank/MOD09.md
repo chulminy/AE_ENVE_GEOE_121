@@ -34,40 +34,9 @@ load tut09.mat class_data
 This script is to import (load) 'class_data' stored in 'tut09.mat'. You can find how to save and load variables from MAT files in LEC10 (Take a look at the slide). 
 
 **Solution**
+Please watch this:
+[**https://youtu.be/Lfnj7DJsXak?t=5**](https://youtu.be/Lfnj7DJsXak?t=5)
 
-```matlab
-load tut09.mat class_data;
-
-class_data(1,:) = []; % remove header
-
-% (1)
-lg_2A = strcmp(class_data(:,6), '2A');
-num_2A = sum(lg_2A); 
-
-% (2)
-final_grade = [class_data{:,12}];
-avg_clss_final = mean(final_grade);
-
-% (3)
-lg_3B = strcmp(class_data(:,6), '3B');
-avg_3B_final = mean(final_grade(lg_3B));
-
-% (4)
-mid_grade = [class_data{:,11}];
-lg_vec = or(mid_grade > 80, final_grade > 80);
-score_80_exam = sum(lg_vec);
-
-% (5)
-grade_all = cell2mat(class_data(:,7:end));
-final_mark = grade_all * [0.1 0.1 0.1 0.2 0.2 0.3]';
-[~, id] = max(final_mark);
-best_student_name = class_data{id, 1};
-
-% (6)
-final_mark(lg_3B) = 0;
-[~, id] = max(final_mark);
-best_2A_student_name = class_data{id, 1};
-```
 
 ## M09002. Performance Review (★★)
 
