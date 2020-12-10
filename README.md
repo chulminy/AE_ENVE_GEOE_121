@@ -3,6 +3,10 @@
 
 **Last updated:** 2020-08-13
 
+**Previous offerings of this course**
+- [**Computational Method (Spring, 2019)**](s2019)
+- [**Computational Method (Spring, 2020)**](s2020)
+
 ## Table of Contents
 - [Course Description](#course-description)
 - [Course Objectives](#course-objectives)
@@ -12,7 +16,8 @@
 - [Course Outline](#course-outline)
 - [Quiz](#quiz)
 - [Policy for Cheating](#policy-for-cheating)
-- [Live Help Session](#live-help-session)
+- [Live Help 
+- Session](#live-help-session)
 - [Homework Assignment](#homework-assignment)
 - [Communication](#communication)
 - [Grading](#grading)
