@@ -31,7 +31,7 @@ This course introduces computer programming for engineering students using MATLA
 
 This course includes lectures, tutorials, homework assignments, and quizzes:
 * [**Lectures**](#course-outline) are to cover the major topics, discussing the important programming concepts with worked-out examples. The instructor will teach the [*course material*](comp_method_book_cm_s21.pdf). 
-* [**Tutorials**](#course-outline) are self-study resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial: Computational Method*](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader.       
+* [**Tutorials**](#tutorial) are self-study resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial: Computational Method*](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader.       
 * [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*AE/ENVE/GEOE 121 (S21)*](https://grader.mathworks.com/courses/41892-ae-enve-geoe-121-s21) in the MATLAB Grader.
 * [**Quizzes**](#quiz) are to evaluate your knowledge and programming skills.  
 
@@ -126,7 +126,7 @@ The tutorials are self-study resources to assist students in the problems of cou
 
 * **Step 1.** Understand a problem listed on each Module in MATLAB Grader: You need to carefully read the description of problems on the MATLAB Grader or from this [page](tutorial).
 
-* ** Step 2.** Write your own script to solve the problems: You should use a MATLAB program and write own your program to solve the question. You need to do practice on debugging to fix errors on your code if necessary. Please do not look at the model answer or watch the review video before you make your own script.  
+* **Step 2.** Write your own script to solve the problems: You should use a MATLAB program and write own your program to solve the question. You need to do practice on debugging to fix errors on your code if necessary. Please do not look at the model answer or watch the review video before you make your own script.  
 
 * **Step 3.** Copy and paste your script to the MATLAB Grader: If you think that your script is ready for testing, copy and paste the script to the MATLAB Grader. Click "Run Script" first to check out any syntax or run-time errors (if you already check this on the MATLAB program, you should not see the error message). Please do not debug your code on MATLAB Grader. 
 
@@ -153,7 +153,7 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 |**Quiz 03**|Module 01 ~ 07|July 15 at 2:30pm (EST)|TBD|TBD|
 |**Quiz 04**|Module 01 ~ 11|August 12 at 2:30pm (EST)|TBD|TBD|   
 
-* The extra quiz session will be scheduled on the following day (7 or 8 am (EST)) for those who stay in different time zones (e.g., Asia or the Middle East). Those students will receive a separate email. Note that this time allocation is not for the students who stayed in Canada.   
+The extra quiz session will be scheduled on the following day (7 or 8 am (EST)) for those who stay in different time zones (e.g., Asia or the Middle East). Those students will receive a separate email. Note that this time allocation is not for the students who stayed in Canada.   
 
 ## Policy for Cheating 
 Students are encouraged to work in groups through collaborative learning only for homework assignments (**NOT** quizzes), but are required to submit their assignments individually. Students **must not share their solutions with other students**. The TAs will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs or instructor. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. Also, you might be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). Both copiers and copyees are guilty of cheating and will receive an equal penalty. The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
