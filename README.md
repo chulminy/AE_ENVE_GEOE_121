@@ -72,8 +72,8 @@ Lectures are to deliver fundamental knowledge and information in each Module and
 
 |Module|Topics|Load|ETF|[Quiz](#quiz)| 
 |:-----|:-----|:--:|:--:|:-----------:|
-|**Module 00**|Preliminaries|0.5|May 14| |
-|**Module 01**|Basic MATLAB Programming|2|May 21| |
+|**Module 00**|Preliminaries|0.5|May 12| |
+|**Module 01**|Basic MATLAB Programming|2|May 14| |
 |**Module 02**|Vectors and Matrices|2|May 21|Quiz #1|
 |**Module 03**|Selection Statement |2|June 02| |
 |**Module 04**|Loop Statement|2|June 09||
@@ -190,7 +190,7 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 |HW 01|Module 01|May 10|May 18|May 25|
 |HW 02|Module 01 ~ Module 02|May 18|May 25|June 01|
 |HW 03|Module 01 ~ Module 03|May 25|June 08|June 15|
-|HW 04|Module 01 ~ Module 05|June 08|June 22|June 29|
+|HW 04|Module 01 ~ Module 04|June 08|June 22|June 29|
 |HW 05|Module 01 ~ Module 06|June 22|July 06|July 13|
 |HW 06|Module 01 ~ Module 07|July 06|July 13|July 20|
 |HW 07|Module 01 ~ Module 09|July 13|July 27|August 03|
