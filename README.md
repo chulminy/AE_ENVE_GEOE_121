@@ -2,7 +2,7 @@
 
 |||
 |:--------|:-----------|
-|<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 03:30PM) <br> **Live Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 04:30PM) <br> **Live Session (Instructor)**: Thu (3:30PM to 04:30PM)|
+|<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 03:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 04:30PM) <br> **Live Help Session (Instructor)**: Thu (3:30PM to 04:30PM)|
 
 **Last updated:** 2021-04-20
 
@@ -32,16 +32,16 @@ This course introduces computer programming for engineering students using MATLA
 This course includes lectures, tutorials, homework assignments, and quizzes:
 * [**Lectures**](#course-outline) are to cover the major topics, discussing the important programming concepts with worked-out examples. The instructor will teach the [*course material*](comp_method_book_cm_s21.pdf). 
 * [**Tutorials**](#tutorial) are self-study resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial: Computational Method*](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader.       
-* [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*AE/ENVE/GEOE 121 (S21)*](https://grader.mathworks.com/courses/41892-ae-enve-geoe-121-s21) in the MATLAB Grader.
+* [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*AE/ENVE/GEOE 121(S21)*](https://grader.mathworks.com/courses/41892-ae-enve-geoe-121-s21) in the MATLAB Grader.
 * [**Quizzes**](#quiz) are to evaluate your knowledge and programming skills.  
 
 ## Course Objectives
 By the end of this course, students should be able to  
-* Develop MATLAB programming logic to solve problems 
-* Compose working, efficient, and readable scripts in various ways
-* Debug your code to identify and fix programming errors
-* Identify suitable keywords to search for code snippets on the web
-* Apply MATLAB to write your own program
+* Develop MATLAB programming logic to solve problems. 
+* Compose working, efficient, and readable scripts in various ways.
+* Debug your code to identify and fix programming errors.
+* Identify suitable keywords to search for code snippets on the web.
+* Apply MATLAB to write your own program.
 
 ## Study Guide
 * Watch lecture video(s) of each module. 
@@ -53,18 +53,18 @@ By the end of this course, students should be able to
 * Work with your colleagues or ask for help from TAs. 
 
 ## Prerequisites
-"Linear algebra" (AE/ENVE/GEOE 115) and "Calculus 1 for Engineering" (MATH 116) are prerequisites for this course, which you  already learned in the 1A term. If you are not familiar with these topics, please review corresponding lecture slides or tutorials. 
+"Linear algebra" (AE/ENVE/GEOE 115) is a prerequisite for this course, which you  already learned in the 1A term. If you are not familiar with these topics, please review corresponding lecture slides or tutorials. 
 
 * [**How to use MATLAB Grader?**](doc/matlab_grader)
 * [**How to download and install MATLAB on your computer?**](doc/matlab_install)
 
 ## Course Textbook 
-This course is not based on any particular textbook. However, [course materials](comp_method_book_cm_s21.pdf) have been prepared using the following two references:
+This course is not based on any particular textbook. However, the [course materials](comp_method_book_cm_s21.pdf) have been prepared using the following two references:
 * Attaway, Stormy. *"MATLAB-A Practical Introduction to Programming and Problem Solving,"* Elsevier, 2018.
 * Moore, Holly. *"MATLAB for Engineers,"* Pearson, 2017.
 
 ## Course Outline
-All lectures will be delivered using pre-recorded videos. All videos will be uploaded on a [**YouTube Channel**](https://www.youtube.com/playlist?list=PLa1nAPP8qUX90fanmEze3zLD41N-4lV25). For those who cannot access YouTube for some reason, video files will be shared in person. There are eleven modules and each module has one or two lecture videos. The study load for each module is marked as the number of regular offline classes, which becomes a total of 24 classes. Roughly, students are expected to complete two classes every week. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures, assignments, and quizzes. 
+All lectures will be delivered using pre-recorded videos. All videos will be uploaded on a [**YouTube Channel**](https://youtube.com/playlist?list=PLa1nAPP8qUX9qwRR6Sj_dboIriPIGYgsm). For those who cannot access YouTube for some reason, video files will be shared in person. There are eleven modules and each module has one or two lecture videos. The study load for each module is marked as the number of regular offline classes, which becomes a total of 24 classes. Roughly, students are expected to complete two classes every week. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures, assignments, and quizzes. 
 
 The lectures will cover the course materials (You can download it from [**here**](comp_method_book_cm_s21.pdf)), developed by the instructor. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and previous modules. For example (if you see the table below), Quiz #2 will cover Module 01 to Module 05. 
 
@@ -190,7 +190,7 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 |HW 01|Module 01|May 10|May 18|May 25|
 |HW 02|Module 01 ~ Module 02|May 18|May 25|June 01|
 |HW 03|Module 01 ~ Module 03|May 25|June 08|June 15|
-|HW 04|Module 01 ~ Module 04|June 08|June 22|June 29|
+|HW 04|Module 01 ~ Module 05|June 08|June 22|June 29|
 |HW 05|Module 01 ~ Module 06|June 22|July 06|July 13|
 |HW 06|Module 01 ~ Module 07|July 06|July 13|July 20|
 |HW 07|Module 01 ~ Module 09|July 13|July 27|August 03|
@@ -208,12 +208,12 @@ To encourage online participation, When students ask at least one question each 
 
 Please follow the instruction having Discussions on LEARN below:
 - Please be respectful of your peers, instructor, and others in your posts and comments.
-- **When you ask questions about tutorial problems, please indicate the problem number in the title. (e.g., M01001: XXX)** 
+- **When you ask questions about tutorial problems, please indicate the problem number in the title. (e.g., M01001: YOUR TITLE)** 
 - Asking good questions is another way of learning by summarizing and explaining what you know and do not know. Thoughtful questions and answers will help all students in this class. Before posting a question, please ask yourself whether you are truly stuck (meaning that the answers cannot be readily found on the web) and your questions are complete and legible.
 - In addition, please check if the same question was asked before.  
 - Inappropriate posts and comments will be immediately deleted and closed without notice.
 
-Before you ask questions, please take a look at the following [**Q & A document**](qna) first. Students might find the answers to your questions!
+Before you ask questions, please take a look at the following [**Q&A document**](qna) first. Students might find the answers to your questions!
 
 ## Grading  
 The final grade will be based on the total marks earned from 8 homework assignments and 4 quizzes. Their grade components are provided as:
