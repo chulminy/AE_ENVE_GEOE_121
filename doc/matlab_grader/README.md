@@ -12,7 +12,7 @@
 
 ## MATLAB Grader Account Creation
 * Go to the MATLAB Grader sign up page: https://grader.mathworks.com/    
-* Students will receive an invitation email to join the AE/ENVE/GEOE 121 course in the MATLAB Grader.
+* Students will receive an invitation email to join the "AE/ENVE/GEOE 121 (S21)" and "Tutorial:Computational Method" courses in the MATLAB Grader.
 * Students will need to make a MATLAB Grader account before being able to access the course. 
 * Students are required to use the MATLAB Grader for their tutorials, homework, and quizzes.  
 
