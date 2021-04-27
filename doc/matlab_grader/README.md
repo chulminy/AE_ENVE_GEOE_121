@@ -52,7 +52,7 @@
 |![Question Page1](img/Question_Page1.png)|  
    
 * Here, I made a sample assignment. 
-* Click "Getting Started" -> "Variable and Assignments"
+* Click "Getting Started" -> "Variable and Assignments".
 * Please solve this simple problem. 
 
 |||
