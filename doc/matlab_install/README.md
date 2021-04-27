@@ -88,7 +88,12 @@ Please refer to the following tutorial: [**How to use MATLAB Grader?**](https://
 |:--:|
 |![SELECT](img/Licensing.png)|
 
-* For license selection, pick MATLAB and Simulink and go to the last page.
+* For license selection, pick 'MATLAB' from the checklist and go to the last page.
+
+||
+|:--:|
+|![SELECT](img/Matlab_Checklist.png)|
+
 * Select the options that best suit you and head straight to the confirmation page to finish your installation. Press "Begin install"
 
 ||
