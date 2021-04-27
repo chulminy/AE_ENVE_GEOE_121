@@ -21,7 +21,7 @@
 
 ||
 |:--:|
-|![homepage](img/download_for_matlab.png)|
+|![homepage](img/Download_for_MATLAB_new.png)|
 
 * Enter in the name of your school, school email along with other information shown on the page below.
 
@@ -36,7 +36,7 @@
 |![email](img/CLICK_THE_LINK.PNG)|
 
 ## Creating a Mathworks Account 
-Please refer to the following tutorial: [**How to use MATLAB Grader?**](matlab_grader)
+Please refer to the following tutorial: [**How to use MATLAB Grader?**](https://github.com/chulminy/AE_ENVE_GEOE_121/tree/master/doc/matlab_grader)
 
 ## Downloading/Installing MATLAB
 * Go back to your **email** and copy and paste the link provided to you. 
@@ -53,7 +53,7 @@ Please refer to the following tutorial: [**How to use MATLAB Grader?**](matlab_g
 |:--:|
 |![installer_image](img/DOWNLOAD_INSTALLER.png)|
 
-* Press "Download Installer" and select the most recent version of MATLAB by pressing the big blue "R2020a" button.
+* Press "Download Installer" and select the most recent version of MATLAB by pressing the big blue "R2021a" button.
 
 ||
 |:--:|
