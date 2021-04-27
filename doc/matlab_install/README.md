@@ -57,14 +57,14 @@ Please refer to the following tutorial: [**How to use MATLAB Grader?**](https://
 
 ||
 |:--:|
-|![BIG_BLUE_BUTTON](img/BIG_BLUE_BUTTON.png)|
+|![BIG_BLUE_BUTTON](img/MATLAB_Version_2021.png)|
 
 * Please Select the Operator your current computer is using.
 * Now sit tight and watch your installer being downloaded! 
 
 ||
 |:--:|
-|![OPERATOR](img/SELECTING_operator.png)|
+|![OPERATOR](img/Operating_System.png)|
 
 * Select the installer from the bottom of your browser and wait for MATLAB files to be extracted. 
 * After the installation is finished, allow MATLAB to make changes to your computer.
@@ -79,14 +79,14 @@ Please refer to the following tutorial: [**How to use MATLAB Grader?**](https://
 
 ||
 |:--:|
-|![LISCENCE](img/LISCENCE_AGREEMENT.png)|
+|![LISCENCE](img/License_Agreement_2021.png)|
 
 * Select the MATLAB License that is on **your** screen and confirm your selection.
 * You may pick a specific file destination after this point, however, it would be best if you just leave the file destination that is already suggested.
 
 ||
 |:--:|
-|![SELECT](img/SELECT_LISCENCE.png)|
+|![SELECT](img/Licensing.png)|
 
 * For license selection, pick MATLAB and Simulink and go to the last page.
 * Select the options that best suit you and head straight to the confirmation page to finish your installation. Press "Begin install"
@@ -94,3 +94,5 @@ Please refer to the following tutorial: [**How to use MATLAB Grader?**](https://
 ||
 |:--:|
 |![END](img/CONFIRM_SELECTION.png)|
+
+* You can now start using MATLAB!
