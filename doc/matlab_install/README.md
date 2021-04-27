@@ -3,7 +3,7 @@
 * **Email**: vafierastrau@uwaterloo.ca 
 * **Date**: May 5, 2020  
 
-*Updated: April 20, 2021 by XXXX*
+*Updated: April 27, 2021 by Kasturi Ghosh*
 
 **For those installing MATLAB for the first time, please read all the steps provided in this tutorial**
 
@@ -16,7 +16,8 @@
 ## Verifying your school license
 * To get things started, you first need to open up any internet browser to get to the MATLAB home page: https://www.mathworks.com/products/matlab.html 
 * Since you are a Waterloo student, you do not have to purchase a MATLAB temporary license since the school already has one. 
-* Click "Check for access" shown below:
+* Click on the 'Get MATLAB' button at the top right corner of the webpage.
+* Click 'Check for access' under 'Get Campus Software' as shown below:
 
 ||
 |:--:|
