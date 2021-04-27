@@ -3,7 +3,7 @@
 * **Email**: x97gao@uwaterloo.ca 
 * **Date**: May 4, 2020 
  
-*Updated: April 20, 2021 by XXXX*
+*Updated: April 27, 2021 by Bianca Angheluta*
 
 ## Table of Contents  
 * **MATLAB Grader Account Creation**  
@@ -12,8 +12,9 @@
 
 ## MATLAB Grader Account Creation
 * Go to the MATLAB Grader sign up page: https://grader.mathworks.com/    
-* Students will receive an invitation email to join the course in the MATLAB Grader.
-* Students are required to use the MATLAB Grader for their tutorial, assignments, and quizzes.  
+* Students will receive an invitation email to join the AE/ENVE/GEOE 121 course in the MATLAB Grader.
+* Students will need to make a MATLAB Grader account before being able to access the course. 
+* Students are required to use the MATLAB Grader for their tutorials, homework, and quizzes.  
 
 ||
 |:--:|
@@ -44,7 +45,7 @@
 |:--------|:-----------|
 |![HP1](img/HP1.png)|
 
-* You will see tutorials and assignments in the column on the right.   
+* You will see tutorials and homework assignments in the column on the left.   
 
 |||
 |:--------|:-----------|
@@ -69,14 +70,15 @@
 
 ## Submitting/Fixing Solutions 
 * Once you confirm that there is no syntax error, click the "Submit" button on the end of the page to check if your code is correct or not using pre-designed tests.
-* You can submit your solution as many times as you would like until all tests get passed for your assignment (**not for quizzes**)
+* You can submit your solution as many times as you would like until all tests get passed for your homework (**not for quizzes**).
 * Although you pass all tests, you can fix your solutions (Click "Improve This Solution"). 
+* You can also view your past solutions to a problem (Click "My Solutions").
 
 |||
 |:--------|:-----------|
 |![Submission](img/Submission.png)|
 
-* If you do not pass the tests, click the "Fix This Solution" button to get your solution fixed. 
+* If you do not pass the tests, click the "Fix This Solution" button to correct your solution. 
 
 |||
 |:--------|:-----------|
