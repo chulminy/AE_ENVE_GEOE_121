@@ -74,16 +74,16 @@ Lectures are to deliver fundamental knowledge and information in each Module and
 |:-----|:-----|:--:|:--:|:-----------:|
 |**Module 00**|Preliminaries|0.5|May 12| |
 |**Module 01**|Basic MATLAB Programming|2|May 14| |
-|**Module 02**|Vectors and Matrices|2|May 21|Quiz #1|
+|**Module 02**|Vectors and Matrices|2|May 21|Quiz #1 (May 27)|
 |**Module 03**|Selection Statement |2|June 02| |
 |**Module 04**|Loop Statement|2|June 09||
-|**Module 05**|Built-in Functions|3|June 18|Quiz #2|
+|**Module 05**|Built-in Functions|3|June 18|Quiz #2 (June 24)|
 |**Module 06**|Operator|3|June 30||
-|**Module 07**|Function|3|July 09|Quiz #3|
+|**Module 07**|Function|3|July 09|Quiz #3 (July 15)|
 |**Module 08**|Plotting|1|July 21|
 |**Module 09**|Data Structure|1.5|July 23||
 |**Module 10**|File I/O|1|July 28||
-|**Module 11**|Text Manipulation|3|August 05|Quiz #4|
+|**Module 11**|Text Manipulation|3|August 05|Quiz #4 (August 12)|
 
 ### Lecture Video 
 |Module|Video| 
@@ -122,7 +122,7 @@ Lectures are to deliver fundamental knowledge and information in each Module and
 |**Quiz 04**|TBU|
 
 ## Tutorial
-The tutorials are self-study resources to assist students in the problems of course material, homework assignments, and quizzes. Students can find the problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader. The model answers for all tutorial problems were posted on this [**page**](tutorial). All students are **highly recommended ** to solve all practice problems to prepare for your quizzes. Here is how to study the tutorial. 
+The tutorials are self-study resources to assist students in the problems of course material, homework assignments, and quizzes. Students can find the problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader. The model answers for all tutorial problems were posted on this [**page**](tutorial). All students are **highly recommended** to solve all practice problems to prepare for your quizzes. Here is how to study the tutorial. 
 
 * **Step 1.** Understand a problem listed on each Module in MATLAB Grader: You need to carefully read the description of problems on the MATLAB Grader or from this [page](tutorial).
 
@@ -143,7 +143,7 @@ You do not have to memorize any of the solutions. You can freely access all thes
 ## Quiz
 The quizzes will be delivered through the MATLAB Grader like, tutorials or homework assignments. The major differences are a time limit and a limited submission (only two times). Remember that although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB (program) editor before submission. 
  
-The students **must thoroughly prepare and be ready for taking the online quizzes** in advance, such as internet connection, computer peripheral devices, MATLAB access, laptop power status, personal circumstance. If they fail for some reason and cannot take the quiz, the students should contact both the First-Year Engineering Office and the instructor and provide sensible reasons. If accepted, the students will retake the quiz.
+The students **must thoroughly prepare and be ready for taking the online quizzes** in advance, such as internet connection, computer peripheral devices, MATLAB access, laptop power status, personal circumstance. If the student is unable to attempt the quiz for whatsoever reason(s), they should contact both the First-Year Engineering Office and the instructor and provide a sensible explanation. If accepted, the students will be allowed to retake the quiz
 
 ### Schedule  
 |Exam|Topics|Date|Duration|Instruction|
@@ -153,7 +153,7 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 |**Quiz 03**|Module 01 ~ 07|July 15 at 2:30pm (EST)|TBD|TBD|
 |**Quiz 04**|Module 01 ~ 11|August 12 at 2:30pm (EST)|TBD|TBD|   
 
-The extra quiz session will be scheduled on the following day (7 or 8 am (EST)) for those who stay in different time zones (e.g., Asia or the Middle East). Those students will receive a separate email. Note that this time allocation is not for the students who stayed in Canada.   
+The extra quiz session (for students who require a time zone accommodation) will be scheduled on the following day [7 or 8 am (EST)] and can only be availed by those who stay in different time zones (e.g., Asia or the Middle East). Those students will receive a separate email. Note that this quiz attempt is NOT available to students currently residing in Canada or in the same time zone.   
 
 ## Policy for Cheating 
 Students are encouraged to work in groups through collaborative learning only for homework assignments (**NOT** quizzes), but are required to submit their assignments individually. Students **must not share their solutions with other students**. The TAs will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs or instructor. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. Also, you might be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). Both copiers and copyees are guilty of cheating and will receive an equal penalty. The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
@@ -176,7 +176,7 @@ To accommodate online training, an instructor and two TAs will have online live 
 ## Homework Assignment
 The homework assignments will be designed using the MATLAB Grader. This tool allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments. Problems in the homework assignments are more challenging than examples or problems in the course materials. You might seek bits of help from your colleagues or TAs. 
 
-Again, please do not get used to writing your script directly to the MATLAB Grader only to pass the testers. Submission per problem will be **only be one time in the quizzes**. **This means you do not have a chance to revise your code using the feedback from the MATLAB Grader. **Thus, students are encouraged to use the MATLAB (program) editor to prepare the problems in the quizzes.  
+Again, please do not get used to writing your script directly to the MATLAB Grader only to pass the testers. For quizzes, students will only be able to submit their code on MATLAB Grader **once** (solutions cannot be revised). **Thus, students are encouraged to use the MATLAB (program) editor to prepare the problems in the quizzes.  
 
 The **Late submission policy** allow students to have **a maximum one-week delay for two of the seven course assignments (HW08 is not included here).** Students do not have to inform TA for their delayed submission as well as the reason for the delay. The MATLAB Grader records your submission time. TAs will just count the number of delays in your homework assignments. TAs will inform the students who delay their submission a second time. If the number of delays is more than two, the third delayed homework will be zero. Students must pay close attention to deadlines. 
 
