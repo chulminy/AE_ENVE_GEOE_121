@@ -176,7 +176,7 @@ To accommodate online training, an instructor and two TAs will have online live 
 ## Homework Assignment
 The homework assignments will be designed using the MATLAB Grader. This tool allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments. Problems in the homework assignments are more challenging than examples or problems in the course materials. You might seek bits of help from your colleagues or TAs. 
 
-Again, please do not get used to writing your script directly to the MATLAB Grader only to pass the testers. For quizzes, students will only be able to submit their code on MATLAB Grader **once** (solutions cannot be revised). **Thus, students are encouraged to use the MATLAB (program) editor to prepare the problems in the quizzes.  
+Again, please do not get used to writing your script directly to the MATLAB Grader only to pass the testers. For quizzes, students will only be able to submit their code on MATLAB Grader **twice**. Thus, students are encouraged to use the MATLAB (program) editor to prepare the problems in the quizzes.  
 
 The **Late submission policy** allow students to have **a maximum one-week delay for two of the seven course assignments (HW08 is not included here).** Students do not have to inform TA for their delayed submission as well as the reason for the delay. The MATLAB Grader records your submission time. TAs will just count the number of delays in your homework assignments. TAs will inform the students who delay their submission a second time. If the number of delays is more than two, the third delayed homework will be zero. Students must pay close attention to deadlines. 
 
