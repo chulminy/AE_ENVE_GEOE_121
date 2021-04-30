@@ -23,7 +23,9 @@ I was wondering if there were any "easy" ways to remember when you should use ()
 
 **Answer**: The best way is to make your own note. You do not need to memorize its usage because you can simply revisit your note or lecture slides during your quizzes. Once you make a summary note, you will solve tutorial problems using this note without looking at the individual solutions. 
 
-I'm sure that you can't correct the answer although you study them. You should repeat this process so that you get used to their usage. Programming is not a math or science. You can think of learning sports. Once you know the principle of how to do it, you need to do practice and learn by trial and error.
+It's okay to not get the correct answer even if you study them. You should repeat this process so that you get used to their usage. Programming is not a math or science. You can think of learning sports: once you know the principle of how to do it, you need to do practice and learn by trial and error.
+
+You can check out this webpage under ‘special characters’ for more information about the different types of brackets: [MathWorks: MATLAB Operators and Special Characters] (https://www.mathworks.com/help/matlab/matlab_prog/matlab-operators-and-special-characters.html?s_tid=doc_ta) 
 
 ### Rem Function and Type Casting
 For rem Function, I started by dividing the variable by each integer, and I know that it wants a whole number as a solution, but I’m not sure how to ensure it’s a whole number and also how to convert that to a logical operator?
@@ -142,7 +144,7 @@ I was wondering if there are situations where one would benefit from using the s
 ## Module 04. Loop Statement 
 
 ### The "While" Loop
-I'm really sure where to use While loop function. Is there a way of telling when is the best time for using it?
+I'm not really sure where to use While loop function. Is there a way of telling when is the best time for using it?
 
 **Answer**: Normally, if you don't know the end range of iterator, we use a while loop with 'break'. 
 
@@ -168,7 +170,7 @@ I also don't understand why this matrix has 5 layers? It says "the script that o
 And also some clarification for what "word_loc(:,:,ii) is a 8x2 matrix where the 1st and 2nd columns contain the row and column locations of the characters in a words(ii,:), respectively" means. This is very confusing, I can't understand or picture what this means?
 
 **Answer**: Please see my description and then you will get the idea. 
-![image3](img/github3.png)
+![image3](img/Module_4.jpg)
 
 ## Module 05. Built-in Functions
 
@@ -211,6 +213,8 @@ When do i use ./ operator? only when i have to divide a vector by vector or when
 **Answer**: You don't have to use ./ for vector and scalar division. You can use just the division. How about this? 
 ![image7](img/github7.png)
 
+Please refer to Pages 67 to 69 in Module 2: Vectors and Matrices to understand the differences between Scalar and Array operations.
+Check out this page for more information about the ./ function: [Mathworks: rdivide] (https://www.mathworks.com/help/matlab/ref/rdivide.html) 
 
 ### The "Coop Decision" Question
 For the COOP Decisions question, b), where it asked for best employer average-it required either the maximum or the minimum value (depending on the variable) of a column.I initially wrote varindex = find(max(coop_factors ( : , x))), where varindex is the index of the desired value (max or min of each column), and x is column that it is searching in. I expected max(coop_factors ( : , x)) to give the max value of each column, and find(...) would then provide the index (row number) of that value- this didn't end up working, and instead, it just returned a value of 1, regardless of the actual desired data. I initially thought this was because the find function was working with 2 dimensions, and my query was only limited to 1 dimension, however, [val, index] = max (coop_factors ( :, x ) ) worked perfectly fine, returning just the row number index (as desired)- what am I missing? 
@@ -242,6 +246,9 @@ Very interesting question that I haven't thought of..I don't like the \ slash op
 ![image8](img/github8.png)
 It looks like dot backslash is flip the denominator and numerator. 
 Since we can replicate those operations using dot slash, **I would not recommend using it, unless it is necessary.** 
+MathWorks has some good documentation about the two functions: 
+* ./ (rdivide): https://www.mathworks.com/help/matlab/ref/rdivide.html 
+* .\ (ldivide): https://www.mathworks.com/help/matlab/ref/ldivide.html 
 
 ## Module 07. Function 
 
@@ -328,6 +335,7 @@ OR
 ```matlab
 word_loc(kk) = {test_loc};
 ```
+Note that Parentheses () are used to index into an array whereas curly brackets {} are used to index to a specific cell array element by enclosing all indices in them. 
 
 ## Miscellaneous
 
