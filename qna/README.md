@@ -57,9 +57,10 @@ c4 = m1(1:end,end);
 **Answer**: C2, C3, and C4 are to explain how to access an entire column. 
 C2  => m1(:, end)  ':' means accessing all values in the corresponding dimension
 C3 => m1(1:3, end) 1:3 means accessing the values from the first to the third. Since the dimension of m1 is 3 x 3, 1:3 means accessing all values..
-C4 => m1(1:end, end) 1:end mean accessing the values from the first to the end, which is the last location of the corresponding dimension. The last location is 3. Thus, 1:end here is the same as 1:3. 
+C4 => m1(1:end, end) 1:end mean accessing the values from the first to the end, which is the last location of the corresponding dimension. The last location is 3. Thus, 1:end here is the same as 1:3. The following diagram might also help:
+![](img/matrixindexing.png)
 
-As result, C1, C2, and C3 are the same!
+As result, C2, C3, and C4 are the same!
 
 ### The "and" Operator
 I have a general question in terms of the and (&&) operator. Is it possible to include it more than once in a line of script?
@@ -136,7 +137,7 @@ The way used the "and" function in his example, he used it to check if 2 specifi
 ### If vs. Switch Statement
 I was wondering if there are situations where one would benefit from using the switch statement rather than if statements? Because personally I think the if and associate statements are a lot more intuitive and easier to understand and read.
 
-**Answer**: You can use either if-else or switch statements, which is more convenient for you. As mentioned in the lecture, if the expression contains a character or character vectors, the use of switch is more intuitive and readable. But, it's up to you.  Yes. I also prefer the if-else statement than switch. 
+**Answer**: You can use either if-else or switch statements, which is more convenient for you. As mentioned in the lecture, if the expression contains a character or character vectors, the use of switch is more intuitive and readable (ex.depending on which case you have for a given grade, you will display a different output which is easier to read using a switch statement). But, it's up to you.  Yes. I also prefer the if-else statement than switch. 
 
 ## Module 04. Loop Statement 
 
@@ -174,7 +175,7 @@ And also some clarification for what "word_loc(:,:,ii) is a 8x2 matrix where the
 ### The "Flip" Function
 I'm just wondering what is the difference between flip, fliplr and flipud? And can I use flip to replace fliplr and flipud.
 
-**Answer**:Please see the attached picture. Basically **fliplr** flips things right to left and **flipud** flips things in the up and down direction
+**Answer**:Please see the attached picture. Basically **fliplr** flips things right to left and **flipud** flips things in the up and down direction.As stated in the lecture, the flip function can also be used to flip matrices right to left or up and down if you include a dimension, flip(x, dim). For example, flip(x, 1) will flip the matrix up and down, flip(x,2) will flip the matrix right to left. 
 
 ![image4](img/github4.png)
 
@@ -188,7 +189,7 @@ when using [B,I] = sort(A,direction) and B is replaced with a ~, what exactly do
 ### Rounding to a nearest multiple of a specific number
 I understand rounding to the nearest integer, but is there a way to round to a certain multiple? Like for example, if I want to round to the nearest multiple of 7, how would I do it?
 
-**Answer**:You can use this code.
+**Answer**:You can use this code. If you wanted to round to the nearest multiple of a different number you would just have to change the “7” to that number. 
 
 ```matlab
 x = 47;
@@ -253,13 +254,13 @@ Let me explain it. The goal is to make a logical vector to a character (numeric)
 lg_vec = [1 1 1 1 0 1];
 How to make them ['1', '1' '1' '1' '0' '1'] ?
 If you add '0' to lg_vec,  '0' becomes an equivalent numeric value, which is 48. 
-lg_vec + 48 becomes [49 49 49 49 48 49]. Then, char([49 49 49 49 48 49]) becomes ['1', '1' '1' '1' '0' '1']. I know this is very tricky. You can just consider it as a simple trick to convert a numeric vector to a character numeric vector.
+lg_vec + 48 becomes [49 49 49 49 48 49]. Then, char([49 49 49 49 48 49]) becomes ['1', '1' '1' '1' '0' '1']. I know this is very tricky. You can just consider it as a simple trick to convert a logical vector to a character numeric vector, but to do so you have to convert it to a numeric vector first. 
 
 ### Error: "The logical indices contain a true value outside of the array bounds"
 I have gotten this error a couple times and I'm not too sure what it exactly means . . 
 "The logical indices contain a true value outside of the array bounds." 
 
-**Answer**: I replicate this error message. Can you get what's wrong in this code? 
+**Answer**: I replicate this error message. Can you get what's wrong in this code? Hint: take a close look at the number of elements in lg_vec and vec. Think back to Module 2, can a vector be read by an index that does not exist yet?   
 ![image9](img/github9.png)
 
 ## Module 08. Plotting
@@ -273,6 +274,7 @@ I was going over the lectures again and I noticed that the strcmp function was l
 
 Here is the example:
 ![image10](img/github10.png)
+When using strcmp the input arguments can be string arrays, character vectors, or cell arrays of character vectors and the output will be either true or false, or an array of logical vectors if the input was an array. Mathworks also has some good information about the [strcmp](https://www.mathworks.com/help/matlab/ref/strcmp.html) and [isequal](https://www.mathworks.com/help/fixedpoint/ref/isequal.html). 
 
 
 ### String Indexing Vs. Character Indexing
@@ -285,10 +287,10 @@ What are the differences to string indexing and character indexing? With string 
 ### "strcmp" Vs. "find"
 What are the limitations to using strcmp function vs. find function? Are there situations where it is advantageous to use one over the other?
 
-**Answer**: Very good question. I think you are asking strfnd and find, right? strfnd is to find location(s) of a pattern.e.g., strfnd(char_vec, 'banana')
-find is to give the location of logical true. e.g., find(char_vec == 'b')
+**Answer**: Very good question. I think you are asking strfnd and find, right? strfnd is to find location(s) of a pattern.e.g., strfnd(char_vec, 'banana') and gives the location(s) of the first occurrence of the input.
+find is to give the location of logical true. e.g., find(char_vec == 'b').
 strfind accept two string or character vectors as input. 
-find accepts an input for a logical vector. I think they are different functions. Is it clear?
+find accepts an input for a logical vector. I think they are different functions. 
 
 
 ## Module 10. File I/O
