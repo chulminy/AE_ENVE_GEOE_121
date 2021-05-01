@@ -23,7 +23,9 @@ I was wondering if there were any "easy" ways to remember when you should use ()
 
 **Answer**: The best way is to make your own note. You do not need to memorize its usage because you can simply revisit your note or lecture slides during your quizzes. Once you make a summary note, you will solve tutorial problems using this note without looking at the individual solutions. 
 
-I'm sure that you can't correct the answer although you study them. You should repeat this process so that you get used to their usage. Programming is not a math or science. You can think of learning sports. Once you know the principle of how to do it, you need to do practice and learn by trial and error.
+It's okay to not get the correct answer even if you study them. You should repeat this process so that you get used to their usage. Programming is not a math or science. You can think of learning sports: once you know the principle of how to do it, you need to do practice and learn by trial and error.
+
+You can check out this webpage under ‘special characters’ for more information about the different types of brackets: [MathWorks: MATLAB Operators and Special Characters] (https://www.mathworks.com/help/matlab/matlab_prog/matlab-operators-and-special-characters.html?s_tid=doc_ta) 
 
 ### Rem Function and Type Casting
 For rem Function, I started by dividing the variable by each integer, and I know that it wants a whole number as a solution, but I’m not sure how to ensure it’s a whole number and also how to convert that to a logical operator?
@@ -57,9 +59,10 @@ c4 = m1(1:end,end);
 **Answer**: C2, C3, and C4 are to explain how to access an entire column. 
 C2  => m1(:, end)  ':' means accessing all values in the corresponding dimension
 C3 => m1(1:3, end) 1:3 means accessing the values from the first to the third. Since the dimension of m1 is 3 x 3, 1:3 means accessing all values..
-C4 => m1(1:end, end) 1:end mean accessing the values from the first to the end, which is the last location of the corresponding dimension. The last location is 3. Thus, 1:end here is the same as 1:3. 
+C4 => m1(1:end, end) 1:end mean accessing the values from the first to the end, which is the last location of the corresponding dimension. The last location is 3. Thus, 1:end here is the same as 1:3. The following diagram might also help:
+![](img/matrixindexing.png)
 
-As result, C1, C2, and C3 are the same!
+As result, C2, C3, and C4 are the same!
 
 ### The "and" Operator
 I have a general question in terms of the and (&&) operator. Is it possible to include it more than once in a line of script?
@@ -136,12 +139,12 @@ The way used the "and" function in his example, he used it to check if 2 specifi
 ### If vs. Switch Statement
 I was wondering if there are situations where one would benefit from using the switch statement rather than if statements? Because personally I think the if and associate statements are a lot more intuitive and easier to understand and read.
 
-**Answer**: You can use either if-else or switch statements, which is more convenient for you. As mentioned in the lecture, if the expression contains a character or character vectors, the use of switch is more intuitive and readable. But, it's up to you.  Yes. I also prefer the if-else statement than switch. 
+**Answer**: You can use either if-else or switch statements, which is more convenient for you. As mentioned in the lecture, if the expression contains a character or character vectors, the use of switch is more intuitive and readable (ex.depending on which case you have for a given grade, you will display a different output which is easier to read using a switch statement). But, it's up to you.  Yes. I also prefer the if-else statement than switch. 
 
 ## Module 04. Loop Statement 
 
 ### The "While" Loop
-I'm really sure where to use While loop function. Is there a way of telling when is the best time for using it?
+I'm not really sure where to use While loop function. Is there a way of telling when is the best time for using it?
 
 **Answer**: Normally, if you don't know the end range of iterator, we use a while loop with 'break'. 
 
@@ -167,14 +170,14 @@ I also don't understand why this matrix has 5 layers? It says "the script that o
 And also some clarification for what "word_loc(:,:,ii) is a 8x2 matrix where the 1st and 2nd columns contain the row and column locations of the characters in a words(ii,:), respectively" means. This is very confusing, I can't understand or picture what this means?
 
 **Answer**: Please see my description and then you will get the idea. 
-![image3](img/github3.png)
+![image3](img/Module_4.jpg)
 
 ## Module 05. Built-in Functions
 
 ### The "Flip" Function
 I'm just wondering what is the difference between flip, fliplr and flipud? And can I use flip to replace fliplr and flipud.
 
-**Answer**:Please see the attached picture. Basically **fliplr** flips things right to left and **flipud** flips things in the up and down direction
+**Answer**:Please see the attached picture. Basically **fliplr** flips things right to left and **flipud** flips things in the up and down direction.As stated in the lecture, the flip function can also be used to flip matrices right to left or up and down if you include a dimension, flip(x, dim). For example, flip(x, 1) will flip the matrix up and down, flip(x,2) will flip the matrix right to left. 
 
 ![image4](img/github4.png)
 
@@ -188,7 +191,7 @@ when using [B,I] = sort(A,direction) and B is replaced with a ~, what exactly do
 ### Rounding to a nearest multiple of a specific number
 I understand rounding to the nearest integer, but is there a way to round to a certain multiple? Like for example, if I want to round to the nearest multiple of 7, how would I do it?
 
-**Answer**:You can use this code.
+**Answer**:You can use this code. If you wanted to round to the nearest multiple of a different number you would just have to change the “7” to that number. 
 
 ```matlab
 x = 47;
@@ -210,6 +213,8 @@ When do i use ./ operator? only when i have to divide a vector by vector or when
 **Answer**: You don't have to use ./ for vector and scalar division. You can use just the division. How about this? 
 ![image7](img/github7.png)
 
+Please refer to Pages 67 to 69 in Module 2: Vectors and Matrices to understand the differences between Scalar and Array operations.
+Check out this page for more information about the ./ function: [Mathworks: rdivide] (https://www.mathworks.com/help/matlab/ref/rdivide.html) 
 
 ### The "Coop Decision" Question
 For the COOP Decisions question, b), where it asked for best employer average-it required either the maximum or the minimum value (depending on the variable) of a column.I initially wrote varindex = find(max(coop_factors ( : , x))), where varindex is the index of the desired value (max or min of each column), and x is column that it is searching in. I expected max(coop_factors ( : , x)) to give the max value of each column, and find(...) would then provide the index (row number) of that value- this didn't end up working, and instead, it just returned a value of 1, regardless of the actual desired data. I initially thought this was because the find function was working with 2 dimensions, and my query was only limited to 1 dimension, however, [val, index] = max (coop_factors ( :, x ) ) worked perfectly fine, returning just the row number index (as desired)- what am I missing? 
@@ -241,6 +246,9 @@ Very interesting question that I haven't thought of..I don't like the \ slash op
 ![image8](img/github8.png)
 It looks like dot backslash is flip the denominator and numerator. 
 Since we can replicate those operations using dot slash, **I would not recommend using it, unless it is necessary.** 
+MathWorks has some good documentation about the two functions: 
+* ./ (rdivide): https://www.mathworks.com/help/matlab/ref/rdivide.html 
+* .\ (ldivide): https://www.mathworks.com/help/matlab/ref/ldivide.html 
 
 ## Module 07. Function 
 
@@ -253,13 +261,13 @@ Let me explain it. The goal is to make a logical vector to a character (numeric)
 lg_vec = [1 1 1 1 0 1];
 How to make them ['1', '1' '1' '1' '0' '1'] ?
 If you add '0' to lg_vec,  '0' becomes an equivalent numeric value, which is 48. 
-lg_vec + 48 becomes [49 49 49 49 48 49]. Then, char([49 49 49 49 48 49]) becomes ['1', '1' '1' '1' '0' '1']. I know this is very tricky. You can just consider it as a simple trick to convert a numeric vector to a character numeric vector.
+lg_vec + 48 becomes [49 49 49 49 48 49]. Then, char([49 49 49 49 48 49]) becomes ['1', '1' '1' '1' '0' '1']. I know this is very tricky. You can just consider it as a simple trick to convert a logical vector to a character numeric vector, but to do so you have to convert it to a numeric vector first. 
 
 ### Error: "The logical indices contain a true value outside of the array bounds"
 I have gotten this error a couple times and I'm not too sure what it exactly means . . 
 "The logical indices contain a true value outside of the array bounds." 
 
-**Answer**: I replicate this error message. Can you get what's wrong in this code? 
+**Answer**: I replicate this error message. Can you get what's wrong in this code? Hint: take a close look at the number of elements in lg_vec and vec. Think back to Module 2, can a vector be read by an index that does not exist yet?   
 ![image9](img/github9.png)
 
 ## Module 08. Plotting
@@ -273,6 +281,7 @@ I was going over the lectures again and I noticed that the strcmp function was l
 
 Here is the example:
 ![image10](img/github10.png)
+When using strcmp the input arguments can be string arrays, character vectors, or cell arrays of character vectors and the output will be either true or false, or an array of logical vectors if the input was an array. Mathworks also has some good information about the [strcmp](https://www.mathworks.com/help/matlab/ref/strcmp.html) and [isequal](https://www.mathworks.com/help/fixedpoint/ref/isequal.html). 
 
 
 ### String Indexing Vs. Character Indexing
@@ -285,10 +294,10 @@ What are the differences to string indexing and character indexing? With string 
 ### "strcmp" Vs. "find"
 What are the limitations to using strcmp function vs. find function? Are there situations where it is advantageous to use one over the other?
 
-**Answer**: Very good question. I think you are asking strfnd and find, right? strfnd is to find location(s) of a pattern.e.g., strfnd(char_vec, 'banana')
-find is to give the location of logical true. e.g., find(char_vec == 'b')
+**Answer**: Very good question. I think you are asking strfnd and find, right? strfnd is to find location(s) of a pattern.e.g., strfnd(char_vec, 'banana') and gives the location(s) of the first occurrence of the input.
+find is to give the location of logical true. e.g., find(char_vec == 'b').
 strfind accept two string or character vectors as input. 
-find accepts an input for a logical vector. I think they are different functions. Is it clear?
+find accepts an input for a logical vector. I think they are different functions. 
 
 
 ## Module 10. File I/O
@@ -326,6 +335,7 @@ OR
 ```matlab
 word_loc(kk) = {test_loc};
 ```
+Note that Parentheses () are used to index into an array whereas curly brackets {} are used to index to a specific cell array element by enclosing all indices in them. 
 
 ## Miscellaneous
 
