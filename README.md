@@ -24,6 +24,7 @@
 - [Homework Assignment](#homework-assignment)
 - [Communication](#communication)
 - [Grading](#grading)
+- [Calendar](#calendar)
 - [Note](#note)
 
 ## Course Description
@@ -227,6 +228,13 @@ The final grade will be based on the total marks earned from 8 homework assignme
 |**Quiz #4**| 30 |
 |**Online engagement**|extra up to 6*|
 |**Total** |100| 
+
+## Calendar
+|![](doc/calendar/may_s21.jpg)|
+|:---:|
+|![](doc/calendar/june_s21.jpg)|
+|![](doc/calendar/july_s21.jpg)|
+|![](doc/calendar/august_s21.jpg)|
 
 ## Note
 ### Academic integrity
