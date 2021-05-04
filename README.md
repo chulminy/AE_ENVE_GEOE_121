@@ -2,13 +2,16 @@
 
 |||
 |:--------|:-----------|
-|<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 04:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
+|<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
 **Last updated:** 2021-04-20
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
 - [**Computational Method (Spring, 2020)**](s2020)
+
+## Announcements
+* 05/10/21: Class begins!
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -46,7 +49,7 @@ By the end of this course, students should be able to
 
 ## Study Guide
 * Watch lecture video(s) of each module. 
-* Solve problems in the course materials and tutorials by yourself.
+* Solve problems in the course materials and tutorials by yourself (see [this instruction](#tutorial)).
 * Type and run all scripts of sample solutions in the course material and tutorial videos. Never skim the code.  
 * Make online engagement through [**LEARN**]() or attend [live help sessions](#live-help-session).   
 * Watch tutorial videos to check your answers to the problems.
@@ -70,6 +73,8 @@ All lectures will be delivered using pre-recorded videos. All videos will be upl
 The lectures will cover the course materials (You can download it from [**here**](comp_method_book_cm_s21.pdf)), developed by the instructor. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and previous modules. For example (if you see the table below), Quiz #2 will cover Module 01 to Module 05. 
 
 Lectures are to deliver fundamental knowledge and information in each Module and not to give a direction on how to solve your homework assignments or quizzes. However, all the practice problems were designed based on the course materials. Thus, if students do not find the relevance between them, they have not understood lectures yet and should carefully review them again. 
+
+You can check the schedule all at once from [this calendar](#calendar).
 
 |Module|Topics|Load|ETF|[Quiz](#quiz)| 
 |:-----|:-----|:--:|:--:|:-----------:|
@@ -197,6 +202,7 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 |HW 07|Module 01 ~ Module 09|July 13|July 27|August 03|
 |HW 08|Module 01 ~ Module 12|July 13|August 05|August 05|
 
+* You can check the schedule all at once from [this calendar](#calendar).
 * Students can start homework assignments if they are visible in the MATLAB Grader.
 * There is no more delay for the last homework (HW 08). 
 
