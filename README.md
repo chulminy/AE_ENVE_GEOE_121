@@ -199,7 +199,7 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 ### Schedule
 |HW|Topic|Start date|First due date|Second due date|
 |:---|:-----|:----|:-----|:-----|
-|HW 01|Module 01|May 10|May 18|May 25|
+|HW 01|Module 01|May 09|May 18|May 25|
 |HW 02|Module 01 ~ Module 02|May 18|May 25|June 01|
 |HW 03|Module 01 ~ Module 03|May 25|June 08|June 15|
 |HW 04|Module 01 ~ Module 05|June 08|June 22|June 29|
