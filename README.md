@@ -4,16 +4,15 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-05-09
+**Last updated:** 2021-05-16
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
 - [**Computational Method (Spring, 2020)**](s2020)
 
 ## Announcements
-* **May 09**: You received two invitation emails to register for MATLAB grader courses. One for tutorial ([*Tutorial: Computational Method*](https://grader.mathworks.com/courses/18318-tutorial-computational-method)) and the other for homework assignment ([*AE/ENVE/GEOE 121(S21)*](https://grader.mathworks.com/courses/41892-ae-enve-geoe-121-s21)). You must accept for these invitations to conduct course activities. If you haven't received them, please tell TAs immediately!.  
-* **May 09**: Live help sessions on the first day (May 10) will be canceled. On your first day, please complete two tutorials in [Prerequisites](#prerequisites) first and watch lecture videos for Module 00. Then, start to study Module 01. Live help sessions will begin on Tuesday (May 11).   
-* **May 09**: An instructor will attend the Live help sessions on Thursday and Friday (2:30PM ~ 3:30PM). Hope you attend the session and say hello. Also, you can ask the question to the instructor on these sessions.  
+* **May 16**: Lecture videos for Module 02 have been posted.  
+* **May 15**: Homework #2 has been posted on MATLAB Grader. 
 * **May 09**: Homework #1 has been posted on MATLAB Grader. If you fail to join [*AE/ENVE/GEOE 121(S21)*](https://grader.mathworks.com/courses/41892-ae-enve-geoe-121-s21) or do not see HW#1, please tell TAs as soon as possible.  
 * **May 09**: The following statement has been added in [Homework Assignment](#homework-assignment). Each homework assignment will be closed at 11:45pm on its second due date (NOT 11:59pm). You CANNOT submit your work after the second due date. Please submit your work 30 minutes earlier. 
 * **May 08**: Lecture videos for Module 01 have been posted.  
@@ -102,7 +101,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |:----|:----|
 |**Module 00**|[<img src="http://img.youtube.com/vi/uwWFPcB3TSw/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=uwWFPcB3TSw) [<img src="http://img.youtube.com/vi/65e-4AVwE4s/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=65e-4AVwE4s) [<img src="http://img.youtube.com/vi/1zDLYaxqKHE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=1zDLYaxqKHE)|
 |**Module 01**| [<img src="http://img.youtube.com/vi/-vJBm23Wk6k/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=-vJBm23Wk6k)  [<img src="http://img.youtube.com/vi/ObDfOQkglSo/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=ObDfOQkglSo)|
-|**Module 02**|TBU|
+|**Module 02**| [<img src="http://img.youtube.com/vi/83HysRVk5Zg/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=83HysRVk5Zg) [<img src="http://img.youtube.com/vi/5rP8F1pwggA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=5rP8F1pwggA)||
 |**Module 03**|TBU|
 |**Module 04**|TBU|
 |**Module 05**|TBU|
@@ -200,7 +199,7 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 |HW|Topic|Start date|First due date|Second due date|
 |:---|:-----|:----|:-----|:-----|
 |HW 01|Module 01|May 09|May 18|May 25|
-|HW 02|Module 01 ~ Module 02|May 18|May 25|June 01|
+|HW 02|Module 01 ~ Module 02|May 15|May 25|June 01|
 |HW 03|Module 01 ~ Module 03|May 25|June 08|June 15|
 |HW 04|Module 01 ~ Module 05|June 08|June 22|June 29|
 |HW 05|Module 01 ~ Module 06|June 22|July 06|July 13|
