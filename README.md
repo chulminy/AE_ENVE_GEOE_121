@@ -4,19 +4,18 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-05-16
+**Last updated:** 2021-05-19
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
 - [**Computational Method (Spring, 2020)**](s2020)
 
 ## Announcements
+* **May 19**: Students received a MATLAB Grader course invitation email. Please join the course to take quizzes. If you do not receive the email, please let TAs know. 
+* **May 19**: A description for [**Quiz 1**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md) is posted. 
 * **May 16**: Lecture videos for Module 02 have been posted.  
 * **May 15**: Homework #2 has been posted on MATLAB Grader. 
-* **May 09**: Homework #1 has been posted on MATLAB Grader. If you fail to join [*AE/ENVE/GEOE 121(S21)*](https://grader.mathworks.com/courses/41892-ae-enve-geoe-121-s21) or do not see HW#1, please tell TAs as soon as possible.  
-* **May 09**: The following statement has been added in [Homework Assignment](#homework-assignment). Each homework assignment will be closed at 11:45pm on its second due date (NOT 11:59pm). You CANNOT submit your work after the second due date. Please submit your work 30 minutes earlier. 
-* **May 08**: Lecture videos for Module 01 have been posted.  
-* **May 08**: Lecture videos for preparing for this course have been posted. Please watch three lecture videos of Module 00.    
+
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -85,7 +84,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |:-----|:-----|:--:|:--:|:-----------:|
 |**Module 00**|Preliminaries|0.5|May 12| |
 |**Module 01**|Basic MATLAB Programming|2|May 14| |
-|**Module 02**|Vectors and Matrices|2|May 21|Quiz #1 (May 27)|
+|**Module 02**|Vectors and Matrices|2|May 21|[**Quiz 1**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md) (May 27)|
 |**Module 03**|Selection Statement |2|June 02| |
 |**Module 04**|Loop Statement|2|June 09||
 |**Module 05**|Built-in Functions|3|June 18|Quiz #2 (June 24)|
@@ -159,7 +158,7 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 ### Schedule  
 |Exam|Topics|Date|Duration|Instruction|
 |:---|:-------|:-----|:----|:----|
-|**Quiz 01**|Module 01 ~ 02|May 27 at 2:30pm (EST)|TBD|TBD|
+|[**Quiz 1**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md)|Module 01 ~ 02|May 27 at 2:30pm (EST)|TBD|TBD|
 |**Quiz 02**|Module 01 ~ 05|June 24 at 2:30pm (EST)|TBD|TBD|
 |**Quiz 03**|Module 01 ~ 07|July 15 at 2:30pm (EST)|TBD|TBD|
 |**Quiz 04**|Module 01 ~ 11|August 12 at 2:30pm (EST)|TBD|TBD|   
