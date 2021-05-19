@@ -1,7 +1,7 @@
 # Quiz #1
 
 ## General Description
-This quiz is to evaluate your understanding of key concepts covered **up to Module 2**. This is an individual online live exam. You must solve all problems on your own and must not discuss them with other people. **We will make a general announcement through the MS Teams application (only chat) during the quiz.** You can ask questions anytime through the MS Teams application in person during the quiz. If you leave a message in a private chat window to your TAs or instructor, we will chat with you individually. . 
+This quiz is to evaluate your understanding of key concepts covered **Module 1 and Module 2**. This is an individual online live exam. You must solve all problems on your own and must not discuss them with other people. **We will make a general announcement through the MS Teams application (only chat) during the quiz.** You can ask questions anytime through the MS Teams application in person during the quiz. If you leave a message in a private chat window to your TAs or instructor, we will chat with you individually. Please do not ask questions on the General Channel chat where it is visible to everyone during the quiz.
 
 During the quiz, you can only access (0) MS Teams (1) Course website, (2) MATLAB Grader, (3) MATLAB program in your computer, (4) Lecture/Tutorial videos, (5) Lecture slides, (6) MATLAB files that you have created while you study this course, and (7) Digital/Offline notes that you have made your own. Your digital note (in pdf or word) contains only texts and should not be a form of drag/drop website content. **Your internet browser must only be used to access the course website, MATLAB Grader, or Lecture/tutorial videos.** 
 
