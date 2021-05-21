@@ -4,13 +4,14 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-05-19
+**Last updated:** 2021-05-21
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
 - [**Computational Method (Spring, 2020)**](s2020)
 
 ## Announcements
+* **May 21**: A lecture video for Module 03 has been posted.  
 * **May 19**: Students received a MATLAB Grader course invitation email. Please join the course to take quizzes. If you do not receive the email, please let TAs know. 
 * **May 19**: A description for [**Quiz 1**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md) is posted. 
 * **May 16**: Lecture videos for Module 02 have been posted.  
