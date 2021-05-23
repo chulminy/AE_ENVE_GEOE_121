@@ -4,13 +4,14 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-05-21
+**Last updated:** 2021-05-23
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
 - [**Computational Method (Spring, 2020)**](s2020)
 
 ## Announcements
+* **May 23**: Quiz review videos for Quiz 01 have been posted. This videos help students preparing for Quiz 01. 
 * **May 21**: A lecture video for Module 03 has been posted.  
 * **May 19**: Students received a MATLAB Grader course invitation email. Please join the course to take quizzes. If you do not receive the email, please let TAs know. 
 * **May 19**: A description for [**Quiz 1**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md) is posted. 
@@ -85,16 +86,16 @@ You can check the schedule all at once from [this calendar](#calendar).
 |:-----|:-----|:--:|:--:|:-----------:|
 |**Module 00**|Preliminaries|0.5|May 12| |
 |**Module 01**|Basic MATLAB Programming|2|May 14| |
-|**Module 02**|Vectors and Matrices|2|May 21|[**Quiz 1**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md) (May 27)|
+|**Module 02**|Vectors and Matrices|2|May 21|[**Quiz 01**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md) (May 27)|
 |**Module 03**|Selection Statement |2|June 02| |
 |**Module 04**|Loop Statement|2|June 09||
-|**Module 05**|Built-in Functions|3|June 18|Quiz #2 (June 24)|
+|**Module 05**|Built-in Functions|3|June 18|Quiz 02 (June 24)|
 |**Module 06**|Operator|3|June 30||
-|**Module 07**|Function|3|July 09|Quiz #3 (July 15)|
+|**Module 07**|Function|3|July 09|Quiz 03 (July 15)|
 |**Module 08**|Plotting|1|July 21|
 |**Module 09**|Data Structure|1.5|July 23||
 |**Module 10**|File I/O|1|July 28||
-|**Module 11**|Text Manipulation|3|August 05|Quiz #4 (August 12)|
+|**Module 11**|Text Manipulation|3|August 05|Quiz 04 (August 12)|
 
 ### Lecture Video 
 |Module|Video| 
@@ -127,7 +128,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 ### Quiz Review Session
 |Module|Video| 
 |:----|:----| 
-|**Quiz 01**|TBU|
+|**Quiz 01**|[<img src="http://img.youtube.com/vi/loZXG10QkPM/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=loZXG10QkPM) [<img src="http://img.youtube.com/vi/4xBECKnChGA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=4xBECKnChGA)|
 |**Quiz 02**|TBU|
 |**Quiz 03**|TBU|
 |**Quiz 04**|TBU|
@@ -159,7 +160,7 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 ### Schedule  
 |Exam|Topics|Date|Duration|Instruction|
 |:---|:-------|:-----|:----|:----|
-|[**Quiz 1**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md)|Module 01 ~ 02|May 27 at 2:30pm (EST)|TBD|TBD|
+|[**Quiz 01**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md)|Module 01 ~ 02|May 27 at 2:30pm (EST)|TBD|TBD|
 |**Quiz 02**|Module 01 ~ 05|June 24 at 2:30pm (EST)|TBD|TBD|
 |**Quiz 03**|Module 01 ~ 07|July 15 at 2:30pm (EST)|TBD|TBD|
 |**Quiz 04**|Module 01 ~ 11|August 12 at 2:30pm (EST)|TBD|TBD|   
