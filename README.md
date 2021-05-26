@@ -11,6 +11,7 @@
 - [**Computational Method (Spring, 2020)**](s2020)
 
 ## Announcements
+* **May 26**: We have answered some questions for Quiz 1. Please check out this [**document**](doc/quiz_1_faq.md).      
 * **May 26**: Solution review videos for Homework #1 has been posted.    
 * **May 25**: Homework #3 has been posted on MATLAB Grader. 
 * **May 23**: Quiz review videos for Quiz 01 have been posted. This videos help students preparing for Quiz 01. 
