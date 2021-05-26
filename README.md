@@ -117,7 +117,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 ### Homework Review 
 |Module|Video| 
 |:----|:----| 
-|**HW 01**|[<img src="http://img.youtube.com/vi/N7PcDAdsLyE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=N7PcDAdsLyE) [<img src="http://img.youtube.com/vi/4xBECKnChGA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=4xBECKnChGA)|
+|**HW 01**|[<img src="http://img.youtube.com/vi/N7PcDAdsLyE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=N7PcDAdsLyE) [<img src="http://img.youtube.com/vi/V308jjgmOts/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=V308jjgmOts)|
 |**HW 02**|TBU|
 |**HW 03**|TBU|
 |**HW 04**|TBU|
