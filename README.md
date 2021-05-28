@@ -4,21 +4,17 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-05-26
+**Last updated:** 2021-05-28
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
 - [**Computational Method (Spring, 2020)**](s2020)
 
 ## Announcements
-* **May 26**: We have answered some questions for Quiz 1. Please check out this [**document**](doc/quiz_1_faq.md).      
+* **May 28**: We have answered your feedback for Quiz 1. Please check out this [**document**](doc/Q1_Feedback_Answer.md). Please review it carefully to prepare upcoming quizzes.       
 * **May 26**: Solution review videos for Homework #1 has been posted.    
 * **May 25**: Homework #3 has been posted on MATLAB Grader. 
-* **May 23**: Quiz review videos for Quiz 01 have been posted. This videos help students preparing for Quiz 01. 
 * **May 21**: A lecture video for Module 03 has been posted.  
-* **May 19**: Students received a MATLAB Grader course invitation email. Please join the course to take quizzes. If you do not receive the email, please let TAs know. 
-* **May 19**: A description for [**Quiz 1**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md) is posted. 
-* **May 16**: Lecture videos for Module 02 have been posted.  
 * **May 15**: Homework #2 has been posted on MATLAB Grader. 
 
 ## Table of Contents
