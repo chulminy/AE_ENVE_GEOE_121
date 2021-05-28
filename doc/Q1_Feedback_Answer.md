@@ -17,21 +17,21 @@ from [https://github.com/chulminy/AE_ENVE_GEOE_121#grading](https://github.com/c
 
 I designed this course so that **the final class average ranges from 75 to 80**. I assume that you receive a full mark from homework assignments and online engagement if you desire the final grade that is above average. This is the bare minimum for students who take this course if they are willing to learn from this course. Both your online engagement (6%) and assignment mark (25%) contribute to 31% of your final grade. This is definitely not a small number. 
 
-Let's assume that you receive 50 from all quizzes (actually very low score). That will become 37.5% of your overall grade, and your final course average becomes 68.5. Now let’s consider a scenario where you receive an average 70 from your quizzes, then your final grade becomes 83.5. Although you received low scores on the quizzes, they do not drastically affect your final grade because you get the basic marks from the homework assignments and online engagement. If you receive over average 80 on quizzes, you will get over 90 in your final grade. I hope you understand this grading mechanism. 
+Let's assume that you receive 50 from all quizzes (actually very low scores). That will become 37.5% of your overall grade, and your final course average becomes 68.5. Now let’s consider a scenario where you receive an average 70 from your quizzes, then your final grade becomes 83.5. Although you received low scores on the quizzes, they do not drastically affect your final grade because you get the basic marks from the homework assignments and online engagement. If you receive over average 80 on quizzes, you will get over 90 in your final grade. I hope you understand this grading mechanism. 
 
-I understand you want to receive perfect scores and top grades on your quizzes but this grading mechanism is meant to take into account that quizzes are typically harder to receive outstanding grades. I would say that the expected class averages for the quizzes in our course will not be over 70, which is why participation and assignment grades hold such high contributions to your final grade. I think this is fair. In that sense, the quizzes that follow up will be harder than Quiz 1, so be sure to study effectively for your quizzes, watch review videos, and play an active role in help sessions and Learn discussions. 
+I understand you want to receive perfect scores and top grades on your quizzes but this grading mechanism is meant to take into account that quizzes are typically harder to receive outstanding grades. I would say that the expected class averages for the quizzes in our course will not be or should not be over 70, which is why participation and assignment grades hold such high contributions to your final grade. I think this is fair. In that sense, the quizzes that follow up will be harder than Quiz 1, so be sure to study effectively for your quizzes, watch review videos, and play an active role in help sessions and Learn discussions. 
 
 I understand you are not happy about the difficulty of the quiz problems. However, it is not hard to pass the course or achieve a descent final grade if you submit all homework assignments on time and receive a full mark from online engagement considering that our quizzes do not hold as much contribution as they normally would. Also, in doing this, we can give an advantage to the students who steadily study this course. Your efforts will pay off! 
 
 ## Results
-All XXX students responded to the survey and the [**results**](results) are presented below. 
+All 119 students responded to the survey and the results are presented below: 
 
 ### Q. How did you feel about your first quiz? Note that the target overall average is 70.
-![]()
+![](img/q1_graph1.png)
 ### Q. How do you feel about the course overall?
-![]()
+![](img/q1_graph2.png)
 ### Q. How do you feel about workload of this course?
-![]()
+![](img/q1_graph3.png)
 
 ## Improvements for Future Quizzes
 * Provide more time or reduce the number of questions (if possible)
@@ -40,17 +40,17 @@ All XXX students responded to the survey and the [**results**](results) are pres
 
 ## Advice to the Students 
 * Please read the course syllabus and quiz instruction carefully. Please read them before taking the quiz.
-* **The quiz problems are designed on the assumption that you complete homework and tutorial problems.** 
+* **Remember that the quiz problems are designed on the assumption that you complete homework and tutorial problems.** 
 * You must read all announcements in LEARN. This is the only way we can communicate in an online environment. If they are unclear, please ask us! 
 * To get prepared for the quizzes, you are able to solve all tutorial and homework assignments following [the study guideline](https://github.com/chulminy/AE_ENVE_GEOE_121#tutorial).
 
-
 ## Comments & Answers 
-
 ### Major comment: lack of time or too difficult
-**CY:** More than half of the feedbacks is related to lack of time. Unfortunately, as mentioned in the beginning, we are not considering reducing the difficulty or more time to solve the questions in the following quizzes at this time. If the quiz hours increase, this means that the problems are more difficult. **This is because the average score for the quiz should be below 70.** However, the problems in the following quizzes are designed so that the students can spend more time on writing the scripts rather than understanding the questions and give one more submission trial. We will try to shorten the problems and make them clearer or reuse the description from homework or tutorial problems so that the students do not waste their time understanding the questions. 
+**CY:** More than half of the feedback is related to lack of time. Unfortunately, as mentioned in the beginning, we are not considering reducing the difficulty or more time to solve the questions in the following quizzes at this time. If the quiz hours increase, this means that the problems are more difficult. **This is because the average score for the quiz should be below 70.** However, the problems in the following quizzes are designed so that the students can spend more time on writing the scripts rather than understanding the questions and give one more submission trial. We will try to shorten the problems and make them clearer or reuse the description from homework or tutorial problems so that the students do not waste their time understanding the questions. 
 
-The problems are designed based on homework or tutorial problems. If you study them following the [study guideline](https://github.com/chulminy/AE_ENVE_GEOE_121#tutorial), I'm sure that you can solve them within the time limit. However, unfortunately, only very few students asked questions through LEARN and less than 40% of students can receive a participation point for this month as of today. I'm looking at your tutorial progress and only 20% of students tried to solve them. It is very important that you work through your tutorial problems as they will be helpful for the quizzes and your understanding of the course material. Please remember the full solutions of all the tutorial problems are posted [here](https://github.com/chulminy/AE_ENVE_GEOE_121/tree/master/tutorial)
+The problems are designed based on homework or tutorial problems. If you study them following the [study guideline](https://github.com/chulminy/AE_ENVE_GEOE_121#tutorial), I'm sure that you can solve them within the time limit. If you haven't done them before quizzes, you spend extra time to understand the problem description.  
+
+However, unfortunately, only very few students asked questions through LEARN and less than 40% of students can receive a participation point for this month as of today. I'm looking at your tutorial progress and only 20% of students tried to solve them. It is very important that you work through your tutorial problems as they will be helpful for the quizzes and your understanding of the course material. Please remember the full solutions of all the tutorial problems are posted [here](https://github.com/chulminy/AE_ENVE_GEOE_121/tree/master/tutorial)
 
 ![](img/tutorial_progress.PNG)
 
@@ -64,7 +64,7 @@ I should encourage you to study this course. If you can solve quizzes without st
 |:---|
 |**Student 1:** The quiz was terrible. I know i failed for a facts. This whole course is extremeley difficult for me and i am afraid that i will fail it (not kidding). It was very stressfull and unsufficient to me at all. **Student 2:** 100 minutes is not enough time to finish this quiz. I literally failed this quiz. This course should only be assignment based. This is so stressful.|
 |**CY:** Yes. It is stressful if you are the first-time coder. However, as an engineer, there is no way of avoiding programming. Please talk to TAs or the instructor to talk about your study plan|
-|**KG:** The mark displayed on MATLAB Grader is not your final mark. We will regrade your solutions and you will reeceive part marks. Please don't be discouraged by the Grader results. Sometimes your entire code may be good but because of a small runtime error, you get a zero. When we regrade it, you might end up with a higher mark for the question.|
+|**KG:** **The mark displayed on MATLAB Grader is not your final mark**. We will regrade your solutions and you will receive part marks. Please don't be discouraged by the Grader results. Sometimes your entire code may be good but because of a small runtime error, you get a zero. When we regrade it, you might end up with a higher mark for the question.|
 |**Student:** The lectures have a great amount of detail and the tutorials and homework have a lot of good practice but they could be a bit closer to the level of the quiz so we aren't caught off guard|
 |**CY:** Thank you. I think the quiz problems are easier than the homework or tutorial problems. If you felt difficult about them, I think you might skip Step 6 and 7 for your tutorial and homework problems (https://github.com/chulminy/AE_ENVE_GEOE_121#tutorial). If you do practice more following to this guideline, you will get good scores for upcoming quizzes|
 |**Student:** Although I was able to get 85 based on the computer marked parts, I felt severely rushed and in the future I would greatly appreciate extra time to demonstrate a more accurate scope of my understanding!|
@@ -102,7 +102,6 @@ I should encourage you to study this course. If you can solve quizzes without st
 |**Student:** In all honesty, I found this first quiz very difficult considering the amount of time allotted. Having completed the last two homework assignments, I found the lecture videos and tutorials very helpful as resources. Despite having access to these resources, the homework still took me several hours and several tries to understand. Looking back at this quiz, the difficulty and length appeared similar to a full homework module. Having entered the AE program with little computer science/ computer software experience, I am slowly becoming familiar with MATLAB and MATLAB Grader. I understand that some student may grasp concepts slower than others, so I hope through practice and continuous learning I can become familiar and more efficient in MATLAB. Despite this quiz not going nearly as well as expected, I have enjoyed the course material and method of teaching.|
 |**CY:** I fully understand your situation and it is normal to take several hours to figure out homework problems. Have ever followed the study guidelines suggested [here](https://github.com/chulminy/AE_ENVE_GEOE_121#tutorial)? I think you haven't done full steps in this guideline. Yes. This is not easy course for the first-time coder but, you need to know programming for your engineering career. I know you are busy with the other courses but that does not excuse not focusing on this course.|
 |**BA and KG:** If you find yourself having trouble with the homework or understanding any concepts feel free to come by office hours anytime. We are always here to help!|
-
 
 
 
