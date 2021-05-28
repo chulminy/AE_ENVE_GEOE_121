@@ -40,7 +40,7 @@ All XXX students responded to the survey and the [**results**](results) are pres
 
 ## Advice to the Students 
 * Please read the course syllabus and quiz instruction carefully. Please read them before taking the quiz.
-* The quiz problems are designed on the assumption that you complete homework and tutorial problems. 
+* **The quiz problems are designed on the assumption that you complete homework and tutorial problems.** 
 * You must read all announcements in LEARN. This is the only way we can communicate in an online environment. If they are unclear, please ask us! 
 * To get prepared for the quizzes, you are able to solve all tutorial and homework assignments following [the study guideline](https://github.com/chulminy/AE_ENVE_GEOE_121#tutorial).
 
@@ -58,7 +58,7 @@ I should encourage you to study this course. If you can solve quizzes without st
 
 ### Miscellaneous
 
-** I would answer some major feedback and address your concerns. Although I didn't answer your individual feedback, you can find the answer to similar questions. **
+**I would answer some major feedback and address your concerns. Although I didn't answer your individual feedback, you can find the answer to similar questions.**
 
 |Feedback & Answer|
 |:---|
