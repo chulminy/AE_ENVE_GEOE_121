@@ -4,19 +4,19 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-05-31
+**Last updated:** 2021-06-01
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
 - [**Computational Method (Spring, 2020)**](s2020)
 
 ## Announcements
-* **May 31**: A lecture video for Module 04 (Part 1) has been posted.  
+* **June 01**: Solution review videos for Homework #2 has been posted.    
+* **June 01**: Lecture videos for Module 04 have been posted.  
 * **May 28**: We have answered your feedback for Quiz 1. Please check out this [**document**](doc/Q1_Feedback_Answer.md) and review it carefully to prepare upcoming quizzes.       
 * **May 26**: Solution review videos for Homework #1 has been posted.    
 * **May 25**: Homework #3 has been posted on MATLAB Grader. 
-* **May 21**: A lecture video for Module 03 has been posted.  
-* **May 15**: Homework #2 has been posted on MATLAB Grader. 
+ 
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -41,7 +41,8 @@ This course introduces computer programming for engineering students using MATLA
 This course includes lectures, tutorials, homework assignments, and quizzes:
 * [**Lectures**](#course-outline) are to cover the major topics, discussing the important programming concepts with worked-out examples. The instructor will teach the [*course material*](comp_method_book_cm_s21.pdf). 
 * [**Tutorials**](#tutorial) are self-study resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial: Computational Method*](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader.       
-* [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*AE/ENVE/GEOE 121(S21)*](https://grader.mathworks.com/courses/41892-ae-enve-geoe-121-s21) in the MATLAB Grader.
+* [**Homework assignments**](#
+* assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*AE/ENVE/GEOE 121(S21)*](https://grader.mathworks.com/courses/41892-ae-enve-geoe-121-s21) in the MATLAB Grader.
 * [**Quizzes**](#quiz) are to evaluate your knowledge and programming skills.  
 
 ## Course Objectives
@@ -103,7 +104,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 01**| [<img src="http://img.youtube.com/vi/-vJBm23Wk6k/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=-vJBm23Wk6k)  [<img src="http://img.youtube.com/vi/ObDfOQkglSo/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=ObDfOQkglSo)|
 |**Module 02**| [<img src="http://img.youtube.com/vi/83HysRVk5Zg/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=83HysRVk5Zg) [<img src="http://img.youtube.com/vi/5rP8F1pwggA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=5rP8F1pwggA)|
 |**Module 03**| [<img src="http://img.youtube.com/vi/6zSqabjvOJM/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=6zSqabjvOJM)|
-|**Module 04**| [<img src="http://img.youtube.com/vi/VLzROWaeJQY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=VLzROWaeJQY)|
+|**Module 04**| [<img src="http://img.youtube.com/vi/VLzROWaeJQY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=lnKsXv7fsys)  [<img src="http://img.youtube.com/vi/VLzROWaeJQY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=lnKsXv7fsys)|
 |**Module 05**|TBU|
 |**Module 06**|TBU|
 |**Module 07**|TBU|
@@ -112,11 +113,11 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 10**|TBU|
 |**Module 11**|TBU|
 
-### Homework Review 
+### Homework Solution Review 
 |Module|Video| 
 |:----|:----| 
 |**HW 01**|[<img src="http://img.youtube.com/vi/N7PcDAdsLyE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=N7PcDAdsLyE) [<img src="http://img.youtube.com/vi/V308jjgmOts/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=V308jjgmOts)|
-|**HW 02**|TBU|
+|**HW 02**|[<img src="http://img.youtube.com/vi/tbroazX_i0o/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=tbroazX_i0o) [<img src="http://img.youtube.com/vi/8VPil7I_D44/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=8VPil7I_D44)|
 |**HW 03**|TBU|
 |**HW 04**|TBU|
 |**HW 05**|TBU|
@@ -160,7 +161,7 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 ### Schedule  
 |Exam|Topics|Date|Duration|Instruction|
 |:---|:-------|:-----|:----|:----|
-|[**Quiz 01**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md)|Module 01 ~ 02|May 27 at 2:30pm (EST)|TBD|TBD|
+|**Quiz 01**|Module 01 ~ 02|May 27 at 2:30pm (EST)|100 minutes|[Link](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md)|
 |**Quiz 02**|Module 01 ~ 05|June 24 at 2:30pm (EST)|TBD|TBD|
 |**Quiz 03**|Module 01 ~ 07|July 15 at 2:30pm (EST)|TBD|TBD|
 |**Quiz 04**|Module 01 ~ 11|August 12 at 2:30pm (EST)|TBD|TBD|   
