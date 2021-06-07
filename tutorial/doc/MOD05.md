@@ -71,7 +71,7 @@ For example, if a row of 'stats' is [100 10 5 2 1 30], the corresponding row of 
 Please solve this problem using loop statements without using built-in functions. 
 
 (b) You are going to solve the same problem of (a) using built-in functions without using loop statement 
-The values shoul be assigned to 'hits_b' and it is a 4 x 1 column vector. 
+The values should be assigned to 'hits_b' and it is a 4 x 1 column vector. 
 
 (c) A batting average is that the amount of hits each player has divided by the total number of batting attempts (At Bats or AB). 
 Create a 1 x 4 row vector named 'bat_avg' from the data in 'stats', which includes the batting average of each player.
@@ -116,7 +116,7 @@ For example, if 'mat2' is [1 2 3; 4 5 6; 7 8 9], 'mat3' becomes [7 8 9;4 5 6; 1 
 For example, if 'mat2' is [2 3 1; 6 5 4; 9 8 7], 'mat4' becomes  [2 3 1; 6 5 4; 7 8 9].
 
 **Solution**
-Please watch this:[**https://youtu.be/wqQB_Xti4CU**](https://youtu.be/wqQB_Xti4CU)
+Please watch this:[**https://youtu.be/wqQB_Xti4CU?t=1330)
 
 ## M05004. Find Second Maximum (★★★)
 
@@ -357,7 +357,7 @@ num_P = randi([0 4],5,1);
 num_V = randi([0 3],5,1);
 num_GS = randi([10 45],5,1);
 
-ann_purchases = [num_PG num_GV num_CM num_B num_P num_V num_GS]
+ann_purchases = [num_PG num_GV num_CM num_B num_P num_V num_GS];
 clearvars num_PG num_GV num_CM num_B num_P num_V num_GS
 
 equip_costs = [15 200 5 5 95 175 3];
@@ -399,7 +399,7 @@ num_P = randi([0 4],5,1);
 num_V = randi([0 3],5,1);
 num_GS = randi([10 45],5,1);
 
-ann_purchases = [num_PG num_GV num_CM num_B num_P num_V num_GS]
+ann_purchases = [num_PG num_GV num_CM num_B num_P num_V num_GS];
 clearvars num_PG num_GV num_CM num_B num_P num_V num_GS
 
 equip_costs = [15 200 5 5 95 175 3];
@@ -658,7 +658,7 @@ Noreen owns a candy store, and she did a promotion on July 2. If customers appli
 The prize will be awarded to only Five customers by order of application. The receivers are chosen based on their membership card number. 
 The card number is 10 digits. To win the prize, the card number satisfy the following conditions:
 
-No '5' appears at all digitis. 
+No '5' appears at all digits. 
 The sum of all digits is less than 40. 
 The largest digit is less than or equal to 8. 
 
@@ -726,7 +726,7 @@ mat2 = randi([10 100], n);
 ```
 a) Create a mirrored row vector named 'vec1' where the second last element (n-1) is repeated n-2 times on both side of the middle element. 
  (Note that if n is 4 then vec1 = [1 2 3 3 4 3 3 2 1] or if n is 5 then vec1 = [1 2 3 4 4 4 5 4 4 4 3 2 1])
-b) Create a 1 x n row vector named 'vec2' which has the sequence 2*3, 4*4, 6*5,8*6..., (2*n)*(n+2). 
+b) Create a 1 x n row vector named 'vec2' which has the sequence 2(3), 4(4), 6(5), 8(6)..., (2*n)*(n+2). 
 c) Create a matrix named 'mat_c' which concatenates 'mat1' and 'mat2' in the third dimension.
 
 **Solution**
