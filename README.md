@@ -4,20 +4,21 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-06-01
+**Last updated:** 2021-06-08
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
 - [**Computational Method (Spring, 2020)**](s2020)
 
-## Announcements
-* **June 01**: Solution review videos for Homework #2 has been posted.    
-* **June 01**: Lecture videos for Module 04 have been posted.  
-* **May 28**: We have answered your feedback for Quiz 1. Please check out this [**document**](doc/Q1_Feedback_Answer.md) and review it carefully to prepare upcoming quizzes.       
-* **May 26**: Solution review videos for Homework #1 has been posted.    
-* **May 25**: Homework #3 has been posted on MATLAB Grader. 
- 
+## Reading List  
+* **May 17**: Feedback for Quiz 1: [**Link**](doc/Q1_Feedback_Answer.md)
+* **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
+## Announcements
+* **June 08**: Homework #4 has been posted on MATLAB Grader. 
+* **June 08**: Lecture videos for Module 05 have been posted.  
+* **June 01**: Solution review videos for Homework #2 has been posted.    
+ 
 ## Table of Contents
 - [Course Description](#course-description)
 - [Course Objectives](#course-objectives)
@@ -105,7 +106,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 02**| [<img src="http://img.youtube.com/vi/83HysRVk5Zg/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=83HysRVk5Zg) [<img src="http://img.youtube.com/vi/5rP8F1pwggA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=5rP8F1pwggA)|
 |**Module 03**| [<img src="http://img.youtube.com/vi/6zSqabjvOJM/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=6zSqabjvOJM)|
 |**Module 04**| [<img src="http://img.youtube.com/vi/VLzROWaeJQY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=VLzROWaeJQY)  [<img src="http://img.youtube.com/vi/lnKsXv7fsys/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=lnKsXv7fsys)|
-|**Module 05**|TBU|
+|**Module 05**|[<img src="http://img.youtube.com/vi/o-Z_DiDkwGs/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=o-Z_DiDkwGs)  [<img src="http://img.youtube.com/vi/Rj6P1iDoqZw/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Rj6P1iDoqZw)|
 |**Module 06**|TBU|
 |**Module 07**|TBU|
 |**Module 08**|TBU|
