@@ -4,17 +4,19 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-06-08
+**Last updated:** 2021-06-10
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
 - [**Computational Method (Spring, 2020)**](s2020)
 
 ## Reading List  
+* **June 10**: Quiz 1 Result: [**Link**](doc/quiz1_result.md)
 * **May 17**: Feedback for Quiz 1: [**Link**](doc/Q1_Feedback_Answer.md)
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
 ## Announcements
+* **June 10**: Your grade of Quiz 1 will be distributed shortly. A class average is 68.6, which is close to the target class average. A positive side is more than 30% of students received over 90. On the other hand, around 30% students only earned less than 50. We compiled statistics on all grades and you can find them from [**here**](doc/quiz1_result.md). Problems of Quiz 1 have been posted on MATLAB Grader so you can solve and review them anytime. Also, a solution review video for Quiz 1 has been posted [**Link**](#quiz-solution-review). Please compare your and model solutions and check if your grade is correct. You can send message to TAs or the instructor if you would like to discuss grading, or anything else to prepare your upcoming quizzes.    
 * **June 08**: Homework #4 has been posted on MATLAB Grader. 
 * **June 08**: Lecture videos for Module 05 have been posted.  
 * **June 01**: Solution review videos for Homework #2 has been posted.    
@@ -131,6 +133,14 @@ You can check the schedule all at once from [this calendar](#calendar).
 |Module|Video| 
 |:----|:----| 
 |**Quiz 01**|[<img src="http://img.youtube.com/vi/loZXG10QkPM/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=loZXG10QkPM) [<img src="http://img.youtube.com/vi/4xBECKnChGA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=4xBECKnChGA)|
+|**Quiz 02**|TBU|
+|**Quiz 03**|TBU|
+|**Quiz 04**|TBU|
+
+### Quiz Solution Review 
+|Module|Video| 
+|:----|:----| 
+|**Quiz 01**|[<img src="http://img.youtube.com/vi/GjYnrI3PDV4/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=GjYnrI3PDV4) |
 |**Quiz 02**|TBU|
 |**Quiz 03**|TBU|
 |**Quiz 04**|TBU|
