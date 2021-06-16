@@ -11,6 +11,7 @@
 - [**Computational Method (Spring, 2020)**](s2020)
 
 ## Reading List  
+* **June 15**: Homework #3 solution review videos have been posted.   
 * **June 10**: Quiz 1 Result: [**Link**](doc/quiz1_result.md)
 * **May 17**: Feedback for Quiz 1: [**Link**](doc/Q1_Feedback_Answer.md)
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
