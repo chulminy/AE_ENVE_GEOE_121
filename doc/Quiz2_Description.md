@@ -7,7 +7,7 @@ During the quiz, you can only access (0) MS Teams (1) Course website, (2) MATLAB
 
 Remember, the students who copy friend's solutions do not know how to make them different and tend to not bother to change their friends' code. **You should not trust your friends.** Once you share the solution with your friend, you will likely get caught for cheating. 
 
-There are six questions including three ★★ questions and three ★★★ questions. The difficulty of the problems are similar to the ones in Q1 but you cannot solve the problems without studying all modules up to Module 5.  Since a class average of Quiz 1 was below 70, we decide to increase time limit to 120 minutes. Remember that the quiz problems are designed on the assumption that you complete homework and tutorial problems and watch all videos posted on the course website. 
+There are six questions including three ★★ questions and three ★★★ questions. The difficulty of the problems are similar to the ones in Q1 but **you cannot solve the problems without studying all modules up to Module 5.**  Since a class average of Quiz 1 was below 70, we decide to increase time limit to 120 minutes. Remember that the quiz problems are designed on the assumption that you complete homework and tutorial problems and watch all videos posted on the course website. 
 
 ## Quiz Schedule
 Group 1:  **June 24** at 2:30 ~ 4:20 pm (EST).  
