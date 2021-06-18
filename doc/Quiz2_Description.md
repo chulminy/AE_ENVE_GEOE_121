@@ -10,7 +10,7 @@ Remember, the students who copy friend's solutions do not know how to make them 
 There are six questions including three ★★ questions and three ★★★ questions. The difficulty of the problems are similar to the ones in Q1 but **you cannot solve the problems without studying all modules up to Module 5.**  Since a class average of Quiz 1 was below 70, we decide to increase time limit to 120 minutes. Remember that the quiz problems are designed on the assumption that you complete homework and tutorial problems and watch all videos posted on the course website. 
 
 ## Quiz Schedule
-Group 1:  **June 24** at 2:30 ~ 4:20 pm (EST).  
+Group 1:  **June 24** at 2:30 ~ 4:30 pm (EST).  
 Group 2:  **June 25** at 7:00 ~ 9:00 am (EST) for the student who stay in Asia or Middle East.   
 
 ## Submission & Grading
