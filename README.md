@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-06-18
+**Last updated:** 2021-06-21
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
@@ -17,6 +17,7 @@
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
 ## Announcements
+* **June 21**: I would like to clarify the recent survey about potential quiz date movement. As class reps mentioned, TAs and I highly supported quiz date movement because we understand that you will be very busy on this week. However, we **CANNOT** change the date if all students agree on moving the date. I completely understand that it is unfair that the university does not hear the majority voice. However, these are University policies established at this beginning of this term. See this link: [http://ugradcalendar.uwaterloo.ca/page/Acad-Regs-Guidelines-Tests-Formal-Lecture-Period](http://ugradcalendar.uwaterloo.ca/page/Acad-Regs-Guidelines-Tests-Formal-Lecture-Period). If at least one student does not agree on this, which was the result from the survey, we should keep the original schedule.  
 * **June 18**: Instruction for Quiz 2 has been posted [here](doc/Quiz2_Description.md). Please let me know if you have any question.
 * **June 18**: Lecture videos for Module 06 have been posted.     
 * **June 17**: Bianca will be out of office next week (June 21~25). Please direct all questions to Kasturi or the instructor.  
@@ -147,7 +148,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Quiz 01**|[<img src="http://img.youtube.com/vi/GjYnrI3PDV4/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=GjYnrI3PDV4) |
 |**Quiz 02**|TBU|
 |**Quiz 03**|TBU|
-|**Quiz 04**|TBU|
+
 
 ## Tutorial
 The tutorials are self-study resources to assist students in the problems of course material, homework assignments, and quizzes. Students can find the problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader. The model answers for all tutorial problems were posted on this [**page**](tutorial). All students are **highly recommended** to solve all practice problems to prepare for your quizzes. Here is how to study the tutorial. 
