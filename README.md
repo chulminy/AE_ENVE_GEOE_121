@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-06-21
+**Last updated:** 2021-06-22
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
@@ -17,6 +17,7 @@
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
 ## Announcements
+* **June 22**: Review videos for Quiz 2 have been posted.  
 * **June 21**: I would like to clarify the recent survey about potential quiz date movement. As class reps mentioned, TAs and I highly supported quiz date movement because we understand that you will be very busy on this week. However, we **CANNOT** change the date if all students agree on moving the date. I completely understand that it is unfair that the university does not hear the majority voice. However, these are University policies established at this beginning of this term. See this link: [http://ugradcalendar.uwaterloo.ca/page/Acad-Regs-Guidelines-Tests-Formal-Lecture-Period](http://ugradcalendar.uwaterloo.ca/page/Acad-Regs-Guidelines-Tests-Formal-Lecture-Period). If at least one student does not agree on this, which was the result from the survey, we should keep the original schedule.  
 * **June 18**: Instruction for Quiz 2 has been posted [here](doc/Quiz2_Description.md). Please let me know if you have any question.
 * **June 18**: Lecture videos for Module 06 have been posted.     
@@ -138,7 +139,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |Module|Video| 
 |:----|:----| 
 |**Quiz 01**|[<img src="http://img.youtube.com/vi/loZXG10QkPM/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=loZXG10QkPM) [<img src="http://img.youtube.com/vi/4xBECKnChGA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=4xBECKnChGA)|
-|**Quiz 02**|TBU|
+|**Quiz 02**|[<img src="http://img.youtube.com/vi/48NBt69Zcio/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=48NBt69Zcio) [<img src="http://img.youtube.com/vi/FcynHempu08/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=FcynHempu08)|
 |**Quiz 03**|TBU|
 |**Quiz 04**|TBU|
 
