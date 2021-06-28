@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-06-22
+**Last updated:** 2021-06-28
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
@@ -17,14 +17,8 @@
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
 ## Announcements
-* **June 22**: Review videos for Quiz 2 have been posted.  
-* **June 21**: I would like to clarify the recent survey about potential quiz date movement. As class reps mentioned, TAs and I highly supported quiz date movement because we understand that you will be very busy on this week. However, we **CANNOT** change the date if all students agree on moving the date. I completely understand that it is unfair that the university does not hear the majority voice. However, these are University policies established at this beginning of this term. See this link: [http://ugradcalendar.uwaterloo.ca/page/Acad-Regs-Guidelines-Tests-Formal-Lecture-Period](http://ugradcalendar.uwaterloo.ca/page/Acad-Regs-Guidelines-Tests-Formal-Lecture-Period). If at least one student does not agree on this, which was the result from the survey, we should keep the original schedule.  
-* **June 18**: Instruction for Quiz 2 has been posted [here](doc/Quiz2_Description.md). Please let me know if you have any question.
+* **June 28**: I forgot to post Homework #5 in MATLAB Grader. It is available now. Since its start date is delayed, I set the first due date for HW#5 on July 13, which is the same as the second due date, and the due date for HW#6 on July 18. Basically, the students receive free one-week delay homework submission. Sorry for inconvenience.   
 * **June 18**: Lecture videos for Module 06 have been posted.     
-* **June 17**: Bianca will be out of office next week (June 21~25). Please direct all questions to Kasturi or the instructor.  
-* **June 15**: Homework #3 solution review videos have been posted.   
-* **June 10**: Your grade of Quiz 1 will be distributed shortly. A class average is 68.6, which is close to the target class average. A positive side is more than 30% of students received over 90. On the other hand, around 30% students only earned less than 50. We compiled statistics on all grades and you can find them from [**here**](doc/quiz1_result.md). Problems of Quiz 1 have been posted on MATLAB Grader so you can solve and review them anytime. Also, a solution review video for Quiz 1 has been posted on [**this course website**](#quiz-solution-review). Please compare your and model solutions and check if your grade is correct. You can send message to TAs or the instructor if you would like to discuss grading, or anything else to prepare your upcoming quizzes.    
-* **June 08**: Lecture videos for Module 05 have been posted.  
 * **June 01**: Solution review videos for Homework #2 has been posted.    
  
 ## Table of Contents
@@ -221,8 +215,8 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 |HW 02|Module 01 ~ Module 02|May 15|May 25|June 01|
 |HW 03|Module 01 ~ Module 03|May 25|June 08|June 15|
 |HW 04|Module 01 ~ Module 05|June 08|June 22|June 29|
-|HW 05|Module 01 ~ Module 06|June 22|July 06|July 13|
-|HW 06|Module 01 ~ Module 07|July 06|July 13|July 20|
+|HW 05|Module 01 ~ Module 06|June 28|July 13|July 13|
+|HW 06|Module 01 ~ Module 07|July 06|July 18|July 20|
 |HW 07|Module 01 ~ Module 09|July 13|July 27|August 03|
 |HW 08|Module 01 ~ Module 12|July 13|August 05|August 05|
 
