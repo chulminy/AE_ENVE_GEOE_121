@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-06-28
+**Last updated:** 2021-06-29
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
@@ -17,9 +17,9 @@
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
 ## Announcements
+* **June 29**: Solution review videos for Homework #4 have been posted.    
 * **June 28**: I forgot to post Homework #5 in MATLAB Grader. It is available now. Since its start date is delayed, I set the first due date for HW#5 on July 13, which is the same as the second due date, and the due date for HW#6 on July 18. Basically, the students receive free one-week delay homework submission. Sorry for inconvenience.   
 * **June 18**: Lecture videos for Module 06 have been posted.     
-* **June 01**: Solution review videos for Homework #2 has been posted.    
  
 ## Table of Contents
 - [Course Description](#course-description)
@@ -122,7 +122,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**HW 01**|[<img src="http://img.youtube.com/vi/N7PcDAdsLyE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=N7PcDAdsLyE) [<img src="http://img.youtube.com/vi/V308jjgmOts/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=V308jjgmOts)|
 |**HW 02**|[<img src="http://img.youtube.com/vi/tbroazX_i0o/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=tbroazX_i0o) [<img src="http://img.youtube.com/vi/8VPil7I_D44/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=8VPil7I_D44)|
 |**HW 03**|[<img src="http://img.youtube.com/vi/E9RrExKMA5A/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=E9RrExKMA5A) [<img src="http://img.youtube.com/vi/Ob0OHoo-Ygc/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Ob0OHoo-Ygc)|
-|**HW 04**|TBU|
+|**HW 04**|[<img src="http://img.youtube.com/vi/XxXoMoQiJOA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=XxXoMoQiJOA) [<img src="http://img.youtube.com/vi/GVRazuYtbBo/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=GVRazuYtbBo)|
 |**HW 05**|TBU|
 |**HW 06**|TBU|
 |**HW 07**|TBU|
