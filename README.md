@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-06-29
+**Last updated:** 2021-07-01
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
@@ -17,9 +17,12 @@
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
 ## Announcements
-* **June 29**: Solution review videos for Homework #4 have been posted.    
+* **July 01**: Lecture videos for Module 07 have been posted.   
+* **July 01**: A solution review video for Quiz 02 has been posted. 
+* **July 01**: You can access problems of Quiz 02 in the MATLAB Grader. 
+* **July 01**: Homework #6 has been posted in MATLAB Grader. You can access the problem ahead of schedule. 
 * **June 28**: I forgot to post Homework #5 in MATLAB Grader. It is available now. Since its start date is delayed, I set the first due date for HW#5 on July 13, which is the same as the second due date, and the due date for HW#6 on July 18. Basically, the students receive free one-week delay homework submission. Sorry for inconvenience.   
-* **June 18**: Lecture videos for Module 06 have been posted.     
+  
  
 ## Table of Contents
 - [Course Description](#course-description)
@@ -92,7 +95,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 02**|Vectors and Matrices|2|May 21|[**Quiz 01**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md) (May 27)|
 |**Module 03**|Selection Statement |2|June 02| |
 |**Module 04**|Loop Statement|2|June 09||
-|**Module 05**|Built-in Functions|3|June 18|Quiz 02 (June 24)|
+|**Module 05**|Built-in Functions|3|June 18|[**Quiz 01**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz2_Description.md) (June 24)|
 |**Module 06**|Operator|3|June 30||
 |**Module 07**|Function|3|July 09|Quiz 03 (July 15)|
 |**Module 08**|Plotting|1|July 21|
@@ -110,8 +113,8 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 04**| [<img src="http://img.youtube.com/vi/VLzROWaeJQY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=VLzROWaeJQY)  [<img src="http://img.youtube.com/vi/lnKsXv7fsys/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=lnKsXv7fsys)|
 |**Module 05**|[<img src="http://img.youtube.com/vi/o-Z_DiDkwGs/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=o-Z_DiDkwGs)  [<img src="http://img.youtube.com/vi/Rj6P1iDoqZw/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Rj6P1iDoqZw)|
 |**Module 06**|[<img src="http://img.youtube.com/vi/3btxqXW6JjU/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=3btxqXW6JjU)  [<img src="http://img.youtube.com/vi/lCkpP0HTS1I/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=lCkpP0HTS1I)|
-|**Module 07**|TBU|
-|**Module 08**|TBU|
+|**Module 07**|[<img src="http://img.youtube.com/vi/otwRHFWzsH0/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=otwRHFWzsH0)  [<img src="http://img.youtube.com/vi/Wna92qy3PyE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Wna92qy3PyE)|
+|**Module 08**|**No Lecture Video**|
 |**Module 09**|TBU|
 |**Module 10**|TBU|
 |**Module 11**|TBU|
@@ -141,7 +144,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |Module|Video| 
 |:----|:----| 
 |**Quiz 01**|[<img src="http://img.youtube.com/vi/GjYnrI3PDV4/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=GjYnrI3PDV4) |
-|**Quiz 02**|TBU|
+|**Quiz 02**|[<img src="http://img.youtube.com/vi/dvypAsCkOK4/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=dvypAsCkOK4) |
 |**Quiz 03**|TBU|
 
 
