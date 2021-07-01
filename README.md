@@ -95,7 +95,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 02**|Vectors and Matrices|2|May 21|[**Quiz 01**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md) (May 27)|
 |**Module 03**|Selection Statement |2|June 02| |
 |**Module 04**|Loop Statement|2|June 09||
-|**Module 05**|Built-in Functions|3|June 18|[**Quiz 01**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz2_Description.md) (June 24)|
+|**Module 05**|Built-in Functions|3|June 18|[**Quiz 02**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz2_Description.md) (June 24)|
 |**Module 06**|Operator|3|June 30||
 |**Module 07**|Function|3|July 09|Quiz 03 (July 15)|
 |**Module 08**|Plotting|1|July 21|
