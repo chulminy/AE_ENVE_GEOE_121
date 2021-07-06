@@ -4,25 +4,23 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-07-01
+**Last updated:** 2021-07-05
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
 - [**Computational Method (Spring, 2020)**](s2020)
 
 ## Reading List  
+<!---
+* **July 05**: Feedback for Quiz 2: [**Link**](doc/Q2_Feedback_Answer.md)
+-->
 * **June 18**: Instruction for Quiz 2: [**Link**](doc/Quiz2_Description.md)
 * **June 10**: Quiz 1 Result: [**Link**](doc/quiz1_result.md)
 * **May 17**: Feedback for Quiz 1: [**Link**](doc/Q1_Feedback_Answer.md)
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
 ## Announcements
-* **July 01**: Lecture videos for Module 07 have been posted.   
-* **July 01**: A solution review video for Quiz 02 has been posted. 
-* **July 01**: You can access problems of Quiz 02 in the MATLAB Grader. 
-* **July 01**: Homework #6 has been posted in MATLAB Grader. You can access the problem ahead of schedule. 
-* **June 28**: I forgot to post Homework #5 in MATLAB Grader. It is available now. Since its start date is delayed, I set the first due date for HW#5 on July 13, which is the same as the second due date, and the due date for HW#6 on July 18. Basically, the students receive free one-week delay homework submission. Sorry for inconvenience.   
-  
+    
  
 ## Table of Contents
 - [Course Description](#course-description)
@@ -100,7 +98,6 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 07**|Function|3|July 09|Quiz 03 (July 15)|
 |**Module 08**|Plotting|1|July 21|
 |**Module 09**|Data Structure|1.5|July 23||
-|**Module 10**|File I/O|1|July 28||
 |**Module 11**|Text Manipulation|3|August 05|Quiz 04 (August 12)|
 
 ### Lecture Video 
@@ -116,7 +113,6 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 07**|[<img src="http://img.youtube.com/vi/otwRHFWzsH0/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=otwRHFWzsH0)  [<img src="http://img.youtube.com/vi/Wna92qy3PyE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Wna92qy3PyE)|
 |**Module 08**|**No Lecture Video**|
 |**Module 09**|TBU|
-|**Module 10**|TBU|
 |**Module 11**|TBU|
 
 ### Homework Solution Review 
