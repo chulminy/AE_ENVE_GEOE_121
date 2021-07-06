@@ -4,16 +4,15 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-07-05
+**Last updated:** 2021-07-06
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
 - [**Computational Method (Spring, 2020)**](s2020)
 
-## Reading List  
-<!---
-* **July 05**: Feedback for Quiz 2: [**Link**](doc/Q2_Feedback_Answer.md)
--->
+## Reading List 
+* **July 06**: Quiz 2 Result: [**Link**](doc/quiz2_result.md) 
+* **July 06**: Feedback for Quiz 2: [**Link**](doc/Q2_Feedback_Answer.md)
 * **June 18**: Instruction for Quiz 2: [**Link**](doc/Quiz2_Description.md)
 * **June 10**: Quiz 1 Result: [**Link**](doc/quiz1_result.md)
 * **May 17**: Feedback for Quiz 1: [**Link**](doc/Q1_Feedback_Answer.md)
@@ -95,9 +94,9 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 04**|Loop Statement|2|June 09||
 |**Module 05**|Built-in Functions|3|June 18|[**Quiz 02**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz2_Description.md) (June 24)|
 |**Module 06**|Operator|3|June 30||
-|**Module 07**|Function|3|July 09|Quiz 03 (July 15)|
+|**Module 07**|Function|3|July 16|Quiz 03 (July 23)|
 |**Module 08**|Plotting|1|July 21|
-|**Module 09**|Data Structure|1.5|July 23||
+|**Module 09**|Data Structure|1.5|July 26||
 |**Module 11**|Text Manipulation|3|August 05|Quiz 04 (August 12)|
 
 ### Lecture Video 
@@ -173,7 +172,7 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 |:---|:-------|:-----|:----|:----|
 |**Quiz 01**|Module 01 ~ 02|May 27 at 2:30pm (EST)|100 minutes|[Link](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md)|
 |**Quiz 02**|Module 01 ~ 05|June 24 at 2:30pm (EST)|120 minutes|[Link](doc/Quiz2_Description.md)|
-|**Quiz 03**|Module 01 ~ 07|July 15 at 2:30pm (EST)|TBD|TBD|
+|**Quiz 03**|Module 01 ~ 07|July 23 at 2:30pm (EST)|TBD|TBD|
 |**Quiz 04**|Module 01 ~ 11|August 12 at 2:30pm (EST)|TBD|TBD|   
 
 The extra quiz session (for students who require a time zone accommodation) will be scheduled on the following day [7 or 8 am (EST)] and can only be availed by those who stay in different time zones (e.g., Asia or the Middle East). Those students will receive a separate email. Note that this quiz attempt is NOT available to students currently residing in Canada or in the same time zone.   
@@ -217,7 +216,7 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 |HW 05|Module 01 ~ Module 06|June 28|July 13|July 13|
 |HW 06|Module 01 ~ Module 07|July 06|July 18|July 20|
 |HW 07|Module 01 ~ Module 09|July 13|July 27|August 03|
-|HW 08|Module 01 ~ Module 12|July 13|August 05|August 05|
+|HW 08|Module 01 ~ Module 12|July 20|August 05|August 05|
 
 * You can check the schedule all at once from [this calendar](#calendar).
 * Students can start homework assignments if they are visible in the MATLAB Grader.
@@ -225,7 +224,7 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 * Each homework assignments will be closed at 11:45pm on its second due date (NOT 11:59pm). You CANNOT submit your work after the second due date. Please submit your work 30 minutes earlier. 
  
 ## Communication  
-**All communication will be made through [**LEARN**]() but all information related to the course will be posted on this course website. The instructor and TAs will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussions.   
+**All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/685447) but all information related to the course will be posted on this course website. The instructor and TAs will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussions.   
 
 In this course, the students are highly encouraged to engage in online discussions to create and facilitate a **collaborative learning experience**. Students are invited to ask questions and answer them and share their knowledge and resources. Please direct your communications to the Discussion Forum on LEARN. However, if there is a good reason not to use the discussion forum (e.g., personal matters, a question that might reveal your solution of your report, etc.), please directly contact the TAs or instructor via MS Team.  
 

@@ -20,7 +20,7 @@
 * There is no lecture in Module 10. In fact, this is a very useful topic to process spreadsheet data like Excel. However, I would save your time and let you put more effort into studying "programming" works. Once you get used to MATLAB programming, you can easily study this topic by yourself when you need those functions. I deleted this module in the course syllabus and tutorial in MATLAB Grader.   
 * You cannot solve problems in Q3 if you do not know the topics in Module 06 and 07. If you don't know how to use operators to improve or modify loop-based scripts (Module 06) or you don't know how to define functions (Module 07), you cannot get a good grade. Remember that Module 06 and 07 are based on loop and selection statements. Thus, if you still do not get these concepts, please review these old modules first.    
 * You have to know a cell structure and string data type to solve problems in Q4. More than half of the questions in Q4 are to manipulate texts using character vectors or string data. You should finish Module 11 as soon as you can to put your time to solve tutorial problems.  
-* We will make one Poker game problem in Q4 (tutorial problems in M07007~M07017 and M07031). The Poker game problem is my favorite problem because it is the best for studying matrix operation and operators. If you do not solve those problems and are not familiar with the model solution, you cannot solve the problem in Q4 within a time limit. Please review them carefully. I would recommend reviewing these tutorial problems right after studying Module 7. However, if you would focus on boosting your grade from Q3, you can solve them later to prepare Q4.   
+* We will make one Poker game problem in Q4 (tutorial problems in M07007~M07017 and M07031). The Poker game problem is my favorite problem because it is the best for studying matrix operation and operators. If you do not solve those problems and are not familiar with the model solution, you cannot solve the problem in Q4 within a time limit. Please review them carefully. I would recommend reviewing these tutorial problems right after studying Module 7. However, if you would focus on boosting your grade from Q3, you can solve them later to prepare Q4.
 * Again, the problems are designed based on homework or tutorial problems. If you study them following the [study guideline](https://github.com/chulminy/AE_ENVE_GEOE_121#tutorial), you can solve them within the time limit. If you haven't done them before quizzes, you spend extra time to understand the problem description.  
 
 ## Advice to the Students 
@@ -28,6 +28,8 @@
 * **Remember that the quiz problems are designed on the assumption that you complete homework and tutorial problems.** 
 * You must read all announcements in LEARN. This is the only way we can communicate in an online environment. If they are unclear, please ask us! 
 * To get prepared for the quizzes, you are able to solve all tutorial and homework assignments following [the study guideline](https://github.com/chulminy/AE_ENVE_GEOE_121#tutorial).
+* We already have posted model solution videos for tutorial problems however, some students want to see how our teaching team actually solve those questions and interact with us, such as identifying programming logic and learning debugging process. To accommodate this request, if students let our teaching team tutorial problems in advance, we will show how to solve them during live help session.    
+
 
 ## Comments & Answers 
 ### Fail to reschedule the quiz #2 date
