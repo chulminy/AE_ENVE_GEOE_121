@@ -19,8 +19,8 @@
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
 ## Announcements
-* **July 06 **: Our teaching team has answered your feedback of the 7th week survey [**here**](doc/Q2_Feedback_Answer.md). **There is a very important announcement regarding schedule change. Please review this document carefully.** 
-* **July 06 **: Our teaching team has finished grading Q2. We are glad that a class average becomes 71, which is a great success. Please see this statistic [**here**](doc/quiz2_result.md). You will see your grades in LEARN under "Grade" shortly and an annotated PDF of your Q2 will be posted as well, like Q1. Model solutions for Q2 have already posted so please compare your solutions with them and check if your grade is correct. You can send message to TAs or the instructor if you would like to discuss or appeal your grade. 
+* **July 06**: Our teaching team has answered your feedback of the 7th week survey [**here**](doc/Q2_Feedback_Answer.md). **There is a very important announcement regarding schedule change. Please review this document carefully.** 
+* **July 06**: Our teaching team has finished grading Q2. We are glad that a class average becomes 71, which is a great success. Please see this statistic [**here**](doc/quiz2_result.md). You will see your grades in LEARN under "Grade" shortly and an annotated PDF of your Q2 will be posted as well, like Q1. Model solutions for Q2 have already posted so please compare your solutions with them and check if your grade is correct. You can send message to TAs or the instructor if you would like to discuss or appeal your grade. 
 
 ## Table of Contents
 - [Course Description](#course-description)
