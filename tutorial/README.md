@@ -8,17 +8,10 @@
 - [**Module05. Built-in Functions**](doc/M05.md)
 - [**Module06. Operators**](doc/M06.md)
 - [**Module07. Function**](doc/M07.md) 
-- Module08. Plotting
-- Module09. Data Structure 
-- Module10. File I/O
-- Module11. Text Manipulation
-
-<!---
 - [**Module08. Plotting**](doc/M08.md)
 - [**Module09. Data Structure**](doc/M09.md) 
-- [**Module10. File I/O**](doc/M10.md)
 - [**Module11. Text Manipulation**](doc/M11.md)
--->
+
 
 ## Study Guideline
 The tutorials are self-study resources to assist students in the problems of course material, homework assignments, and quizzes. Students can find the problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader. The model answers for all tutorial problems were posted on this [**page**](tutorial). All students are **highly recommended ** to solve all practice problems to prepare for your quizzes. Here is how to study the tutorial. 
