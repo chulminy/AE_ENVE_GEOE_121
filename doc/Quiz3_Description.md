@@ -14,7 +14,7 @@ Group 1:  **July 23 (Friday)** at 2:30 ~ 4:40 pm (EST).
 Group 2:  **July 24 (Saturday)** at 7:00 ~ 9:10 am (EST) for the student who stay in Asia or Middle East.   
 
 - Students in Group 2 should keep track of time because if they stay in Asia, it will be Saturday evening. 
-- For Group 2, Bianca will supervise your quiz so please direct all questions to Bianca during the quiz. 
+- For Group 2, Kasturi will supervise your quiz so please direct all questions to Kasturi during the quiz. 
 
 ## Submission & Grading
 For Quiz 1, you must solve all questions within **130 minutes**. **Since the length of the quiz is also set to accommodate students who have technology challenges (e.g., slow internet connection, computer), no extra time will be provided.** Note that if your solution is submitted after the designated due time, it will not be graded. Please submit your solutions on time. You can access and solve the problems in any order. As promised, the number of stars to identify the difficulty of the problems will be provided to help students time management. 
