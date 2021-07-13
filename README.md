@@ -4,13 +4,14 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-07-06
+**Last updated:** 2021-07-13
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
 - [**Computational Method (Spring, 2020)**](s2020)
 
 ## Reading List 
+* **June 13**: Instruction for Quiz 3: [**Link**](doc/Quiz3_Description.md)
 * **July 06**: Quiz 2 Result: [**Link**](doc/quiz2_result.md) 
 * **July 06**: Feedback for Quiz 2: [**Link**](doc/Q2_Feedback_Answer.md)
 * **June 18**: Instruction for Quiz 2: [**Link**](doc/Quiz2_Description.md)
@@ -19,6 +20,7 @@
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
 ## Announcements
+* **July 13**: Please check out the instruction for Quiz 3 from [**here**](doc/Quiz3_Description.md)  
 * **July 06**: Our teaching team has answered your feedback of the 7th week survey [**here**](doc/Q2_Feedback_Answer.md). **There is a very important announcement regarding schedule change. Please review this document carefully.** 
 * **July 06**: Our teaching team has finished grading Q2. We are glad that a class average becomes 71, which is a great success. Please see this statistic [**here**](doc/quiz2_result.md). You will see your grades in LEARN under "Grade" shortly and an annotated PDF of your Q2 will be posted as well, like Q1. Model solutions for Q2 have already posted so please compare your solutions with them and check if your grade is correct. You can send message to TAs or the instructor if you would like to discuss or appeal your grade. 
 
@@ -95,7 +97,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 04**|Loop Statement|2|June 09||
 |**Module 05**|Built-in Functions|3|June 18|[**Quiz 02**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz2_Description.md) (June 24)|
 |**Module 06**|Operator|3|June 30||
-|**Module 07**|Function|3|July 16|Quiz 03 (July 23)|
+|**Module 07**|Function|3|July 16|[**Quiz 03**](doc/Quiz3_Description.md)(June 23)|
 |**Module 08**|Plotting|1|July 21|
 |**Module 09**|Data Structure|1.5|July 26||
 |**Module 11**|Text Manipulation|3|August 05|Quiz 04 (August 12)|
@@ -173,7 +175,7 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 |:---|:-------|:-----|:----|:----|
 |**Quiz 01**|Module 01 ~ 02|May 27 at 2:30pm (EST)|100 minutes|[Link](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md)|
 |**Quiz 02**|Module 01 ~ 05|June 24 at 2:30pm (EST)|120 minutes|[Link](doc/Quiz2_Description.md)|
-|**Quiz 03**|Module 01 ~ 07|July 23 at 2:30pm (EST)|TBD|TBD|
+|**Quiz 03**|Module 01 ~ 07|July 23 at 2:30pm (EST)|130 minutes|[Link](doc/Quiz3_Description.md)
 |**Quiz 04**|Module 01 ~ 11|August 12 at 2:30pm (EST)|TBD|TBD|   
 
 The extra quiz session (for students who require a time zone accommodation) will be scheduled on the following day [7 or 8 am (EST)] and can only be availed by those who stay in different time zones (e.g., Asia or the Middle East). Those students will receive a separate email. Note that this quiz attempt is NOT available to students currently residing in Canada or in the same time zone.   
