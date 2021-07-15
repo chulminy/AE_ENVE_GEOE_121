@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-07-13
+**Last updated:** 2021-07-15
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
@@ -20,6 +20,7 @@
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
 ## Announcements
+* **July 15**: Solution videos for HW05 have been posted.   
 * **July 13**: Please check out the instruction for Quiz 3 from [**here**](doc/Quiz3_Description.md)  
 * **July 06**: Our teaching team has answered your feedback of the 7th week survey [**here**](doc/Q2_Feedback_Answer.md). **There is a very important announcement regarding schedule change. Please review this document carefully.** 
 * **July 06**: Our teaching team has finished grading Q2. We are glad that a class average becomes 71, which is a great success. Please see this statistic [**here**](doc/quiz2_result.md). You will see your grades in LEARN under "Grade" shortly and an annotated PDF of your Q2 will be posted as well, like Q1. Model solutions for Q2 have already posted so please compare your solutions with them and check if your grade is correct. You can send message to TAs or the instructor if you would like to discuss or appeal your grade. 
@@ -124,11 +125,10 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**HW 02**|[<img src="http://img.youtube.com/vi/tbroazX_i0o/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=tbroazX_i0o) [<img src="http://img.youtube.com/vi/8VPil7I_D44/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=8VPil7I_D44)|
 |**HW 03**|[<img src="http://img.youtube.com/vi/E9RrExKMA5A/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=E9RrExKMA5A) [<img src="http://img.youtube.com/vi/Ob0OHoo-Ygc/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Ob0OHoo-Ygc)|
 |**HW 04**|[<img src="http://img.youtube.com/vi/XxXoMoQiJOA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=XxXoMoQiJOA) [<img src="http://img.youtube.com/vi/GVRazuYtbBo/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=GVRazuYtbBo)|
-|**HW 05**|TBU|
+|**HW 05**|[<img src="http://img.youtube.com/vi/cWBX0tsiC7c/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=cWBX0tsiC7c) [<img src="http://img.youtube.com/vi/BpFsUUaCBts/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=BpFsUUaCBts)|
 |**HW 06**|TBU|
 |**HW 07**|TBU|
 |**HW 08**|TBU|
-
 
 ### Quiz Review Session
 |Module|Video| 
