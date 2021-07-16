@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-07-15
+**Last updated:** 2021-07-16
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
@@ -20,10 +20,9 @@
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
 ## Announcements
+* **July 16**: Q3 review videos have been posted. Please watch them to prepare for your Q3. 
 * **July 15**: Solution videos for HW05 have been posted.   
 * **July 13**: Please check out the instruction for Quiz 3 from [**here**](doc/Quiz3_Description.md)  
-* **July 06**: Our teaching team has answered your feedback of the 7th week survey [**here**](doc/Q2_Feedback_Answer.md). **There is a very important announcement regarding schedule change. Please review this document carefully.** 
-* **July 06**: Our teaching team has finished grading Q2. We are glad that a class average becomes 71, which is a great success. Please see this statistic [**here**](doc/quiz2_result.md). You will see your grades in LEARN under "Grade" shortly and an annotated PDF of your Q2 will be posted as well, like Q1. Model solutions for Q2 have already posted so please compare your solutions with them and check if your grade is correct. You can send message to TAs or the instructor if you would like to discuss or appeal your grade. 
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -135,7 +134,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |:----|:----| 
 |**Quiz 01**|[<img src="http://img.youtube.com/vi/loZXG10QkPM/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=loZXG10QkPM) [<img src="http://img.youtube.com/vi/4xBECKnChGA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=4xBECKnChGA)|
 |**Quiz 02**|[<img src="http://img.youtube.com/vi/48NBt69Zcio/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=48NBt69Zcio) [<img src="http://img.youtube.com/vi/FcynHempu08/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=FcynHempu08)|
-|**Quiz 03**|TBU|
+|**Quiz 03**|[<img src="http://img.youtube.com/vi/POKcNGtNFfw/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=POKcNGtNFfw) [<img src="http://img.youtube.com/vi/iOqIjY4dD9s/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=iOqIjY4dD9s)|
 |**Quiz 04**|TBU|
 
 ### Quiz Solution Review 
