@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-07-16
+**Last updated:** 2021-07-21
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
@@ -20,8 +20,9 @@
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
 ## Announcements
+* **July 21**: Lecture videos for Module 09 have been posted. 
+* **July 21**: Solution videos for HW06 have been posted.  
 * **July 16**: Q3 review videos have been posted. Please watch them to prepare for your Q3. 
-* **July 15**: Solution videos for HW05 have been posted.   
 * **July 13**: Please check out the instruction for Quiz 3 from [**here**](doc/Quiz3_Description.md)  
 
 ## Table of Contents
@@ -114,7 +115,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 06**|[<img src="http://img.youtube.com/vi/3btxqXW6JjU/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=3btxqXW6JjU)  [<img src="http://img.youtube.com/vi/lCkpP0HTS1I/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=lCkpP0HTS1I)|
 |**Module 07**|[<img src="http://img.youtube.com/vi/otwRHFWzsH0/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=otwRHFWzsH0)  [<img src="http://img.youtube.com/vi/Wna92qy3PyE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Wna92qy3PyE)|
 |**Module 08**|**No Lecture Video**|
-|**Module 09**|TBU|
+|**Module 09**|[<img src="http://img.youtube.com/vi/R_lxqZWc1rs/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=R_lxqZWc1rs)  [<img src="http://img.youtube.com/vi/VmGPrzd7pik/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=VmGPrzd7pik)|
 |**Module 11**|TBU|
 
 ### Homework Solution Review 
@@ -125,7 +126,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**HW 03**|[<img src="http://img.youtube.com/vi/E9RrExKMA5A/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=E9RrExKMA5A) [<img src="http://img.youtube.com/vi/Ob0OHoo-Ygc/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Ob0OHoo-Ygc)|
 |**HW 04**|[<img src="http://img.youtube.com/vi/XxXoMoQiJOA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=XxXoMoQiJOA) [<img src="http://img.youtube.com/vi/GVRazuYtbBo/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=GVRazuYtbBo)|
 |**HW 05**|[<img src="http://img.youtube.com/vi/cWBX0tsiC7c/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=cWBX0tsiC7c) [<img src="http://img.youtube.com/vi/BpFsUUaCBts/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=BpFsUUaCBts)|
-|**HW 06**|TBU|
+|**HW 06**|[<img src="http://img.youtube.com/vi/IjbQDXhkEm0/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=IjbQDXhkEm0) [<img src="http://img.youtube.com/vi/bGCrW6UpHMk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=bGCrW6UpHMk)|
 |**HW 07**|TBU|
 |**HW 08**|TBU|
 
