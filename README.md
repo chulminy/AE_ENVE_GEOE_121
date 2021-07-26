@@ -20,10 +20,11 @@
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
 ## Announcements
+* **July 25**: Lecture videos for Module 11 have been posted. 
+* **July 25**: Check out the first due date for HW07. It will be postponed to August 03, which is the same as the 2nd due date. This change is to give have more time to study Module 08 and Module 11.  
+* **July 23**: Module 08 plotting extra assignment has been posted on LEARN. The detailed description can be found on LEARN announcement.  
 * **July 21**: Lecture videos for Module 09 have been posted. 
 * **July 21**: Solution videos for HW06 have been posted.  
-* **July 16**: Q3 review videos have been posted. Please watch them to prepare for your Q3. 
-* **July 13**: Please check out the instruction for Quiz 3 from [**here**](doc/Quiz3_Description.md)  
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -116,7 +117,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 07**|[<img src="http://img.youtube.com/vi/otwRHFWzsH0/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=otwRHFWzsH0)  [<img src="http://img.youtube.com/vi/Wna92qy3PyE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Wna92qy3PyE)|
 |**Module 08**|**No Lecture Video**|
 |**Module 09**|[<img src="http://img.youtube.com/vi/R_lxqZWc1rs/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=R_lxqZWc1rs)  [<img src="http://img.youtube.com/vi/VmGPrzd7pik/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=VmGPrzd7pik)|
-|**Module 11**|TBU|
+|**Module 11**|[<img src="http://img.youtube.com/vi/qubtDteNV38/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=qubtDteNV38)  [<img src="http://img.youtube.com/vi/NgntRda2sCY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=NgntRda2sCY)|
 
 ### Homework Solution Review 
 |Module|Video| 
@@ -176,7 +177,7 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 |**Quiz 01**|Module 01 ~ 02|May 27 at 2:30pm (EST)|100 minutes|[Link](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md)|
 |**Quiz 02**|Module 01 ~ 05|June 24 at 2:30pm (EST)|120 minutes|[Link](doc/Quiz2_Description.md)|
 |**Quiz 03**|Module 01 ~ 07|July 23 at 2:30pm (EST)|130 minutes|[Link](doc/Quiz3_Description.md)
-|**Quiz 04**|Module 01 ~ 11|August 12 at 2:30pm (EST)|TBD|TBD|   
+|**Quiz 04**|Module 01 ~ 11|August 12 at 2:30pm (EST)|150 minutes|TBD|   
 
 The extra quiz session (for students who require a time zone accommodation) will be scheduled on the following day [7 or 8 am (EST)] and can only be availed by those who stay in different time zones (e.g., Asia or the Middle East). Those students will receive a separate email. Note that this quiz attempt is NOT available to students currently residing in Canada or in the same time zone.   
 
@@ -218,7 +219,7 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 |HW 04|Module 01 ~ Module 05|June 08|June 22|June 29|
 |HW 05|Module 01 ~ Module 06|June 28|July 13|July 13|
 |HW 06|Module 01 ~ Module 07|July 06|July 18|July 20|
-|HW 07|Module 01 ~ Module 09|July 13|July 27|August 03|
+|HW 07|Module 01 ~ Module 09|July 13|**August 03**|August 03|
 |HW 08|Module 01 ~ Module 12|July 20|August 05|August 05|
 
 * You can check the schedule all at once from [this calendar](#calendar).
@@ -253,6 +254,7 @@ The final grade will be based on the total marks earned from 8 homework assignme
 |**Quiz #3**| 20 |
 |**Quiz #4**| 30 |
 |**Online engagement**|extra up to 6*|
+|**MOD 08 assignment**|extra 2|
 |**Total** |100| 
 
 ## Calendar
