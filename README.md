@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-07-21
+**Last updated:** 2021-07-26
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
@@ -20,6 +20,7 @@
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
 ## Announcements
+* **July 26**: Kasturi will be off this week. All questions should be directed to Bianca. 
 * **July 25**: Lecture videos for Module 11 have been posted. 
 * **July 25**: Check out the first due date for HW07. It will be postponed to August 03, which is the same as the 2nd due date. This change is to give have more time to study Module 08 and Module 11.  
 * **July 23**: Module 08 plotting extra assignment has been posted on LEARN. The detailed description can be found on LEARN announcement.  
