@@ -14,7 +14,7 @@ Group 1:  **August 12 (Thursday)** at 2:30 ~ 5:00 pm (EST).
 Group 2:  **August 12 (Friday)** at 7:00 ~ 9:30 am (EST) for the student who stay in Asia or Middle East.   
 
 ## Submission & Grading
-For Quiz 1, you must solve all questions within **150 minutes**. **Since the length of the quiz is also set to accommodate students who have technology challenges (e.g., slow internet connection, computer), no extra time will be provided.** Note that if your solution is submitted after the designated due time, it will not be graded. Please submit your solutions on time. You can access and solve the problems in any order. As promised, the number of stars to identify the difficulty of the problems will be provided to help students time management. 
+For Quiz 4, you must solve all questions within **150 minutes**. **Since the length of the quiz is also set to accommodate students who have technology challenges (e.g., slow internet connection, computer), no extra time will be provided.** Note that if your solution is submitted after the designated due time, it will not be graded. Please submit your solutions on time. You can access and solve the problems in any order. As promised, the number of stars to identify the difficulty of the problems will be provided to help students time management. 
 
 You can submit your answer **unlimited times** and we only grade your "best" score answers, not the last one. Since the problems in Q3 are hardly corrected by chance, there is no reason to restrict the number of submissions. 
 
