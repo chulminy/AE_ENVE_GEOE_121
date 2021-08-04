@@ -143,7 +143,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**HW 04**|[<img src="http://img.youtube.com/vi/XxXoMoQiJOA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=XxXoMoQiJOA) [<img src="http://img.youtube.com/vi/GVRazuYtbBo/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=GVRazuYtbBo)|
 |**HW 05**|[<img src="http://img.youtube.com/vi/cWBX0tsiC7c/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=cWBX0tsiC7c) [<img src="http://img.youtube.com/vi/BpFsUUaCBts/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=BpFsUUaCBts)|
 |**HW 06**|[<img src="http://img.youtube.com/vi/IjbQDXhkEm0/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=IjbQDXhkEm0) [<img src="http://img.youtube.com/vi/bGCrW6UpHMk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=bGCrW6UpHMk)|
-|**HW 07**|TBU|
+|**HW 07**| [<img src="http://img.youtube.com/vi/ZpC4DHlwPKQ/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=ZpC4DHlwPKQ)|
 |**HW 08**|TBU|
 
 ### Quiz Review Session
