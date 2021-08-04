@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-08-03
+**Last updated:** 2021-08-04
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
@@ -23,8 +23,8 @@
 * Q4 (Group 1): 2:30pm on August 12
 * Q4 (Group 2): 7am on August 13
 
-
 ## Reading List 
+* **August 04**: Instruction for Quiz 4: [**Link**](doc/Quiz4_Description.md)
 * **June 13**: Instruction for Quiz 3: [**Link**](doc/Quiz3_Description.md)
 * **July 06**: Quiz 2 Result: [**Link**](doc/quiz2_result.md) 
 * **July 06**: Feedback for Quiz 2: [**Link**](doc/Q2_Feedback_Answer.md)
@@ -34,12 +34,8 @@
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
 ## Announcements
-* **July 26**: Kasturi will be off this week. All questions should be directed to Bianca. 
-* **July 25**: Lecture videos for Module 11 have been posted. 
-* **July 25**: Check out the first due date for HW07. It will be postponed to August 03, which is the same as the 2nd due date. This change is to give have more time to study Module 08 and Module 11.  
-* **July 23**: Module 08 plotting extra assignment has been posted on LEARN. The detailed description can be found on LEARN announcement.  
-* **July 21**: Lecture videos for Module 09 have been posted. 
-* **July 21**: Solution videos for HW06 have been posted.  
+* **August 04**: Instruction for Quiz 4 has been posted. 
+
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -117,7 +113,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 07**|Function|3|July 16|[**Quiz 03**](doc/Quiz3_Description.md)(June 23)|
 |**Module 08**|Plotting|1|July 21|
 |**Module 09**|Data Structure|1.5|July 26||
-|**Module 11**|Text Manipulation|3|August 05|Quiz 04 (August 12)|
+|**Module 11**|Text Manipulation|3|August 05|[**Quiz 04**](doc/Quiz4_Description.md)(August 12)|
 
 ### Lecture Video 
 |Module|Video| 
@@ -192,7 +188,7 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 |**Quiz 01**|Module 01 ~ 02|May 27 at 2:30pm (EST)|100 minutes|[Link](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md)|
 |**Quiz 02**|Module 01 ~ 05|June 24 at 2:30pm (EST)|120 minutes|[Link](doc/Quiz2_Description.md)|
 |**Quiz 03**|Module 01 ~ 07|July 23 at 2:30pm (EST)|130 minutes|[Link](doc/Quiz3_Description.md)
-|**Quiz 04**|Module 01 ~ 11|August 12 at 2:30pm (EST)|150 minutes|TBD|   
+|**Quiz 04**|Module 01 ~ 11|August 12 at 2:30pm (EST)|150 minutes|[**Link**](doc/Quiz4_Description.md)|   
 
 The extra quiz session (for students who require a time zone accommodation) will be scheduled on the following day [7 or 8 am (EST)] and can only be availed by those who stay in different time zones (e.g., Asia or the Middle East). Those students will receive a separate email. Note that this quiz attempt is NOT available to students currently residing in Canada or in the same time zone.   
 
