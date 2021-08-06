@@ -12,7 +12,7 @@
 
  
 ## Comments & Answers 
-Since Quiz 03 is much easier than the other two quizzes, most of feedback are **very positive**. Students are very happy about current time limit and unlimited test trials. I think one-week delay of Quiz 03 gave students more time to prepare for the quiz 3. Also, they satisfy the quality of quiz review videos. The average of Quiz 03 was 79.9 and more than 100 students received more than 95. This means Quiz 4 will be more difficult than the other previous quizzes. Please thoroughly prepare for the last quiz 4. There are not many feedback that need my comment. 
+Since Quiz 03 was much easier than the other two quizzes, most of feedback are **very positive**. Students are very happy about current time limit and unlimited test trials. I think one-week delay of Quiz 03 gave students more time to prepare for the quiz 3. Also, they satisfy the quality of quiz review videos. The average of Quiz 03 was 79.9 and more than 100 students received more than 95. This means Quiz 4 will be more difficult than the other previous quizzes. Please thoroughly prepare for the last quiz 4. There are not many feedback that need my comment. 
 
 |Feedback & Answer|
 |:---|
