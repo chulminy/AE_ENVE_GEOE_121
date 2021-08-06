@@ -11,15 +11,15 @@
 - [**Computational Method (Spring, 2020)**](s2020)
 
 ## Key Dates
-* HW07 due date: 11:45pm on August 3
-* Extra assignment due date: 11:45pm on August 4
-* HW08 due date: 11:45pm on August 5
+* ~~HW07 due date: 11:45pm on August 3~~
+* ~~Extra assignment due date: 11:45pm on August 4~~
+* ~~HW08 due date: 11:45pm on August 5~~
 * Due date of the August's participation mark: 11:45pm on August 8
-* Q3 Grading uploading: August 4 or 5
-* HW07 solution review video: August 4
-* HW08 solution review video: August 6
-* Q3 solution review video: August 5
-* Q4 review session video: August 6
+* ~~Q3 Grading uploading: August 4 or 5~~
+* ~~HW07 solution review video: August 4~~
+* ~~HW08 solution review video: August 6~~
+* ~~Q3 solution review video: August 5~~
+* ~~Q4 review session video: August 6~~
 * Q4 (Group 1): 2:30pm on August 12
 * Q4 (Group 2): 7am on August 13
 
@@ -36,6 +36,8 @@
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
 ## Announcements
+* **August 06**: Q4 review session videos have been uploaded. 
+* **August 06**: HW08 solution videos have been posted.
 * **August 06**: Quiz 3 solution video has been posted.
 * **August 06**: Quiz 3 score distribution has been posted.
 * **August 06**: Feedback for Quiz 3 has been posted. 
@@ -144,7 +146,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**HW 05**|[<img src="http://img.youtube.com/vi/cWBX0tsiC7c/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=cWBX0tsiC7c) [<img src="http://img.youtube.com/vi/BpFsUUaCBts/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=BpFsUUaCBts)|
 |**HW 06**|[<img src="http://img.youtube.com/vi/IjbQDXhkEm0/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=IjbQDXhkEm0) [<img src="http://img.youtube.com/vi/bGCrW6UpHMk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=bGCrW6UpHMk)|
 |**HW 07**| [<img src="http://img.youtube.com/vi/ZpC4DHlwPKQ/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=ZpC4DHlwPKQ)|
-|**HW 08**|TBU|
+|**HW 08**|[<img src="http://img.youtube.com/vi/x8Mfybv4z64/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=x8Mfybv4z64) [<img src="http://img.youtube.com/vi/eF15b9jpeAk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=eF15b9jpeAk)|
 
 ### Quiz Review Session
 |Module|Video| 
@@ -152,7 +154,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Quiz 01**|[<img src="http://img.youtube.com/vi/loZXG10QkPM/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=loZXG10QkPM) [<img src="http://img.youtube.com/vi/4xBECKnChGA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=4xBECKnChGA)|
 |**Quiz 02**|[<img src="http://img.youtube.com/vi/48NBt69Zcio/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=48NBt69Zcio) [<img src="http://img.youtube.com/vi/FcynHempu08/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=FcynHempu08)|
 |**Quiz 03**|[<img src="http://img.youtube.com/vi/POKcNGtNFfw/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=POKcNGtNFfw) [<img src="http://img.youtube.com/vi/iOqIjY4dD9s/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=iOqIjY4dD9s)|
-|**Quiz 04**|TBU|
+|**Quiz 04**|[<img src="http://img.youtube.com/vi/Z3nqGXTJguo/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Z3nqGXTJguo) [<img src="http://img.youtube.com/vi/KbmIe7ZGlrU/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=KbmIe7ZGlrU)|
 
 ### Quiz Solution Review 
 |Module|Video| 
