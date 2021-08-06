@@ -116,10 +116,10 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 04**|Loop Statement|2|June 09||
 |**Module 05**|Built-in Functions|3|June 18|[**Quiz 02**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz2_Description.md) (June 24)|
 |**Module 06**|Operator|3|June 30||
-|**Module 07**|Function|3|July 16|[**Quiz 03**](doc/Quiz3_Description.md)(June 23)|
+|**Module 07**|Function|3|July 16|[**Quiz 03**](doc/Quiz3_Description.md) (June 23)|
 |**Module 08**|Plotting|1|July 21|
 |**Module 09**|Data Structure|1.5|July 26||
-|**Module 11**|Text Manipulation|3|August 05|[**Quiz 04**](doc/Quiz4_Description.md)(August 12)|
+|**Module 11**|Text Manipulation|3|August 05|[**Quiz 04**](doc/Quiz4_Description.md) (August 12)|
 
 ### Lecture Video 
 |Module|Video| 
@@ -194,7 +194,7 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 |**Quiz 01**|Module 01 ~ 02|May 27 at 2:30pm (EST)|100 minutes|[Link](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md)|
 |**Quiz 02**|Module 01 ~ 05|June 24 at 2:30pm (EST)|120 minutes|[Link](doc/Quiz2_Description.md)|
 |**Quiz 03**|Module 01 ~ 07|July 23 at 2:30pm (EST)|130 minutes|[Link](doc/Quiz3_Description.md)
-|**Quiz 04**|Module 01 ~ 11|August 12 at 2:30pm (EST)|150 minutes|[**Link**](doc/Quiz4_Description.md)|   
+|**Quiz 04**|Module 01 ~ 07, 09, 11|August 12 at 2:30pm (EST)|150 minutes|[**Link**](doc/Quiz4_Description.md)|   
 
 The extra quiz session (for students who require a time zone accommodation) will be scheduled on the following day [7 or 8 am (EST)] and can only be availed by those who stay in different time zones (e.g., Asia or the Middle East). Those students will receive a separate email. Note that this quiz attempt is NOT available to students currently residing in Canada or in the same time zone.   
 
