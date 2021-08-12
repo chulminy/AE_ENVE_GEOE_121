@@ -7,8 +7,8 @@
 **Last updated:** 2021-08-11
 
 **Previous offerings of this course**
-- [**Computational Method (Spring, 2019)**](s2019)
-- [**Computational Method (Spring, 2020)**](s2020)
+- [**Computational Method (Spring, 2019)**](old/s2019)
+- [**Computational Method (Spring, 2020)**](old/s2020)
 
 ## Reading List 
 * **August 06**: Feedback for Quiz 3: [**Link**](doc/Q3_Feedback_Answer.md)
@@ -22,8 +22,6 @@
 * **May 17**: Feedback for Quiz 1: [**Link**](doc/Q1_Feedback_Answer.md)
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
-## Announcements
- 
 
 ## Table of Contents
 - [Course Description](#course-description)
