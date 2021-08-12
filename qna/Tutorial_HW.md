@@ -3,33 +3,21 @@
 **Last updated:** 2021-08-07
 
 ## Problem List
-- [P1: H2-1. Creating Sequences](#P1)
-- [P2: H2-6. Pressure Calculation](#P2)
-- [P3: M02004. Character Type Casting](#P3)
-- [P4: M02012. Manipulating Matrices and Logical Operations](#P4)
-- [P5: H3-2. Shear Modulus (Switch Statement) ](#P5)
-- [P6: H3-5. Repeating Elements and Mirrored Matrices) ](#P6)
-- [P7: H3-5. M04011. Coop Salaries) ](#P7)
-- [P8: H4-5. Find the Number of Subsets) ](#P8)
-- [P9: M05007. Word Finder Puzzle - Backward ) ](#P9)
-- [P10: HW5-5 Lifting Up Zeros ) ](#P10)
+- [P1: M02004. Character Type Casting](#P1)
+- [P2: M02012. Manipulating Matrices and Logical Operations](#P2)
+- [P3: M02026. Creating Sequences](#P3)
+- [P4: M02031. Pressure Calculation](#P4)
+- [P5: M03006. Shear Modulus (Switch Statement) ](#P5)
+- [P6: M03009. Repeating Elements and Mirrored Matrices) ](#P6)
+- [P7: M04011. Coop Salaries) ](#P7)
+- [P8: M05007. Word Finder Puzzle - Backward ) ](#P8)
+- [P9: M05028. Find the Number of Subsets) ](#P9)
+- [P10: M06017 Lifting Up Zeros ) ](#P10)
 - [P11: M07011. (Testing) Design ChckStr for Straight (Rank 6)) ](#P11)
-- [P12: HW7-2 Problem of Poker Game) ](#P12)
-- [P13: HW8-2 Text Manipulation) ](#P13)
+- [P12: M09004 Problem of Poker Game) ](#P12)
+- [P13: M11009 Text Manipulation) ](#P13)
 
-### P1: H2-1. Creating Sequences  <a name="P1"></a> 
-**Question:** For part (a), the Matlab is kept saying that the arrays have incompatible sizes and I don't really get it.  
-
-**Answer**: If you are trying to perform element-wise multiplication on two arrays, the arrays need to be the same size. If the two arrays you are trying to multiply are of different sizes, you will get the error message that the arrays have incompatible sizes. Hope this helps!  
-
-
-### P2: H2-6. Pressure Calculation <a name="P2"></a> 
-
-**Question:** I am confused that why the given code deleted the variables of press1 press2 &press3. And if I copied from the code again to make the variable, the values are not the original generations. How should I start the question?  
-
-**Answer**:For this question, the code that is provided to you clears the values of 'press1' 'press2' and 'press3' (so we cannot use these variables to solve the question). This is because these three matrices are concatenated in the horizontal direction into a matrix called 'data_press' , you will need to solve this problem using 'data_press' rather than 'press1' 'press2' and 'press3'. For example, when you process data in Exel, you will process data like 'data_press', not individual press X. This example is to practice data processing or analysis of table data.
-
-### P3: M02004. Character Type Casting <a name="P3"></a> 
+### P1: M02004. Character Type Casting <a name="P1"></a> 
 
 **Question:** For part d) of this tutorial question, when I try removing the 10th element of vec1, I use vec1(10) == []. It then tells me this creates a "0x0 empty logical array". I was just wondering what this means. 
 
@@ -37,7 +25,7 @@
 
 The assignment operator is '=' and the syntax for it is: variable = expression. 
 
-### P4: M02012. Manipulating Matrices and Logical Operations <a name="P4"></a> 
+### P2: M02012. Manipulating Matrices and Logical Operations <a name="P2"></a> 
 
 **Question:** In question e, it asks for the character but combining numbers inside. I tried putting brackets to make it a vector, but it does not work. 
 ![](img/QnA_P4.png)
@@ -45,7 +33,19 @@ The assignment operator is '=' and the syntax for it is: variable = expression.
 **Answer:** I think you can keep things simple like using "end" instead of putting so many numbers. An array is a placeholder to store a set of values of the SAME TYPE! Your last line is trying to store values with different types (char and numeric). In this case, the numeric values are implicitly changed to corresponding character values. Regardless of its possibility, I'm not recommending such syntax. On a side note, here are some experiments to understand how the last line works: 
 ![](img/QnA_P4_1.png)
 
-### P5: H3-2. Shear Modulus (Switch Statement)  <a name="P5"></a> 
+### P3: M02026. Creating Sequences  <a name="P3"></a> 
+**Question:** For part (a), the Matlab is kept saying that the arrays have incompatible sizes and I don't really get it.  
+
+**Answer**: If you are trying to perform element-wise multiplication on two arrays, the arrays need to be the same size. If the two arrays you are trying to multiply are of different sizes, you will get the error message that the arrays have incompatible sizes. Hope this helps!  
+
+
+### P4: M02031. Pressure Calculation <a name="P4"></a> 
+
+**Question:** I am confused that why the given code deleted the variables of press1 press2 &press3. And if I copied from the code again to make the variable, the values are not the original generations. How should I start the question?  
+
+**Answer**:For this question, the code that is provided to you clears the values of 'press1' 'press2' and 'press3' (so we cannot use these variables to solve the question). This is because these three matrices are concatenated in the horizontal direction into a matrix called 'data_press' , you will need to solve this problem using 'data_press' rather than 'press1' 'press2' and 'press3'. For example, when you process data in Exel, you will process data like 'data_press', not individual press X. This example is to practice data processing or analysis of table data.
+
+### P5: M03006. Shear Modulus (Switch Statement)  <a name="P5"></a> 
 
 **Question:** I eventually solved H3-2, however I was a bit confused at first. When using switch statements can "case" only be followed by a letter such as 'a', as we saw in both the lecture grade example and this question? 
 
@@ -68,7 +68,7 @@ end
 ```
 You call the array "material_data" in the switch expression, and all the case expressions correspond to characters assigned to "material_data".  You only put expressions (an expression means there's no equal sign) in the case statement, therefore "material_data == 'a'" is incorrect syntax. Essentially, the equal sign is already implied in the switch statement. 
 
-### P6: H3-5. Repeating Elements and Mirrored Matrices <a name="P6"></a> 
+### P6: M03009. Repeating Elements and Mirrored Matrices <a name="P6"></a> 
 
 **Question:**  I'm not sure how to approach this question. Should I be using a selection statement to solve or should I be referring to M02013: Creating Mirrored Matrices?  
 
@@ -82,35 +82,7 @@ You call the array "material_data" in the switch expression, and all the case ex
 
 **Answer:** A short answer is that coop_data includes information of 20 coop students. We need to design a loop statement to read the record for each student to test his or her salary. 
 
-### P8: H4-5. Find the Number of Subsets <a name="P8"></a> 
-
-**Question:** Hello! I'm struggling to find a way to identify repeated subsets in this question.  I've got a script that does the basic principle of the question and addresses the "no 5+5" rule, but I can't come up with a way to identify situations when I've got a repeated subset and exclude those from the loop.  Is there an easy way to do that? Or to remove repeated elements from the vector before running it thru a loop?  
-![](img/QnA_P8.png)  
-
-**Answer:** How about changing the loop range? then, you don't need to have the second condition statement. 
-```matlab
-
-for ii=1:n 
-
-     for jj=ii+1:n 
-
-          DO SOMETHING 
-
-    end 
-
-end 
-```
-Also, in_vec is generated from randperm so there is no overlapped value. 
-
-If there is repeating element, how about this?  
-```matlab
-
-if and((in_vec(ii) + in_vec(jj) == sum_val),  (in_vec(ii) ~= in_vec(jj)))  
-
-end 
-``` 
-
-### P9: M05007. Word Finder Puzzle - Backward  <a name="P9"></a> 
+### P8: M05007. Word Finder Puzzle - Backward  <a name="P8"></a> 
 
 **Question:** I was wondering how the code would look for tutorial if there was a possibility of finding the word banana diagonally. 
 
@@ -172,8 +144,36 @@ You are going to access characters in diagonal elements using this function.
 
 Then, you can solve it in the same way. 
 
+### P9: M05028. Find the Number of Subsets <a name="P9"></a> 
 
-### P10: HW5-5 Lifting Up Zeros <a name="P10"></a> 
+**Question:** Hello! I'm struggling to find a way to identify repeated subsets in this question.  I've got a script that does the basic principle of the question and addresses the "no 5+5" rule, but I can't come up with a way to identify situations when I've got a repeated subset and exclude those from the loop.  Is there an easy way to do that? Or to remove repeated elements from the vector before running it thru a loop?  
+![](img/QnA_P8.png)  
+
+**Answer:** How about changing the loop range? then, you don't need to have the second condition statement. 
+```matlab
+
+for ii=1:n 
+
+     for jj=ii+1:n 
+
+          DO SOMETHING 
+
+    end 
+
+end 
+```
+Also, in_vec is generated from randperm so there is no overlapped value. 
+
+If there is repeating element, how about this?  
+```matlab
+
+if and((in_vec(ii) + in_vec(jj) == sum_val),  (in_vec(ii) ~= in_vec(jj)))  
+
+end 
+``` 
+
+
+### P10: M06017. Lifting Up Zeros <a name="P10"></a> 
 
 **Question:**  I managed to solve question 5, however my solution method was very inefficient. The method I used was the following code, but I had to do this for each column:
 ![](img/QnA_P10.png) 
@@ -195,7 +195,7 @@ If you add '0' to lg_vec,  '0' becomes an equivalent numeric value, which is 48.
 
 lg_vec + 48 becomes [49 49 49 49 48 49]. Then, char([49 49 49 49 48 49]) becomes ['1', '1' '1' '1' '0' '1']. I know this is very tricky. You can just consider it as a simple trick to convert a logical vector to a character numeric vector, but to do so you have to convert it to a numeric vector first.  
 
-### P12: HW7-2 Problem of Poker Game <a name="P12"></a> 
+### P12: M09004 Problem of Poker Game <a name="P12"></a> 
 
 **Question:** After referring to M07031, I am a bit confused on the code. May you please explain what the highlighted part of the code is doing?
 ![](img/QnA_P12_1.png) 
@@ -221,7 +221,7 @@ This gives us the last location of 1.
 Here is the sample usage of the above find syntax: 
 ![](img/QnA_P12_2.png)
 
-### P13: HW8-2 Text Manipulation <a name="P13"></a> 
+### P13: M11009 Text Manipulation <a name="P13"></a> 
 
 **Question:**  I've attached my working code for this question below. I was able to figure out that the condition for the if statement had to be "double(char_vec(ii)) - 48 > 5", and I'm a little confused about why I needed to subtract 48. Could someone clarify why this is necessary?
 ```matlab
