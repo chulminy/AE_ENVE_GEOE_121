@@ -4,24 +4,11 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-08-06
+**Last updated:** 2021-08-11
 
 **Previous offerings of this course**
-- [**Computational Method (Spring, 2019)**](s2019)
-- [**Computational Method (Spring, 2020)**](s2020)
-
-## Key Dates
-* ~~HW07 due date: 11:45pm on August 3~~
-* ~~Extra assignment due date: 11:45pm on August 4~~
-* ~~HW08 due date: 11:45pm on August 5~~
-* Due date of the August's participation mark: 11:45pm on August 8
-* ~~Q3 Grading uploading: August 4 or 5~~
-* ~~HW07 solution review video: August 4~~
-* ~~HW08 solution review video: August 6~~
-* ~~Q3 solution review video: August 5~~
-* ~~Q4 review session video: August 6~~
-* Q4 (Group 1): 2:30pm on August 12
-* Q4 (Group 2): 7am on August 13
+- [**Computational Method (Spring, 2019)**](old/s2019)
+- [**Computational Method (Spring, 2020)**](old/s2020)
 
 ## Reading List 
 * **August 06**: Feedback for Quiz 3: [**Link**](doc/Q3_Feedback_Answer.md)
@@ -35,13 +22,6 @@
 * **May 17**: Feedback for Quiz 1: [**Link**](doc/Q1_Feedback_Answer.md)
 * **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
 
-## Announcements
-* **August 06**: Q4 review session videos have been uploaded. 
-* **August 06**: HW08 solution videos have been posted.
-* **August 06**: Quiz 3 solution video has been posted.
-* **August 06**: Quiz 3 score distribution has been posted.
-* **August 06**: Feedback for Quiz 3 has been posted. 
-* **August 04**: Instruction for Quiz 4 has been posted. 
 
 ## Table of Contents
 - [Course Description](#course-description)
