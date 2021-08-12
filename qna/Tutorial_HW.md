@@ -12,10 +12,11 @@
 - [P7: M04011. Coop Salaries) ](#P7)
 - [P8: M05007. Word Finder Puzzle - Backward ) ](#P8)
 - [P9: M05028. Find the Number of Subsets) ](#P9)
-- [P10: M06017 Lifting Up Zeros ) ](#P10)
+- [P10: M06017. Lifting Up Zeros ) ](#P10)
 - [P11: M07011. (Testing) Design ChckStr for Straight (Rank 6)) ](#P11)
-- [P12: M09004 Problem of Poker Game) ](#P12)
-- [P13: M11009 Text Manipulation) ](#P13)
+- [P12: M09004. Problem of Poker Game) ](#P12)
+- [P13: M11009. Text Manipulation ](#P13)
+- [P14: M03001. Income Tax - The "and" Built-In Function](#P14)
 
 ### P1: M02004. Character Type Casting <a name="P1"></a> 
 
@@ -245,3 +246,12 @@ char('2')-48   gives you 2.
 
 char('3')-48   gives you 3. 
 ![](img/QnA_P13.png)
+
+
+### P14: M03001. Income Tax - The "and" Built-In Function <a name="P14"></a> 
+
+**Question:** For the Module 3 "income tax" practice, the professor's answer included a elseif "and" and then tested the range of the income tax. I'm not sure if this was explained in an earlier chapter and I forgot or if it is new, but could someone explain to me when you would write and when testing range and why we use it?
+
+**Answer:** The "and(a,b)" function is the exact same as "&" or "&&". The function is mainly used ensuring that 2 conditions are present. For example, if we want to check to see if a number is in between a range, we use the "and(a,b)" function where a  is the first condition that defines the lower end of a range and b is the second condition that defines the upper end of a range. 
+
+The way used the "and" function in his example, he used it to check if 2 specific conditions were present in order to issues a tax due. The first condition was to check to see if the money was greater than or equal to the lower end of the taxable income range, while the second condition was checking to see if the taxable income was less than or equal to the higher end of the taxable range. Therefore by using the "and" function he is able to define a range to check and see if the income received is within a certain taxable range.
