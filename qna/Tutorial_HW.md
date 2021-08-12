@@ -16,7 +16,7 @@
 - [P11: M07011. (Testing) Design ChckStr for Straight (Rank 6)) ](#P11)
 - [P12: M09004. Problem of Poker Game) ](#P12)
 - [P13: M11009. Text Manipulation ](#P13)
-- [P14: M03001. Income Tax - The "and" Built-In Function](#P14)
+- [P14: (M03001. Income Tax) - The "and" Built-In Function](#P14)
 
 ### P1: M02004. Character Type Casting <a name="P1"></a> 
 
