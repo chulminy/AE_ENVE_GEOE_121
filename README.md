@@ -4,18 +4,26 @@
 |:--------|:-----------|
 |<img src="civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA1:** Bianca Angheluta (bangheluta@uwaterloo.ca) <br>**TA2:** Kasturi Ghosh (kasturi.ghosh@uwaterloo.ca) <br> **Live Help Session (TA1)**: Mon & Wed (11:00AM to 12:30PM), Thu (02:30PM ~ 04:30PM) <br> **Live Help Session (TA2)**: Mon & Tue (02:30PM to 04:00PM), Fri (02:30PM ~ 03:30PM) <br> **Live Help Session (Instructor)**: Fri (3:30PM to 04:30PM)|
 
-**Last updated:** 2021-05-28
+**Last updated:** 2021-08-11
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](s2019)
 - [**Computational Method (Spring, 2020)**](s2020)
 
+## Reading List 
+* **August 06**: Feedback for Quiz 3: [**Link**](doc/Q3_Feedback_Answer.md)
+* **August 06**: Quiz 3 Result: [**Link**](doc/quiz3_result.md) 
+* **August 04**: Instruction for Quiz 4: [**Link**](doc/Quiz4_Description.md)
+* **June 13**: Instruction for Quiz 3: [**Link**](doc/Quiz3_Description.md)
+* **July 06**: Quiz 2 Result: [**Link**](doc/quiz2_result.md) 
+* **July 06**: Feedback for Quiz 2: [**Link**](doc/Q2_Feedback_Answer.md)
+* **June 18**: Instruction for Quiz 2: [**Link**](doc/Quiz2_Description.md)
+* **June 10**: Quiz 1 Result: [**Link**](doc/quiz1_result.md)
+* **May 17**: Feedback for Quiz 1: [**Link**](doc/Q1_Feedback_Answer.md)
+* **May 28**: Instruction for Quiz 1: [**Link**](doc/Quiz1_Description.md)
+
 ## Announcements
-* **May 28**: We have answered your feedback for Quiz 1. Please check out this [**document**](doc/Q1_Feedback_Answer.md) and review it carefully to prepare upcoming quizzes.       
-* **May 26**: Solution review videos for Homework #1 has been posted.    
-* **May 25**: Homework #3 has been posted on MATLAB Grader. 
-* **May 21**: A lecture video for Module 03 has been posted.  
-* **May 15**: Homework #2 has been posted on MATLAB Grader. 
+ 
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -40,7 +48,8 @@ This course introduces computer programming for engineering students using MATLA
 This course includes lectures, tutorials, homework assignments, and quizzes:
 * [**Lectures**](#course-outline) are to cover the major topics, discussing the important programming concepts with worked-out examples. The instructor will teach the [*course material*](comp_method_book_cm_s21.pdf). 
 * [**Tutorials**](#tutorial) are self-study resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial: Computational Method*](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader.       
-* [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*AE/ENVE/GEOE 121(S21)*](https://grader.mathworks.com/courses/41892-ae-enve-geoe-121-s21) in the MATLAB Grader.
+* [**Homework assignments**](#
+* assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*AE/ENVE/GEOE 121(S21)*](https://grader.mathworks.com/courses/41892-ae-enve-geoe-121-s21) in the MATLAB Grader.
 * [**Quizzes**](#quiz) are to evaluate your knowledge and programming skills.  
 
 ## Course Objectives
@@ -87,13 +96,12 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 02**|Vectors and Matrices|2|May 21|[**Quiz 01**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md) (May 27)|
 |**Module 03**|Selection Statement |2|June 02| |
 |**Module 04**|Loop Statement|2|June 09||
-|**Module 05**|Built-in Functions|3|June 18|Quiz 02 (June 24)|
+|**Module 05**|Built-in Functions|3|June 18|[**Quiz 02**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz2_Description.md) (June 24)|
 |**Module 06**|Operator|3|June 30||
-|**Module 07**|Function|3|July 09|Quiz 03 (July 15)|
+|**Module 07**|Function|3|July 16|[**Quiz 03**](doc/Quiz3_Description.md) (June 23)|
 |**Module 08**|Plotting|1|July 21|
-|**Module 09**|Data Structure|1.5|July 23||
-|**Module 10**|File I/O|1|July 28||
-|**Module 11**|Text Manipulation|3|August 05|Quiz 04 (August 12)|
+|**Module 09**|Data Structure|1.5|July 26||
+|**Module 11**|Text Manipulation|3|August 05|[**Quiz 04**](doc/Quiz4_Description.md) (August 12)|
 
 ### Lecture Video 
 |Module|Video| 
@@ -102,35 +110,41 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 01**| [<img src="http://img.youtube.com/vi/-vJBm23Wk6k/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=-vJBm23Wk6k)  [<img src="http://img.youtube.com/vi/ObDfOQkglSo/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=ObDfOQkglSo)|
 |**Module 02**| [<img src="http://img.youtube.com/vi/83HysRVk5Zg/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=83HysRVk5Zg) [<img src="http://img.youtube.com/vi/5rP8F1pwggA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=5rP8F1pwggA)|
 |**Module 03**| [<img src="http://img.youtube.com/vi/6zSqabjvOJM/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=6zSqabjvOJM)|
-|**Module 04**|TBU|
-|**Module 05**|TBU|
-|**Module 06**|TBU|
-|**Module 07**|TBU|
-|**Module 08**|TBU|
-|**Module 09**|TBU|
-|**Module 10**|TBU|
-|**Module 11**|TBU|
+|**Module 04**| [<img src="http://img.youtube.com/vi/VLzROWaeJQY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=VLzROWaeJQY)  [<img src="http://img.youtube.com/vi/lnKsXv7fsys/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=lnKsXv7fsys)|
+|**Module 05**|[<img src="http://img.youtube.com/vi/o-Z_DiDkwGs/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=o-Z_DiDkwGs)  [<img src="http://img.youtube.com/vi/Rj6P1iDoqZw/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Rj6P1iDoqZw)|
+|**Module 06**|[<img src="http://img.youtube.com/vi/3btxqXW6JjU/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=3btxqXW6JjU)  [<img src="http://img.youtube.com/vi/lCkpP0HTS1I/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=lCkpP0HTS1I)|
+|**Module 07**|[<img src="http://img.youtube.com/vi/otwRHFWzsH0/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=otwRHFWzsH0)  [<img src="http://img.youtube.com/vi/Wna92qy3PyE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Wna92qy3PyE)|
+|**Module 08**|**No Lecture Video**|
+|**Module 09**|[<img src="http://img.youtube.com/vi/R_lxqZWc1rs/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=R_lxqZWc1rs)  [<img src="http://img.youtube.com/vi/VmGPrzd7pik/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=VmGPrzd7pik)|
+|**Module 11**|[<img src="http://img.youtube.com/vi/qubtDteNV38/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=qubtDteNV38)  [<img src="http://img.youtube.com/vi/NgntRda2sCY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=NgntRda2sCY)|
 
-### Homework Review 
+### Homework Solution Review 
 |Module|Video| 
 |:----|:----| 
 |**HW 01**|[<img src="http://img.youtube.com/vi/N7PcDAdsLyE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=N7PcDAdsLyE) [<img src="http://img.youtube.com/vi/V308jjgmOts/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=V308jjgmOts)|
-|**HW 02**|TBU|
-|**HW 03**|TBU|
-|**HW 04**|TBU|
-|**HW 05**|TBU|
-|**HW 06**|TBU|
-|**HW 07**|TBU|
-|**HW 08**|TBU|
-
+|**HW 02**|[<img src="http://img.youtube.com/vi/tbroazX_i0o/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=tbroazX_i0o) [<img src="http://img.youtube.com/vi/8VPil7I_D44/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=8VPil7I_D44)|
+|**HW 03**|[<img src="http://img.youtube.com/vi/E9RrExKMA5A/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=E9RrExKMA5A) [<img src="http://img.youtube.com/vi/Ob0OHoo-Ygc/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Ob0OHoo-Ygc)|
+|**HW 04**|[<img src="http://img.youtube.com/vi/XxXoMoQiJOA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=XxXoMoQiJOA) [<img src="http://img.youtube.com/vi/GVRazuYtbBo/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=GVRazuYtbBo)|
+|**HW 05**|[<img src="http://img.youtube.com/vi/cWBX0tsiC7c/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=cWBX0tsiC7c) [<img src="http://img.youtube.com/vi/BpFsUUaCBts/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=BpFsUUaCBts)|
+|**HW 06**|[<img src="http://img.youtube.com/vi/IjbQDXhkEm0/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=IjbQDXhkEm0) [<img src="http://img.youtube.com/vi/bGCrW6UpHMk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=bGCrW6UpHMk)|
+|**HW 07**| [<img src="http://img.youtube.com/vi/ZpC4DHlwPKQ/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=ZpC4DHlwPKQ)|
+|**HW 08**|[<img src="http://img.youtube.com/vi/x8Mfybv4z64/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=x8Mfybv4z64) [<img src="http://img.youtube.com/vi/eF15b9jpeAk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=eF15b9jpeAk)|
 
 ### Quiz Review Session
 |Module|Video| 
 |:----|:----| 
 |**Quiz 01**|[<img src="http://img.youtube.com/vi/loZXG10QkPM/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=loZXG10QkPM) [<img src="http://img.youtube.com/vi/4xBECKnChGA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=4xBECKnChGA)|
-|**Quiz 02**|TBU|
-|**Quiz 03**|TBU|
-|**Quiz 04**|TBU|
+|**Quiz 02**|[<img src="http://img.youtube.com/vi/48NBt69Zcio/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=48NBt69Zcio) [<img src="http://img.youtube.com/vi/FcynHempu08/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=FcynHempu08)|
+|**Quiz 03**|[<img src="http://img.youtube.com/vi/POKcNGtNFfw/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=POKcNGtNFfw) [<img src="http://img.youtube.com/vi/iOqIjY4dD9s/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=iOqIjY4dD9s)|
+|**Quiz 04**|[<img src="http://img.youtube.com/vi/Z3nqGXTJguo/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Z3nqGXTJguo) [<img src="http://img.youtube.com/vi/KbmIe7ZGlrU/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=KbmIe7ZGlrU)|
+
+### Quiz Solution Review 
+|Module|Video| 
+|:----|:----| 
+|**Quiz 01**|[<img src="http://img.youtube.com/vi/GjYnrI3PDV4/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=GjYnrI3PDV4) |
+|**Quiz 02**|[<img src="http://img.youtube.com/vi/dvypAsCkOK4/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=dvypAsCkOK4) |
+|**Quiz 03**|[<img src="http://img.youtube.com/vi/3vdBTGUzXwY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=3vdBTGUzXwY) |
+
 
 ## Tutorial
 The tutorials are self-study resources to assist students in the problems of course material, homework assignments, and quizzes. Students can find the problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader. The model answers for all tutorial problems were posted on this [**page**](tutorial). All students are **highly recommended** to solve all practice problems to prepare for your quizzes. Here is how to study the tutorial. 
@@ -159,10 +173,10 @@ The students **must thoroughly prepare and be ready for taking the online quizze
 ### Schedule  
 |Exam|Topics|Date|Duration|Instruction|
 |:---|:-------|:-----|:----|:----|
-|[**Quiz 01**](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md)|Module 01 ~ 02|May 27 at 2:30pm (EST)|TBD|TBD|
-|**Quiz 02**|Module 01 ~ 05|June 24 at 2:30pm (EST)|TBD|TBD|
-|**Quiz 03**|Module 01 ~ 07|July 15 at 2:30pm (EST)|TBD|TBD|
-|**Quiz 04**|Module 01 ~ 11|August 12 at 2:30pm (EST)|TBD|TBD|   
+|**Quiz 01**|Module 01 ~ 02|May 27 at 2:30pm (EST)|100 minutes|[Link](https://github.com/chulminy/AE_ENVE_GEOE_121/blob/master/doc/Quiz1_Description.md)|
+|**Quiz 02**|Module 01 ~ 05|June 24 at 2:30pm (EST)|120 minutes|[Link](doc/Quiz2_Description.md)|
+|**Quiz 03**|Module 01 ~ 07|July 23 at 2:30pm (EST)|130 minutes|[Link](doc/Quiz3_Description.md)
+|**Quiz 04**|Module 01 ~ 07, 09, 11|August 12 at 2:30pm (EST)|150 minutes|[**Link**](doc/Quiz4_Description.md)|   
 
 The extra quiz session (for students who require a time zone accommodation) will be scheduled on the following day [7 or 8 am (EST)] and can only be availed by those who stay in different time zones (e.g., Asia or the Middle East). Those students will receive a separate email. Note that this quiz attempt is NOT available to students currently residing in Canada or in the same time zone.   
 
@@ -202,10 +216,10 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 |HW 02|Module 01 ~ Module 02|May 15|May 25|June 01|
 |HW 03|Module 01 ~ Module 03|May 25|June 08|June 15|
 |HW 04|Module 01 ~ Module 05|June 08|June 22|June 29|
-|HW 05|Module 01 ~ Module 06|June 22|July 06|July 13|
-|HW 06|Module 01 ~ Module 07|July 06|July 13|July 20|
-|HW 07|Module 01 ~ Module 09|July 13|July 27|August 03|
-|HW 08|Module 01 ~ Module 12|July 13|August 05|August 05|
+|HW 05|Module 01 ~ Module 06|June 28|July 13|July 13|
+|HW 06|Module 01 ~ Module 07|July 06|July 18|July 20|
+|HW 07|Module 01 ~ Module 09|July 13|**August 03**|August 03|
+|HW 08|Module 01 ~ Module 12|July 20|August 05|August 05|
 
 * You can check the schedule all at once from [this calendar](#calendar).
 * Students can start homework assignments if they are visible in the MATLAB Grader.
@@ -213,7 +227,7 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 * Each homework assignments will be closed at 11:45pm on its second due date (NOT 11:59pm). You CANNOT submit your work after the second due date. Please submit your work 30 minutes earlier. 
  
 ## Communication  
-**All communication will be made through [**LEARN**]() but all information related to the course will be posted on this course website. The instructor and TAs will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussions.   
+**All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/685447) but all information related to the course will be posted on this course website. The instructor and TAs will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussions.   
 
 In this course, the students are highly encouraged to engage in online discussions to create and facilitate a **collaborative learning experience**. Students are invited to ask questions and answer them and share their knowledge and resources. Please direct your communications to the Discussion Forum on LEARN. However, if there is a good reason not to use the discussion forum (e.g., personal matters, a question that might reveal your solution of your report, etc.), please directly contact the TAs or instructor via MS Team.  
 
@@ -239,6 +253,7 @@ The final grade will be based on the total marks earned from 8 homework assignme
 |**Quiz #3**| 20 |
 |**Quiz #4**| 30 |
 |**Online engagement**|extra up to 6*|
+|**MOD 08 assignment**|extra 2|
 |**Total** |100| 
 
 ## Calendar
