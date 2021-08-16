@@ -14,9 +14,9 @@
 
 
 ## Study Guideline
-The tutorials are self-study resources to assist students in the problems of course material, homework assignments, and quizzes. Students can find the problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader. The model answers for all tutorial problems were posted on this [**page**](tutorial). All students are **highly recommended ** to solve all practice problems to prepare for your quizzes. Here is how to study the tutorial. 
+The tutorials are self-study resources to assist students in the problems of course material, homework assignments, and quizzes. Students can find the problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader. The model answers for all tutorial problems were posted on this page. All students are **highly recommended ** to solve all practice problems to prepare for your quizzes. Here is how to study the tutorial. 
 
-* **Step 1.** Understand a problem listed on each Module in MATLAB Grader: You need to carefully read the description of problems on the MATLAB Grader or from this [page](tutorial).
+* **Step 1.** Understand a problem listed on each Module in MATLAB Grader: You need to carefully read the description of problems on the MATLAB Grader or from this page.
 
 * **Step 2.** Write your own script to solve the problems: You should use a MATLAB program and write own your program to solve the question. You need to do practice on debugging to fix errors on your code if necessary. Please do not look at the model answer or watch the review video before you make your own script.  
 
@@ -24,7 +24,7 @@ The tutorials are self-study resources to assist students in the problems of cou
 
 * **Step 4.** Submit your solution: Many tests (assessments) were pre-designed to evaluate the correctness of your solution. You need to ensure that your solution passes all the tests. However, you should not do hard coding to pass the tests. Developing the right logic on your code is much more important than passing the test. For example, many students got zero on problems in the quizzes last year, although they pass all tests. Passing the test is just to check the quality of your script (like pre-screening) but does not mean that your script is correct and developed based on the right programming logic.           
 
-* **Step 5.** Review the model solution: The model solutions for all problems were already posted on this [page](tutorial). The instructor recorded videos to review those problems. Students are encouraged to mimic how the instructor writes the script and debug its error. Although the model answer is simply one of the possible ways to solve the problem, they were written based on the key knowledge or methods covered in the corresponding or prior modules.   
+* **Step 5.** Review the model solution: The model solutions for all problems were already posted on this page. The instructor recorded videos to review those problems. Students are encouraged to mimic how the instructor writes the script and debug its error. Although the model answer is simply one of the possible ways to solve the problem, they were written based on the key knowledge or methods covered in the corresponding or prior modules.   
 
 * **Step 6.** Type and run the model script: Skimming the code is not a good way to improve your programming skill. You should type them and run the script in the MATLAB program and MATLAB Grader. I would say programming is like learning sports. You should do practice with your hand, not by eye. 
 
