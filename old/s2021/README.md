@@ -1,4 +1,4 @@
-# Computational Method (University of Waterloo)
+# AE/ENVE/GEOE 121: Computational Method (University of Waterloo)
 
 |||
 |:--------|:-----------|

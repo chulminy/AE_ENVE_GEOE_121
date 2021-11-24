@@ -1,10 +1,10 @@
-# CIVE121: Computational Method (W2022)
+# CIVE 121: Computational Method (W2022)
 
 |||
 |:--------|:-----------|
-|<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **Class:** Mon and Wed, 1:30 to 3:00 PM at RCH 302 <br> **Programming Lab:** Thur, 1:30 to 3:30 AM at CPH 1346  <br> **TA:** TBD (TBD) <br>**Office hours (TA)**: TBD <br> **Office hours (Instructor)**: Mon and Wed, 3:30PM to 04:30PM at E2-2313|
+|<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346  <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM) at E2 XXXX, Thu (3:30 to 5:00 PM) at CPH 1346 <br> **Office hours (Instructor)**: Mon & Wed, (3:30 to 04:30 PM) at E2-2313|
 
-**Last updated:** 2021-10-11
+**Last updated:** 2021-11-23
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2019)**](old/s2019)
@@ -18,6 +18,7 @@
 - [Prerequisites](#prerequisites)
 - [Course Textbook](#course-textbook)
 - [Course Outline](#course-outline)
+- [Course Attendance](#course-attendance)
 - [Tutorial](#tutorial)
 - [Programming Lab](#programming-lab)
 - [Quiz](#quiz)
@@ -29,27 +30,27 @@
 - [Note](#note)
 
 ## Course Description
-This course introduces computer programming for engineering students using MATLAB. MATLAB is an easy and readable programming language and is an excellent choice for those who are learning programming for the first time. This course will cover various topics including programming fundamentals, matrix operations, file I/O, and data visualization. Students who complete this course will gain a fundamental understanding of computer programming techniques and be able to operate, analyze, and visualize all types of data for future engineering studies. **This course is not a simple MATLAB tutorial course.** It is an introductory programming course that utilizes MATLAB to illustrate general concepts in computer programming.  
+This course introduces computer programming for engineering students using MATLAB. MATLAB is an easy and readable programming language and is an excellent choice for those who are learning programming for the first time. This course will cover various topics including programming fundamentals, matrix operations, and data visualization. Students who complete this course will gain a fundamental understanding of computer programming techniques and be able to operate, analyze, and visualize all types of data for future engineering studies. **Remember that this course is not a simple MATLAB tutorial course.** It is an introductory programming course that utilizes MATLAB to illustrate general concepts in computer programming.  
 
 This course includes lectures, tutorials, homework assignments, and quizzes:
 * [**Lectures**](#course-outline) are to cover the major topics, discussing the important programming concepts with worked-out examples. The instructor will teach the [*course material*](comp_method_book_cm_s21.pdf). 
 * [**Tutorials**](#tutorial) are self-study resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial: Computational Method*](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader.       
-* [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*CIVE 121(W22)*](https://grader.mathworks.com/courses/41892-ae-enve-geoe-121-s21) in the MATLAB Grader.
-* [**Quizzes**](#quiz) are to evaluate your knowledge and programming skills.  
+* [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*CIVE 121(W22)*](https://grader.mathworks.com/courses/63549-w22-cive-121) in the MATLAB Grader.
+* [**Quizzes**](#quiz) are to evaluate your knowledge and programming skills. There will be four quizzes over the course.  
 
 ## Course Objectives
 By the end of this course, students should be able to  
 * Develop MATLAB programming logic to solve problems. 
-* Compose working, efficient, and readable scripts in various ways.
+* Compose working, efficient, and readable MATLAB scripts in various ways.
 * Debug your code to identify and fix programming errors.
 * Identify suitable keywords to search for code snippets on the web.
-* Apply MATLAB to write your own program.
+* Apply MATLAB to write your own program (very important).
 
 ## Study Guide
-* Attend all lectures. There are [recordings of all lecture modules](#lecture-video) so you can review them if you do not understand them clearly.    
-* Solve problems in the course materials and tutorials by yourself (see [instruction](#tutorial)).
+* Attend all lectures. There are [video recordings of all lecture modules](#lecture-video) so you can review them if you do not understand the lectures clearly.    
+* Solve problems in the course materials and tutorials by yourself (please follow [the following instruction](#tutorial)).
 * Type and run all scripts of sample solutions in the course material and tutorial videos. Never skim the code.  
-* Make online engagement through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/685447) or or ask for help from TA.   
+* Make online engagement through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/767310) or or ask for help from TA.   
 * Watch tutorial videos to check your answers to the problems.
 * Employ an editor, Workspace browser, and debugging tool to solve the problems (not on MATLAB Grader). 
 
@@ -65,42 +66,29 @@ This course is not based on any particular textbook. However, the [course materi
 * Moore, Holly. *"MATLAB for Engineers,"* Pearson, 2017.
 
 ## Course Outline
-All lectures will be delivered in person. However, you can watch the recordings of each module from [here](#lecture-video) or [**YouTube Channel**](https://youtube.com/playlist?list=PLa1nAPP8qUX9qwRR6Sj_dboIriPIGYgsm). There are ten modules and each module has one or two lectures. The study load for each module is marked as the number of regular offline classes, which becomes a total of 24 classes. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures, assignments, and quizzes. 
+All lectures will be delivered in person. However, you can watch the video recordings of each module from [here](#lecture-video) or [**YouTube Channel**](https://youtube.com/playlist?list=PLa1nAPP8qUX9qwRR6Sj_dboIriPIGYgsm). There are ten modules and each module has one or two lectures. The study load for each module is marked as the number of regular 80 minutes offline classes, which becomes a total of 24 classes. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures, assignments, and quizzes. 
 
-The lectures will cover the course materials (You can download it from [**here**](comp_method_book_cm_s21.pdf)), developed by the instructor. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and previous modules. For example (if you see the table below), Quiz #2 will cover Module 01 to Module 05. 
+The lectures will cover the course materials (You can download it from [**here**](comp_method_book_cm_s21.pdf)), developed by the instructor. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and all previous modules. For example (if you see the table below), Quiz #2 will cover Module 01 to Module 05. 
 
-Lectures are to deliver fundamental knowledge and information in each Module and **not to give a direction on how to solve your homework assignments or quizzes**. However, all the practice problems were designed based on the course materials. Thus, if students do not find the relevance between them, they have not understood lectures yet and should carefully review them again. 
+Lectures are to deliver fundamental knowledge and information in each module and **are not to give a direction on how to solve your homework assignments or quizzes**. However, all the practice problems were designed based on the course materials. Thus, if students do not find the relevance between them, they have not understood lectures yet and should carefully review them again. 
 
 You can check the schedule all at once from [this calendar](#calendar).
 
 |Module|Topics|Load|ETF|[Quiz](#quiz)| 
 |:-----|:-----|:--:|:--:|:-----------:|
-|**Module 00**|Preliminaries|1|May 12| |
-|**Module 01**|Basic MATLAB Programming|2|May 14| |
-|**Module 02**|Vectors and Matrices|2|May 21|**Quiz 01** (May 27)|
-|**Module 03**|Selection Statement |2|June 02| |
-|**Module 04**|Loop Statement|2|June 09||
-|**Module 05**|Built-in Functions|3|June 18|**Quiz 02** (June 24)|
-|**Module 06**|Operator|3|June 30||
-|**Module 07**|Function|3|July 16|**Quiz 03** ()|
-|**Module 08**|Plotting|1|July 21|
-|**Module 09**|Data Structure|2|July 26||
-|**Module 11**|Text Manipulation|3|August 05|**Quiz 04** (August 12)|
+|**Module 00**|Preliminaries|1|January 05| |
+|**Module 01**|Basic MATLAB Programming|2|January 12| |
+|**Module 02**|Vectors and Matrices|2|January 19|**Quiz 01** (January 27)|
+|**Module 03**|Selection Statement |2|January 26| |
+|**Module 04**|Loop Statement|2|February 02||
+|**Module 05**|Built-in Functions|3|February 14|**Quiz 02** (March 03)|
+|**Module 06**|Operator|3|March 02||
+|**Module 07**|Function|3|March 14|**Quiz 03** (March 24)|
+|**Module 08**|Plotting|1|March 16|Will be taught by TA|
+|**Module 09**|Data Structure|2|March 23||
+|**Module 11**|Text Manipulation|2|March 30|**Quiz 04** (TBD)|
 
-## Course Attendance
-Students are highly encouraged to attend all classes and should attend the classes if they receive 12 attendance scores. There will be 10 fun games using [Kahoot!](https://kahoot.it/) during classes, and students will join the question through their cell phones. There will be one game per each module and students receive 1.5 point **if they just attend the game.** The maximum score that students will receive from these games is 12, not 15. This considers unavoidable absence, such as illness, interview. The students need to bring their cell phones or laptops to join these games. If the students did not bring the phone or laptop or its battery is out, TA will check out their attendance. 
-The instructor do not notify in advance when the game in each module starts.  
-
-Note that students **do not** inform TA or instructors for their absent in the class. No matter the reason, students **cannot** get the point if they do not join the game during the class. Students can get a full attendance mark although they miss one or two classes (games). Thus, we will not arrange a special accommodation for the attendance. Please do not send an email to the instructor or TA to explain your absent.   
-
-To participate the game, the instructor will tell the students a game pin number. Then, students go to the Kahoot! website [https://kahoot.it/](https://kahoot.it/) and type the pin number like this: 
-
-Then, 
-
-Name convention for participating the game: firstname_id (e.g., Chulmin_20102030)
-Note that you must follow 
-
-Students can check out the attendance mark from this [link]()
+* Note that the instructor will have one-week business trip on the 11th week (March 14 ~ 18). The lecture on March 14 will be covered on Lab 09 and our graduate TA will deliver a Module 08 lecture. 
 
 ### Lecture Video 
 Students can watch lecture videos for each module. If students do not present the classes unavoidably or cannot follow in-person lectures, please watch the lecture videos for their study.  
@@ -119,14 +107,34 @@ Students can watch lecture videos for each module. If students do not present th
 |**Module 09**|[<img src="http://img.youtube.com/vi/R_lxqZWc1rs/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=R_lxqZWc1rs)  [<img src="http://img.youtube.com/vi/VmGPrzd7pik/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=VmGPrzd7pik)|
 |**Module 11**|[<img src="http://img.youtube.com/vi/qubtDteNV38/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=qubtDteNV38)  [<img src="http://img.youtube.com/vi/NgntRda2sCY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=NgntRda2sCY)|
 
+## Course Attendance
+Students are highly encouraged to attend all classes and should attend the classes to receive 12 point attendance scores. There will be 10 fun games using [Kahoot!](https://kahoot.it/) during classes, and students will join the question through their cell phones. There will be one game per each module and students receive 1.5 point **if they just attend the game.** The maximum score that students will receive from these games is 12, not 15, which mean students can get a full mark (12 points) if they join at least 8 games. This considers unavoidable absence, such as illness, interview. The students need to bring their cell phones or laptops to join these games. If the students did not bring the phone or laptop or its battery is out, TA will check out their attendance. Note that the instructor do not notify in advance when or what class the game in each module starts.  
+
+Note that students **do not have to** inform TA or instructors for their absent in the class. No matter the reason, students **cannot** get the point if they do not join the game during the class. Students can get a full attendance mark although they miss one or two classes (games). Thus, we will not arrange a special accommodation for the attendance. Please do not send an email to the instructor or TA to explain your absent.   
+
+To participate the game, the instructor will show the students a game pin number. 
+
+* Step 1. Go to the Kahoot! website [https://kahoot.it/](https://kahoot.it/) and type a pin number. The instructor will show the pin number in each game. 
+* Step 2. Type your university email address
+* Step 3. Type your nick name. Name convention for participating the game: firstname_id (e.g., Chulmin_20102030), your first name + underscore + your id. Note that you must follow name convention to check the attendance. Please do not use any empty space in the name and do not use the underscore more than 1 (because we will parse the name use the underscore before the id). 
+* Step 4. You are ready for joining the game    
+
+|![](doc/img/kahoot_step1.png)|![](doc/img/kahoot_step2.png)|
+|:--------:|:-----------:|
+|**Step 1**|**Step 2**|
+|![](doc/img/kahoot_step3.png)|![](doc/img/kahoot_step4.png)|
+|**Step 3**|**Step 4**|
+
+We will update your record to [this document](TODO). If the record is not correct, please send an email to TA. When students check the attendance by dishonest means (e.g. a student present at a class access more than one account, remotely access the game using a pin number, informed by a student present at a class), they are considered as an academic offence and receive 0 for all attendance score. And they are disciplined by [Policy for Cheating](#policy-for-cheating)    
+
 ## Tutorial
 The tutorials are self-study resources to assist students in the problems of course material, homework assignments, and quizzes. Students can find the problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader. The model answers for all tutorial problems were posted on this [**page**](tutorial). All students are **highly recommended** to solve practice problems to prepare for your quizzes. Here is how to study the tutorial. 
 
-* **Step 1.** Understand a problem listed on each Module in MATLAB Grader: You need to carefully read the description of problems on the MATLAB Grader or from this [page](tutorial).
+* **Step 1.** Understand a problem listed on each Module in MATLAB Grader: You need to carefully read the description of problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) or from this [page](tutorial).
 
-* **Step 2.** Write your own script to solve the problems: You should use a MATLAB program and write own your program to solve the question. You need to do practice on debugging to fix errors on your code if necessary. Please do not look at the model answer or watch the review video before you make your own script.  
+* **Step 2.** Write your own script to solve the problems: You should use a MATLAB program and write your own program to solve the question. You need to do practice on debugging to fix errors on your code if necessary. Please do not look at the model answer or watch the review video before you make your own script.  
 
-* **Step 3.** Copy and paste your script to the MATLAB Grader: If you think that your script is ready for testing, copy and paste the script to the MATLAB Grader. Click "Run Script" first to check out any syntax or run-time errors (if you already check this on the MATLAB program, you should not see the error message). Please do not debug your code on MATLAB Grader. 
+* **Step 3.** Copy and paste your script to the MATLAB Grader: If you think your script is ready for testing, copy and paste the script to the MATLAB Grader. Click "Run Script" first to check out any syntax or run-time errors (if you already check this on the MATLAB program, you should not see the error message). Please do not debug your code on MATLAB Grader. 
 
 * **Step 4.** Submit your solution: Many tests (assessments) were pre-designed to evaluate the correctness of your solution. You need to ensure that your solution passes all the tests. However, you should not do hard coding to pass the tests. Developing the right logic on your code is much more important than passing the test. For example, many students got zero on problems in the quizzes last year, although they pass all tests. Passing the test is just to check the quality of your script (like pre-screening) but does not mean that your script is correct and developed based on the right programming logic.           
 
@@ -139,10 +147,32 @@ The tutorials are self-study resources to assist students in the problems of cou
 You do not have to memorize any of the solutions. You can freely access all these solutions during the quizzes because they are open-book quizzes. However, I tell you, without going through this process, you cannot write your own script during the quizzes and will not get a good mark on them. 
 
 ## Programming Lab
-Programming lab is 
+Programming labs will be held in a large computer lab (CPH 1346). This session is to do programming practice using the computer having MATLAB. Since the University purchased MATLAB campus license, students can bring their own laptop doing MATLAB programming in this session. Students will take Quiz 01 ~ 03 in this lab session. The instructor will not check the attendance but highly recommend coming to this sessions 
+
+  
+* Help Session 
+
+* Quiz review session: The session will be one week before each quiz. TA will review the course materials and tutorial/homework problems to prepare the quizzes.  
+
+* Solution review session: The instructor will review the quiz solutions. Reviewing previous quiz
 
 
-Quiz Review Session: 
+### Schedule
+|Lab|Topics|Date|Instructor|
+|:---|:-------|:-----|:-----|
+|Lab 01|Getting started with MATLAB|January 06 at 1:30pm|Chul Min Yeum|
+|Lab 02|Helping your first homework (HW01)|January 13 at 1:30pm|Chul Min Yeum & Jesse Parker|
+|Lab 03|Quiz 01 Review Session|January 20 at 1:30pm|Jesse Parker|
+|Lab 04|Quiz 01|January 27 at 1:30pm|Chul Min Yeum & TAs|
+|Lab 05|Quiz 01 Solution Review|February 03 at 1:30pm|Chul Min Yeum|
+|Lab 06|Debug MATLAB Code Files|February 10 at 1:30pm|Chul Min Yeum|
+|Lab 07|Quiz 02 Review Session|February 17 at 1:30pm|Jesse Parker|
+|Lab 08|Quiz 02|March 03 at 1:30pm|Chul Min Yeum & TAs|
+|Lab 09|Lecture + Quiz 02 Solution Review|March 10 at 1:30pm|Chul Min Yeum|
+|Lab 11|Quiz 03 Review Session|March 17 at 1:30pm|Jesse Parker|
+|Lab 12|Quiz 03|March 24 at 1:30pm|Chul Min Yeum & TAs|
+|Lab 12|Quiz 03 Solution Review|March 31 at 1:30pm|Chul Min Yeum|
+|Extra|Quiz 04 Review Session|April 04 at 1:30pm|Jesse Parker|
 
 
 ## Quiz
@@ -151,9 +181,9 @@ The quizzes will be delivered through the MATLAB Grader like, tutorials or homew
 ### Schedule  
 |Exam|Topics|Date|Duration|Instruction|
 |:---|:-------|:-----|:----|:----|
-|**Quiz 01**|Module 01 ~ 02|May 27 at 1:30pm (EST)|TBD|TBD|
-|**Quiz 02**|Module 01 ~ 05|June 24 at 1:30pm (EST)|TBD|TBD|
-|**Quiz 03**|Module 01 ~ 07|July 23 at 1:30pm (EST)|TBD|TBD|
+|**Quiz 01**|Module 01 ~ 02|May 27 at 1:30pm|TBD|TBD|
+|**Quiz 02**|Module 01 ~ 05|June 24 at 1:30pm|TBD|TBD|
+|**Quiz 03**|Module 01 ~ 07|July 23 at 1:30pm|TBD|TBD|
 |**Quiz 04**|Module 01 ~ 07, 09, 11|TBD|TBD|TBD|   
 
 ## Policy for Cheating 
@@ -179,25 +209,37 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 ### Schedule
 |HW|Topic|Start date|First due date|Second due date|
 |:---|:-----|:----|:-----|:-----|
-|HW 01|Module 01|May 09|May 18|May 25|
-|HW 02|Module 01 ~ Module 02|May 15|May 25|June 01|
-|HW 03|Module 01 ~ Module 03|May 25|June 08|June 15|
-|HW 04|Module 01 ~ Module 05|June 08|June 22|June 29|
-|HW 05|Module 01 ~ Module 06|June 28|July 13|July 13|
-|HW 06|Module 01 ~ Module 07|July 06|July 18|July 20|
-|HW 07|Module 01 ~ Module 11|July 20|August 05|August 05|
+|HW 01|Module 01            |January 05|January 17|January 24|
+|HW 02|Module 01 ~ Module 02|January 12|January 24|January 31|
+|HW 03|Module 01 ~ Module 03|January 24|February 07|February 14|
+|HW 04|Module 01 ~ Module 05|February 14|February 28|March 07|
+|HW 05|Module 01 ~ Module 06|February 28|March 14|March 21|
+|HW 06|Module 01 ~ Module 07|March 07|March 21|March 28|
+|HW 07|Module 01 ~ Module 11|March 21|April 04|April 04|
 
 * You can check the schedule all at once from [this calendar](#calendar).
 * Students can start homework assignments if they are visible in the MATLAB Grader.
 * There is no more delay for the last homework (HW 08). 
 * Each homework assignments will be closed at 11:45pm on its second due date (NOT 11:59pm). You CANNOT submit your work after the second due date. Please submit your work 30 minutes earlier. 
- 
+
+### Homework Solution Review
+|Module|Update Date|Video| 
+|:----|:----|:----| 
+|**HW 01**|January 25||
+|**HW 02**|February 01||
+|**HW 03**|February 15||
+|**HW 04**|March 08||
+|**HW 05**|March 22||
+|**HW 06**|March 29||
+|**HW 07**|April 05||
+
+
 ## Communication  
-**All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/685447) but all information related to the course will be posted on this course website. The instructor and TAs will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussions.   
+**All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/767310) but all information related to the course will be posted on this course website. The instructor and TAs will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussions.   
 
 In this course, the students are highly encouraged to engage in online discussions to create and facilitate a **collaborative learning experience**. Students are invited to ask questions and answer them and share their knowledge and resources. Please direct your communications to the Discussion Forum on LEARN. However, if there is a good reason not to use the discussion forum (e.g., personal matters, a question that might reveal your solution of your report, etc.), please directly contact the TAs or instructor via MS Team.  
 
-To encourage online participation, When students ask at least one question each month on Live Help Session or in LEARN, they will receive **1.5 online engagement extra points each month**. TAs will record which students ask questions or involve discussion during Live Help Session. Also, when students answer the question and the TAs or instructor endorse the answer, the student can also receive 1.5 points each month. Thus, students will receive up to 6 points in total. **If the questions are trivial and easy to be answered from the course materials or lecture/tutorial videos, they will not be counted.** 
+To encourage online participation, When students ask at least one question each month on Live Help Session or in LEARN, they will receive **1 point of an online engagement extra points each month**. TAs will record which students ask questions or involve discussion during Live Help Session. Also, when students answer the question and the TAs or instructor endorse the answer, the student can also receive 1.5 points each month. Thus, students will receive up to 6 points in total. **If the questions are trivial and easy to be answered from the course materials or lecture/tutorial videos, they will not be counted.** 
 
 Please follow the instruction having Discussions on LEARN below:
 - Please be respectful of your peers, instructor, and others in your posts and comments.
