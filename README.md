@@ -2,14 +2,25 @@
 
 |||
 |:--------|:-----------|
-|<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346  <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM) at E2 XXXX, Thu (3:30 to 5:00 PM) at CPH 1346 <br> **Office hours (Instructor)**: Mon & Wed, (3:30 to 04:30 PM) at E2-2313|
+|<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346  <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM) at E2-1787, Thu (3:30 to 5:00 PM) at CPH 1346 <br> **Office hours (Instructor)**: Mon (3:30 to 04:30 PM) at E2-2313|
 
-**Last updated:** 2021-11-23
+**Last updated:** 2021-12-02
 
 **Previous offerings of this course**
-- [**Computational Method (Spring, 2019)**](old/s2019)
-- [**Computational Method (Spring, 2020)**](old/s2020)
 - [**Computational Method (Spring, 2021)**](old/s2021)
+- [**Computational Method (Spring, 2020)**](old/s2020)
+- [**Computational Method (Spring, 2019)**](old/s2019)
+
+**Key links**
+- [**LEARN**](https://learn.uwaterloo.ca/d2l/home/767310)
+- [**MATLAB Grader- (W22) CIVE 121: Quizzes**](https://grader.mathworks.com/courses/64270-w22-cive-121-quizzes)
+- [**MATLAB Grader- (W22) CIVE 121: Homework **](https://grader.mathworks.com/courses/63549-w22-cive-121-homework)
+- [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method)
+- [**MATLAB Grader- Quizzes in previous years**](https://grader.mathworks.com/courses/63504-quizzes-in-previous-years-computational-method)
+
+
+## Announcement
+* **Dec 02, 2021:** The first class will start at Jan 05, 2022.   
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -35,8 +46,8 @@ This course introduces computer programming for engineering students using MATLA
 This course includes lectures, tutorials, homework assignments, and quizzes:
 * [**Lectures**](#course-outline) are to cover the major topics, discussing the important programming concepts with worked-out examples. The instructor will teach the [*course material*](comp_method_book_cm_s21.pdf). 
 * [**Tutorials**](#tutorial) are self-study resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial: Computational Method*](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader.       
-* [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*CIVE 121(W22)*](https://grader.mathworks.com/courses/63549-w22-cive-121) in the MATLAB Grader.
-* [**Quizzes**](#quiz) are to evaluate your knowledge and programming skills. There will be four quizzes over the course.  
+* [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*(W22) CIVE 121: Homework*](https://grader.mathworks.com/courses/63549-w22-cive-121-homework) in the MATLAB Grader.
+* [**Quizzes**](#quiz) are to evaluate your knowledge and programming skills. There will be four quizzes over the course. Four quizzes will be posted on [*(W22) CIVE 121: Quizzes*](https://grader.mathworks.com/courses/64270-w22-cive-121-quizzes)
 
 ## Course Objectives
 By the end of this course, students should be able to  
@@ -147,15 +158,7 @@ The tutorials are self-study resources to assist students in the problems of cou
 You do not have to memorize any of the solutions. You can freely access all these solutions during the quizzes because they are open-book quizzes. However, I tell you, without going through this process, you cannot write your own script during the quizzes and will not get a good mark on them. 
 
 ## Programming Lab
-Programming labs will be held in a large computer lab (CPH 1346). This session is to do programming practice using the computer having MATLAB. Since the University purchased MATLAB campus license, students can bring their own laptop doing MATLAB programming in this session. Students will take Quiz 01 ~ 03 in this lab session. The instructor will not check the attendance but highly recommend coming to this sessions 
-
-  
-* Help Session 
-
-* Quiz review session: The session will be one week before each quiz. TA will review the course materials and tutorial/homework problems to prepare the quizzes.  
-
-* Solution review session: The instructor will review the quiz solutions. Reviewing previous quiz
-
+The programming labs will be held in a large computer lab (CPH 1346). The programming labs include instruction sessions (Lab 01, 02, 06), quiz solution review sessions (Lab 05, 09, 12), quiz review sessions (Lab 03, 11, Extra) and quizzes (Lab 04, 08, 12). These labs (except for quizzes) are designed to focus on hands-on practice with MATLAB programming. Students can use the computers in the lab or bring their own laptop if MATLAB is installed. The instructor and TA will not check the attendance but highly recommend coming to this sessions.  
 
 ### Schedule
 |Lab|Topics|Date|Instructor|
