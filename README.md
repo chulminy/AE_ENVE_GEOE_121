@@ -14,7 +14,7 @@
 **Key links**
 - [**LEARN**](https://learn.uwaterloo.ca/d2l/home/767310)
 - [**MATLAB Grader- (W22) CIVE 121: Quizzes**](https://grader.mathworks.com/courses/64270-w22-cive-121-quizzes)
-- [**MATLAB Grader- (W22) CIVE 121: Homework **](https://grader.mathworks.com/courses/63549-w22-cive-121-homework)
+- [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework)
 - [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method)
 - [**MATLAB Grader- Quizzes in previous years**](https://grader.mathworks.com/courses/63504-quizzes-in-previous-years-computational-method)
 
@@ -268,11 +268,11 @@ The final grade will be based on the total marks earned from 8 homework assignme
 |**Total** |100| 
 
 ## Calendar
-|![](doc/calendar/may_s21.jpg)|
+|![](doc/calendar/jan_2022.jpg)|
 |:---:|
-|![](doc/calendar/june_s21.jpg)|
-|![](doc/calendar/july_s21.jpg)|
-|![](doc/calendar/august_s21.jpg)|
+|![](doc/calendar/feb_2022.jpg)|
+|![](doc/calendar/mar_2022.jpg)|
+|![](doc/calendar/apr_2022.jpg)|
 
 ## Note
 ### Academic integrity
