@@ -17,6 +17,7 @@
 - [**MATLAB Grader- (W22) CIVE 121: Quizzes**](https://grader.mathworks.com/courses/64270-w22-cive-121-quizzes)
 - [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method)
 - [**MATLAB Grader- Quizzes in previous years**](https://grader.mathworks.com/courses/63504-quizzes-in-previous-years-computational-method)
+- [**FAQ document**](qna)
 
 
 ## Announcement
@@ -66,7 +67,7 @@ By the end of this course, students should be able to
 * Employ an editor, Workspace browser, and debugging tool to solve the problems (not on MATLAB Grader). 
 
 ## Prerequisites
-"Linear algebra" (CIVE/AE/ENVE/GEOE 115) is a prerequisite for this course, which you  already learned in the 1A term. If you are not familiar with these topics, please review corresponding lecture slides or tutorials. 
+"Linear algebra" (AE/CIVE/ENVE/GEOE 115) is a prerequisite for this course, which you  already learned in the 1A term. If you are not familiar with these topics, please review corresponding lecture slides or tutorials. 
 
 * [**How to use MATLAB Grader?**](doc/matlab_grader)
 * [**How to download and install MATLAB on your computer?**](doc/matlab_install)
@@ -77,9 +78,9 @@ This course is not based on any particular textbook. However, the [course materi
 * Moore, Holly. *"MATLAB for Engineers,"* Pearson, 2017.
 
 ## Course Outline
-All lectures will be delivered in person. However, you can watch the video recordings of each module from [here](#lecture-video) or [**YouTube Channel**](https://youtube.com/playlist?list=PLa1nAPP8qUX9qwRR6Sj_dboIriPIGYgsm). There are ten modules and each module has one or two lectures. The study load for each module is marked as the number of regular 80 minutes offline classes, which becomes a total of 24 classes. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures, assignments, and quizzes. 
+All lectures will be delivered in person. However, you can watch the video recordings of each module from [here](#lecture-video) or [**YouTube Channel**](https://youtube.com/playlist?list=PLa1nAPP8qUX9qwRR6Sj_dboIriPIGYgsm). There are ten modules and each module has 1~3 lectures. The study load for each module is marked as the number of regular 80 minutes offline classes, which becomes a total of 24 classes. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures, assignments, and quizzes. 
 
-The lectures will cover the course materials (You can download it from [**here**](comp_method_book_cm_s21.pdf)), developed by the instructor. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and all previous modules. For example (if you see the table below), Quiz #2 will cover Module 01 to Module 05. 
+The lectures will cover the course materials (You can download it from [**here**](comp_method_book_cm_s21.pdf)), developed by the instructor. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and all previous modules. For example (if you see the table below), Quiz 02 will cover Module 01 to Module 05. 
 
 Lectures are to deliver fundamental knowledge and information in each module and **are not to give a direction on how to solve your homework assignments or quizzes**. However, all the practice problems were designed based on the course materials. Thus, if students do not find the relevance between them, they have not understood lectures yet and should carefully review them again. 
 
@@ -102,7 +103,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 * Note that the instructor will have one-week business trip on the 11th week (March 14 ~ 18). The lecture on March 14 will be covered on Lab 09 and our graduate TA will deliver a Module 08 lecture. 
 
 ### Lecture Video 
-Students can watch lecture videos for each module. If students do not present the classes unavoidably or cannot follow in-person lectures, please watch the lecture videos for their study.  
+Students can watch lecture videos for each module. If students are absent from present the classes unavoidably or cannot follow in-person lectures, please watch the lecture videos for their study.  
 
 |Module|Video| 
 |:----|:----|
@@ -119,15 +120,15 @@ Students can watch lecture videos for each module. If students do not present th
 |**Module 11**|[<img src="http://img.youtube.com/vi/qubtDteNV38/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=qubtDteNV38)  [<img src="http://img.youtube.com/vi/NgntRda2sCY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=NgntRda2sCY)|
 
 ## Course Attendance
-Students are highly encouraged to attend all classes and should attend the classes to receive 12 point attendance scores. There will be 10 fun games using [Kahoot!](https://kahoot.it/) during classes, and students will join the question through their cell phones. There will be one game per each module and students receive 1.5 point **if they just attend the game.** The maximum score that students will receive from these games is 12, not 15, which mean students can get a full mark (12 points) if they join at least 8 games. This considers unavoidable absence, such as illness, interview. The students need to bring their cell phones or laptops to join these games. If the students did not bring the phone or laptop or its battery is out, TA will check out their attendance. Note that the instructor do not notify in advance when or what class the game in each module starts.  
+Students are highly encouraged to attend all classes and have to attend the classes to receive 12 point attendance scores. There will be 10 fun games using [Kahoot](https://kahoot.it/) during classes, and students will join the question through their cell phones. There will be one or two game per each module and students receive 1.5 point **if they just join the game.** The maximum score that students will receive from these games is 12, not 15, which mean students can get a full mark (12 points) if they join at least eight games. This considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. Note that the instructor do not notify in advance when or what class the game in each module starts.  
 
-Note that students **do not have to** inform TA or instructors for their absent in the class. No matter the reason, students **cannot** get the point if they do not join the game during the class. Students can get a full attendance mark although they miss one or two classes (games). Thus, we will not arrange a special accommodation for the attendance. Please do not send an email to the instructor or TA to explain your absent.   
+Note that students **do not have to** inform TA or instructor for their absent in the class. No matter the reason, students **cannot** get the point if they do not join the game during the class. Students can still get a full attendance mark although they miss one or two classes (games). Thus, we will not arrange a special accommodation for the attendance. Please do not send an email to the instructor or TA to explain your absent.   
 
 To participate the game, the instructor will show the students a game pin number. 
 
-* Step 1. Go to the Kahoot! website [https://kahoot.it/](https://kahoot.it/) and type a pin number. The instructor will show the pin number in each game. 
-* Step 2. Type your university email address
-* Step 3. Type your nick name. Name convention for participating the game: firstname_id (e.g., Chulmin_20102030), your first name + underscore + your id. Note that you must follow name convention to check the attendance. Please do not use any empty space in the name and do not use the underscore more than 1 (because we will parse the name use the underscore before the id). 
+* Step 1: Go to the Kahoot! website [https://kahoot.it/](https://kahoot.it/) and type a pin number. The instructor will show the pin number in each game. 
+* Step 2: Type your university email address
+* Step 3: Type your nick name. Name convention for participating the game: firstname_id (e.g., Chulmin_20102030), your first name + underscore + your id. Note that you must follow name convention to check the attendance. Please do not use any empty space in the name and do not use the underscore more than 1 (because we will parse the name use the underscore before the id). 
 * Step 4. You are ready for joining the game    
 
 |![](doc/img/kahoot_step1.png)|![](doc/img/kahoot_step2.png)|
@@ -136,18 +137,18 @@ To participate the game, the instructor will show the students a game pin number
 |![](doc/img/kahoot_step3.png)|![](doc/img/kahoot_step4.png)|
 |**Step 3**|**Step 4**|
 
-We will update your record to [this document](TODO). If the record is not correct, please send an email to TA. When students check the attendance by dishonest means (e.g. a student present at a class access more than one account, remotely access the game using a pin number, informed by a student present at a class), they are considered as an academic offence and receive 0 for all attendance score. And they are disciplined by [Policy for Cheating](#policy-for-cheating)    
+We will update your attendance (and participation mark) record to [this document](https://uofwaterloo.sharepoint.com/:x:/s/tm-cee-uwcviss/EcEWEvABwh9CovMIkkh56SABkTBaeF5QYH5Cw2LRthettg?e=kDQ3xm). If the record is not correct, please send an email to TA. When students check the attendance by dishonest means (e.g. a student present at a class join the game using more than one account, remotely access the game using a pin number, informed by a student present at a class), they are considered as an academic offense and receive 0 for **all attendance score**. And they are disciplined by [Policy for Cheating](#policy-for-cheating)    
 
 ## Tutorial
 The tutorials are self-study resources to assist students in the problems of course material, homework assignments, and quizzes. Students can find the problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader. The model answers for all tutorial problems were posted on this [**page**](tutorial). All students are **highly recommended** to solve practice problems to prepare for your quizzes. Here is how to study the tutorial. 
 
 * **Step 1.** Understand a problem listed on each Module in MATLAB Grader: You need to carefully read the description of problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) or from this [page](tutorial).
 
-* **Step 2.** Write your own script to solve the problems: You should use a MATLAB program and write your own program to solve the question. You need to do practice on debugging to fix errors on your code if necessary. Please do not look at the model answer or watch the review video before you make your own script.  
+* **Step 2.** Write your own script to solve the problems: You should use a MATLAB program and write your own program to solve the question. You need to do practice on debugging to fix errors on your code if necessary. Please do not look at the model answer or watch the solution video before you make your own script.  
 
-* **Step 3.** Copy and paste your script to the MATLAB Grader: If you think your script is ready for testing, copy and paste the script to the MATLAB Grader. Click "Run Script" first to check out any syntax or run-time errors (if you already check this on the MATLAB program, you should not see the error message). Please do not debug your code on MATLAB Grader. 
+* **Step 3.** Copy and paste your script to the MATLAB Grader: If you think your script is ready for testing, copy and paste the script to the MATLAB Grader. Click "Run Script" first to check out any syntax or run-time errors (if you already check this on the MATLAB program, you should not see the error message). 
 
-* **Step 4.** Submit your solution: Many tests (assessments) were pre-designed to evaluate the correctness of your solution. You need to ensure that your solution passes all the tests. However, you should not do hard coding to pass the tests. Developing the right logic on your code is much more important than passing the test. For example, many students got zero on problems in the quizzes last year, although they pass all tests. Passing the test is just to check the quality of your script (like pre-screening) but does not mean that your script is correct and developed based on the right programming logic.           
+* **Step 4.** Submit your solution: Many tests (assessments) were pre-designed to evaluate the correctness of your solution. You need to ensure that your solution passes all the tests. However, you should not do hard coding to pass the tests. Developing the right logic on your code is much more important than passing the test. For example, many students got zero on problems in the quizzes last year, although they pass all tests. Passing the test is just to check the quality of your script (like pre-screening) but does not mean that your script is correct or written based on a right programming logic.           
 
 * **Step 5.** Review the model solution: The model solutions for all problems were already posted on this [page](tutorial). The instructor recorded videos to review those problems. Students are encouraged to mimic how the instructor writes the script and debug its error. Although the model answer is simply one of the possible ways to solve the problem, they were written based on the key knowledge or methods covered in the corresponding or prior modules.   
 
@@ -158,7 +159,7 @@ The tutorials are self-study resources to assist students in the problems of cou
 You do not have to memorize any of the solutions. You can freely access all these solutions during the quizzes because they are open-book quizzes. However, I tell you, without going through this process, you cannot write your own script during the quizzes and will not get a good mark on them. 
 
 ## Programming Lab
-The programming labs will be held in a large computer lab (CPH 1346). The programming labs include instruction sessions (Lab 01, 02, 06), quiz solution review sessions (Lab 05, 09, 12), quiz review sessions (Lab 03, 11, Extra) and quizzes (Lab 04, 08, 12). These labs (except for quizzes) are designed to focus on hands-on practice with MATLAB programming. Students can use the computers in the lab or bring their own laptop if MATLAB is installed. The instructor and TA will not check the attendance but highly recommend coming to this sessions.  
+The programming labs will be held in a main computer lab (CPH 1346). The programming labs include instruction sessions (Lab 01, 02, 06), quiz solution review sessions (Lab 05, 09, 12), quiz review sessions (Lab 03, 11, Extra) and quizzes (Lab 04, 08, 12). These labs (except for quizzes) are designed to focus on hands-on practice with MATLAB programming. Students can use the computers in the lab or bring their own laptop if MATLAB is installed. **The instructor and TA will not check the attendance** but highly recommend coming to this sessions.  
 
 ### Schedule
 |Lab|Topics|Date|Instructor|
@@ -179,50 +180,50 @@ The programming labs will be held in a large computer lab (CPH 1346). The progra
 
 
 ## Quiz
-The quizzes will be delivered through the MATLAB Grader like, tutorials or homework assignments. The major differences are a time limit and a limited submission. Remember that although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB (program) editor before submission. If the student is unable to attempt the quiz for whatsoever reason(s), they should contact both the First-Year Engineering Office and the instructor and provide a sensible explanation. If accepted, the students will be allowed to retake the quiz
+The quizzes will be delivered through the MATLAB Grader like, tutorials or homework assignments. The quizzes will be posted on [*(W22) CIVE 121: Quizzes*](https://grader.mathworks.com/courses/64270-w22-cive-121-quizzes). The major differences are a **time limit** and **a limited submission**. Remember that although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB (program) editor before submission. 
  
 ### Schedule  
 |Exam|Topics|Date|Duration|Instruction|
 |:---|:-------|:-----|:----|:----|
-|**Quiz 01**|Module 01 ~ 02|May 27 at 1:30pm|TBD|TBD|
-|**Quiz 02**|Module 01 ~ 05|June 24 at 1:30pm|TBD|TBD|
-|**Quiz 03**|Module 01 ~ 07|July 23 at 1:30pm|TBD|TBD|
+|**Quiz 01**|Module 01 ~ 02|January 27 at 1:30pm|TBD|TBD|
+|**Quiz 02**|Module 01 ~ 05|March 03 at 1:30pm|TBD|TBD|
+|**Quiz 03**|Module 01 ~ 07|March 24 at 1:30pm|TBD|TBD|
 |**Quiz 04**|Module 01 ~ 07, 09, 11|TBD|TBD|TBD|   
 
 ## Policy for Cheating 
-Students are encouraged to work in groups through collaborative learning only for homework assignments, but are required to submit their assignments individually. Students **must not share their solutions with other students**. The TAs will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs or instructor. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. Also, you might be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). Both copiers and copyees are guilty of cheating and will receive an equal penalty. The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
+Students are encouraged to work in groups through collaborative learning only for homework assignments, but are required to submit their assignments individually. Students **must not share their solutions with other students**. The TA will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs or instructor. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. Also, you might be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). **Both copiers and copyees are guilty of cheating and will receive an equal penalty.** The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
 
 Experience has shown that the students who copy friend's solutions **do not know how to make them different** and tend to not bother to change their friends' code. **You should not trust your friends.** Once you share the solution with your friend, you will likely get caught for cheating. Sharing your solutions with your friend will not benefit you or your friends, and overall is a dumb thing to do. 
 
 What's worse, once you are cheating, your and your friend's previous assignments and solutions for quizzes will be re-evaluated. If evidence is shown that solutions are shared among them more than one time, you will fail the course and should retake it in the future. Do not feel easy if your cheating is undetected as it can still end up in a disaster. 
 
-For your information, 20 students were caught by cheating or academic dishonesty in S2021. They received a zero mark on the corresponding homework assignment and did not get any extra marks on the online engagement. Since they admitted their cheating honestly, I did not report their names to the First-year Engineering Office. However, instructors in our department were informed of this offence. So, if academic dishonesty were to occur in other courses, I would be able to provide the names of the students. Please do not do anything you might regret.           
+For your information, 20 students were caught by cheating or academic dishonesty in S2021. They received a zero mark on the corresponding homework assignment and did not get any extra marks on the online engagement. Since they admitted their cheating honestly, I did not report their names to the First-year Engineering Office. However, instructors in our department were informed of this offence. So, if academic dishonesty were to occur in other courses, I would be able to provide the names of the students. **Please do not do anything you might regret.**           
 
 ## Homework Assignment
 The homework assignments will be designed using the MATLAB Grader. This tool allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments. Problems in the homework assignments are more challenging than examples or problems in the course materials. You might seek bits of help from your colleagues or TAs. 
 
-Again, please do not get used to writing your script directly to the MATLAB Grader only to pass the testers. For quizzes, students will only be able to submit their code on MATLAB Grader **twice**. Thus, students are encouraged to use the MATLAB (program) editor to prepare the problems in the quizzes.  
+Again, please do not get used to writing your script directly to the MATLAB Grader only to pass the testers. For quizzes, students will only be able to submit their code on MATLAB Grader with a limited number. Thus, students are encouraged to use the MATLAB (program) editor to prepare the problems in the quizzes.  
 
-The **Late submission policy** allow students to have **a maximum one-week delay for two of the seven course assignments (HW08 is not included here).** Students do not have to inform TA for their delayed submission as well as the reason for the delay. The MATLAB Grader records your submission time. TAs will just count the number of delays in your homework assignments. TAs will inform the students who delay their submission a second time. If the number of delays is more than two, the third delayed homework will be zero. Students must pay close attention to deadlines. 
+The **Late submission policy** allow students to have **a maximum one-week delay for two of the six homework assignments (HW07 is not included here).** Students do not have to inform TA for their delayed submission as well as the reason for the delay. The MATLAB Grader records your submission time. TAs will just count the number of delays in your homework assignments. TAs will inform the students who delay their submission a second time. If the number of delays is more than two, the third delayed homework will be zero. Students must pay close attention to deadlines. 
 
 In case of significant health issues that results in a third homework assignment being submitted late, students should contact both the First-Year Engineering Office and the instructor, and clearly explain why they had to submit all **three homework assignments** late. Therefore, **please do not waste your two chances for delayed submission**. Again, **no late submission is accepted after the second due date OR if you have used up both your extra weeks**, and any missed homework will be given a **grade of 0**. There is no exception.  
 
 Note that TAs will check the time records of the latest submitted solutions. **If the students revise their solution after the first due date, it will be considered that you are using one of your two late submission attempts**. Please do not revise your submission after the due date unless you plan on using your late week. No revisions are allowed after the second due date.
 
 ### Schedule
-|HW|Topic|Start date|First due date|Second due date|
-|:---|:-----|:----|:-----|:-----|
-|HW 01|Module 01            |January 05|January 17|January 24|
-|HW 02|Module 01 ~ Module 02|January 12|January 24|January 31|
-|HW 03|Module 01 ~ Module 03|January 24|February 07|February 14|
-|HW 04|Module 01 ~ Module 05|February 14|February 28|March 07|
-|HW 05|Module 01 ~ Module 06|February 28|March 14|March 21|
-|HW 06|Module 01 ~ Module 07|March 07|March 21|March 28|
-|HW 07|Module 01 ~ Module 11|March 21|April 04|April 04|
+|HW|Topic|Point|Start date|First due date|Second due date|
+|:---|:-----|:-----|:----|:-----|:-----|
+|HW 01|Module 01            |2|January 05|January 17|January 24|
+|HW 02|Module 01 ~ Module 02|2|January 12|January 24|January 31|
+|HW 03|Module 01 ~ Module 03|2|January 24|February 07|February 14|
+|HW 04|Module 01 ~ Module 05|2|February 14|February 28|March 07|
+|HW 05|Module 01 ~ Module 06|2|February 28|March 14|March 21|
+|HW 06|Module 01 ~ Module 07|4|March 07|March 21|March 28|
+|HW 07|Module 01 ~ Module 11|4|March 21|April 04|April 04|
 
 * You can check the schedule all at once from [this calendar](#calendar).
 * Students can start homework assignments if they are visible in the MATLAB Grader.
-* There is no more delay for the last homework (HW 08). 
+* There is no more delay for the last homework (HW 07). 
 * Each homework assignments will be closed at 11:45pm on its second due date (NOT 11:59pm). You CANNOT submit your work after the second due date. Please submit your work 30 minutes earlier. 
 
 ### Homework Solution Review
@@ -238,11 +239,11 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 
 
 ## Communication  
-**All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/767310) but all information related to the course will be posted on this course website. The instructor and TAs will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussions.   
+**All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/767310) but all information related to the course will be posted on this course website. The instructor and TA will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussions.   
 
 In this course, the students are highly encouraged to engage in online discussions to create and facilitate a **collaborative learning experience**. Students are invited to ask questions and answer them and share their knowledge and resources. Please direct your communications to the Discussion Forum on LEARN. However, if there is a good reason not to use the discussion forum (e.g., personal matters, a question that might reveal your solution of your report, etc.), please directly contact the TAs or instructor via MS Team.  
 
-To encourage online participation, When students ask at least one question each month on Live Help Session or in LEARN, they will receive **1 point of an online engagement extra points each month**. TAs will record which students ask questions or involve discussion during Live Help Session. Also, when students answer the question and the TAs or instructor endorse the answer, the student can also receive 1.5 points each month. Thus, students will receive up to 6 points in total. **If the questions are trivial and easy to be answered from the course materials or lecture/tutorial videos, they will not be counted.** 
+To encourage online participation, When students ask at least one question each month in LEARN, they will receive **1 point of an online engagement extra points each month**. Thus, students will receive up to 4 points in total. **If the questions are trivial and easy to be answered from the course materials or lecture/tutorial videos, they will not be counted.** 
 
 Please follow the instruction having Discussions on LEARN below:
 - Please be respectful of your peers, instructor, and others in your posts and comments.
@@ -254,7 +255,7 @@ Please follow the instruction having Discussions on LEARN below:
 Before you ask questions, please take a look at the following [**Q&A document**](qna) first. It is a compilation of frequently asked questions for each Module. You might find the answers to your questions!
 
 ## Grading  
-The final grade will be based on the total marks earned from 8 homework assignments and 4 quizzes. Their grade components are provided as:
+The final grade will be based on the total marks earned from 7 homework assignments and 4 quizzes. Their grade components are provided as:
 
 |Component|Scores|
 |:---|:-----|
