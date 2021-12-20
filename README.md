@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346  <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM) at E2-1787, Thu (3:30 to 5:00 PM) at CPH 1346 <br> **Office hours (Instructor)**: Mon (3:30 to 04:30 PM) at E2-2313|
 
-**Last updated:** 2021-12-02
+**Last updated:** 2021-12-20
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2021)**](old/s2021)
@@ -19,8 +19,47 @@
 - [**MATLAB Grader- Quizzes in previous years**](https://grader.mathworks.com/courses/63504-quizzes-in-previous-years-computational-method)
 - [**FAQ document**](qna)
 
+**Key Dates**
+* <del> January 12 at 11:30 am: Make-up class 1 </del>
+* January 27 at 1:30 pm: Quiz 1
+* February 02 at 11:30 am: Make-up class 2
+* February 17 at 1:30 pm: Quiz 2
+* February 21 to February 25: Reading week
+* February 28 to March 04: Midterm week
+* March 14: No class
+* March 23 at 11:30 am: Make-up class 3
+* March 24 at 1:30 pm: Quiz 3
+
+Note the full schedule can be found from [**here**](#calendar)
+
+## Online Schedule for the first three weeks (prior to Jan 24)
+Please see a recent announcement regarding the winter term: https://uwaterloo.ca/coronavirus/news/preparing-online-start-winter-term
+
+* All in-person classes on Jan 5, 10, 12, 17, and 19 will be canceled.
+* All in-person labs on Jan 6, 13, and 20 will be canceled.
+* The make-up class on Jan 12 will be canceled.
+* Students need to watch per-recorded video lectures for Module 01 and 02 
+* There will be three live lectures at the class time on every Wednesday. We are going to have a MS team meeting in our class MS team channel. Here are the detailed schedules:
+
+|Time|Topic|Preparation|
+|:----|:-----|:----|
+|Jan 5 at 1:30 pm|Review a course syllabus and Q&A|Please carefully read the **course syllabus** before joining the meeting|
+|Jan 12 at 1:30 pm|Review Module 01, play a Kahoot game, and introduce HW01|Please watch and study **Module 01** before joining the meeting|
+|Jan 19 at 1:30 pm|Review Module 02 and play a Kahoot game|Please watch and study **Module 02** before joining the meeting| 
+
+* We will do Kahoot games on Jan 12 and Jan 19, which means students get attendance points if they join the game.    
+* All in-person office hours will be canceled. However, students feel free to send the TA a chat message through MS Team if they have questions or use a live help sessions. 
+* To accommodate online training, the TA will have online live help sessions. We will schedule MS Team meetings during every help session so students can feel free to join the meeting without an appointment. Here are the live help session schedule:  
+	* On Monday (Jan 10, 17): 10:00 ~ 11:00 am, 1:30 ~ 3:00 pm
+	* On Tuesday (Jan 11, 18): 11:30 am ~ 12:30 pm 
+	* On Thursday (Jan 6, 13): 3:00 ~ 5:00 pm
+* TA will give a Q1 review session on Jan 20 at 1:30 ~ 3:00 pm using a MS team meeting like live lecture. 
+  
+## Fair Contingencies for Emergency Remote Teaching
+We are facing unusual and challenging times. The course outline presents the instructor’s intentions for course assessments, their weights, and due dates in Winter 2022. As best as possible, we will keep to the specified assessments, weights, and dates. To provide contingency for unforeseen circumstances, **the instructor reserves the right to modify course topics and/or assessments and/or weight and/or deadlines with due and fair notice to students.** In the event of such challenges, the instructor will work with the Department/Faculty to find reasonable and fair solutions that respect rights and workloads of students, staff, and faculty. 
 
 ## Announcement
+* **Dec 20, 2021:** Please see a new announcement regarding online start to the winter term.  
 * **Dec 02, 2021:** The first class will start at Jan 05, 2022.   
 
 ## Table of Contents
@@ -93,14 +132,18 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 02**|Vectors and Matrices|2|January 19|**Quiz 01** (January 27)|
 |**Module 03**|Selection Statement |2|January 26| |
 |**Module 04**|Loop Statement|2|February 02||
-|**Module 05**|Built-in Functions|3|February 14|**Quiz 02** (March 03)|
-|**Module 06**|Operator|3|March 02||
-|**Module 07**|Function|3|March 14|**Quiz 03** (March 24)|
+|**Module 05**|Built-in Functions|3|February 09|**Quiz 02** (Februray 17)|
+|**Module 06**|Operator|3|March 07||
+|**Module 07**|Function|3|March 21|**Quiz 03** (March 24)|
 |**Module 08**|Plotting|1|March 16|Will be taught by TA|
 |**Module 09**|Data Structure|2|March 23||
 |**Module 11**|Text Manipulation|2|March 30|**Quiz 04** (TBD)|
 
-* Note that the instructor will have one-week business trip on the 11th week (March 14 ~ 18). The lecture on March 14 will be covered on Lab 09 and our graduate TA will deliver a Module 08 lecture. 
+* Note that the instructor will have one-week business trip on the 11th week (March 14 ~ 18). The lecture on March 14 will be covered on Lab 08 and our graduate TA will deliver a Module 08 lecture. 
+* There will be three make-up classes
+	* 11:30 AM to 12:20 PM, January 12 (RCH 302)
+	* 11:30 AM to 12:20 PM, February 02 (RCH 302)
+	* 11:30 AM to 12:20 PM, March 23 (RCH 302)
 
 ### Lecture Video 
 Students can watch lecture videos for each module. If students are absent from present the classes unavoidably or cannot follow in-person lectures, please watch the lecture videos for their study.  
@@ -159,23 +202,22 @@ The tutorials are self-study resources to assist students in the problems of cou
 You do not have to memorize any of the solutions. You can freely access all these solutions during the quizzes because they are open-book quizzes. However, I tell you, without going through this process, you cannot write your own script during the quizzes and will not get a good mark on them. 
 
 ## Programming Lab
-The programming labs will be held in a main computer lab (CPH 1346). The programming labs include instruction sessions (Lab 01, 02, 06), quiz solution review sessions (Lab 05, 09, 12), quiz review sessions (Lab 03, 11, Extra) and quizzes (Lab 04, 08, 12). These labs (except for quizzes) are designed to focus on hands-on practice with MATLAB programming. Students can use the computers in the lab or bring their own laptop if MATLAB is installed. **The instructor and TA will not check the attendance** but highly recommend coming to this sessions.  
+The programming labs will be held in a main computer lab (CPH 1346). The programming labs include instruction sessions (Lab 01, 02), quiz solution review sessions (Lab 05, 08, 11), quiz review sessions (Lab 03, 06, Extra) and quizzes (Lab 04, 07, 10). These labs (except for quizzes) are designed to focus on hands-on practice with MATLAB programming. Students can use the computers in the lab or bring their own laptop if MATLAB is installed. **The instructor and TA will not check the attendance** but highly recommend coming to this sessions.  
 
 ### Schedule
 |Lab|Topics|Date|Instructor|
 |:---|:-------|:-----|:-----|
-|Lab 01|Getting started with MATLAB|January 06 at 1:30pm|Chul Min Yeum|
-|Lab 02|Helping your first homework (HW01)|January 13 at 1:30pm|Chul Min Yeum & Jesse Parker|
-|Lab 03|Quiz 01 Review Session|January 20 at 1:30pm|Jesse Parker|
+|Lab 01|<del> Getting started with MATLAB </del>|<del> January 06 at 1:30pm </del>|<del> Chul Min Yeum</del>|
+|Lab 02|<del> Helping your first homework (HW01) </del>|<del> January 13 at 1:30pm|<del> Chul Min Yeum & Jesse Parker </del>|
+|Lab 03|<del> Quiz 01 Review Session </del>|<del> January 20 at 1:30pm </del>|<del> Jesse Parker</del>|
 |Lab 04|Quiz 01|January 27 at 1:30pm|Chul Min Yeum & TAs|
 |Lab 05|Quiz 01 Solution Review|February 03 at 1:30pm|Chul Min Yeum|
-|Lab 06|Debug MATLAB Code Files|February 10 at 1:30pm|Chul Min Yeum|
-|Lab 07|Quiz 02 Review Session|February 17 at 1:30pm|Jesse Parker|
-|Lab 08|Quiz 02|March 03 at 1:30pm|Chul Min Yeum & TAs|
-|Lab 09|Lecture + Quiz 02 Solution Review|March 10 at 1:30pm|Chul Min Yeum|
-|Lab 11|Quiz 03 Review Session|March 17 at 1:30pm|Jesse Parker|
-|Lab 12|Quiz 03|March 24 at 1:30pm|Chul Min Yeum & TAs|
-|Lab 12|Quiz 03 Solution Review|March 31 at 1:30pm|Chul Min Yeum|
+|Lab 06|Quiz 02 Review Session|February 10 at 1:30pm|Jesse Parker|
+|Lab 07|Quiz 02|February 17 at 1:30pm|Chul Min Yeum & TAs|
+|Lab 08|Lecture + Quiz 02 Solution Review|March 10 at 1:30pm|Chul Min Yeum|
+|Lab 09|Quiz 03 Review Session|March 17 at 1:30pm|Jesse Parker|
+|Lab 10|Quiz 03|March 24 at 1:30pm|Chul Min Yeum & TAs|
+|Lab 11|Quiz 03 Solution Review|March 31 at 1:30pm|Chul Min Yeum|
 |Extra|Quiz 04 Review Session|April 04 at 1:30pm|Jesse Parker|
 
 
@@ -185,9 +227,9 @@ The quizzes will be delivered through the MATLAB Grader like, tutorials or homew
 ### Schedule  
 |Exam|Topics|Date|Duration|Instruction|
 |:---|:-------|:-----|:----|:----|
-|**Quiz 01**|Module 01 ~ 02|January 27 at 1:30pm|TBD|TBD|
-|**Quiz 02**|Module 01 ~ 05|March 03 at 1:30pm|TBD|TBD|
-|**Quiz 03**|Module 01 ~ 07|March 24 at 1:30pm|TBD|TBD|
+|**Quiz 01**|Module 01 ~ 02|January 27 at 1:30 pm|TBD|TBD|
+|**Quiz 02**|Module 01 ~ 05|February 17 at 1:30 pm|TBD|TBD|
+|**Quiz 03**|Module 01 ~ 07|March 24 at 1:30 pm|TBD|TBD|
 |**Quiz 04**|Module 01 ~ 07, 09, 11|TBD|TBD|TBD|   
 
 ## Policy for Cheating 
@@ -213,13 +255,13 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 ### Schedule
 |HW|Topic|Point|Start date|First due date|Second due date|
 |:---|:-----|:-----|:----|:-----|:-----|
-|HW 01|Module 01            |2|January 05|January 17|January 24|
-|HW 02|Module 01 ~ Module 02|2|January 12|January 24|January 31|
-|HW 03|Module 01 ~ Module 03|2|January 24|February 07|February 14|
-|HW 04|Module 01 ~ Module 05|2|February 14|February 28|March 07|
-|HW 05|Module 01 ~ Module 06|2|February 28|March 14|March 21|
-|HW 06|Module 01 ~ Module 07|4|March 07|March 21|March 28|
-|HW 07|Module 01 ~ Module 11|4|March 21|April 04|April 04|
+|HW 01|Module 01            |2|January 05|January 18|January 25|
+|HW 02|Module 01 ~ Module 02|2|January 12|January 25|February 01|
+|HW 03|Module 01 ~ Module 03|2|January 24|February 08|February 15|
+|HW 04|Module 01 ~ Module 05|2|February 14|March 08|March 15|
+|HW 05|Module 01 ~ Module 06|2|February 28|March 15|March 22|
+|HW 06|Module 01 ~ Module 07|4|March 07|March 22|March 29|
+|HW 07|Module 01 ~ Module 11|4|March 21|April 05|April 05|
 
 * You can check the schedule all at once from [this calendar](#calendar).
 * Students can start homework assignments if they are visible in the MATLAB Grader.
@@ -229,13 +271,13 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 ### Homework Solution Review
 |Module|Update Date|Video| 
 |:----|:----|:----| 
-|**HW 01**|January 25||
-|**HW 02**|February 01||
-|**HW 03**|February 15||
-|**HW 04**|March 08||
-|**HW 05**|March 22||
-|**HW 06**|March 29||
-|**HW 07**|April 05||
+|**HW 01**|January 26||
+|**HW 02**|February 02||
+|**HW 03**|February 16||
+|**HW 04**|March 16||
+|**HW 05**|March 23||
+|**HW 06**|March 30||
+|**HW 07**|April 06||
 
 
 ## Communication  
