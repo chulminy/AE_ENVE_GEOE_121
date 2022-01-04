@@ -2,7 +2,7 @@
 
 |||
 |:--------|:-----------|
-|<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 (as of Jan 31)  <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346  <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM) at E2-1787, Thu (3:30 to 5:00 PM) at CPH 1346 (as of Jan 31) <br> **Office hours (Instructor)**: Mon (3:30 to 04:30 PM) at E2-2313 (as of Jan 31)|
+|<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 (as of Jan 31) <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 (as of Jan 31) <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM) at E2-1787, Thu (3:30 to 5:00 PM) at CPH 1346 (as of Jan 31) <br> **Office hours (Instructor)**: Mon (3:30 to 04:30 PM) at E2-2313 (as of Jan 31)|
 
 **Last updated:** 2022-01-04  
 
@@ -39,7 +39,7 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 * All in-person labs on Jan 6, 13, and 20 will be canceled.
 * The make-up class on Jan 12 will be canceled.
 * Students need to watch per-recorded video lectures for Module 01, 02, and 03 
-* There will be three live lectures at the class time on every Wednesday (except for Jan 26). We are going to have a MS team meeting in our class MS team channel. Here are the detailed schedules:
+* There will be three live lectures at the class time on every Wednesday (no class on Jan 26). We are going to have a MS team meeting in our class MS team channel. Here are the detailed schedules:
 
 |Time|Topic|Preparation|
 |:----|:-----|:----|
