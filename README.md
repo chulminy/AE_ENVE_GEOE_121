@@ -18,6 +18,7 @@
 - [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method)
 - [**MATLAB Grader- Quizzes in previous years**](https://grader.mathworks.com/courses/63504-quizzes-in-previous-years-computational-method)
 - [**FAQ document**](qna)
+- [**Course material**](comp_method_book_cm_s21.pdf)  
 
 **Key Dates**
 * <del> January 12 at 11:30 am: Make-up class 1 </del>
