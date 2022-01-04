@@ -21,7 +21,7 @@
 
 **Key Dates**
 * <del> January 12 at 11:30 am: Make-up class 1 </del>
-* January 27 at 1:30 pm: Quiz 1
+* January 27 at 1:30 pm: Quiz 1 (**Online**)
 * February 02 at 11:30 am: Make-up class 2
 * February 17 at 1:30 pm: Quiz 2
 * February 21 to February 25: Reading week
@@ -32,14 +32,14 @@
 
 Note the full schedule can be found from [**here**](#calendar)
 
-## Online Schedule for the first three weeks (prior to Jan 24)
-Please see a recent announcement regarding the winter term: https://uwaterloo.ca/coronavirus/news/preparing-online-start-winter-term
+## Online Schedule for the first three weeks (prior to Jan 27)
+Please see a recent announcement regarding the winter term: https://uwaterloo.ca/coronavirus/news/extending-remote-work-and-learning-january-27
 
-* All in-person classes on Jan 5, 10, 12, 17, and 19 will be canceled.
+* All in-person classes on Jan 5, 10, 12, 17, 19, 24, and 26 will be canceled.
 * All in-person labs on Jan 6, 13, and 20 will be canceled.
 * The make-up class on Jan 12 will be canceled.
-* Students need to watch per-recorded video lectures for Module 01 and 02 
-* There will be three live lectures at the class time on every Wednesday. We are going to have a MS team meeting in our class MS team channel. Here are the detailed schedules:
+* Students need to watch per-recorded video lectures for Module 01, 02, and 03 
+* There will be three live lectures at the class time on every Wednesday (except for Jan 26). We are going to have a MS team meeting in our class MS team channel. Here are the detailed schedules:
 
 |Time|Topic|Preparation|
 |:----|:-----|:----|
@@ -50,15 +50,17 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 * We will do Kahoot games on Jan 12 and Jan 19, which means students get attendance points if they join the game.    
 * All in-person office hours will be canceled. However, students feel free to send the TA a chat message through MS Team if they have questions or use a live help sessions. 
 * To accommodate online training, the TA will have online live help sessions. We will schedule MS Team meetings during every help session so students can feel free to join the meeting without an appointment. Here are the live help session schedule:  
-	* On Monday (Jan 10, 17): 10:00 ~ 11:00 am, 1:30 ~ 3:00 pm
-	* On Tuesday (Jan 11, 18): 11:30 am ~ 12:30 pm 
+	* On Monday (Jan 10, 17, 24): 10:00 ~ 11:00 am, 1:30 ~ 3:00 pm
+	* On Tuesday (Jan 11, 18, 25): 11:30 am ~ 12:30 pm 
 	* On Thursday (Jan 6, 13): 3:00 ~ 5:00 pm
 * TA will give a Q1 review session on Jan 20 at 1:30 ~ 3:00 pm using a MS team meeting like live lecture. 
-  
+* We will have Quiz 1 on Jan 27 online. We will give you more detailed direction late.  
+
 ## Fair Contingencies for Emergency Remote Teaching
 We are facing unusual and challenging times. The course outline presents the instructor’s intentions for course assessments, their weights, and due dates in Winter 2022. As best as possible, we will keep to the specified assessments, weights, and dates. To provide contingency for unforeseen circumstances, **the instructor reserves the right to modify course topics and/or assessments and/or weight and/or deadlines with due and fair notice to students.** In the event of such challenges, the instructor will work with the Department/Faculty to find reasonable and fair solutions that respect rights and workloads of students, staff, and faculty. 
 
 ## Announcement
+* **Jan 4, 2022:** Please see a revised announcement regarding online start to the winter term (new dates).  
 * **Dec 20, 2021:** Please see a new announcement regarding online start to the winter term.  
 * **Dec 02, 2021:** The first class will start at Jan 05, 2022.   
 
