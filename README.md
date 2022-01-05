@@ -39,7 +39,7 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 * All in-person classes on Jan 5, 10, 12, 17, 19, 24, and 26 will be canceled.
 * All in-person labs on Jan 6, 13, and 20 will be canceled.
 * The make-up class on Jan 12 will be canceled.
-* Students need to watch per-recorded video lectures for Module 01, 02, and 03 
+* Students need to watch per-recorded video lectures for Module 00, 01, 02, and 03 
 * There will be three live lectures at the class time on every Wednesday (no class on Jan 26). We are going to have a MS team meeting in our class MS team channel. Here are the detailed schedules:
 
 |Time|Topic|Preparation|
@@ -54,7 +54,8 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 	* On Monday (Jan 10, 17, 24): 10:00 ~ 11:00 am, 1:30 ~ 3:00 pm
 	* On Tuesday (Jan 11, 18, 25): 11:30 am ~ 12:30 pm 
 	* On Thursday (Jan 6, 13): 3:00 ~ 5:00 pm
-* TA will give a Q1 review session on Jan 20 at 1:30 ~ 3:00 pm using a MS team meeting like live lecture. 
+* TA will give a Q1 review session on Jan 20 at 1:30 ~ 3:00 pm using a MS team meeting like live lecture.
+* Asking questions during this live help session is recognized as a participation mark for the first month (January). 
 * We will have Quiz 1 on Jan 27 online. We will give you more detailed direction late.  
 
 ## Fair Contingencies for Emergency Remote Teaching
@@ -88,7 +89,7 @@ This course introduces computer programming for engineering students using MATLA
 
 This course includes lectures, tutorials, homework assignments, and quizzes:
 * [**Lectures**](#course-outline) are to cover the major topics, discussing the important programming concepts with worked-out examples. The instructor will teach the [*course material*](comp_method_book_cm_s21.pdf). 
-* [**Tutorials**](#tutorial) are self-study resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial: Computational Method*](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader.       
+* [**Tutorials**](#tutorial) are **self-study** resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial: Computational Method*](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader.       
 * [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*(W22) CIVE 121: Homework*](https://grader.mathworks.com/courses/63549-w22-cive-121-homework) in the MATLAB Grader.
 * [**Quizzes**](#quiz) are to evaluate your knowledge and programming skills. There will be four quizzes over the course. Four quizzes will be posted on [*(W22) CIVE 121: Quizzes*](https://grader.mathworks.com/courses/64270-w22-cive-121-quizzes)
 
@@ -144,7 +145,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 
 * Note that the instructor will have one-week business trip on the 11th week (March 14 ~ 18). The lecture on March 14 will be covered on Lab 08 and our graduate TA will deliver a Module 08 lecture. 
 * There will be three make-up classes
-	* 11:30 AM to 12:20 PM, January 12 (RCH 302)
+	* <del> 11:30 AM to 12:20 PM, January 12 (RCH 302) </del>
 	* 11:30 AM to 12:20 PM, February 02 (RCH 302)
 	* 11:30 AM to 12:20 PM, March 23 (RCH 302)
 
@@ -153,7 +154,7 @@ Students can watch lecture videos for each module. If students are absent from p
 
 |Module|Video| 
 |:----|:----|
-|**Module 00**|[<img src="http://img.youtube.com/vi/uwWFPcB3TSw/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=uwWFPcB3TSw) [<img src="http://img.youtube.com/vi/65e-4AVwE4s/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=65e-4AVwE4s) [<img src="http://img.youtube.com/vi/1zDLYaxqKHE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=1zDLYaxqKHE)|
+|**Module 00**|[<img src="http://img.youtube.com/vi/65e-4AVwE4s/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=65e-4AVwE4s) [<img src="http://img.youtube.com/vi/1zDLYaxqKHE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=1zDLYaxqKHE)|
 |**Module 01**| [<img src="http://img.youtube.com/vi/-vJBm23Wk6k/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=-vJBm23Wk6k)  [<img src="http://img.youtube.com/vi/ObDfOQkglSo/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=ObDfOQkglSo)|
 |**Module 02**| [<img src="http://img.youtube.com/vi/83HysRVk5Zg/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=83HysRVk5Zg) [<img src="http://img.youtube.com/vi/5rP8F1pwggA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=5rP8F1pwggA)|
 |**Module 03**| [<img src="http://img.youtube.com/vi/6zSqabjvOJM/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=6zSqabjvOJM)|
@@ -205,14 +206,14 @@ The tutorials are self-study resources to assist students in the problems of cou
 You do not have to memorize any of the solutions. You can freely access all these solutions during the quizzes because they are open-book quizzes. However, I tell you, without going through this process, you cannot write your own script during the quizzes and will not get a good mark on them. 
 
 ## Programming Lab
-The programming labs will be held in a main computer lab (CPH 1346). The programming labs include instruction sessions (Lab 01, 02), quiz solution review sessions (Lab 05, 08, 11), quiz review sessions (Lab 03, 06, Extra) and quizzes (Lab 04, 07, 10). These labs (except for quizzes) are designed to focus on hands-on practice with MATLAB programming. Students can use the computers in the lab or bring their own laptop if MATLAB is installed. **The instructor and TA will not check the attendance** but highly recommend coming to this sessions.  
+The programming labs will be held in a main computer lab (CPH 1346). The programming labs include <del> instruction sessions (Lab 01, 02) </del>, quiz solution review sessions (Lab 05, 08, 11), quiz review sessions (Lab 03, 06, Extra) and quizzes (Lab 04, 07, 10). These labs (except for quizzes) are designed to focus on hands-on practice with MATLAB programming. Students can use the computers in the lab or bring their own laptop if MATLAB is installed. **The instructor and TA will not check the attendance** but highly recommend coming to this sessions.  
 
 ### Schedule
 |Lab|Topics|Date|Instructor|
 |:---|:-------|:-----|:-----|
 |Lab 01|<del> Getting started with MATLAB </del>|<del> January 06 at 1:30pm </del>|<del> Chul Min Yeum</del>|
 |Lab 02|<del> Helping your first homework (HW01) </del>|<del> January 13 at 1:30pm|<del> Chul Min Yeum & Jesse Parker </del>|
-|Lab 03|<del> Quiz 01 Review Session </del>|<del> January 20 at 1:30pm </del>|<del> Jesse Parker</del>|
+|Lab 03|Quiz 01 Review Session|January 20 at 1:30pm|Jesse Parker|
 |Lab 04|Quiz 01|January 27 at 1:30pm|Chul Min Yeum & TAs|
 |Lab 05|Quiz 01 Solution Review|February 03 at 1:30pm|Chul Min Yeum|
 |Lab 06|Quiz 02 Review Session|February 10 at 1:30pm|Jesse Parker|
