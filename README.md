@@ -143,7 +143,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 09**|Data Structure|2|March 23||
 |**Module 11**|Text Manipulation|2|March 30|**Quiz 04** (TBD)|
 
-* Note that the instructor will have one-week business trip on the 11th week (March 14 ~ 18). The lecture on March 14 will be covered on Lab 08 and our graduate TA will deliver a Module 08 lecture. 
+* <del> Note that the instructor will have one-week business trip on the 11th week (March 14 ~ 18). The lecture on March 14 will be covered on Lab 08 and our graduate TA will deliver a Module 08 lecture. </del> 
 * There will be three make-up classes
 	* <del> 11:30 AM to 12:20 PM, January 12 (RCH 302) </del>
 	* 11:30 AM to 12:20 PM, February 02 (RCH 302)
