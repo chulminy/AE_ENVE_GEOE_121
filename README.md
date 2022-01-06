@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 (as of Jan 31) <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 (as of Jan 31) <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM) at E2-1787, Thu (3:30 to 5:00 PM) at CPH 1346 (as of Jan 31) <br> **Office hours (Instructor)**: Mon (3:30 to 04:30 PM) at E2-2313 (as of Jan 31)|
 
-**Last updated:** 2022-01-04  
+**Last updated:** 2022-01-06  
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2021)**](old/s2021)
@@ -18,7 +18,8 @@
 - [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method)
 - [**MATLAB Grader- Quizzes in previous years**](https://grader.mathworks.com/courses/63504-quizzes-in-previous-years-computational-method)
 - [**FAQ document**](qna)
-- [**Course material**](comp_method_book_cm_s21.pdf)  
+- [**Course material**](comp_method_book_cm_s21.pdf)
+- [**Attendance & Extra mark document**](https://uofwaterloo.sharepoint.com/:x:/s/tm-cee-uwcviss/EcEWEvABwh9CovMIkkh56SABkTBaeF5QYH5Cw2LRthettg?e=kDQ3xm)  
 
 **Key Dates**
 * <del> January 12 at 11:30 am: Make-up class 1 </del>
@@ -40,7 +41,7 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 * All in-person labs on Jan 6, 13, and 20 will be canceled.
 * The make-up class on Jan 12 will be canceled.
 * Students need to watch per-recorded video lectures for Module 00, 01, 02, and 03 
-* There will be three live lectures at the class time on every Wednesday (no class on Jan 26). We are going to have a MS team meeting in our class MS team channel. Here are the detailed schedules:
+* There will be three live lectures at the class time on every Wednesday **(no class on Jan 26)**. We are going to have a MS team meeting in our class MS team channel. Here are the detailed schedules:
 
 |Time|Topic|Preparation|
 |:----|:-----|:----|
@@ -48,13 +49,13 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 |Jan 12 at 1:30 pm|Review Module 01, play a Kahoot game, and introduce HW01|Please watch and study **Module 01** before joining the meeting|
 |Jan 19 at 1:30 pm|Review Module 02 and play a Kahoot game|Please watch and study **Module 02** before joining the meeting| 
 
-* We will do Kahoot games on Jan 12 and Jan 19, which means students get attendance points if they join the game.    
+* We will do Kahoot games on Jan 12 and Jan 19, **which means students get attendance points if they join the game.**    
 * All in-person office hours will be canceled. However, students feel free to send the TA a chat message through MS Team if they have questions or use a live help sessions. 
 * To accommodate online training, the TA will have online live help sessions. We will schedule MS Team meetings during every help session so students can feel free to join the meeting without an appointment. Here are the live help session schedule:  
 	* On Monday (Jan 10, 17, 24): 10:00 ~ 11:00 am, 1:30 ~ 3:00 pm
 	* On Tuesday (Jan 11, 18, 25): 11:30 am ~ 12:30 pm 
 	* On Thursday (Jan 6, 13): 3:00 ~ 5:00 pm
-* TA will give a Q1 review session on Jan 20 at 1:30 ~ 3:00 pm using a MS team meeting like live lecture.
+* TA will give a Q1 review session on Jan 20 at 1:30 ~ 3:00 pm using a MS team meeting like the instructor's lecture.
 * Asking questions during this live help session is recognized as a participation mark for the first month (January). 
 * We will have Quiz 1 on Jan 27 online. We will give you more detailed direction late.  
 
@@ -62,6 +63,9 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 We are facing unusual and challenging times. The course outline presents the instructor’s intentions for course assessments, their weights, and due dates in Winter 2022. As best as possible, we will keep to the specified assessments, weights, and dates. To provide contingency for unforeseen circumstances, **the instructor reserves the right to modify course topics and/or assessments and/or weight and/or deadlines with due and fair notice to students.** In the event of such challenges, the instructor will work with the Department/Faculty to find reasonable and fair solutions that respect rights and workloads of students, staff, and faculty. 
 
 ## Announcement
+* **Jan 6, 2022:** Please check out the following updates:
+	* [You will use your first name as a nick name in future Kahoot games.](#course-attendance)
+	* [Calendars](#calendar) have been updated by considering the first month online term.
 * **Jan 4, 2022:** Please see a revised announcement regarding online start to the winter term (new dates).  
 * **Dec 20, 2021:** Please see a new announcement regarding online start to the winter term.  
 * **Dec 02, 2021:** The first class will start at Jan 05, 2022.   
@@ -175,7 +179,7 @@ To participate the game, the instructor will show the students a game pin number
 
 * Step 1: Go to the Kahoot! website [https://kahoot.it/](https://kahoot.it/) and type a pin number. The instructor will show the pin number in each game. 
 * Step 2: Type your university email address
-* Step 3: Type your nick name. Name convention for participating the game: firstname_id (e.g., Chulmin_20102030), your first name + underscore + your id. Note that you must follow name convention to check the attendance. Please do not use any empty space in the name and do not use the underscore more than 1 (because we will parse the name use the underscore before the id). 
+* Step 3: **Type your nick name. Please use your first name**.  
 * Step 4. You are ready for joining the game    
 
 |![](doc/img/kahoot_step1.png)|![](doc/img/kahoot_step2.png)|
@@ -213,8 +217,8 @@ The programming labs will be held in a main computer lab (CPH 1346). The program
 |:---|:-------|:-----|:-----|
 |Lab 01|<del> Getting started with MATLAB </del>|<del> January 06 at 1:30pm </del>|<del> Chul Min Yeum</del>|
 |Lab 02|<del> Helping your first homework (HW01) </del>|<del> January 13 at 1:30pm|<del> Chul Min Yeum & Jesse Parker </del>|
-|Lab 03|Quiz 01 Review Session|January 20 at 1:30pm|Jesse Parker|
-|Lab 04|Quiz 01|January 27 at 1:30pm|Chul Min Yeum & TAs|
+|Lab 03|Quiz 01 Review Session (**online**)|January 20 at 1:30pm|Jesse Parker|
+|Lab 04|Quiz 01 (**online**)|January 27 at 1:30pm|Chul Min Yeum & TAs|
 |Lab 05|Quiz 01 Solution Review|February 03 at 1:30pm|Chul Min Yeum|
 |Lab 06|Quiz 02 Review Session|February 10 at 1:30pm|Jesse Parker|
 |Lab 07|Quiz 02|February 17 at 1:30pm|Chul Min Yeum & TAs|
