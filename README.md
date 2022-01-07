@@ -59,10 +59,8 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 * Asking questions during this live help session is recognized as a participation mark for the first month (January). 
 * We will have Quiz 1 on Jan 27 online. We will give you more detailed direction late.  
 
-## Fair Contingencies for Emergency Remote Teaching
-We are facing unusual and challenging times. The course outline presents the instructor’s intentions for course assessments, their weights, and due dates in Winter 2022. As best as possible, we will keep to the specified assessments, weights, and dates. To provide contingency for unforeseen circumstances, **the instructor reserves the right to modify course topics and/or assessments and/or weight and/or deadlines with due and fair notice to students.** In the event of such challenges, the instructor will work with the Department/Faculty to find reasonable and fair solutions that respect rights and workloads of students, staff, and faculty. 
-
 ## Announcement
+* **Jan 7, 2022:** HW 01 has been posted on [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework). The last three questions are copied from the questions in tutorials. Students should solve them by themselves first and review their model answers carefully. Although students copy and paste the model solutions for these problems, **they are NOT cheating.** However, the instructor highly recommend writing your own solutions.  
 * **Jan 6, 2022:** Please check out the following updates:
 	* [You will use your first name as a nick name in future Kahoot games.](#course-attendance)
 	* [Calendars](#calendar) have been updated by considering the first month online term.
@@ -324,6 +322,9 @@ The final grade will be based on the total marks earned from 7 homework assignme
 |![](doc/calendar/feb_2022.png)|
 |![](doc/calendar/mar_2022.png)|
 |![](doc/calendar/apr_2022.png)|
+
+## Fair Contingencies for Emergency Remote Teaching
+We are facing unusual and challenging times. The course outline presents the instructor’s intentions for course assessments, their weights, and due dates in Winter 2022. As best as possible, we will keep to the specified assessments, weights, and dates. To provide contingency for unforeseen circumstances, **the instructor reserves the right to modify course topics and/or assessments and/or weight and/or deadlines with due and fair notice to students.** In the event of such challenges, the instructor will work with the Department/Faculty to find reasonable and fair solutions that respect rights and workloads of students, staff, and faculty. 
 
 ## Note
 ### Academic integrity
