@@ -60,6 +60,8 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 * We will have Quiz 1 on Jan 27 online. We will give you more detailed direction late.  
 
 ## Announcement
+* **Jan 13, 2022:** Module 01 Kahoot's game questions and answers are posted. Please see the table in [course outline](#course-outline).
+* **Jan 13, 2022:** HW 02 will be posted on today. Sorry for the delay. 
 * **Jan 7, 2022:** HW 01 has been posted on [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework). The last three questions are copied from the questions in tutorials. Students should solve them by themselves first and review their model answers carefully. Although students copy and paste the model solutions for these problems, **they are NOT cheating.** However, the instructor highly recommend writing your own solutions.  
 * **Jan 6, 2022:** Please check out the following updates:
 	* [You will use your first name as a nick name in future Kahoot games.](#course-attendance)
@@ -131,19 +133,19 @@ Lectures are to deliver fundamental knowledge and information in each module and
 
 You can check the schedule all at once from [this calendar](#calendar).
 
-|Module|Topics|Load|ETF|[Quiz](#quiz)| 
-|:-----|:-----|:--:|:--:|:-----------:|
-|**Module 00**|Preliminaries|1|January 05| |
-|**Module 01**|Basic MATLAB Programming|2|January 12| |
-|**Module 02**|Vectors and Matrices|2|January 19|**Quiz 01** (January 27)|
-|**Module 03**|Selection Statement |2|January 26| |
-|**Module 04**|Loop Statement|2|February 02||
-|**Module 05**|Built-in Functions|3|February 09|**Quiz 02** (Februray 17)|
-|**Module 06**|Operator|3|March 07||
-|**Module 07**|Function|3|March 21|**Quiz 03** (March 24)|
-|**Module 08**|Plotting|1|March 16|Will be taught by TA|
-|**Module 09**|Data Structure|2|March 23||
-|**Module 11**|Text Manipulation|2|March 30|**Quiz 04** (TBD)|
+|Module|Topics|Load|ETF|Kahoot|[Quiz](#quiz)| 
+|:-----|:-----|:--:|:--:|:-----------:|:-----------:|
+|**Module 00**|Preliminaries|1|January 05|[Link](tutorial/kahoot/kahoot_mod01.pdf)||
+|**Module 01**|Basic MATLAB Programming|2|January 12| ||
+|**Module 02**|Vectors and Matrices|2|January 19||**Quiz 01** (January 27)|
+|**Module 03**|Selection Statement |2|January 26|| |
+|**Module 04**|Loop Statement|2|February 02|||
+|**Module 05**|Built-in Functions|3|February 09||**Quiz 02** (Februray 17)|
+|**Module 06**|Operator|3|March 07|||
+|**Module 07**|Function|3|March 21||**Quiz 03** (March 24)|
+|**Module 08**|Plotting|1|March 16||Will be taught by TA|
+|**Module 09**|Data Structure|2|March 23|||
+|**Module 11**|Text Manipulation|2|March 30||**Quiz 04** (TBD)|
 
 * <del> Note that the instructor will have one-week business trip on the 11th week (March 14 ~ 18). The lecture on March 14 will be covered on Lab 08 and our graduate TA will deliver a Module 08 lecture. </del> 
 * There will be three make-up classes
