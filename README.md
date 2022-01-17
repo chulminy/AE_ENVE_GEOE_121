@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 (as of Jan 31) <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 (as of Jan 31) <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM) at E2-1787, Thu (3:30 to 5:00 PM) at CPH 1346 (as of Jan 31) <br> **Office hours (Instructor)**: Mon (3:30 to 04:30 PM) at E2-2313 (as of Jan 31)|
 
-**Last updated:** 2022-01-13  
+**Last updated:** 2022-01-17  
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2021)**](old/s2021)
@@ -24,7 +24,7 @@
 **Key Dates**
 * <del> January 12 at 11:30 am: Make-up class 1 </del>
 * January 27 at 1:30 pm: Quiz 1 (**Online**)
-* February 02 at 11:30 am: Make-up class 2
+* <del> February 02 at 11:30 am: Make-up class 2 </del>
 * February 17 at 1:30 pm: Quiz 2
 * February 21 to February 25: Reading week
 * February 28 to March 04: Midterm week
@@ -34,22 +34,25 @@
 
 Note the full schedule can be found from [**here**](#calendar)
 
-## Online Schedule for the first four weeks (prior to Jan 31)
-Please see a recent announcement regarding the winter term: https://uwaterloo.ca/coronavirus/news/extending-remote-work-and-learning-january-27
+## Online Schedule for the first four weeks (prior to Feb 07)
+Please see a recent announcement regarding the winter term: https://uwaterloo.ca/coronavirus/ 
 
-* All in-person classes on Jan 5, 10, 12, 17, 19, 24, and 26 will be canceled.
-* All in-person labs on Jan 6, 13, and 20 will be canceled.
-* The make-up class on Jan 12 will be canceled.
-* Students need to watch per-recorded video lectures for Module 00, 01, 02, and 03 
-* There will be three live lectures at the class time on every Wednesday **(no class on Jan 26)**. We are going to have a MS team meeting in our class MS team channel. Here are the detailed schedules:
+* AAll in-person classes on Jan 5, 10, 12, 17, 19, 24, 26, 31, and Feb 2 will be canceled.
+* All in-person labs on Jan 6, 13, 20, and Feb 3 will be canceled.
+* The make-up class on Jan 12 and Feb 2 will be canceled.
+* Students need to watch per-recorded video lectures for Module 00, 01, 02, 03, and 04.  
+* There will be four live lectures at the class time on every Wednesday **(no class on Jan 26)**. We are going to have a MS team meeting in our class MS team channel. Here are the detailed schedules:
 
 |Time|Topic|Preparation|
 |:----|:-----|:----|
 |Jan 5 at 1:30 pm|Review a course syllabus and Q&A|Please carefully read the **course syllabus** before joining the meeting|
 |Jan 12 at 1:30 pm|Review Module 01, play a Kahoot game, and introduce HW01|Please watch and study **Module 01** before joining the meeting|
 |Jan 19 at 1:30 pm|Review Module 02 and play a Kahoot game|Please watch and study **Module 02** before joining the meeting| 
+|Feb 02 at 1:30 pm|Review Module 03 and play a Kahoot game|Please watch and study **Module 03** before joining the meeting| 
 
-* We will do Kahoot games on Jan 12 and Jan 19, **which means students get attendance points if they join the game.**    
+**Extra:** Instructor's live help session will be held on Jan 26 at 1:30pm. This will be the same format at TA's help session. Note that there is no Kahoot game (no attendance check). 
+
+* We will do Kahoot games on Jan 12, Jan 19 and Feb 02, **which means students get attendance points if they join the game.**    
 * All in-person office hours will be canceled. However, students feel free to send the TA a chat message through MS Team if they have questions or use a live help sessions. 
 * To accommodate online training, the TA will have online live help sessions. We will schedule MS Team meetings during every help session so students can feel free to join the meeting without an appointment. Here are the live help session schedule:  
 	* On Monday (Jan 10, 17, 24): 10:00 ~ 11:00 am, 1:30 ~ 3:00 pm
@@ -60,6 +63,9 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 * We will have Quiz 1 on Jan 27 online. We will give you more detailed direction late.  
 
 ## Announcement
+* **Jan 17, 2022:** A description of Quiz 1 has been posted. Please carefully review this document to prepare the quiz. 
+* **Jan 17, 2022:** The instructor will hold a live help session on Jan 26 (one day before Q1 date). Students can freely join the meeting if they have any question. 
+* **Jan 17, 2022:** Please see a revised announcement regarding online start to the winter term (new dates). 
 * **Jan 13, 2022:** HW 02 has been posted on [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework). Again, the last three questions are copied from the questions in tutorials. Students should solve them by themselves first and review their model answers carefully. Although students copy and paste the model solutions for these problems, **they are NOT cheating.** However, the instructor highly recommend writing your own solutions.  
 * **Jan 13, 2022:** Module 01 Kahoot's game questions and answers are posted. Please see the table in [course outline](#course-outline).
 * **Jan 7, 2022:** HW 01 has been posted on [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework). The last three questions are copied from the questions in tutorials. Students should solve them by themselves first and review their model answers carefully. Although students copy and paste the model solutions for these problems, **they are NOT cheating.** However, the instructor highly recommend writing your own solutions.  
