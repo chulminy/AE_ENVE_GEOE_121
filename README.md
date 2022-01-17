@@ -64,7 +64,7 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 
 ## Announcement
 * **Jan 17, 2022:** [Description of Quiz 1](doc/Quiz1_Description.md) has been posted. Please carefully review this document to prepare the quiz. 
-* **Jan 17, 2022:** The instructor will hold a live help session on **Jan 26 **(one day before Q1 date). Students can freely join the meeting if they have any question. 
+* **Jan 17, 2022:** The instructor will hold a live help session on **Jan 26**(one day before Q1 date). Students can freely join the meeting if they have any question. 
 * **Jan 17, 2022:** Please see a revised announcement regarding online start to the winter term (new dates). 
 * **Jan 13, 2022:** HW 02 has been posted on [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework). Again, the last three questions are copied from the questions in tutorials. Students should solve them by themselves first and review their model answers carefully. Although students copy and paste the model solutions for these problems, **they are NOT cheating.** However, the instructor highly recommend writing your own solutions.  
 * **Jan 13, 2022:** Module 01 Kahoot's game questions and answers are posted. Please see the table in [course outline](#course-outline).
