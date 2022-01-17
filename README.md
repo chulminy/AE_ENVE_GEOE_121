@@ -2,7 +2,7 @@
 
 |||
 |:--------|:-----------|
-|<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 (as of Jan 31) <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 (as of Jan 31) <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM) at E2-1787, Thu (3:30 to 5:00 PM) at CPH 1346 (as of Jan 31) <br> **Office hours (Instructor)**: Mon (3:30 to 04:30 PM) at E2-2313 (as of Jan 31)|
+|<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 (as of Feb 07) <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 (as of Feb 07) <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM) at E2-1787, Thu (3:30 to 5:00 PM) at CPH 1346 (as of Feb 07) <br> **Office hours (Instructor)**: Mon (3:30 to 04:30 PM) at E2-2313 (as of Feb 07)|
 
 **Last updated:** 2022-01-17  
 
@@ -34,14 +34,14 @@
 
 Note the full schedule can be found from [**here**](#calendar)
 
-## Online Schedule for the first four weeks (prior to Feb 07)
+## Online Schedule for the first five weeks (prior to Feb 07)
 Please see a recent announcement regarding the winter term: https://uwaterloo.ca/coronavirus/ 
 
-* AAll in-person classes on Jan 5, 10, 12, 17, 19, 24, 26, 31, and Feb 2 will be canceled.
+* All in-person classes on Jan 5, 10, 12, 17, 19, 24, 26, 31, and Feb 2 will be canceled.
 * All in-person labs on Jan 6, 13, 20, and Feb 3 will be canceled.
 * The make-up class on Jan 12 and Feb 2 will be canceled.
 * Students need to watch per-recorded video lectures for Module 00, 01, 02, 03, and 04.  
-* There will be four live lectures at the class time on every Wednesday **(no class on Jan 26)**. We are going to have a MS team meeting in our class MS team channel. Here are the detailed schedules:
+* We are going to have a MS team meeting in our class MS team channel. Here are the detailed schedules:
 
 |Time|Topic|Preparation|
 |:----|:-----|:----|
@@ -50,21 +50,21 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 |Jan 19 at 1:30 pm|Review Module 02 and play a Kahoot game|Please watch and study **Module 02** before joining the meeting| 
 |Feb 02 at 1:30 pm|Review Module 03 and play a Kahoot game|Please watch and study **Module 03** before joining the meeting| 
 
-**Extra:** Instructor's live help session will be held on Jan 26 at 1:30pm. This will be the same format at TA's help session. Note that there is no Kahoot game (no attendance check). 
+**Extra:** Instructor's live help session will be held on **Jan 26** at 1:30pm. This will be the same format at TA's help session. Note that there is no Kahoot game on this session (no attendance check). 
 
-* We will do Kahoot games on Jan 12, Jan 19 and Feb 02, **which means students get attendance points if they join the game.**    
+* We will do Kahoot games on Jan 12, Jan 19 and Feb 02, **which mean students get attendance points if they join the game.**    
 * All in-person office hours will be canceled. However, students feel free to send the TA a chat message through MS Team if they have questions or use a live help sessions. 
 * To accommodate online training, the TA will have online live help sessions. We will schedule MS Team meetings during every help session so students can feel free to join the meeting without an appointment. Here are the live help session schedule:  
-	* On Monday (Jan 10, 17, 24): 10:00 ~ 11:00 am, 1:30 ~ 3:00 pm
-	* On Tuesday (Jan 11, 18, 25): 11:30 am ~ 12:30 pm 
-	* On Thursday (Jan 6, 13): 3:00 ~ 5:00 pm
-* TA will give a Q1 review session on Jan 20 at 1:30 ~ 3:00 pm using a MS team meeting like the instructor's lecture.
+	* On Monday (Jan 10, 17, 24, 31): 10:00 ~ 11:00 am, 1:30 ~ 3:00 pm
+	* On Tuesday (Jan 11, 18, 25, Feb 1): 11:30 am ~ 12:30 pm 
+	* On Thursday (Jan 6, 13, Feb 3): 3:00 ~ 5:00 pm
+* TA will give a Q1 review session on **Jan 20** at 1:30 ~ 3:00 pm using a MS team meeting like the instructor's lecture.
 * Asking questions during this live help session is recognized as a participation mark for the first month (January). 
-* We will have Quiz 1 on Jan 27 online. We will give you more detailed direction late.  
+* We will have Quiz 1 **on Jan 27** online. We will give you more detailed direction late.  
 
 ## Announcement
-* **Jan 17, 2022:** A description of Quiz 1 has been posted. Please carefully review this document to prepare the quiz. 
-* **Jan 17, 2022:** The instructor will hold a live help session on Jan 26 (one day before Q1 date). Students can freely join the meeting if they have any question. 
+* **Jan 17, 2022:** [Description of Quiz 1](doc/Quiz1_Description.md) has been posted. Please carefully review this document to prepare the quiz. 
+* **Jan 17, 2022:** The instructor will hold a live help session on **Jan 26 **(one day before Q1 date). Students can freely join the meeting if they have any question. 
 * **Jan 17, 2022:** Please see a revised announcement regarding online start to the winter term (new dates). 
 * **Jan 13, 2022:** HW 02 has been posted on [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework). Again, the last three questions are copied from the questions in tutorials. Students should solve them by themselves first and review their model answers carefully. Although students copy and paste the model solutions for these problems, **they are NOT cheating.** However, the instructor highly recommend writing your own solutions.  
 * **Jan 13, 2022:** Module 01 Kahoot's game questions and answers are posted. Please see the table in [course outline](#course-outline).
@@ -241,7 +241,7 @@ The quizzes will be delivered through the MATLAB Grader like, tutorials or homew
 ### Schedule  
 |Exam|Topics|Date|Duration|Instruction|
 |:---|:-------|:-----|:----|:----|
-|**Quiz 01**|Module 01 ~ 02|January 27 at 1:30 pm|TBD|TBD|
+|**Quiz 01**|Module 01 ~ 02|January 27 at 1:30 pm|100 minutes|[**Quiz 01**](doc/Quiz1_Description.md) |
 |**Quiz 02**|Module 01 ~ 05|February 17 at 1:30 pm|TBD|TBD|
 |**Quiz 03**|Module 01 ~ 07|March 24 at 1:30 pm|TBD|TBD|
 |**Quiz 04**|Module 01 ~ 07, 09, 11|TBD|TBD|TBD|   
@@ -325,9 +325,9 @@ The final grade will be based on the total marks earned from 7 homework assignme
 |**Total** |100| 
 
 ## Calendar
-|![](doc/calendar/jan_2022.png)|
+|![](doc/calendar/jan_2022.jpg)|
 |:---:|
-|![](doc/calendar/feb_2022.png)|
+|![](doc/calendar/feb_2022.jpg)|
 |![](doc/calendar/mar_2022.png)|
 |![](doc/calendar/apr_2022.png)|
 
