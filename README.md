@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 (as of Feb 07) <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 (as of Feb 07) <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM) at E2-1787, Thu (3:30 to 5:00 PM) at CPH 1346 (as of Feb 07) <br> **Office hours (Instructor)**: Mon (3:30 to 04:30 PM) at E2-2313 (as of Feb 07)|
 
-**Last updated:** 2022-01-17  
+**Last updated:** 2022-01-20  
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2021)**](old/s2021)
@@ -63,6 +63,7 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 * We will have Quiz 1 **on Jan 27** online. We will give you more detailed direction late.  
 
 ## Announcement
+* **Jan 20, 2022:** Module 02 Kahoot's game questions and answers are posted. Please see the table in [course outline](#course-outline).
 * **Jan 17, 2022:** [Description of Quiz 1](doc/Quiz1_Description.md) has been posted. Please carefully review this document to prepare the quiz. 
 * **Jan 17, 2022:** The instructor will hold a live help session on **Jan 26**(one day before Q1 date). Students can freely join the meeting if they have any question. 
 * **Jan 17, 2022:** Please see a revised announcement regarding online start to the winter term (new dates). 
@@ -143,7 +144,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |:-----|:-----|:--:|:--:|:-----------:|:-----------:|
 |**Module 00**|Preliminaries|1|January 05|||
 |**Module 01**|Basic MATLAB Programming|2|January 12|[Link](tutorial/kahoot/kahoot_mod01.pdf) ||
-|**Module 02**|Vectors and Matrices|2|January 19||**Quiz 01** (January 27)|
+|**Module 02**|Vectors and Matrices|2|January 19|[Link](tutorial/kahoot/kahoot_mod02.pdf) |**Quiz 01** (January 27)|
 |**Module 03**|Selection Statement |2|January 26|| |
 |**Module 04**|Loop Statement|2|February 02|||
 |**Module 05**|Built-in Functions|3|February 09||**Quiz 02** (Februray 17)|
@@ -223,7 +224,7 @@ The programming labs will be held in a main computer lab (CPH 1346). The program
 |:---|:-------|:-----|:-----|
 |Lab 01|<del> Getting started with MATLAB </del>|<del> January 06 at 1:30pm </del>|<del> Chul Min Yeum</del>|
 |Lab 02|<del> Helping your first homework (HW01) </del>|<del> January 13 at 1:30pm|<del> Chul Min Yeum & Jesse Parker </del>|
-|Lab 03|Quiz 01 Review Session (**online**)|January 20 at 1:30pm|Jesse Parker|
+|Lab 03|[Quiz 01 Review Session (**online**)](tutorial/review/Q1_Review.md) |January 20 at 1:30pm|Jesse Parker|
 |Lab 04|Quiz 01 (**online**)|January 27 at 1:30pm|Chul Min Yeum & TAs|
 |Lab 05|Quiz 01 Solution Review|February 03 at 1:30pm|Chul Min Yeum|
 |Lab 06|Quiz 02 Review Session|February 10 at 1:30pm|Jesse Parker|
