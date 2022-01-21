@@ -26,14 +26,14 @@ Note the full schedule can be found from [**here**](#calendar)
 ## Online Schedule for first two months (updated: Jan 21, 2022)
 Please see a recent announcement regarding the winter term: https://uwaterloo.ca/coronavirus/ 
 
-:exclamation::exclamation::exclamation: **Attention**: Students will take Quiz 2 on Feb 17 which will be **only three weeks** after Quiz 1. Quiz 2 include three more topics including Module 03-05, which will be more difficult than Quiz 1. Students are highly encouraged to focus on preparing for Quiz 2 during these three weeks and will spend their time on studying the other courses during the reading and midterm weeks. We will not reschedule Quiz 2 date so students make a solid study plan and use their time well.       
+:exclamation::exclamation::exclamation: **Attention**: Students will take Quiz 2 on Feb 17 which will be **only three weeks** after Quiz 1. Quiz 2 covers five topics including Module 01-05. Students are highly encouraged to focus on preparing for Quiz 2 during these three weeks and will spend their time on studying the other courses during the reading and midterm weeks. W**e will not reschedule Quiz 2 date** so students make a solid study plan and use their time well.       
 
 * All in-person lectures, make-up class, and labs will be canceled until March 04 (at the end of the midterm week). 
-* Quiz #2 will be held online like Quiz #1. 
+* Quiz 2 will be held online like Quiz 1. 
 * **In-person** office hours by the TA and instructor will start on Feb 07. 
 	* TA: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787
 	* Instructor: Mon (3:30 to 04:30 PM) at E2-2313 
-* Students need to watch pre-recorded video lectures for Module 00 to 06.    
+* Students need to watch pre-recorded video lectures for Module 01 to 06.    
 * We are going to have an MS team meeting in our class MS team channel. 
 * Here are all upcoming online meeting schedules:
 
@@ -45,7 +45,7 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 |Feb 07 at 1:30 pm|Review Module 04 and play a Kahoot game|Please watch and study **Module 04** before joining the meeting|Required|
 |Feb 09 at 1:30 pm|Review Module 04, 05 and play a Kahoot game|Please watch and study **Module 04, 05** before joining the meeting|Required|
 |Feb 14 at 1:30 pm|Review Module 05 and play a Kahoot game|Please watch and study **Module 05** before joining the meeting|Required|
-|Feb 16 at 1:30 pm|Instructor's live help session|Prepare for Questions|Recommended|
+|Feb 16 at 1:30 pm|Instructor's live help session|Prepare questions|Recommended|
 |Feb 17 at 1:30 pm|Quiz 2|Study Module 01-05|Required|
 
 * Students feel free to send the TA a chat message through MS Team or an email if they have questions or use a live help sessions. 
@@ -58,6 +58,7 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 * As of February, only questions on Learn are accepted for online engagement mark. 
 
 ## Announcement
+* **Jan 21, 2022:** Please review an updated schedule. There is a course plan for February. 
 * **Jan 20, 2022:** Module 02 Kahoot's game questions and answers are posted. Please see the table in [course outline](#course-outline).
 * **Jan 17, 2022:** [Description of Quiz 1](doc/Quiz1_Description.md) has been posted. Please carefully review this document to prepare the quiz. 
 * **Jan 17, 2022:** The instructor will hold a live help session on **Jan 26**(one day before Q1 date). Students can freely join the meeting if they have any question. 
