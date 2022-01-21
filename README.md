@@ -309,9 +309,9 @@ The final grade will be based on the total marks earned from 7 homework assignme
 |**Total** |100| 
 
 ## Calendar
-|![](doc/calendar/jan_2022.jpg)|
+|![](doc/calendar/jan_2022.png)|
 |:---:|
-|![](doc/calendar/feb_2022.jpg)|
+|![](doc/calendar/feb_2022.png)|
 |![](doc/calendar/mar_2022.png)|
 |![](doc/calendar/apr_2022.png)|
 
