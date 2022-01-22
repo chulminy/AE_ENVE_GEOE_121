@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 (as of March 07) <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 (as of March 07) <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 (**as of Feb 07**) <br> **Office hours (Instructor)**: Mon (3:30 to 04:30 PM) at E2-2313 (**as of Feb 07**)|
 
-**Last updated:** 2022-01-21  
+**Last updated:** 2022-01-22  
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2021)**](old/s2021)
@@ -26,7 +26,7 @@ Note the full schedule can be found from [**here**](#calendar)
 ## Online Schedule for first two months (updated: Jan 21, 2022)
 Please see a recent announcement regarding the winter term: https://uwaterloo.ca/coronavirus/ 
 
-:exclamation::exclamation::exclamation: **Attention**: Students will take Quiz 2 on Feb 17 which will be **only three weeks** after Quiz 1. Quiz 2 covers five topics including Module 01-05. Students are highly encouraged to focus on preparing for Quiz 2 during these three weeks and will spend their time on studying the other courses during the reading and midterm weeks. W**e will not reschedule Quiz 2 date** so students make a solid study plan and use their time well.       
+:exclamation::exclamation::exclamation: **Attention**: Students will take Quiz 2 on Feb 17 which will be **only three weeks** after Quiz 1. Quiz 2 covers **four** topics including Module 01-04. Students are highly encouraged to focus on preparing for Quiz 2 during these three weeks and will spend their time on studying the other courses during the reading and midterm weeks. **We will not reschedule Quiz 2 date** so students make a solid study plan and use their time well.       
 
 * All in-person lectures, make-up class, and labs will be canceled until March 04 (at the end of the midterm week). 
 * Quiz 2 will be held online like Quiz 1. 
@@ -41,10 +41,11 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 |:----|:-----|:----|:----|
 |Jan 26 at 1:30 pm|Instructor's live help session|Prepare questions|Recommended|
 |Jan 27 at 1:30 pm|Quiz 1|Study Module 01-02|Required|
-|Feb 02 at 1:30 pm|Review Module 03 and play a Kahoot game|Please watch and study **Module 03** before joining the meeting|Required|
-|Feb 07 at 1:30 pm|Review Module 04 and play a Kahoot game|Please watch and study **Module 04** before joining the meeting|Required|
-|Feb 09 at 1:30 pm|Review Module 04, 05 and play a Kahoot game|Please watch and study **Module 04, 05** before joining the meeting|Required|
-|Feb 14 at 1:30 pm|Review Module 05 and play a Kahoot game|Please watch and study **Module 05** before joining the meeting|Required|
+|Feb 02 at 1:30 pm|Online Session 4: Review Module 03 and play a Kahoot game|Please watch and study **Module 03** before joining the meeting|Required|
+|Feb 03 at 1:30 pm|Quiz 01 solution review||Recommended|
+|Feb 09 at 1:30 pm|Online Session 5: Review Module 04 and play a Kahoot game|Please watch and study **Module 04** before joining the meeting|Required|
+|Feb 10 at 1:30 pm|Quiz 02 review session|Study Module 01-04|Recommended|
+|Feb 14 at 1:30 pm|Online Session 6: Review Module 01 - 04 and play a Kahoot game|Please review **Module 01-04** before joining the meeting|Required|
 |Feb 16 at 1:30 pm|Instructor's live help session|Prepare questions|Recommended|
 |Feb 17 at 1:30 pm|Quiz 2|Study Module 01-05|Required|
 
@@ -58,7 +59,7 @@ Please see a recent announcement regarding the winter term: https://uwaterloo.ca
 * As of February, only questions on Learn are accepted for online engagement mark. 
 
 ## Announcement
-* **Jan 21, 2022:** Please review an updated schedule. There is a course plan for February. 
+* **Jan 22, 2022:** Please review an updated schedule. There is a course plan for February. 
 * **Jan 20, 2022:** Module 02 Kahoot's game questions and answers are posted. Please see the table in [course outline](#course-outline).
 * **Jan 17, 2022:** [Description of Quiz 1](doc/Quiz1_Description.md) has been posted. Please carefully review this document to prepare the quiz. 
 * **Jan 17, 2022:** The instructor will hold a live help session on **Jan 26**(one day before Q1 date). Students can freely join the meeting if they have any question. 
@@ -135,8 +136,8 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 01**|Basic MATLAB Programming|2|January 12|[Link](tutorial/kahoot/kahoot_mod01.pdf) ||
 |**Module 02**|Vectors and Matrices|2|January 19|[Link](tutorial/kahoot/kahoot_mod02.pdf) |**Quiz 01** (January 27)|
 |**Module 03**|Selection Statement |2|January 26|| |
-|**Module 04**|Loop Statement|2|February 02|||
-|**Module 05**|Built-in Functions|3|February 09||**Quiz 02** (Februray 17)|
+|**Module 04**|Loop Statement|2|February 02||**Quiz 02** (Februray 17)|
+|**Module 05**|Built-in Functions|3|February 09|||
 |**Module 06**|Operator|3|March 07|||
 |**Module 07**|Function|3|March 21||**Quiz 03** (March 24)|
 |**Module 08**|Plotting|1|March 16||Will be taught by TA|
@@ -211,8 +212,8 @@ The programming labs will be held in a main computer lab (CPH 1346). The program
 |Lab 04|Quiz 01 (**online**)|January 27 at 1:30pm|Chul Min Yeum & TAs|
 |Lab 05|Quiz 01 Solution Review (**online**)|February 03 at 1:30pm|Chul Min Yeum|
 |Lab 06|Quiz 02 Review Session (**online**)|February 10 at 1:30pm|Jesse Parker|
-|Lab 07|Quiz 02|February 17 at 1:30pm (**online**)|Chul Min Yeum & TAs|
-|Lab 08|Lecture + Quiz 02 Solution Review|March 10 at 1:30pm|Chul Min Yeum|
+|Lab 07|Quiz 02 (**online**)|February 17 at 1:30pm|Chul Min Yeum & TAs|
+|Lab 08|Quiz 02 Solution Review|March 10 at 1:30pm|Chul Min Yeum|
 |Lab 09|Quiz 03 Review Session|March 17 at 1:30pm|Jesse Parker|
 |Lab 10|Quiz 03|March 24 at 1:30pm|Chul Min Yeum & TAs|
 |Lab 11|Quiz 03 Solution Review|March 31 at 1:30pm|Chul Min Yeum|
@@ -226,7 +227,7 @@ The quizzes will be delivered through the MATLAB Grader like, tutorials or homew
 |Exam|Topics|Date|Duration|Instruction|
 |:---|:-------|:-----|:----|:----|
 |**Quiz 01**|Module 01 ~ 02|January 27 at 1:30 pm|100 minutes|[**Quiz 01**](doc/Quiz1_Description.md) |
-|**Quiz 02**|Module 01 ~ 05|February 17 at 1:30 pm|TBD|TBD|
+|**Quiz 02**|Module 01 ~ 04|February 17 at 1:30 pm|TBD|TBD|
 |**Quiz 03**|Module 01 ~ 07|March 24 at 1:30 pm|TBD|TBD|
 |**Quiz 04**|Module 01 ~ 07, 09, 11|TBD|TBD|TBD|   
 
@@ -256,7 +257,7 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 |HW 01|Module 01            |2|January 07|January 18|January 25|
 |HW 02|Module 01 ~ Module 02|2|January 12|January 25|February 01|
 |HW 03|Module 01 ~ Module 03|2|January 24|February 08|February 15|
-|HW 04|Module 01 ~ Module 05|2|February 14|March 08|March 15|
+|HW 04|Module 01 ~ Module 04|2|February 08|February 15|March 08|
 |HW 05|Module 01 ~ Module 06|2|February 28|March 15|March 22|
 |HW 06|Module 01 ~ Module 07|4|March 07|March 22|March 29|
 |HW 07|Module 01 ~ Module 11|4|March 21|April 05|April 05|
@@ -272,7 +273,7 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 |**HW 01**|January 26||
 |**HW 02**|February 02||
 |**HW 03**|February 16||
-|**HW 04**|March 16||
+|**HW 04**|March 08||
 |**HW 05**|March 23||
 |**HW 06**|March 30||
 |**HW 07**|April 06||
