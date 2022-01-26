@@ -2,9 +2,9 @@
 
 |||
 |:--------|:-----------|
-|<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 (as of March 07) <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 (as of March 07) <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 (**as of Feb 07**) <br> **Office hours (Instructor)**: Mon (3:30 to 04:30 PM) at E2-2313 (**as of Feb 07**)|
+|<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 (**as of February 07**) <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 (**as of February 07**) <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 (**as of Feb 07**) <br> **Office hours (Instructor)**: Mon (3:30 to 04:30 PM) at E2-2313 (**as of Feb 07**)|
 
-**Last updated:** 2022-01-22  
+**Last updated:** 2022-01-25  
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2021)**](old/s2021)
@@ -23,49 +23,36 @@
 
 Note the full schedule can be found from [**here**](#calendar)
 
-## Online Schedule for first two months (updated: Jan 21, 2022)
-Please see a recent announcement regarding the winter term: https://uwaterloo.ca/coronavirus/ 
+## Announcement
+* **Jan 25, 2022:** :exclamation: **Attention**: Students will take Quiz 2 on Feb 17 which will be **only three weeks** after Quiz 1. Quiz 2 covers **four** topics including Module 01-04. Students are highly encouraged to focus on preparing for Quiz 2 during these three weeks and spend their time on studying the other courses during the reading and midterm weeks. **We will not reschedule Quiz 2 date** so students have to make a solid study plan and use their time well. 
+* **Jan 25, 2022:** The TA will have online live help sessions before transitioning to in-person office hours. We will schedule MS Team meetings during every help session so students can feel free to join the meeting without an appointment. Here is the live help session schedule (until Feb 04):  
+	* On Monday (Jan 24, 31): 10:00 ~ 11:00 am, 1:30 ~ 3:00 pm
+	* On Tuesday (Jan 25, Feb 1): 11:30 am ~ 12:30 pm 
+	* On Thursday (Jan Feb 3): 3:00 ~ 5:00 pm
+* **Jan 25, 2022:** HW 03 has been posted on [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework).
+* **Jan 20, 2022:** Module 02 Kahoot's game questions and answers are posted. Please see the table in [course outline](#course-outline).
+* **Jan 17, 2022:** [Description of Quiz 1](doc/Quiz1_Description.md) has been posted. Please carefully review this document to prepare the quiz. 
+* **Jan 13, 2022:** HW 02 has been posted on [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework). Again, the last three questions are copied from the questions in tutorials. Students should solve them by themselves first and review their model answers carefully. Although students copy and paste the model solutions for these problems, **they are NOT cheating.** However, the instructor highly recommend writing your own solutions.  
 
-:exclamation::exclamation::exclamation: **Attention**: Students will take Quiz 2 on Feb 17 which will be **only three weeks** after Quiz 1. Quiz 2 covers **four** topics including Module 01-04. Students are highly encouraged to focus on preparing for Quiz 2 during these three weeks and will spend their time on studying the other courses during the reading and midterm weeks. **We will not reschedule Quiz 2 date** so students make a solid study plan and use their time well.       
+## Course Schedule
 
-* All in-person lectures, make-up class, and labs will be canceled until March 04 (at the end of the midterm week). 
-* Quiz 2 will be held online like Quiz 1. 
-* **In-person** office hours by the TA and instructor will start on Feb 07. 
-	* TA: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787
-	* Instructor: Mon (3:30 to 04:30 PM) at E2-2313 
-* Students need to watch pre-recorded video lectures for Module 01 to 06.    
-* We are going to have an MS team meeting in our class MS team channel. 
-* Here are all upcoming online meeting schedules:
-
+### Online (until Feb 04)
 |Time|Topic|Preparation|Attendance|
 |:----|:-----|:----|:----|
 |Jan 26 at 1:30 pm|Instructor's live help session|Prepare questions|Recommended|
 |Jan 27 at 1:30 pm|Quiz 1|Study Module 01-02|Required|
 |Feb 02 at 1:30 pm|Online Session 4: Review Module 03 and play a Kahoot game|Please watch and study **Module 03** before joining the meeting|Required|
 |Feb 03 at 1:30 pm|Quiz 01 solution review||Recommended|
-|Feb 09 at 1:30 pm|Online Session 5: Review Module 04 and play a Kahoot game|Please watch and study **Module 04** before joining the meeting|Required|
-|Feb 10 at 1:30 pm|Quiz 02 review session|Study Module 01-04|Recommended|
-|Feb 14 at 1:30 pm|Online Session 6: Review Module 01 - 04 and play a Kahoot game|Please review **Module 01-04** before joining the meeting|Required|
-|Feb 16 at 1:30 pm|Instructor's live help session|Prepare questions|Recommended|
-|Feb 17 at 1:30 pm|Quiz 2|Study Module 01-05|Required|
 
-* Students feel free to send the TA a chat message through MS Team or an email if they have questions or use a live help sessions. 
-* To accommodate online training, the TA will have online live help sessions. We will schedule MS Team meetings during every help session so students can feel free to join the meeting without an appointment. Here is the live help session schedule (until Feb 04):  
-	* On Monday (Jan 24, 31): 10:00 ~ 11:00 am, 1:30 ~ 3:00 pm
-	* On Tuesday (Jan 25, Feb 1): 11:30 am ~ 12:30 pm 
-	* On Thursday (Jan Feb 3): 3:00 ~ 5:00 pm
-
-* Asking questions during this live help session is recognized as an online engagement mark for the first month (January).
-* As of February, only questions on Learn are accepted for online engagement mark. 
-
-## Announcement
-* **Jan 22, 2022:** Please review an updated schedule. There is a course plan for February. 
-* **Jan 20, 2022:** Module 02 Kahoot's game questions and answers are posted. Please see the table in [course outline](#course-outline).
-* **Jan 17, 2022:** [Description of Quiz 1](doc/Quiz1_Description.md) has been posted. Please carefully review this document to prepare the quiz. 
-* **Jan 17, 2022:** The instructor will hold a live help session on **Jan 26**(one day before Q1 date). Students can freely join the meeting if they have any question. 
-* **Jan 17, 2022:** Please see a revised announcement regarding online start to the winter term (new dates). 
-* **Jan 13, 2022:** HW 02 has been posted on [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework). Again, the last three questions are copied from the questions in tutorials. Students should solve them by themselves first and review their model answers carefully. Although students copy and paste the model solutions for these problems, **they are NOT cheating.** However, the instructor highly recommend writing your own solutions.  
-* **Jan 13, 2022:** Module 01 Kahoot's game questions and answers are posted. Please see the table in [course outline](#course-outline).
+### In-person (as of Feb 07)
+|Time|Topic|Preparation|Location|
+|:----|:-----|:----|:----|
+|Feb 07 at 1:30 pm|Review Module 04|Please watch and study **Module 04** before joining the meeting|RCH 302|
+|Feb 09 at 1:30 pm|Review Module 03 and 04|Please watch and study **Module 03 and 04** before joining the meeting|RCH 302|
+|Feb 10 at 1:30 pm|Practice Module 03 and 04|Study Module 01-04|CPH 1346|
+|Feb 14 at 1:30 pm|Quiz 02 Review Session|Study Module 01-04|RCH 302|
+|Feb 16 at 1:30 pm|Review Module 01 - 04 and Q&A|Please review **Module 01-04** before joining the meeting|RCH 302|
+|Feb 17 at 1:30 pm|Quiz 2|Study Module 01-04|CPH 1346|
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -211,8 +198,8 @@ The programming labs will be held in a main computer lab (CPH 1346). The program
 |Lab 03|[Quiz 01 Review Session (**online**)](tutorial/review/Q1_Review.md) |January 20 at 1:30pm|Jesse Parker|
 |Lab 04|Quiz 01 (**online**)|January 27 at 1:30pm|Chul Min Yeum & TAs|
 |Lab 05|Quiz 01 Solution Review (**online**)|February 03 at 1:30pm|Chul Min Yeum|
-|Lab 06|Quiz 02 Review Session (**online**)|February 10 at 1:30pm|Jesse Parker|
-|Lab 07|Quiz 02 (**online**)|February 17 at 1:30pm|Chul Min Yeum & TAs|
+|Lab 06|Practice Module 03 and 04|February 10 at 1:30pm|Chul Min Yeum|
+|Lab 07|Quiz 02|February 17 at 1:30pm|Chul Min Yeum & TAs|
 |Lab 08|Quiz 02 Solution Review|March 10 at 1:30pm|Chul Min Yeum|
 |Lab 09|Quiz 03 Review Session|March 17 at 1:30pm|Jesse Parker|
 |Lab 10|Quiz 03|March 24 at 1:30pm|Chul Min Yeum & TAs|
@@ -257,7 +244,7 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 |HW 01|Module 01            |2|January 07|January 18|January 25|
 |HW 02|Module 01 ~ Module 02|2|January 12|January 25|February 01|
 |HW 03|Module 01 ~ Module 03|2|January 24|February 08|February 15|
-|HW 04|Module 01 ~ Module 04|2|February 08|February 15|March 08|
+|HW 04|Module 01 ~ Module 04|2|February 02|February 09|February 15|
 |HW 05|Module 01 ~ Module 06|2|February 28|March 15|March 22|
 |HW 06|Module 01 ~ Module 07|4|March 07|March 22|March 29|
 |HW 07|Module 01 ~ Module 11|4|March 21|April 05|April 05|
