@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 (**as of February 07**) <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 (**as of February 07**) <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 (**as of Feb 07**) <br> **Office hours (Instructor)**: Mon (3:30 to 04:30 PM) at E2-2313 (**as of Feb 07**)|
 
-**Last updated:** 2022-01-25  
+**Last updated:** 2022-01-26  
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2021)**](old/s2021)
@@ -24,6 +24,7 @@
 Note the full schedule can be found from [**here**](#calendar)
 
 ## Announcement
+* **Jan 26, 2022:** [A HW01 solution review video was uploaded.](#homework-solution-review)
 * **Jan 25, 2022:** :exclamation: **Attention**: Students will take Quiz 2 on Feb 17 which will be **only three weeks** after Quiz 1. Quiz 2 covers **four** topics including Module 01-04. Students are highly encouraged to focus on preparing for Quiz 2 during these three weeks and spend their time on studying the other courses during the reading and midterm weeks. **We will not reschedule Quiz 2 date** so students have to make a solid study plan and use their time well. 
 * **Jan 25, 2022:** The TA will have online live help sessions before transitioning to in-person office hours. We will schedule MS Team meetings during every help session so students can feel free to join the meeting without an appointment. Here is the live help session schedule (until Feb 04):  
 	* On Monday (Jan 24, 31): 10:00 ~ 11:00 am, 1:30 ~ 3:00 pm
@@ -257,13 +258,14 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 ### Homework Solution Review
 |Module|Update Date|Video| 
 |:----|:----|:----| 
-|**HW 01**|January 26||
+|**HW 01**|January 26|[<img src="http://img.youtube.com/vi/KZpmXBNsAOk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=KZpmXBNsAOk)|
 |**HW 02**|February 02||
 |**HW 03**|February 16||
 |**HW 04**|March 08||
 |**HW 05**|March 23||
 |**HW 06**|March 30||
 |**HW 07**|April 06||
+
 
 
 ## Communication  
