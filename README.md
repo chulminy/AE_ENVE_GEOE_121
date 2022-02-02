@@ -24,6 +24,8 @@
 Note the full schedule can be found from [**here**](#calendar)
 
 ## Announcement
+* **Feb 02, 2022:** HW 04 has been posted on [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework).
+* **Feb 02, 2022:** [A HW02 solution review video was uploaded.](#homework-solution-review)
 * **Jan 26, 2022:** [A HW01 solution review video was uploaded.](#homework-solution-review)
 * **Jan 25, 2022:** :exclamation: **Attention**: Students will take Quiz 2 on Feb 17 which will be **only three weeks** after Quiz 1. Quiz 2 covers **four** topics including Module 01-04. Students are highly encouraged to focus on preparing for Quiz 2 during these three weeks and spend their time on studying the other courses during the reading and midterm weeks. **We will not reschedule Quiz 2 date** so students have to make a solid study plan and use their time well. 
 * **Jan 25, 2022:** The TA will have online live help sessions before transitioning to in-person office hours. We will schedule MS Team meetings during every help session so students can feel free to join the meeting without an appointment. Here is the live help session schedule (until Feb 04):  
@@ -31,9 +33,6 @@ Note the full schedule can be found from [**here**](#calendar)
 	* On Tuesday (Jan 25, Feb 1): 11:30 am ~ 12:30 pm 
 	* On Thursday (Jan Feb 3): 3:00 ~ 5:00 pm
 * **Jan 25, 2022:** HW 03 has been posted on [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework).
-* **Jan 20, 2022:** Module 02 Kahoot's game questions and answers are posted. Please see the table in [course outline](#course-outline).
-* **Jan 17, 2022:** [Description of Quiz 1](doc/Quiz1_Description.md) has been posted. Please carefully review this document to prepare the quiz. 
-* **Jan 13, 2022:** HW 02 has been posted on [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework). Again, the last three questions are copied from the questions in tutorials. Students should solve them by themselves first and review their model answers carefully. Although students copy and paste the model solutions for these problems, **they are NOT cheating.** However, the instructor highly recommend writing your own solutions.  
 
 ## Course Schedule
 
@@ -259,14 +258,12 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 |Module|Update Date|Video| 
 |:----|:----|:----| 
 |**HW 01**|January 26|[<img src="http://img.youtube.com/vi/KZpmXBNsAOk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=KZpmXBNsAOk)|
-|**HW 02**|February 02||
+|**HW 02**|February 02|[<img src="http://img.youtube.com/vi/bdSxr9wuCP8/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=bdSxr9wuCP8)|
 |**HW 03**|February 16||
 |**HW 04**|March 08||
 |**HW 05**|March 23||
 |**HW 06**|March 30||
 |**HW 07**|April 06||
-
-
 
 ## Communication  
 **All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/767310) but all information related to the course will be posted on this course website. The instructor and TA will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussions.   
@@ -302,8 +299,11 @@ The final grade will be based on the total marks earned from 7 homework assignme
 |![](doc/calendar/jan_2022.png)|
 |:---:|
 |![](doc/calendar/feb_2022.png)|
+
+<!---
 |![](doc/calendar/mar_2022.png)|
 |![](doc/calendar/apr_2022.png)|
+-->
 
 ## Fair Contingencies for Emergency Remote Teaching
 We are facing unusual and challenging times. The course outline presents the instructor’s intentions for course assessments, their weights, and due dates in Winter 2022. As best as possible, we will keep to the specified assessments, weights, and dates. To provide contingency for unforeseen circumstances, **the instructor reserves the right to modify course topics and/or assessments and/or weight and/or deadlines with due and fair notice to students.** In the event of such challenges, the instructor will work with the Department/Faculty to find reasonable and fair solutions that respect rights and workloads of students, staff, and faculty. 
