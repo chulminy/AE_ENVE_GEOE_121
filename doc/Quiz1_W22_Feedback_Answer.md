@@ -23,7 +23,7 @@ Let's assume that you receive 60 from all quizzes (actually very low scores). Th
 I understand some of you are not happy about the difficulty of the quiz problems. However, it is not hard to pass the course or achieve a descent final grade if you submit all homework assignments on time and receive a full mark from online engagement considering that our quizzes do not hold as much contribution as they normally would. Also, in doing this, we can give an advantage to the students who steadily study this course. Your efforts will pay off! 
 
 ## Results
-All 65 students responded to the survey and the results are presented below: 
+65 students responded to the survey and the results are presented below: 
 
 ### Q. How did you feel about your first quiz? Note that the target overall average is 70.
 ![](img/q1_graph1.png)
