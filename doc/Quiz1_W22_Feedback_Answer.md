@@ -39,24 +39,26 @@ All 65 students responded to the survey and the results are presented below:
 * To get prepared for the quizzes, you are able to solve all tutorial and homework assignments following [the study guideline](https://github.com/chulminy/AE_ENVE_GEOE_121#tutorial).
 
 ## Comments & Answers 
-**First, thank you for all positive reviews regarding the course layout, Kahoot game, TA sessions, Quiz! If you have any concern, please share us anytime. 
+First, thank you for all positive reviews regarding the course layout, Kahoot game, TA sessions, Quiz! If you have any concern, please share us anytime. 
 
 ### Major comment 1: Lack of time or too difficult
-**Student 1:** I failed😭😭😭😭
-**Student 2:** 100 minutes is not enough time to finish this quiz. I literally failed this quiz. This course should only be assignment based. This is so stressful.
-**Student 3:** Rather than difficult, the quiz felt like there was just a lot of coding to do.
-**Student 4:** Barely had enough time to finish the quiz
-**Student 5:** I think the content in the quiz was good and it was challenging, but doable with the help of the lectures, Kahoots and office hours, but I think that 100 mins makes it much tougher. Maybe 120 mins with an extra question or 105-110 mins instead of 100 mins would have been a little more accommodating, especially when considering technical issues.
+* **Student 1:** I failed😭😭😭😭
+
+* **Student 2:** 100 minutes is not enough time to finish this quiz. I literally failed this quiz. This course should only be assignment based. This is so stressful.
+
+* **Student 3:** Rather than difficult, the quiz felt like there was just a lot of coding to do.
+
+* **Student 4:** Barely had enough time to finish the quiz
+
+* **Student 5:** I think the content in the quiz was good and it was challenging, but doable with the help of the lectures, Kahoots and office hours, but I think that 100 mins makes it much tougher. Maybe 120 mins with an extra question or 105-110 mins instead of 100 mins would have been a little more accommodating, especially when considering technical issues.
 
 **CY:** The problems are designed based on homework or tutorial problems. If you study them following the [study guideline](https://github.com/chulminy/AE_ENVE_GEOE_121#tutorial), I'm sure that you can solve them within the time limit. If you haven't done them before quizzes, you spend extra time to understand the problem description.  It is very important that youwork through your tutorial problems as they will be helpful for the quizzes and your understanding of the course material. Please remember the full solutions of all the tutorial problems are posted [here](https://github.com/chulminy/AE_ENVE_GEOE_121/tree/master/tutorial)
 
 ### Major comment 2: Use student's own laptop for testing and concerns about in-person quizzes.
 
-**Student 1:** I believe it would make more sense for the quizzes to remain at home as it is just an extra hassle for us to come in person to write it if it is already open book and we don't have direct access to our personal files if we go in person. 
-
-**Student 2:** I think that the quiz 2 should be the same as quiz 1: we do it on our own laptop. This is because both the quizzes are open book so the only difference is that if we do it in the lab it is a hassle and headache. 
-
-**Student 3:** The format for up to quiz one was perfect but now up to quiz 2 is where it gets a little bit messy. I think allowing students to write their tests at home would be a lot easier and safer then placing 100+ students in one computer lab as well as it will be a lot easier for students to focus without the constant typing in the background.
+* **Student 1:** I believe it would make more sense for the quizzes to remain at home as it is just an extra hassle for us to come in person to write it if it is already open book and we don't have direct access to our personal files if we go in person. 
+* **Student 2:** I think that the quiz 2 should be the same as quiz 1: we do it on our own laptop. This is because both the quizzes are open book so the only difference is that if we do it in the lab it is a hassle and headache. 
+* **Student 3:** The format for up to quiz one was perfect but now up to quiz 2 is where it gets a little bit messy. I think allowing students to write their tests at home would be a lot easier and safer then placing 100+ students in one computer lab as well as it will be a lot easier for students to focus without the constant typing in the background.
 
 **CY**: Yes. We decide that you can use your own laptop but make sure that you turn off all background programs (e.g., messengers, cloud sync) and follow all Quiz 2 guideline outlined in [**here**](Quiz2_Description.md).  
 
@@ -65,9 +67,8 @@ Regarding in-person quizzes, I agree that taking the quiz at home is easier and 
 If you cannot focus on your quiz due to typing sound or noise, please talk to accessibility service. 
   
 ### Major comment 3: Inform attendance check days
-**Student 1:** Also can you tell us when we will be doing the kahoot for in-person classes, because if the lectures are already asynchonous I don't see the point of in-person classes other than the kahoots.
-
-**Student 2:** As well, it does not make sense to have synchronous lectures with random attendance checks when the actual lecture content is taught asynchronously. This would mean we would have more time allotted for instruction than what is actually on the schedule, which is not fair.
+* **Student 1:** Also can you tell us when we will be doing the kahoot for in-person classes, because if the lectures are already asynchonous I don't see the point of in-person classes other than the kahoots.
+* **Student 2:** As well, it does not make sense to have synchronous lectures with random attendance checks when the actual lecture content is taught asynchronously. This would mean we would have more time allotted for instruction than what is actually on the schedule, which is not fair.
 
 **CY: ** Yes. I agree that some students who have programming experience feel that Kahoot review sessions are too easy and time-consuming. Also, the initial rule for getting "attendance" scores is to attend lectures and the Kahoot game is a part of the lectures. So, students might feel that it's more time allocated than the time initially proposed. If students feel that watching lectures videos are sufficient, please send an email to the TA until **Feb 11**. Those students will have a new grading scheme like below: 
 
