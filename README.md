@@ -2,9 +2,9 @@
 
 |||
 |:--------|:-----------|
-|<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 (**as of February 07**) <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 (**as of February 07**) <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 (**as of Feb 07**) <br> **Office hours (Instructor)**: Mon (3:30 to 04:30 PM) at E2-2313 (**as of Feb 07**)|
+|<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 <br> **Office hours (Instructor)**: Mon (3:30 to 04:30 PM) at E2-2313|
 
-**Last updated:** 2022-01-26  
+**Last updated:** 2022-02-07  
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2021)**](old/s2021)
@@ -25,26 +25,10 @@ Note the full schedule can be found from [**here**](#calendar)
 
 ## Announcement
 * **Feb 02, 2022:** HW 04 has been posted on [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework).
-* **Feb 02, 2022:** [A HW02 solution review video was uploaded.](#homework-solution-review)
-* **Jan 26, 2022:** [A HW01 solution review video was uploaded.](#homework-solution-review)
 * **Jan 25, 2022:** :exclamation: **Attention**: Students will take Quiz 2 on Feb 17 which will be **only three weeks** after Quiz 1. Quiz 2 covers **four** topics including Module 01-04. Students are highly encouraged to focus on preparing for Quiz 2 during these three weeks and spend their time on studying the other courses during the reading and midterm weeks. **We will not reschedule Quiz 2 date** so students have to make a solid study plan and use their time well. 
-* **Jan 25, 2022:** The TA will have online live help sessions before transitioning to in-person office hours. We will schedule MS Team meetings during every help session so students can feel free to join the meeting without an appointment. Here is the live help session schedule (until Feb 04):  
-	* On Monday (Jan 24, 31): 10:00 ~ 11:00 am, 1:30 ~ 3:00 pm
-	* On Tuesday (Jan 25, Feb 1): 11:30 am ~ 12:30 pm 
-	* On Thursday (Jan Feb 3): 3:00 ~ 5:00 pm
-* **Jan 25, 2022:** HW 03 has been posted on [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework).
 
 ## Course Schedule
 
-### Online (until Feb 04)
-|Time|Topic|Preparation|Attendance|
-|:----|:-----|:----|:----|
-|Jan 26 at 1:30 pm|Instructor's live help session|Prepare questions|Recommended|
-|Jan 27 at 1:30 pm|Quiz 1|Study Module 01-02|Required|
-|Feb 02 at 1:30 pm|Online Session 4: Review Module 03 and play a Kahoot game|Please watch and study **Module 03** before joining the meeting|Required|
-|Feb 03 at 1:30 pm|Quiz 01 solution review||Recommended|
-
-### In-person (as of Feb 07)
 |Time|Topic|Preparation|Location|
 |:----|:-----|:----|:----|
 |Feb 07 at 1:30 pm|Review Module 04|Please watch and study **Module 04** before joining the meeting|RCH 302|
@@ -53,6 +37,8 @@ Note the full schedule can be found from [**here**](#calendar)
 |Feb 14 at 1:30 pm|Quiz 02 Review Session|Study Module 01-04|RCH 302|
 |Feb 16 at 1:30 pm|Review Module 01 - 04 and Q&A|Please review **Module 01-04** before joining the meeting|RCH 302|
 |Feb 17 at 1:30 pm|Quiz 2|Study Module 01-04|CPH 1346|
+
+Note that the schedule for March will be updated shortly. 
 
 ## Table of Contents
 - [Course Description](#course-description)
