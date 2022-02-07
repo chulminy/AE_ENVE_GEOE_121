@@ -69,8 +69,9 @@ If you cannot focus on your quiz due to typing sound or noise, please talk to ac
 ### Major comment 3: Inform attendance check days
 * **Student 1:** Also can you tell us when we will be doing the kahoot for in-person classes, because if the lectures are already asynchonous I don't see the point of in-person classes other than the kahoots.
 * **Student 2:** As well, it does not make sense to have synchronous lectures with random attendance checks when the actual lecture content is taught asynchronously. This would mean we would have more time allotted for instruction than what is actually on the schedule, which is not fair.
+* **Student 3:** Kahoot didn't really help would rather have the prof go through example questions, review session helped a lot tho. Also the solutions are very useful to look at and learn the content. 
 
-**CY: ** Yes. I agree that some students who have programming experience feel that Kahoot review sessions are too easy and time-consuming. Also, the initial rule for getting "attendance" scores is to attend lectures and the Kahoot game is a part of the lectures. So, students might feel that it's more time allocated than the time initially proposed. If students feel that watching lectures videos are sufficient, please send an email to the TA until **Feb 11**. Those students will have a new grading scheme like below: 
+**CY:** Yes. I agree that some students who have programming experience feel that Kahoot review sessions are too easy and time-consuming. Also, the initial rule for getting "attendance" scores is to attend lectures and the Kahoot game is a part of the lectures. So, students might feel that it's more time allocated than the time initially proposed. If students feel that watching lectures videos are sufficient, please send an email to the TA until **Feb 11**. Those students will have a new grading scheme like below: 
 
 |Component|Scores|
 |:---|:-----|
