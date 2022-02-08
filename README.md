@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 <br> **Office hours (Instructor)**: Mon (3:00 to 04:00 PM) at E2-2313|
 
-**Last updated:** 2022-02-07  
+**Last updated:** 2022-02-08  
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2021)**](old/s2021)
@@ -21,9 +21,17 @@
 - [**Course material**](comp_method_book_cm_s21.pdf)
 - [**Attendance & Extra mark document**](https://uofwaterloo.sharepoint.com/:x:/s/tm-cee-uwcviss/EcEWEvABwh9CovMIkkh56SABkTBaeF5QYH5Cw2LRthettg?e=kDQ3xm)  
 
+**Course**
+- Feb 08: Quiz 1 result: [Link](doc/Quiz1_W22_result.md) 
+- Feb 08: Instruction for Quiz 2: [Link](doc/Quiz2_Description.md)
+- Feb 08: Feedback for Quiz 1: [Link](doc/Quiz1_W22_Feedback_Answer.md)
+
 Note the full schedule can be found from [**here**](#calendar)
 
 ## Announcement
+* **Feb 08, 2022:** Please email Jesse before Feb 11 if you want to move the attendance score to the final Quiz. Please read [the instructor's comment](doc/Quiz1_W22_Feedback_Answer.md#major-comment-3-inform-attendance-check-days)  
+* **Feb 08, 2022:** An Quiz 1 statistic is posted [here](doc/Quiz1_W22_result.md).   
+* **Feb 08, 2022:** Remind you that all the second dates for HW3 and HW4 are Feb 15.
 * **Feb 02, 2022:** HW 04 has been posted on [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework).
 * **Jan 25, 2022:** :exclamation: **Attention**: Students will take Quiz 2 on Feb 17 which will be **only three weeks** after Quiz 1. Quiz 2 covers **four** topics including Module 01-04. Students are highly encouraged to focus on preparing for Quiz 2 during these three weeks and spend their time on studying the other courses during the reading and midterm weeks. **We will not reschedule Quiz 2 date** so students have to make a solid study plan and use their time well. 
 
@@ -108,7 +116,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 00**|Preliminaries|1|January 05|||
 |**Module 01**|Basic MATLAB Programming|2|January 12|[Link](tutorial/kahoot/kahoot_mod01.pdf) ||
 |**Module 02**|Vectors and Matrices|2|January 19|[Link](tutorial/kahoot/kahoot_mod02.pdf) |**Quiz 01** (January 27)|
-|**Module 03**|Selection Statement |2|January 26|| |
+|**Module 03**|Selection Statement |2|January 26|[Link](tutorial/kahoot/kahoot_mod03.pdf)| |
 |**Module 04**|Loop Statement|2|February 02||**Quiz 02** (Februray 17)|
 |**Module 05**|Built-in Functions|3|February 09|||
 |**Module 06**|Operator|3|March 07|||
@@ -197,10 +205,10 @@ The programming labs will be held in a main computer lab (CPH 1346). The program
 The quizzes will be delivered through the MATLAB Grader like, tutorials or homework assignments. The quizzes will be posted on [*(W22) CIVE 121: Quizzes*](https://grader.mathworks.com/courses/64270-w22-cive-121-quizzes). The major differences are a **time limit** and **a limited submission**. Remember that although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB (program) editor before submission. 
  
 ### Schedule  
-|Exam|Topics|Date|Duration|Instruction|
-|:---|:-------|:-----|:----|:----|
-|**Quiz 01**|Module 01 ~ 02|January 27 at 1:30 pm|100 minutes|[**Quiz 01**](doc/Quiz1_Description.md) |
-|**Quiz 02**|Module 01 ~ 04|February 17 at 1:30 pm|TBD|TBD|
+|Exam|Topics|Date|Duration|Location|Instruction|
+|:---|:-------|:-----|:----|:----|:----|
+|**Quiz 01**|Module 01 ~ 02|January 27 at 1:30 pm|100 min|Online|[**Quiz 01**](doc/Quiz1_Description.md) |
+|**Quiz 02**|Module 01 ~ 04|February 17 at 1:30 pm|120 min|CPH 1346|[**Quiz 02**](doc/Quiz2_Description.md)|
 |**Quiz 03**|Module 01 ~ 07|March 24 at 1:30 pm|TBD|TBD|
 |**Quiz 04**|Module 01 ~ 07, 09, 11|TBD|TBD|TBD|   
 
