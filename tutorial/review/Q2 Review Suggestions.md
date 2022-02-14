@@ -22,6 +22,7 @@
 - M04022: Amazon Sale: Loop and Selection Statements
 - M04024: How many points are inside the box?
 - L06-Q4: How many 'apple' and 'mango'?
+- Any other questions that cover topics you aren't confident with
 
 ### Quiz Question Difficulty:
 - 2 1-star
