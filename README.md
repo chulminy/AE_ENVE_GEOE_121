@@ -41,7 +41,6 @@ Note the full schedule can be found from [**here**](#calendar)
 |Feb 16 at 1:30 pm|Review Module 01 - 04 and Q&A|Please review **Module 01-04** before joining the meeting|RCH 302|
 |Feb 17 at 1:30 pm|Quiz 2|Study Module 01-04|CPH 1346|
 
-
 ### March
 |Time|Topic|Location|
 |:----|:-----|:----|
@@ -133,7 +132,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 05**|Built-in Functions|3|February 09|||
 |**Module 06**|Operator|3|March 07|||
 |**Module 07**|Function|3|March 21||**Quiz 03** (March 24)|
-|**Module 08**|Plotting|1|March 16||Will be taught by TA|
+|**Module 08**|Plotting|1|March 16|||
 |**Module 09**|Data Structure|2|March 23|||
 |**Module 11**|Text Manipulation|2|March 30||**Quiz 04** (TBD)|
 
@@ -196,6 +195,7 @@ You do not have to memorize any of the solutions. You can freely access all thes
 ## Programming Lab
 The programming labs will be held in a main computer lab (CPH 1346). The programming labs include <del> instruction sessions (Lab 01, 02) </del>, quiz solution review sessions (Lab 05, 08, 11), quiz review sessions (Lab 03, 06, Extra) and quizzes (Lab 04, 07, 10). These labs (except for quizzes) are designed to focus on hands-on practice with MATLAB programming. Students can use the computers in the lab or bring their own laptop if MATLAB is installed. **The instructor and TA will not check the attendance** but highly recommend coming to this sessions.  
 
+<!---
 ### Schedule
 |Lab|Topics|Date|Instructor|
 |:---|:-------|:-----|:-----|
@@ -211,7 +211,7 @@ The programming labs will be held in a main computer lab (CPH 1346). The program
 |Lab 10|Quiz 03|March 24 at 1:30pm|Chul Min Yeum & TAs|
 |Lab 11|Quiz 03 Solution Review|March 31 at 1:30pm|Chul Min Yeum|
 |Extra|Quiz 04 Review Session|April 04 at 1:30pm|Jesse Parker|
-
+--->
 
 ## Quiz
 The quizzes will be delivered through the MATLAB Grader like, tutorials or homework assignments. The quizzes will be posted on [*(W22) CIVE 121: Quizzes*](https://grader.mathworks.com/courses/64270-w22-cive-121-quizzes). The major differences are a **time limit** and **a limited submission**. Remember that although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB (program) editor before submission. 
