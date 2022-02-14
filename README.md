@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 <br> **Office hours (Instructor)**: Mon (3:00 to 04:00 PM) at E2-2313|
 
-**Last updated:** 2022-02-08  
+**Last updated:** 2022-02-14  
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2021)**](old/s2021)
@@ -29,24 +29,36 @@
 Note the full schedule can be found from [**here**](#calendar)
 
 ## Announcement
-* **Feb 08, 2022:** Please email Jesse before Feb 11 if you want to move the attendance score to the final Quiz. Please read [the instructor's comment](doc/Quiz1_W22_Feedback_Answer.md#major-comment-3-inform-attendance-check-days)  
 * **Feb 08, 2022:** An Quiz 1 statistic is posted [here](doc/Quiz1_W22_result.md).   
 * **Feb 08, 2022:** Remind you that all the second dates for HW3 and HW4 are Feb 15.
-* **Feb 02, 2022:** HW 04 has been posted on [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework).
-* **Jan 25, 2022:** :exclamation: **Attention**: Students will take Quiz 2 on Feb 17 which will be **only three weeks** after Quiz 1. Quiz 2 covers **four** topics including Module 01-04. Students are highly encouraged to focus on preparing for Quiz 2 during these three weeks and spend their time on studying the other courses during the reading and midterm weeks. **We will not reschedule Quiz 2 date** so students have to make a solid study plan and use their time well. 
 
 ## Course Schedule
 
+### February
 |Time|Topic|Preparation|Location|
 |:----|:-----|:----|:----|
-|Feb 07 at 1:30 pm|Review Module 04|Please watch and study **Module 04** before joining the meeting|RCH 302|
-|Feb 09 at 1:30 pm|Review Module 03 and 04|Please watch and study **Module 03 and 04** before joining the meeting|RCH 302|
-|Feb 10 at 1:30 pm|Practice Module 03 and 04|Study Module 01-04|CPH 1346|
 |Feb 14 at 1:30 pm|Quiz 02 Review Session|Study Module 01-04|RCH 302|
 |Feb 16 at 1:30 pm|Review Module 01 - 04 and Q&A|Please review **Module 01-04** before joining the meeting|RCH 302|
 |Feb 17 at 1:30 pm|Quiz 2|Study Module 01-04|CPH 1346|
 
-Note that the schedule for March will be updated shortly. 
+
+### March
+|Time|Topic|Location|
+|:----|:-----|:----|
+|Mar 07 (Mon) at 1:30pm|Review Mod05|RCH 302|
+|Mar 09 (Wed) at 1:30pm|Lecture 06 + Review Mod06|RCH 302|
+|Mar 10 (Thu) at 1:30pm|Quiz 02 Solution review|CPH-1346|
+|Mar 14 (Mon) at 1:30pm|Review Mod06 + Lecture 08|RCH 302|
+|Mar 16 (Wed) at 1:30pm|Review Mod07|RCH 302|
+|Mar 17 (Thu) at 1:30pm|Practice Mod05,06,07|CPH-1346|
+|Mar 21 (Mon) at 1:30pm|Quiz 03 Review Session|RCH 302|
+|Mar 23 (Wed) at 1:30pm|Review Mod01-07|RCH 302|
+|Mar 24 (Thu) at 1:30pm|Quiz 03|CPH-1346|
+|Mar 28 (Mon) at 1:30pm|Lecture Mod09 + Review Mod09|RCH 302|
+|Mar 30 (Wed) at 1:30pm|Lecture Mod11 + Review Mod11|RCH 302|
+|Mar 31 (Thu) at 1:30pm|Practice Mod09, 11|CPH-1346|
+|Apr 04 (Mon) at 1:30pm|Quiz 04 Review Session|RCH 302|
+
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -117,7 +129,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 01**|Basic MATLAB Programming|2|January 12|[Link](tutorial/kahoot/kahoot_mod01.pdf) ||
 |**Module 02**|Vectors and Matrices|2|January 19|[Link](tutorial/kahoot/kahoot_mod02.pdf) |**Quiz 01** (January 27)|
 |**Module 03**|Selection Statement |2|January 26|[Link](tutorial/kahoot/kahoot_mod03.pdf)| |
-|**Module 04**|Loop Statement|2|February 02||**Quiz 02** (Februray 17)|
+|**Module 04**|Loop Statement|2|February 02|[Link](tutorial/kahoot/kahoot_mod04.pdf)|**Quiz 02** (Februray 17)|
 |**Module 05**|Built-in Functions|3|February 09|||
 |**Module 06**|Operator|3|March 07|||
 |**Module 07**|Function|3|March 21||**Quiz 03** (March 24)|
