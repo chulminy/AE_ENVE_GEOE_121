@@ -1,4 +1,4 @@
-# Quiz 1 Review Suggestions
+# Quiz 2 Review Suggestions
 
 
 ### Topics to Review:
