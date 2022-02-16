@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 <br> **Office hours (Instructor)**: Mon (3:00 to 04:00 PM) at E2-2313|
 
-**Last updated:** 2022-02-14  
+**Last updated:** 2022-02-16  
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2021)**](old/s2021)
@@ -29,6 +29,8 @@
 Note the full schedule can be found from [**here**](#calendar)
 
 ## Announcement
+* **Feb 16, 2022:** A HW04 solution video has been posted [here](#homework-solution-review).
+* **Feb 16, 2022:** A HW03 solution video has been posted [here](#homework-solution-review).
 * **Feb 08, 2022:** An Quiz 1 statistic is posted [here](doc/Quiz1_W22_result.md).   
 * **Feb 08, 2022:** Remind you that all the second dates for HW3 and HW4 are Feb 15.
 
@@ -41,7 +43,7 @@ Note the full schedule can be found from [**here**](#calendar)
 |Feb 16 at 1:30 pm|Review Module 01 - 04 and Q&A|Please review **Module 01-04** before joining the meeting|RCH 302|
 |Feb 17 at 1:30 pm|Quiz 2|Study Module 01-04|CPH 1346|
 
-### March
+### March and April
 |Time|Topic|Location|
 |:----|:-----|:----|
 |Mar 07 (Mon) at 1:30pm|Review Mod05|RCH 302|
@@ -265,8 +267,8 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 |:----|:----|:----| 
 |**HW 01**|January 26|[<img src="http://img.youtube.com/vi/KZpmXBNsAOk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=KZpmXBNsAOk)|
 |**HW 02**|February 02|[<img src="http://img.youtube.com/vi/bdSxr9wuCP8/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=bdSxr9wuCP8)|
-|**HW 03**|February 16||
-|**HW 04**|March 08||
+|**HW 03**|February 16|[<img src="http://img.youtube.com/vi/3xXsQVnupQk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=3xXsQVnupQk)|
+|**HW 04**|February 16|[<img src="http://img.youtube.com/vi/c6qtLnsTuwc/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=c6qtLnsTuwc)|
 |**HW 05**|March 23||
 |**HW 06**|March 30||
 |**HW 07**|April 06||
@@ -305,11 +307,8 @@ The final grade will be based on the total marks earned from 7 homework assignme
 |![](doc/calendar/jan_2022.png)|
 |:---:|
 |![](doc/calendar/feb_2022.png)|
-
-<!---
 |![](doc/calendar/mar_2022.png)|
 |![](doc/calendar/apr_2022.png)|
--->
 
 ## Fair Contingencies for Emergency Remote Teaching
 We are facing unusual and challenging times. The course outline presents the instructor’s intentions for course assessments, their weights, and due dates in Winter 2022. As best as possible, we will keep to the specified assessments, weights, and dates. To provide contingency for unforeseen circumstances, **the instructor reserves the right to modify course topics and/or assessments and/or weight and/or deadlines with due and fair notice to students.** In the event of such challenges, the instructor will work with the Department/Faculty to find reasonable and fair solutions that respect rights and workloads of students, staff, and faculty. 
