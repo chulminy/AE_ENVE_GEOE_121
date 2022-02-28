@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 <br> **Office hours (Instructor)**: Mon (3:00 to 04:00 PM) at E2-2313|
 
-**Last updated:** 2022-02-16  
+**Last updated:** 2022-02-18  
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2021)**](old/s2021)
@@ -31,8 +31,6 @@ Note the full schedule can be found from [**here**](#calendar)
 ## Announcement
 * **Feb 16, 2022:** A HW04 solution video has been posted [here](#homework-solution-review).
 * **Feb 16, 2022:** A HW03 solution video has been posted [here](#homework-solution-review).
-* **Feb 08, 2022:** An Quiz 1 statistic is posted [here](doc/Quiz1_W22_result.md).   
-* **Feb 08, 2022:** Remind you that all the second dates for HW3 and HW4 are Feb 15.
 
 ## Course Schedule
 
@@ -223,8 +221,8 @@ The quizzes will be delivered through the MATLAB Grader like, tutorials or homew
 |:---|:-------|:-----|:----|:----|:----|
 |**Quiz 01**|Module 01 ~ 02|January 27 at 1:30 pm|100 min|Online|[**Quiz 01**](doc/Quiz1_Description.md) |
 |**Quiz 02**|Module 01 ~ 04|February 17 at 1:30 pm|120 min|CPH 1346|[**Quiz 02**](doc/Quiz2_Description.md)|
-|**Quiz 03**|Module 01 ~ 07|March 24 at 1:30 pm|TBD|TBD|
-|**Quiz 04**|Module 01 ~ 07, 09, 11|TBD|TBD|TBD|   
+|**Quiz 03**|Module 01 ~ 07|March 24 at 1:30 pm|120 minutes|TBD|
+|**Quiz 04**|Module 01 ~ 07, 09, 11|April 18 at 12:30 pm|150 minutes|TBD|   
 
 ## Policy for Cheating 
 Students are encouraged to work in groups through collaborative learning only for homework assignments, but are required to submit their assignments individually. Students **must not share their solutions with other students**. The TA will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs or instructor. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. Also, you might be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). **Both copiers and copyees are guilty of cheating and will receive an equal penalty.** The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
