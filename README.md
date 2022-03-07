@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 <br> **Office hours (Instructor)**: Mon (3:00 to 04:00 PM) at E2-2313|
 
-**Last updated:** 2022-03-01  
+**Last updated:** 2022-03-07  
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2021)**](old/s2021)
@@ -22,6 +22,7 @@
 - [**Attendance & Extra mark document**](https://uofwaterloo.sharepoint.com/:x:/s/tm-cee-uwcviss/EcEWEvABwh9CovMIkkh56SABkTBaeF5QYH5Cw2LRthettg?e=kDQ3xm)  
 
 **Course**
+- Mar 07: Quiz 2 result: [Link](doc/Quiz2_W22_result.md)
 - Mar 06: Feedback for Quiz 2: [Link](doc/Quiz2_W22_Feedback_Answer.md)
 - Feb 08: Feedback for Quiz 1: [Link](doc/Quiz1_W22_Feedback_Answer.md)
 - Feb 08: Quiz 1 result: [Link](doc/Quiz1_W22_result.md) 
@@ -31,12 +32,11 @@
 Note the full schedule can be found from [**here**](#calendar)
 
 ## Announcement
+* **Mar 07, 2022:** An Quiz 2 result summary has been posted [**here**](doc/Quiz2_W22_result.md). 
 * **Mar 06, 2022:** Our teaching team answered students feedback on the 8 week study progress survey. Please check out [**this document**](doc/Quiz2_W22_Feedback_Answer.md).    
 * **Feb 28, 2022:** HW05 has been posted.  
 
-
 ## Course Schedule
-
 ### March and April
 |Time|Topic|Location|
 |:----|:-----|:----|
@@ -53,7 +53,6 @@ Note the full schedule can be found from [**here**](#calendar)
 |Mar 30 (Wed) at 1:30pm|Lecture Mod11 + Review Mod11|RCH 302|
 |Mar 31 (Thu) at 1:30pm|Practice Mod09, 11|CPH-1346|
 |Apr 04 (Mon) at 1:30pm|Quiz 04 Review Session|RCH 302|
-
 
 ## Table of Contents
 - [Course Description](#course-description)
