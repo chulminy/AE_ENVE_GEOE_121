@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 <br> **Office hours (Instructor)**: Mon (3:00 to 04:00 PM) at E2-2313|
 
-**Last updated:** 2022-02-18  
+**Last updated:** 2022-03-01  
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2021)**](old/s2021)
@@ -22,6 +22,8 @@
 - [**Attendance & Extra mark document**](https://uofwaterloo.sharepoint.com/:x:/s/tm-cee-uwcviss/EcEWEvABwh9CovMIkkh56SABkTBaeF5QYH5Cw2LRthettg?e=kDQ3xm)  
 
 **Course**
+- Mar 06: Feedback for Quiz 2: [Link](doc/Quiz2_W22_Feedback_Answer.md)
+- Feb 08: Feedback for Quiz 1: [Link](doc/Quiz1_W22_Feedback_Answer.md)
 - Feb 08: Quiz 1 result: [Link](doc/Quiz1_W22_result.md) 
 - Feb 08: Instruction for Quiz 2: [Link](doc/Quiz2_Description.md)
 - Feb 08: Feedback for Quiz 1: [Link](doc/Quiz1_W22_Feedback_Answer.md)
@@ -29,17 +31,11 @@
 Note the full schedule can be found from [**here**](#calendar)
 
 ## Announcement
-* **Feb 16, 2022:** A HW04 solution video has been posted [here](#homework-solution-review).
-* **Feb 16, 2022:** A HW03 solution video has been posted [here](#homework-solution-review).
+* **Mar 06, 2022:** Our teaching team answered students feedback on the 8 week study progress survey. Please check out [**this document**](doc/Quiz2_W22_Feedback_Answer.md).    
+* **Feb 28, 2022:** HW05 has been posted.  
+
 
 ## Course Schedule
-
-### February
-|Time|Topic|Preparation|Location|
-|:----|:-----|:----|:----|
-|Feb 14 at 1:30 pm|Quiz 02 Review Session|Study Module 01-04|RCH 302|
-|Feb 16 at 1:30 pm|Review Module 01 - 04 and Q&A|Please review **Module 01-04** before joining the meeting|RCH 302|
-|Feb 17 at 1:30 pm|Quiz 2|Study Module 01-04|CPH 1346|
 
 ### March and April
 |Time|Topic|Location|

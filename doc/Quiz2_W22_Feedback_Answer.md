@@ -1,6 +1,5 @@
 # Feedback Review for Quiz 2
 
-
 ## Survey Results
 45 students responded to the survey and the results are presented below: 
 
@@ -12,7 +11,7 @@
 ![](img/q2_graph3.png)
 
 ## Overview
-Overall, things were going along nicely up to this time. The survey results are very similar to the ones in Quiz 1. Although Quiz 2 was the first in-person quiz, it has done so well. Again, our teaching team is really sorry about our mistake on the problem 1 in Q2. All students will receive 15 points regardless of their answers.
+Overall, things were going along nicely. The survey results are very similar to the ones in Quiz 1. Although Quiz 2 was the first in-person quiz, it has done so well. Again, our teaching team is really sorry about our mistake on the problem 1 in Q2. All students will receive 15 points regardless of their answers.
 
 Our teaching team will reflect your feedback and update our course and upcoming quizzes. 
 
