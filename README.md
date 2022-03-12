@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 <br> **Office hours (Instructor)**: Mon (3:00 to 04:00 PM) at E2-2313|
 
-**Last updated:** 2022-03-07  
+**Last updated:** 2022-03-12  
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2021)**](old/s2021)
@@ -32,26 +32,22 @@
 Note the full schedule can be found from [**here**](#calendar)
 
 ## Announcement
-* **Mar 07, 2022:** An Quiz 2 result summary has been posted [**here**](doc/Quiz2_W22_result.md). 
-* **Mar 06, 2022:** Our teaching team answered students feedback on the 8 week study progress survey. Please check out [**this document**](doc/Quiz2_W22_Feedback_Answer.md).    
+* **Mar 07, 2022:** HW06 has been posted.  
 * **Feb 28, 2022:** HW05 has been posted.  
 
 ## Course Schedule
 ### March and April
-|Time|Topic|Location|
+|Time|Topic|Location|`
 |:----|:-----|:----|
-|Mar 07 (Mon) at 1:30pm|Review Mod05|RCH 302|
-|Mar 09 (Wed) at 1:30pm|Lecture 06 + Review Mod06|RCH 302|
-|Mar 10 (Thu) at 1:30pm|Quiz 02 Solution review|CPH-1346|
 |Mar 14 (Mon) at 1:30pm|Review Mod06 + Lecture 08|RCH 302|
 |Mar 16 (Wed) at 1:30pm|Review Mod07|RCH 302|
-|Mar 17 (Thu) at 1:30pm|Practice Mod05,06,07|CPH-1346|
+|Mar 17 (Thu) at 1:30pm - 5:30pm|Practice Mod05,06,07|CPH-1346|
 |Mar 21 (Mon) at 1:30pm|Quiz 03 Review Session|RCH 302|
 |Mar 23 (Wed) at 1:30pm|Review Mod01-07|RCH 302|
 |Mar 24 (Thu) at 1:30pm|Quiz 03|CPH-1346|
 |Mar 28 (Mon) at 1:30pm|Lecture Mod09 + Review Mod09|RCH 302|
 |Mar 30 (Wed) at 1:30pm|Lecture Mod11 + Review Mod11|RCH 302|
-|Mar 31 (Thu) at 1:30pm|Practice Mod09, 11|CPH-1346|
+|Mar 31 (Thu) at 1:30pm - 5:30pm|Practice Mod09, 11|CPH-1346|
 |Apr 04 (Mon) at 1:30pm|Quiz 04 Review Session|RCH 302|
 
 ## Table of Contents
@@ -124,7 +120,7 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 02**|Vectors and Matrices|2|January 19|[Link](tutorial/kahoot/kahoot_mod02.pdf) |**Quiz 01** (January 27)|
 |**Module 03**|Selection Statement |2|January 26|[Link](tutorial/kahoot/kahoot_mod03.pdf)| |
 |**Module 04**|Loop Statement|2|February 02|[Link](tutorial/kahoot/kahoot_mod04.pdf)|**Quiz 02** (Februray 17)|
-|**Module 05**|Built-in Functions|3|February 09|||
+|**Module 05**|Built-in Functions|3|February 09|[Link](tutorial/kahoot/kahoot_mod05_share.pdf)||
 |**Module 06**|Operator|3|March 07|||
 |**Module 07**|Function|3|March 21||**Quiz 03** (March 24)|
 |**Module 08**|Plotting|1|March 16|||
