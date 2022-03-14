@@ -37,13 +37,13 @@ Note the full schedule can be found from [**here**](#calendar)
 
 ## Course Schedule
 ### March and April
-|Time|Topic|Location|`
+|Time|Topic|Location|
 |:----|:-----|:----|
 |Mar 14 (Mon) at 1:30pm|Review Mod06 + Lecture 08|RCH 302|
 |Mar 16 (Wed) at 1:30pm|Review Mod07|RCH 302|
 |Mar 17 (Thu) at 1:30pm - 5:30pm|Practice Mod05,06,07|CPH-1346|
 |Mar 21 (Mon) at 1:30pm|Quiz 03 Review Session|RCH 302|
-|Mar 23 (Wed) at 1:30pm|Review Mod01-07|RCH 302|
+|Mar 23 (Wed) at 1:30pm|No class|RCH 302|
 |Mar 24 (Thu) at 1:30pm|Quiz 03|CPH-1346|
 |Mar 28 (Mon) at 1:30pm|Lecture Mod09 + Review Mod09|RCH 302|
 |Mar 30 (Wed) at 1:30pm|Lecture Mod11 + Review Mod11|RCH 302|
