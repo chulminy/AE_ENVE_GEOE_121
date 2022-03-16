@@ -18,7 +18,7 @@ There are seven questions:
 
 
 ## Quiz Schedule
-**March 24** at 1:30 ~ 3:30 pm (EST). **Please come to the lab (CPH-1346) early.** 
+**March 24** at **1:40** ~ 3:40 pm (EST). **Please come to the lab (CPH-1346) early.** 
 
 ## Submission & Grading
 For Quiz 3, you must solve all questions within **120 minutes**. Note that if your solution is submitted after the designated due time, it will not be graded. Please submit your solutions on time. You can access and solve the problems in any order. As promised, the number of stars to identify the difficulty of the problems will be provided to help students time management. You can submit your answer **unlimited times**. **We will only grade your last submission.** Remember that we will **manually** grade your script at the end and review your programming logic. Thus, although you pass the testers on the grader, you will get zero if your programming logic is not correct. 

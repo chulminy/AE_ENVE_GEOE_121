@@ -22,6 +22,7 @@
 - [**Attendance & Extra mark document**](https://uofwaterloo.sharepoint.com/:x:/s/tm-cee-uwcviss/EcEWEvABwh9CovMIkkh56SABkTBaeF5QYH5Cw2LRthettg?e=kDQ3xm)  
 
 **Course**
+- Mar 16: Instruction for Quiz 3: [Link](doc/Quiz3_Description.md)
 - Mar 07: Quiz 2 result: [Link](doc/Quiz2_W22_result.md)
 - Mar 06: Feedback for Quiz 2: [Link](doc/Quiz2_W22_Feedback_Answer.md)
 - Feb 08: Feedback for Quiz 1: [Link](doc/Quiz1_W22_Feedback_Answer.md)
@@ -32,6 +33,7 @@
 Note the full schedule can be found from [**here**](#calendar)
 
 ## Announcement
+* **Mar 16, 2022:** Quiz 3 instruction is posted [**here**](doc/Quiz3_Description.md);
 * **Mar 07, 2022:** HW06 has been posted.  
 * **Feb 28, 2022:** HW05 has been posted.  
 
@@ -44,7 +46,7 @@ Note the full schedule can be found from [**here**](#calendar)
 |Mar 17 (Thu) at 1:30pm - 5:30pm|Practice Mod05,06,07|CPH-1346|
 |Mar 21 (Mon) at 1:30pm|Quiz 03 Review Session|RCH 302|
 |Mar 23 (Wed) at 1:30pm|No class|RCH 302|
-|Mar 24 (Thu) at 1:30pm|Quiz 03|CPH-1346|
+|Mar 24 (Thu) at **1:40pm**|Quiz 03|CPH-1346|
 |Mar 28 (Mon) at 1:30pm|Lecture Mod09 + Review Mod09|RCH 302|
 |Mar 30 (Wed) at 1:30pm|Lecture Mod11 + Review Mod11|RCH 302|
 |Mar 31 (Thu) at 1:30pm - 5:30pm|Practice Mod09, 11|CPH-1346|
@@ -212,7 +214,7 @@ The quizzes will be delivered through the MATLAB Grader like, tutorials or homew
 |:---|:-------|:-----|:----|:----|:----|
 |**Quiz 01**|Module 01 ~ 02|January 27 at 1:30 pm|100 min|Online|[**Quiz 01**](doc/Quiz1_Description.md) |
 |**Quiz 02**|Module 01 ~ 04|February 17 at 1:30 pm|120 min|CPH 1346|[**Quiz 02**](doc/Quiz2_Description.md)|
-|**Quiz 03**|Module 01 ~ 07|March 24 at 1:30 pm|120 minutes|TBD|
+|**Quiz 03**|Module 01 ~ 07|March 24 at **1:40** pm|120 minutes|TBD|
 |**Quiz 04**|Module 01 ~ 07, 09, 11|April 18 at 12:30 pm|150 minutes|TBD|   
 
 ## Policy for Cheating 
