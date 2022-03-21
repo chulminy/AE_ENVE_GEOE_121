@@ -23,6 +23,7 @@
 - M06017
 - Enough function questions (M07xxx) that you're confident creating local functions to solve problems
 - Any other questions that cover topics you aren't confident with
+- **Do not do poker game questions to study for this quiz**
 
 ### Quiz Question Difficulty:
 - 2 1-star
