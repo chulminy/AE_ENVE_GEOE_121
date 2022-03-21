@@ -31,4 +31,4 @@
 - 2 4-star (low points for each)
 
 ### Note:
-If you aren't confident on any of the topics listed above and want help, come see me in the WEEF office or contact me online with your question
+If you aren't confident on any of the topics listed above and want help, come see me in the WEEF office or contact me online with your questions
