@@ -8,7 +8,7 @@
 - Relational operators on whole arrays
 - Using logical indexing to target specific elements in arrays
 - How to apply vectorization
-- Function syntax, uses, separate work spaces **Highly recommended**
+- Function syntax, uses, separate work spaces (**Highly recommended**)
 
 
 
