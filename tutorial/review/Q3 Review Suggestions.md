@@ -14,7 +14,7 @@
 
 ### Questions to Study:
 - All L02 questions; they were designed to help you study for this quiz
-- Q2-2
+- Quiz 2-2
 - M07002 and related tutorial questions (M04xxx)
 - M07037
 - M07004
