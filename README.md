@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 <br> **Office hours (Instructor)**: Mon (3:00 to 04:00 PM) at E2-2313|
 
-**Last updated:** 2022-03-12  
+**Last updated:** 2022-03-23  
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2021)**](old/s2021)
@@ -33,9 +33,10 @@
 Note the full schedule can be found from [**here**](#calendar)
 
 ## Announcement
+* **Mar 23, 2022:** HW05 solution review video is posted [**here**](#homework-assignment);
 * **Mar 16, 2022:** Quiz 3 instruction is posted [**here**](doc/Quiz3_Description.md);
 * **Mar 07, 2022:** HW06 has been posted.  
-* **Feb 28, 2022:** HW05 has been posted.  
+
 
 ## Course Schedule
 ### March and April
@@ -260,7 +261,7 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 |**HW 02**|February 02|[<img src="http://img.youtube.com/vi/bdSxr9wuCP8/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=bdSxr9wuCP8)|
 |**HW 03**|February 16|[<img src="http://img.youtube.com/vi/3xXsQVnupQk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=3xXsQVnupQk)|
 |**HW 04**|February 16|[<img src="http://img.youtube.com/vi/c6qtLnsTuwc/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=c6qtLnsTuwc)|
-|**HW 05**|March 23||
+|**HW 05**|March 23|[<img src="http://img.youtube.com/vi/-D7BBLJ1dzY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=-D7BBLJ1dzY)|
 |**HW 06**|March 30||
 |**HW 07**|April 06||
 
