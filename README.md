@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 <br> **Office hours (Instructor)**: Mon (3:00 to 04:00 PM) at E2-2313|
 
-**Last updated:** 2022-03-25  
+**Last updated:** 2022-03-28  
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2021)**](old/s2021)
@@ -22,6 +22,7 @@
 - [**Attendance & Extra mark document**](https://uofwaterloo.sharepoint.com/:x:/s/tm-cee-uwcviss/EcEWEvABwh9CovMIkkh56SABkTBaeF5QYH5Cw2LRthettg?e=kDQ3xm)  
 
 **Course**
+- Mar 28: Feedback for Quiz 3: [Link](doc/Quiz3_W22_Feedback_Answer.md)
 - Mar 16: Instruction for Quiz 3: [Link](doc/Quiz3_Description.md)
 - Mar 07: Quiz 2 result: [Link](doc/Quiz2_W22_result.md)
 - Mar 06: Feedback for Quiz 2: [Link](doc/Quiz2_W22_Feedback_Answer.md)
@@ -35,17 +36,10 @@ Note the full schedule can be found from [**here**](#calendar)
 ## Announcement
 * **Mar 25, 2022:** HW07 has been posted.  
 
-
 ## Course Schedule
 ### March and April
 |Time|Topic|Location|
 |:----|:-----|:----|
-|Mar 14 (Mon) at 1:30pm|Review Mod06 + Lecture 08|RCH 302|
-|Mar 16 (Wed) at 1:30pm|Review Mod07|RCH 302|
-|Mar 17 (Thu) at 1:30pm - 5:30pm|Practice Mod05,06,07|CPH-1346|
-|Mar 21 (Mon) at 1:30pm|Quiz 03 Review Session|RCH 302|
-|Mar 23 (Wed) at 1:30pm|No class|RCH 302|
-|Mar 24 (Thu) at **1:40pm**|Quiz 03|CPH-1346|
 |Mar 28 (Mon) at 1:30pm|Lecture Mod09 + Review Mod09|RCH 302|
 |Mar 30 (Wed) at 1:30pm|Lecture Mod11 + Review Mod11|RCH 302|
 |Mar 31 (Thu) at 1:30pm - 5:30pm|Practice Mod09, 11|CPH-1346|
@@ -213,8 +207,8 @@ The quizzes will be delivered through the MATLAB Grader like, tutorials or homew
 |:---|:-------|:-----|:----|:----|:----|
 |**Quiz 01**|Module 01 ~ 02|January 27 at 1:30 pm|100 min|Online|[**Quiz 01**](doc/Quiz1_Description.md) |
 |**Quiz 02**|Module 01 ~ 04|February 17 at 1:30 pm|120 min|CPH 1346|[**Quiz 02**](doc/Quiz2_Description.md)|
-|**Quiz 03**|Module 01 ~ 07|March 24 at **1:40** pm|120 minutes|TBD|
-|**Quiz 04**|Module 01 ~ 07, 09, 11|April 18 at 12:30 pm|150 minutes|TBD|   
+|**Quiz 03**|Module 01 ~ 07|March 24 at **1:40** pm|120 minutes|CPH 1346|[**Quiz 03**](doc/Quiz3_Description.md)|
+|**Quiz 04**|Module 01 ~ 07, 09, 11|April 18 at 12:30 pm|150 minutes|CPH 1346|   
 
 ## Policy for Cheating 
 Students are encouraged to work in groups through collaborative learning only for homework assignments, but are required to submit their assignments individually. Students **must not share their solutions with other students**. The TA will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs or instructor. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. Also, you might be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). **Both copiers and copyees are guilty of cheating and will receive an equal penalty.** The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
