@@ -16,9 +16,9 @@
 ### Q3 Grader Report
 ![](img/q3_grader_report.PNG)
 
-Q3-1: 109/117
-Q3-6: 11/117
-Q3-7: 24/117
+Q3-1: 109/117  
+Q3-6: 11/117  
+Q3-7: 24/117  
 
 ## Overview
 Our teaching team will reflect your feedback and update our course and upcoming quizzes. 
