@@ -2,7 +2,7 @@
 
 ## Class average 
 
-** 79.9 / 100**
+**79.9 / 100**
 
 ## Score Distribution
 ![](img/q2_score_dist.png)

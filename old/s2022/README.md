@@ -1,12 +1,18 @@
-# CIVE 121: Computational Method (W2022)
+# ENVE/GEOE121 & AE 121: Computational Method (S2022)
 
 |||
 |:--------|:-----------|
-|<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 <br> **Office hours (Instructor)**: Mon (3:00 to 04:00 PM) at E2-2313|
+|<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA 1:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA 2:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> 
 
-**Last updated:** 2022-04-04  
+<br> **Class (ENVE/GEOE121):** Mon & Wed (1:30 to 3:00 PM) at RCH 302 
+<br> **Class (AE121):** Mon & Wed (1:30 to 3:00 PM) at RCH 302
+
+<br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 <br> **Office hours (Instructor)**: by appointment|
+
+**Last updated:** 2022-03-28  
 
 **Previous offerings of this course**
+- [**Computational Method (Winter, 2022)**](old/w2022)
 - [**Computational Method (Spring, 2021)**](old/s2021)
 - [**Computational Method (Spring, 2020)**](old/s2020)
 - [**Computational Method (Spring, 2019)**](old/s2019)
@@ -21,23 +27,19 @@
 - [**Course material**](comp_method_book_cm_s21.pdf)
 - [**Attendance & Extra mark document**](https://uofwaterloo.sharepoint.com/:x:/s/tm-cee-uwcviss/EcEWEvABwh9CovMIkkh56SABkTBaeF5QYH5Cw2LRthettg?e=kDQ3xm)  
 
-**Course**
-- Apr 04: Instruction for Quiz 4: [Link](doc/Quiz4_Description.md)
-- Apr 04: Quiz 3 result: [Link](doc/Quiz3_W22_result.md)
-- Mar 28: Feedback for Quiz 3: [Link](doc/Quiz3_W22_Feedback_Answer.md)
-- Mar 16: Instruction for Quiz 3: [Link](doc/Quiz3_Description.md)
-- Mar 07: Quiz 2 result: [Link](doc/Quiz2_W22_result.md)
-- Mar 06: Feedback for Quiz 2: [Link](doc/Quiz2_W22_Feedback_Answer.md)
-- Feb 08: Feedback for Quiz 1: [Link](doc/Quiz1_W22_Feedback_Answer.md)
-- Feb 08: Quiz 1 result: [Link](doc/Quiz1_W22_result.md) 
-- Feb 08: Instruction for Quiz 2: [Link](doc/Quiz2_Description.md)
-- Feb 08: Feedback for Quiz 1: [Link](doc/Quiz1_W22_Feedback_Answer.md)
-
-Note the full schedule can be found from [**here**](#calendar)
-
 ## Announcement
-* **Apr 04, 2022:** [Instruction for Quiz 4](doc/Quiz4_Description.md) and [Quiz 3](doc/Quiz3_W22_result.md) results are posted. 
 * **Mar 25, 2022:** HW07 has been posted.  
+
+## Course Schedule
+### March and April
+|Time|Topic|Location|
+|:----|:-----|:----|
+|Mar 28 (Mon) at 1:30pm|Lecture Mod09 + Review Mod09|RCH 302|
+|Mar 30 (Wed) at 1:30pm|Lecture Mod11 + Review Mod11|RCH 302|
+|Mar 31 (Thu) at 1:30pm - 5:30pm|Practice Mod09, 11|CPH-1346|
+|Apr 04 (Mon) at 1:30pm|Quiz 04 Review Session|RCH 302|
+
+
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -248,7 +250,8 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 |**HW 03**|February 16|[<img src="http://img.youtube.com/vi/3xXsQVnupQk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=3xXsQVnupQk)|
 |**HW 04**|February 16|[<img src="http://img.youtube.com/vi/c6qtLnsTuwc/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=c6qtLnsTuwc)|
 |**HW 05**|March 23|[<img src="http://img.youtube.com/vi/-D7BBLJ1dzY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=-D7BBLJ1dzY)|
-|**HW 06**|Apr 04|[<img src="http://img.youtube.com/vi/fnrVB1FKeRE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=fnrVB1FKeRE)|
+|**HW 06**|March 30||
+|**HW 07**|April 06||
 
 ## Communication  
 **All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/767310) but all information related to the course will be posted on this course website. The instructor and TA will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussions.   
