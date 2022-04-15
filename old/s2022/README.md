@@ -2,12 +2,7 @@
 
 |||
 |:--------|:-----------|
-|<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA 1:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA 2:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> 
-
-<br> **Class (ENVE/GEOE121):** Mon & Wed (1:30 to 3:00 PM) at RCH 302 
-<br> **Class (AE121):** Mon & Wed (1:30 to 3:00 PM) at RCH 302
-
-<br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 <br> **Office hours (Instructor)**: by appointment|
+|<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA 1:** Ethan Woo (ethan.woo@uwaterloo.ca) <br> **TA 2:** Violet Cotton (violet.cotton@uwaterloo.ca) <br><br> **Class (AE121):** Mon & Wed (2:00 to 3:30 PM) at CPH 3604  <br> **Programming Lab (AE121):** Thu (12:30 to 2:30 PM) at CPH 1346 <br> <br> **Class (ENVE/GEOE121):** Mon & Wed (11:00 to 12:30 PM) at RCH 305<br> **Programming Lab (ENVE/GEOE121):** Fri (2:30 to 4:30 PM) at CPH 1346 <br> <br> **Office hours (TA)**: Please visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: by appointment|
 
 **Last updated:** 2022-04-30  
 
@@ -26,16 +21,15 @@
 - [**Course material**](comp_method_book_cm_s21.pdf)
 - [**MATLAB Grader- (S22) AE 121: Quizzes**](https://grader.mathworks.com/courses/76605-s22-ae-121-quizzes)
 - [**MATLAB Grader- (S22) ENVE/GEOE 121: Quizzes**](https://grader.mathworks.com/courses/76610-s22-enve-geoe-121-quizzes)
-- [**Attendance & Extra mark document**](https://uofwaterloo.sharepoint.com/:x:/s/tm-cee-uwcviss/EcEWEvABwh9CovMIkkh56SABkTBaeF5QYH5Cw2LRthettg?e=kDQ3xm)  
+- [**Attendance & Extra mark document**]()  
 
 ## Announcement
+* **Apr 20, 2022:** Welcome!
 
 ## Course Schedule
 
-### AE
-
-
-### ENVE/GEOE
+[**AE Schedule**]()
+[**ENVE/GEOE Schedule**]()
 
 ## Key Due Date
 |Due Date|Type|Schedule|
@@ -111,18 +105,17 @@ This course is not based on any particular textbook. However, the [course materi
 * Moore, Holly. *"MATLAB for Engineers,"* Pearson, 2017.
 
 ## Course Outline
-All lectures will be delivered in person. However, you can watch the video recordings of each module from [here](#lecture-video) or [**YouTube Channel**](https://youtube.com/playlist?list=PLa1nAPP8qUX9qwRR6Sj_dboIriPIGYgsm). All students must watch lecture video before 
-
-
-There are ten modules and each module has 1~3 lectures. The study load for each module is marked as the number of regular 80 minutes offline classes, which becomes a total of 24 classes. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures, assignments, and quizzes. 
-
-The lectures will cover the course materials (You can download it from [**here**](comp_method_book_cm_s21.pdf)), developed by the instructor. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and all previous modules. For example (if you see the table below), Quiz 02 will cover Module 01 to Module 05. 
+All lectures will be delivered in person. **All students must watch lecture videos from** [**here**](#lecture-video) **or** [**YouTube Channel**](https://youtube.com/playlist?list=PLa1nAPP8qUX9qwRR6Sj_dboIriPIGYgsm) **before attending the class.** You will study ten modules and each module has one or two videos. The lectures will cover the course materials (You can download it from [**here**](comp_method_book_cm_s21.pdf)), developed by the instructor. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and all previous modules. 
 
 Lectures are to deliver fundamental knowledge and information in each module and **are not to give a direction on how to solve your homework assignments or quizzes**. However, all the practice problems were designed based on the course materials. Thus, if students do not find the relevance between them, they have not understood lectures yet and should carefully review them again. 
 
-You can check the schedule all at once from [this calendar](#calendar).
 
-|Module|Topics|PREA| 
+### Pre-assessment
+To confirm whether students watch the lecture videos, students need to pass a pre-assessment for each module before its due date. The assessment will start from Module 02. A pre-assement question for each module will be posted on [**here**](https://grader.mathworks.com/courses/75314-s22-ae-enve-geoe-121-homework/assignments/200935-pre-assessment). 
+
+Students receive 1.5 point if they pass the pre-assessment for each module. The maximum score that students will receive from the pre-assessment is 9. This means students can get a full mark if they pass 6 questions among 8 modules (M02-M07, M09, M11). This considers unavoidable absence, such as illness, job interview. Note that students do not have to inform TA or instructor for delay submission. No matter the reason, students pass the question before the due date.  
+
+|Module|Topics|PREA|
 |:-----|:-----|:--:|
 |**Module 00**|Preliminaries|N/A|
 |**Module 01**|Basic MATLAB Programming|N/A|
@@ -135,6 +128,8 @@ You can check the schedule all at once from [this calendar](#calendar).
 |**Module 08**|Plotting|N/A|
 |**Module 09**|Data Structure|July 10|
 |**Module 11**|Text Manipulation|July 18|
+
+Here, 'PREA' indicates the deadline for the pre-assessment of the corresponding module. You can check all due date from [**this schedule table here**](#key-due-date)
 
 ### Lecture Video 
 Students can watch lecture videos for each module. If students are absent from present the classes unavoidably or cannot follow in-person lectures, please watch the lecture videos for their study.  
@@ -154,15 +149,15 @@ Students can watch lecture videos for each module. If students are absent from p
 |**Module 11**|[<img src="http://img.youtube.com/vi/qubtDteNV38/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=qubtDteNV38)  [<img src="http://img.youtube.com/vi/NgntRda2sCY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=NgntRda2sCY)|
 
 ## Course Attendance
-Students are highly encouraged to attend all classes and have to attend the classes to receive 10 point attendance scores. There will be 12 fun games using [Kahoot](https://kahoot.it/) during classes, and students will join the question through their cell phones. There will be one or two game per each module and students receive 1.5 point **if they just join the game.** The maximum score that students will receive from these games is 12, not 15, which mean students can get a full mark (12 points) if they join at least eight games. This considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. Note that the instructor do not notify in advance when or what class the game in each module starts.  
+Students are highly encouraged to attend all classes and have to attend the classes to receive 9 point attendance scores. There will be more than 12 fun games using [Kahoot](https://kahoot.it/) during classes, and students will join the question through their cell phones. There will be one or two game per each module and students receive 1 point **if they just join the game.** The maximum score that students will receive from these games is 9, which mean students can get a full mark (9 points) if they join at least nine games. Similar to the pre-assessement, this considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. Note that the instructor do not notify in advance when or what class the game in each module starts.  
 
-Note that students **do not have to** inform TA or instructor for their absent in the class. No matter the reason, students **cannot** get the point if they do not join the game during the class. Students can still get a full attendance mark although they miss one or two classes (games). Thus, we will not arrange a special accommodation for the attendance. Please do not send an email to the instructor or TA to explain your absent.   
+Again, students **do not have to** inform TA or instructor for their absent in the class. No matter the reason, students **cannot** get the point if they do not join the game during the class. Students can still get a full attendance mark although they miss one or two classes (games). Thus, we will not arrange a special accommodation for the attendance. Please do not send an email to the instructor or TA to explain your absent.   
 
 To participate the game, the instructor will show the students a game pin number. 
 
 * Step 1: Go to the Kahoot! website [https://kahoot.it/](https://kahoot.it/) and type a pin number. The instructor will show the pin number in each game. 
 * Step 2: Type your university email address
-* Step 3: **Type your nick name. Please use your first name**.  
+* Step 3: **Type your nick name as your first name**.  
 * Step 4. You are ready for joining the game    
 
 |![](doc/img/kahoot_step1.png)|![](doc/img/kahoot_step2.png)|
@@ -171,7 +166,7 @@ To participate the game, the instructor will show the students a game pin number
 |![](doc/img/kahoot_step3.png)|![](doc/img/kahoot_step4.png)|
 |**Step 3**|**Step 4**|
 
-We will update your attendance (and participation mark) record to [this document](https://uofwaterloo.sharepoint.com/:x:/s/tm-cee-uwcviss/EcEWEvABwh9CovMIkkh56SABkTBaeF5QYH5Cw2LRthettg?e=kDQ3xm). If the record is not correct, please send an email to TA. When students check the attendance by dishonest means (e.g. a student present at a class join the game using more than one account, remotely access the game using a pin number, informed by a student present at a class), they are considered as an academic offense and receive 0 for **all attendance score**. And they are disciplined by [Policy for Cheating](#policy-for-cheating)    
+We will update your attendance, pre-assessement, and participation mark record to [this document](). If the record is not correct, please send an email to TA. When students check the attendance by dishonest means (e.g. a student present at a class join the game using more than one account, remotely access the game using a pin number, informed by a student present at a class), they are considered as an academic offense and receive 0 for **all attendance score**. And they are disciplined by [Policy for Cheating](#policy-for-cheating)    
 
 ## Tutorial
 The tutorials are self-study resources to assist students in the problems of course material, homework assignments, and quizzes. Students can find the problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader. The model answers for all tutorial problems were posted on this [**page**](tutorial). All students are **highly recommended** to solve practice problems to prepare for your quizzes. Here is how to study the tutorial. 
@@ -276,8 +271,8 @@ The final grade will be based on the total marks earned from 6 homework assignme
 
 |Component|Scores|
 |:---|:-----|
-|**Pre-assessment**| 8 |
-|**Attendance**| 10 |
+|**Pre-assessment**| 9 |
+|**Attendance**| 9 |
 |**Homework assignments**| 12 |
 |**Quiz #1**| 10 |
 |**Quiz #2**| 15 |
