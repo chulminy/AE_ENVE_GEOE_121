@@ -2,7 +2,7 @@
 
 |||
 |:--------|:-----------|
-|<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA 1:** Ethan Woo (ethan.woo@uwaterloo.ca) <br> **TA 2:** Violet Cotton (violet.cotton@uwaterloo.ca) <br><br> **Class (AE121):** Mon & Wed (2:00 to 3:30 PM) at CPH 3604  <br> **Programming Lab (AE121):** Thu (12:30 to 2:30 PM) at CPH 1346 <br> <br> **Class (ENVE/GEOE121):** Mon & Wed (11:00 to 12:30 PM) at RCH 305<br> **Programming Lab (ENVE/GEOE121):** Fri (2:30 to 4:30 PM) at CPH 1346 <br> <br> **Office hours (TA)**: Please visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: by appointment|
+|<img src="doc/img/civil_engineer.png" height="240">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA 1:** Ethan Woo (ethan.woo@uwaterloo.ca) <br> **TA 2:** Violet Cotton (violet.cotton@uwaterloo.ca) <br><br> **Class (AE121):** Mon & Wed (2:00 to 3:30 PM) at CPH 3604  <br> **Programming Lab (AE121):** Thu (12:30 to 2:30 PM) at CPH 1346 <br> <br> **Class (ENVE/GEOE121):** Mon & Wed (11:00 to 12:30 PM) at RCH 305<br> **Programming Lab (ENVE/GEOE121):** Fri (2:30 to 4:30 PM) at CPH 1346 <br> <br> **Office hours (TA)**: Visit the WEEF TA office (E2 1787) <br> **Office hours (Instructor)**: By appointment|
 
 **Last updated:** 2022-04-30  
 
@@ -13,7 +13,7 @@
 - [**Computational Method (Spring, 2019)**](old/s2019)
 
 **Key links**
-- [**LEARN**](https://learn.uwaterloo.ca/d2l/home/767310)
+- [**LEARN**]()
 - [**MATLAB Grader- (S22) AE/ENVE/GEOE 121: Homework**](https://grader.mathworks.com/courses/75314-s22-ae-enve-geoe-121-homework)
 - [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method)
 - [**MATLAB Grader- Quizzes in previous years**](https://grader.mathworks.com/courses/63504-quizzes-in-previous-years-computational-method)
@@ -27,9 +27,8 @@
 * **Apr 20, 2022:** Welcome!
 
 ## Course Schedule
-
-[**AE Schedule**]()
-[**ENVE/GEOE Schedule**]()
+[**AE Schedule**](doc/schedule_ae_enve_geoe.md#course-schedule-ae)
+[**ENVE/GEOE Schedule**](doc/schedule_ae_enve_geoe.md#course-schedule-envegeoe)
 
 ## Key Due Date
 |Due Date|Type|Schedule|
@@ -47,7 +46,7 @@
 |July 01 at 11:45pm|Homework|HW 05|
 |July 06 at 11:45pm|Homework|HW 06|
 |July 10 at 11:45pm|Pre-assessment|Module 09|
-|July 18 at 11:45pm|Pre-assessment|Module 11|
+|July 17 at 11:45pm|Pre-assessment|Module 11|
 |July 22 at 11:45pm|Homework|HW 07|
 |July 28 at 11:45pm|Homework|HW 08|
 
@@ -74,8 +73,8 @@ This course introduces computer programming for engineering students using MATLA
 This course includes lectures, tutorials, homework assignments, and quizzes:
 * [**Lectures**](#course-outline) are to cover the major topics, discussing the important programming concepts with worked-out examples. The instructor will teach the [*course material*](comp_method_book_cm_s21.pdf). 
 * [**Tutorials**](#tutorial) are **self-study** resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial: Computational Method*](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader.       
-* [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*(W22) CIVE 121: Homework*](https://grader.mathworks.com/courses/63549-w22-cive-121-homework) in the MATLAB Grader.
-* [**Quizzes**](#quiz) are to evaluate your knowledge and programming skills. There will be four quizzes over the course. Four quizzes will be posted on [*(W22) CIVE 121: Quizzes*](https://grader.mathworks.com/courses/64270-w22-cive-121-quizzes)
+* [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*(S22) AE/ENVE/GEOE 121: Homework*](https://grader.mathworks.com/courses/75314-s22-ae-enve-geoe-121-homework) in the MATLAB Grader.
+* [**Quizzes**](#quiz) are to evaluate your knowledge and programming skills. There will be four quizzes over the course. 
 
 ## Course Objectives
 By the end of this course, students should be able to  
@@ -89,7 +88,7 @@ By the end of this course, students should be able to
 * Attend all lectures. There are [video recordings of all lecture modules](#lecture-video) so you can review them if you do not understand the lectures clearly.    
 * Solve problems in the course materials and tutorials by yourself (please follow [the following instruction](#tutorial)).
 * Type and run all scripts of sample solutions in the course material and tutorial videos. Never skim the code.  
-* Make online engagement through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/767310) or or ask for help from TA.   
+* Make online engagement through **LEARN** or or ask for help from TA.   
 * Watch tutorial videos to check your answers to the problems.
 * Employ an editor, Workspace browser, and debugging tool to solve the problems (not on MATLAB Grader). 
 
@@ -109,12 +108,12 @@ All lectures will be delivered in person. **All students must watch lecture vide
 
 Lectures are to deliver fundamental knowledge and information in each module and **are not to give a direction on how to solve your homework assignments or quizzes**. However, all the practice problems were designed based on the course materials. Thus, if students do not find the relevance between them, they have not understood lectures yet and should carefully review them again. 
 
-
 ### Pre-assessment
-To confirm whether students watch the lecture videos, students need to pass a pre-assessment for each module before its due date. The assessment will start from Module 02. A pre-assement question for each module will be posted on [**here**](https://grader.mathworks.com/courses/75314-s22-ae-enve-geoe-121-homework/assignments/200935-pre-assessment). 
+To confirm whether students watch the lecture videos, students need to pass a pre-assessment for each module before its due date. The assessment will start from Module 02. A pre-assement question for each module will be posted on [**(S22) AE/ENVE/GEOE 121: Homework**](https://grader.mathworks.com/courses/75314-s22-ae-enve-geoe-121-homework).
 
-Students receive 1.5 point if they pass the pre-assessment for each module. The maximum score that students will receive from the pre-assessment is 9. This means students can get a full mark if they pass 6 questions among 8 modules (M02-M07, M09, M11). This considers unavoidable absence, such as illness, job interview. Note that students do not have to inform TA or instructor for delay submission. No matter the reason, students pass the question before the due date.  
+Students receive 1.5 point if they pass the pre-assessment for each module. The maximum scores that students will receive from the pre-assessment are 9. This means students can get a full mark if they pass 6 pre-assessements among 8 ones (M02-M07, M09, M11). This considers unavoidable absence, such as illness, job interview. Students do not have to inform TA or instructor for delay submission. No matter the reason, students pass the question before the due date. Otherwise, they cannot get a score.  
 
+### Schedule
 |Module|Topics|PREA|
 |:-----|:-----|:--:|
 |**Module 00**|Preliminaries|N/A|
@@ -132,7 +131,7 @@ Students receive 1.5 point if they pass the pre-assessment for each module. The 
 Here, 'PREA' indicates the deadline for the pre-assessment of the corresponding module. You can check all due date from [**this schedule table here**](#key-due-date)
 
 ### Lecture Video 
-Students can watch lecture videos for each module. If students are absent from present the classes unavoidably or cannot follow in-person lectures, please watch the lecture videos for their study.  
+Students can watch lecture videos for each module. 
 
 |Module|Video| 
 |:----|:----|
@@ -149,7 +148,7 @@ Students can watch lecture videos for each module. If students are absent from p
 |**Module 11**|[<img src="http://img.youtube.com/vi/qubtDteNV38/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=qubtDteNV38)  [<img src="http://img.youtube.com/vi/NgntRda2sCY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=NgntRda2sCY)|
 
 ## Course Attendance
-Students are highly encouraged to attend all classes and have to attend the classes to receive 9 point attendance scores. There will be more than 12 fun games using [Kahoot](https://kahoot.it/) during classes, and students will join the question through their cell phones. There will be one or two game per each module and students receive 1 point **if they just join the game.** The maximum score that students will receive from these games is 9, which mean students can get a full mark (9 points) if they join at least nine games. Similar to the pre-assessement, this considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. Note that the instructor do not notify in advance when or what class the game in each module starts.  
+Students are highly encouraged to attend all classes. They have to attend the classes to receive 9 point attendance scores. There will be more than 12 fun games using [Kahoot](https://kahoot.it/) during classes, and students will join the question through their cell phones. There will be one or two game per each module and students receive 1 point **if they just join the game.** The maximum score that students will receive from these games is 9, which mean students can get a full mark (9 points) if they join at least nine games. Similar to the pre-assessement, this considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. Note that the instructor do not notify in advance when or what class the game in each module starts.  
 
 Again, students **do not have to** inform TA or instructor for their absent in the class. No matter the reason, students **cannot** get the point if they do not join the game during the class. Students can still get a full attendance mark although they miss one or two classes (games). Thus, we will not arrange a special accommodation for the attendance. Please do not send an email to the instructor or TA to explain your absent.   
 
@@ -216,7 +215,7 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 |**Quiz 04**|Module 01 ~ 07, 09, 11|TBD|150 minutes|CPH 1346|TBD|
 
 ## Policy for Cheating 
-Students are encouraged to work in groups through collaborative learning only for homework assignments, but are required to submit their assignments individually. Students **must not share their solutions with other students**. The TA will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs or instructor. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. Also, you might be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). **Both copiers and copyees are guilty of cheating and will receive an equal penalty.** The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
+Students are encouraged to work in groups through collaborative learning only for homework assignments, but are required to submit their assignments individually. Students **must not share their solutions with other students**. The TA will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs or instructor. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. Also, you might be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). **Both copiers and copyees are guilty of cheating and will receive an equal penalty.** **The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement and pre-assessment, which means they will not receive extra points.  **
 
 Experience has shown that the students who copy friend's solutions **do not know how to make them different** and tend to not bother to change their friends' code. **You should not trust your friends.** Once you share the solution with your friend, you will likely get caught for cheating. Sharing your solutions with your friend will not benefit you or your friends, and overall is a dumb thing to do. 
 
@@ -237,7 +236,7 @@ Note that TAs will check the time records of the latest submitted solutions. Ple
 
 ### Schedule
 |HW|Topic|Start date|Due date|
-|:---|:-----|:-----|:----|:-----|
+|:---|:-----|:-----|:----|
 |HW 01|Module 01            |May 02|May 13|
 |HW 02|Module 01 ~ Module 02|May 09|May 20|
 |HW 03|Module 01 ~ Module 04|May 23|June 03|
@@ -267,7 +266,6 @@ Please follow the instruction having Discussions on LEARN below:
 Before you ask questions, please take a look at the following [**Q&A document**](qna) first. It is a compilation of frequently asked questions for each Module. You might find the answers to your questions!
 
 ## Grading  
-The final grade will be based on the total marks earned from 6 homework assignments (out of 8) and 4 quizzes. Their grade components are provided as:
 
 |Component|Scores|
 |:---|:-----|
