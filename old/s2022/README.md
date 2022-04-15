@@ -19,18 +19,43 @@
 
 **Key links**
 - [**LEARN**](https://learn.uwaterloo.ca/d2l/home/767310)
-- [**MATLAB Grader- (W22) AE/ENVE/GEOE 121: Homework**]()
-- [**MATLAB Grader- (W22) AE/ENVE/GEOE 121: Quizzes**]()
+- [**MATLAB Grader- (S22) AE/ENVE/GEOE 121: Homework**](https://grader.mathworks.com/courses/75314-s22-ae-enve-geoe-121-homework)
 - [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method)
 - [**MATLAB Grader- Quizzes in previous years**](https://grader.mathworks.com/courses/63504-quizzes-in-previous-years-computational-method)
 - [**FAQ document**](qna)
 - [**Course material**](comp_method_book_cm_s21.pdf)
+- [**MATLAB Grader- (S22) AE 121: Quizzes**](https://grader.mathworks.com/courses/76605-s22-ae-121-quizzes)
+- [**MATLAB Grader- (S22) ENVE/GEOE 121: Quizzes**](https://grader.mathworks.com/courses/76610-s22-enve-geoe-121-quizzes)
 - [**Attendance & Extra mark document**](https://uofwaterloo.sharepoint.com/:x:/s/tm-cee-uwcviss/EcEWEvABwh9CovMIkkh56SABkTBaeF5QYH5Cw2LRthettg?e=kDQ3xm)  
 
 ## Announcement
 
 ## Course Schedule
 
+### AE
+
+
+### ENVE/GEOE
+
+## Key Due Date
+|Due Date|Type|Schedule|
+|:----|:----|:----|
+|May 08 at 11:45pm|Pre-assessment|Module 02|
+|May 13 at 11:45pm|Homework|HW 01|
+|May 15 at 11:45pm|Pre-assessment|Module 03|
+|May 20 at 11:45pm|Homework|HW 02|
+|May 22 at 11:45pm|Pre-assessment|Module 04|
+|May 29 at 11:45pm|Pre-assessment|Module 05|
+|June 03 at 11:45pm|Homework|HW 03|
+|June 10 at 11:45pm|Homework|HW 04|
+|June 19 at 11:45pm|Pre-assessment|Module 06|
+|June 26 at 11:45pm|Pre-assessment|Module 07|
+|July 01 at 11:45pm|Homework|HW 05|
+|July 06 at 11:45pm|Homework|HW 06|
+|July 10 at 11:45pm|Pre-assessment|Module 09|
+|July 18 at 11:45pm|Pre-assessment|Module 11|
+|July 22 at 11:45pm|Homework|HW 07|
+|July 28 at 11:45pm|Homework|HW 08|
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -97,19 +122,19 @@ Lectures are to deliver fundamental knowledge and information in each module and
 
 You can check the schedule all at once from [this calendar](#calendar).
 
-|Module|Topics|PREA|[Quiz](#quiz)| 
-|:-----|:-----|:--:|:-----------:|
-|**Module 00**|Preliminaries|January 08||
-|**Module 01**|Basic MATLAB Programming|January 12||
-|**Module 02**|Vectors and Matrices|May 08||
-|**Module 03**|Selection Statement|May 15||
-|**Module 04**|Loop Statement|May 23||
-|**Module 05**|Built-in Functions|||
-|**Module 06**|Operator|March 07||
-|**Module 07**|Function|March 21||
-|**Module 08**|Plotting|||
-|**Module 09**|Data Structure|March 23||
-|**Module 11**|Text Manipulation|March 30||
+|Module|Topics|PREA| 
+|:-----|:-----|:--:|
+|**Module 00**|Preliminaries|N/A|
+|**Module 01**|Basic MATLAB Programming|N/A|
+|**Module 02**|Vectors and Matrices|May 08|
+|**Module 03**|Selection Statement|May 15|
+|**Module 04**|Loop Statement|May 22|
+|**Module 05**|Built-in Functions|May 29|
+|**Module 06**|Operator|June 19|
+|**Module 07**|Function|June 26|
+|**Module 08**|Plotting|N/A|
+|**Module 09**|Data Structure|July 10|
+|**Module 11**|Text Manipulation|July 18|
 
 ### Lecture Video 
 Students can watch lecture videos for each module. If students are absent from present the classes unavoidably or cannot follow in-person lectures, please watch the lecture videos for their study.  
@@ -173,29 +198,27 @@ The programming labs will be held in a main computer lab (CPH 1346). The program
 ## Quiz
 The quizzes will be delivered through the MATLAB Grader like, tutorials or homework assignments. The quizzes will be posted on 
 
-AE: 
+* **AE**: [https://grader.mathworks.com/courses/76605-s22-ae-121-quizzes](https://grader.mathworks.com/courses/76605-s22-ae-121-quizzes)
+* **ENVE/GEOE**: [https://grader.mathworks.com/courses/76610-s22-enve-geoe-121-quizzes](https://grader.mathworks.com/courses/76610-s22-enve-geoe-121-quizzes)
 
-EG: 
-
-
-[*(W22) CIVE 121: Quizzes*](https://grader.mathworks.com/courses/64270-w22-cive-121-quizzes). The major differences are a **time limit** and **a limited submission**. Remember that although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB (program) editor before submission. 
+The major differences are a **time limit** and **a limited submission**. Remember that although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB (program) editor before submission. 
  
 ### Schedule 
 ## AE
 |Quiz|Topics|Date|Duration|Location|Instruction|
 |:---|:-------|:-----|:----|:----|:----|
-|**Quiz 01**|Module 01 ~ 02|January 27 at 1:30 pm|100 minutes|CPH 1346|TBD|
-|**Quiz 02**|Module 01 ~ 05|February 17 at 1:30 pm|120 minutes|CPH 1346|TBD|
-|**Quiz 03**|Module 01 ~ 07|March 24 at 1:30 pm|120 minutes|CPH 1346|TBD|
-|**Quiz 04**|Module 01 ~ 07, 09, 11|April 18 at 12:30 pm|150 minutes|CPH 1346|TBD|
+|**Quiz 01**|Module 01 ~ 02|May 19 at 12:30 pm|100 minutes|CPH 1346|TBD|
+|**Quiz 02**|Module 01 ~ 05|June 09 at 12:30 pm|120 minutes|CPH 1346|TBD|
+|**Quiz 03**|Module 01 ~ 07|July 07 at 12:30 pm|120 minutes|CPH 1346|TBD|
+|**Quiz 04**|Module 01 ~ 07, 09, 11|TBD|150 minutes|CPH 1346|TBD|
 
-## EG
+## ENVE/GEOE
 |Quiz|Topics|Date|Duration|Location|Instruction|
 |:---|:-------|:-----|:----|:----|:----|
-|**Quiz 01**|Module 01 ~ 02|January 27 at 1:30 pm|100 minutes|CPH 1346|TBD|
-|**Quiz 02**|Module 01 ~ 05|February 17 at 1:30 pm|120 minutes|CPH 1346|TBD|
-|**Quiz 03**|Module 01 ~ 07|March 24 at 1:30 pm|120 minutes|CPH 1346|TBD|
-|**Quiz 04**|Module 01 ~ 07, 09, 11|April 18 at 12:30 pm|150 minutes|CPH 1346|TBD|
+|**Quiz 01**|Module 01 ~ 02|May 20 at 2:30 pm|100 minutes|CPH 1346|TBD|
+|**Quiz 02**|Module 01 ~ 05|June 10 at 2:30 pm|120 minutes|CPH 1346|TBD|
+|**Quiz 03**|Module 01 ~ 07|July 08 at 2:30 pm|120 minutes|CPH 1346|TBD|
+|**Quiz 04**|Module 01 ~ 07, 09, 11|TBD|150 minutes|CPH 1346|TBD|
 
 ## Policy for Cheating 
 Students are encouraged to work in groups through collaborative learning only for homework assignments, but are required to submit their assignments individually. Students **must not share their solutions with other students**. The TA will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs or instructor. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. Also, you might be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). **Both copiers and copyees are guilty of cheating and will receive an equal penalty.** The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
@@ -209,50 +232,35 @@ For your information, 20 students were caught by cheating or academic dishonesty
 ## Homework Assignment
 The homework assignments will be designed using the MATLAB Grader. This tool allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments. Problems in the homework assignments are more challenging than examples or problems in the course materials. You might seek bits of help from your colleagues or TAs. 
 
-Again, please do not get used to writing your script directly to the MATLAB Grader only to pass the testers. For quizzes, students will only be able to submit their code on MATLAB Grader with a limited number. Thus, students are encouraged to use the MATLAB (program) editor to prepare the problems in the quizzes.  
+You do not get used to writing your script directly to the MATLAB Grader only to pass the testers. For quizzes, students will only be able to submit their code on MATLAB Grader with a limited number. Thus, students are encouraged to use the MATLAB (program) editor to prepare the problems in the quizzes.  
 
-Each homework assignment have 2 points on a final grade and students can get the maximum 10 points from the homework assignment. 
+There are 8 homework assignments. Each homework assignment have 2 points on a final grade and students can get the maximum 12 points from the homework assignment. This means students get a full mark (12 points) if they submit 6 homework assignments **on time**. **No late submission will be accepted for any reason.** All delayed submission will be zero. Although students are not able to submit the homeworks beyond their control (E.g., illness, job interview), **the instructor will not give any accommodation.** Thus, please do not waste your two chances for optional submission. Students do not ask TAs or instructor delayed submission. In case of significant health issues that stop from submitting more than two weeks, students should contact both the First-Year Engineering Office and the instructor and get a formal approval.   
 
- Late submission will not be accepted 
+TAs will not manually grade students' homework. If they pass all testers, they will get a full mark. All problems are equal weights. For example, students pass only 3 questions out of 6, students will get 1 point.  
 
-All problems in homeworks have equal weights. 
-
-All students must submit homework assignments on time. **No late submission will be accepted for any reason.** All delayed submission will be zero. Students must pay close attention to deadlines. Since students only submit six (out of 8) homeworks to get a full mark, please do not waste your two chances for optional submission. 
-
-Note that students do not ask TAs or instructor delayed submission. In case of significant health issues that stop from submitting 
-
-
-a third homework assignment being submitted late, students should contact both the First-Year Engineering Office and the instructor, and clearly explain why they had to submit all **three homework assignments** late. Therefore, **please do not waste your two chances for delayed submission**.
-
-
-
-The **Late submission policy** allow students to have **a maximum one-week delay for two of the six homework assignments (HW07 is not included here).** Students do not have to inform TA for their delayed submission as well as the reason for the delay. The MATLAB Grader records your submission time. TAs will just count the number of delays in your homework assignments. TAs will inform the students who delay their submission a second time. If the number of delays is more than two, the third delayed homework will be zero. 
-
-In case of significant health issues that results in a third homework assignment being submitted late, students should contact both the First-Year Engineering Office and the instructor, and clearly explain why they had to submit all **three homework assignments** late. Therefore, **please do not waste your two chances for delayed submission**. Again, **no late submission is accepted after the second due date OR if you have used up both your extra weeks**, and any missed homework will be given a **grade of 0**. There is no exception.  
-
-Note that TAs will check the time records of the latest submitted solutions. **If the students revise their solution after the first due date, it will be considered that you are using one of your two late submission attempts**. Please do not revise your submission after the due date unless you plan on using your late week. No revisions are allowed after the second due date.
+Note that TAs will check the time records of the latest submitted solutions. Please do not revise (resubmit) your homework assignment after due date. This will be considered as delay submission. 
 
 ### Schedule
-|HW|Topic|Start date|First due date|
+|HW|Topic|Start date|Due date|
 |:---|:-----|:-----|:----|:-----|
-|HW 01|Module 01            |January 07|January 18|
-|HW 02|Module 01 ~ Module 02|January 12|January 25|
-|HW 03|Module 01 ~ Module 04|January 24|February 08|
-|HW 04|Module 01 ~ Module 05|February 02|February 09|
-|HW 05|Module 01 ~ Module 06|February 02|February 09|
-|HW 06|Module 01 ~ Module 07|February 28|March 15|
-|HW 07|Module 01 ~ Module 09|March 07|March 22|
-|HW 08|Module 01 ~ Module 11|March 21|April 05|
+|HW 01|Module 01            |May 02|May 13|
+|HW 02|Module 01 ~ Module 02|May 09|May 20|
+|HW 03|Module 01 ~ Module 04|May 23|June 03|
+|HW 04|Module 01 ~ Module 05|May 30|June 10|
+|HW 05|Module 01 ~ Module 06|June 20|July 01|
+|HW 06|Module 01 ~ Module 07|June 27|July 06|
+|HW 07|Module 01 ~ Module 07, 09|July 11|July 22|
+|HW 08|Module 01 ~ Module 07, 09, 11|July 18|July 28|
 
 * Students can start homework assignments anytime if they are visible in the MATLAB Grader.
 * Each homework assignments will be closed at 11:45pm on its second due date (NOT 11:59pm). You CANNOT submit your work after the second due date. Please submit your work 30 minutes earlier. 
 
 ## Communication  
-**All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/767310) but all information related to the course will be posted on this course website. The instructor and TA will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussions.   
+**All communication will be made through LEARN but all information related to the course will be posted on this course website.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussions.   
 
-In this course, the students are highly encouraged to engage in online discussions to create and facilitate a **collaborative learning experience**. Students are invited to ask questions and answer them and share their knowledge and resources. Please direct your communications to the Discussion Forum on LEARN. However, if there is a good reason not to use the discussion forum (e.g., personal matters, a question that might reveal your solution of your report, etc.), please directly contact the TAs or instructor via MS Team.  
+Students are invited to ask questions and answer them and share their knowledge and resources. Please direct your communications to the Discussion Forum on LEARN. However, if there is a good reason not to use the discussion forum (e.g., personal matters, a question that might reveal your solution of your report, etc.), please directly contact the TAs or instructor via MS Team.  
 
-To encourage online participation, When students ask at least one question each month in LEARN, they will receive **1 point of an online engagement extra points each month**. Thus, students will receive up to 4 points in total. **If the questions are trivial and easy to be answered from the course materials or lecture/tutorial videos, they will not be counted.** 
+To encourage online participation, When students ask at least one question each month in LEARN, they will receive **1 point of an online engagement extra points each month**. Students will receive up to 4 points in total. **If the questions are trivial and easy to be answered from the course materials or lecture/tutorial videos, they will not be counted.** 
 
 Please follow the instruction having Discussions on LEARN below:
 - Please be respectful of your peers, instructor, and others in your posts and comments.
