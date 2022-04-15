@@ -1,4 +1,4 @@
-# ENVE/GEOE121 & AE 121: Computational Method (S2022)
+# AE/ENVE/GEOE121: Computational Method (S2022)
 
 |||
 |:--------|:-----------|
@@ -9,7 +9,7 @@
 
 <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 <br> **Office hours (Instructor)**: by appointment|
 
-**Last updated:** 2022-03-28  
+**Last updated:** 2022-04-30  
 
 **Previous offerings of this course**
 - [**Computational Method (Winter, 2022)**](old/w2022)
@@ -19,8 +19,8 @@
 
 **Key links**
 - [**LEARN**](https://learn.uwaterloo.ca/d2l/home/767310)
-- [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework)
-- [**MATLAB Grader- (W22) CIVE 121: Quizzes**](https://grader.mathworks.com/courses/64270-w22-cive-121-quizzes)
+- [**MATLAB Grader- (W22) AE/ENVE/GEOE 121: Homework**]()
+- [**MATLAB Grader- (W22) AE/ENVE/GEOE 121: Quizzes**]()
 - [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method)
 - [**MATLAB Grader- Quizzes in previous years**](https://grader.mathworks.com/courses/63504-quizzes-in-previous-years-computational-method)
 - [**FAQ document**](qna)
@@ -28,17 +28,8 @@
 - [**Attendance & Extra mark document**](https://uofwaterloo.sharepoint.com/:x:/s/tm-cee-uwcviss/EcEWEvABwh9CovMIkkh56SABkTBaeF5QYH5Cw2LRthettg?e=kDQ3xm)  
 
 ## Announcement
-* **Mar 25, 2022:** HW07 has been posted.  
 
 ## Course Schedule
-### March and April
-|Time|Topic|Location|
-|:----|:-----|:----|
-|Mar 28 (Mon) at 1:30pm|Lecture Mod09 + Review Mod09|RCH 302|
-|Mar 30 (Wed) at 1:30pm|Lecture Mod11 + Review Mod11|RCH 302|
-|Mar 31 (Thu) at 1:30pm - 5:30pm|Practice Mod09, 11|CPH-1346|
-|Apr 04 (Mon) at 1:30pm|Quiz 04 Review Session|RCH 302|
-
 
 
 ## Table of Contents
@@ -56,7 +47,6 @@
 - [Homework Assignment](#homework-assignment)
 - [Communication](#communication)
 - [Grading](#grading)
-- [Calendar](#calendar)
 - [Note](#note)
 
 ## Course Description
@@ -96,7 +86,10 @@ This course is not based on any particular textbook. However, the [course materi
 * Moore, Holly. *"MATLAB for Engineers,"* Pearson, 2017.
 
 ## Course Outline
-All lectures will be delivered in person. However, you can watch the video recordings of each module from [here](#lecture-video) or [**YouTube Channel**](https://youtube.com/playlist?list=PLa1nAPP8qUX9qwRR6Sj_dboIriPIGYgsm). There are ten modules and each module has 1~3 lectures. The study load for each module is marked as the number of regular 80 minutes offline classes, which becomes a total of 24 classes. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures, assignments, and quizzes. 
+All lectures will be delivered in person. However, you can watch the video recordings of each module from [here](#lecture-video) or [**YouTube Channel**](https://youtube.com/playlist?list=PLa1nAPP8qUX9qwRR6Sj_dboIriPIGYgsm). All students must watch lecture video before 
+
+
+There are ten modules and each module has 1~3 lectures. The study load for each module is marked as the number of regular 80 minutes offline classes, which becomes a total of 24 classes. The expected time to finish (ETF) in each module is also provided to help students manage their time and keep up with lectures, assignments, and quizzes. 
 
 The lectures will cover the course materials (You can download it from [**here**](comp_method_book_cm_s21.pdf)), developed by the instructor. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and all previous modules. For example (if you see the table below), Quiz 02 will cover Module 01 to Module 05. 
 
@@ -104,19 +97,19 @@ Lectures are to deliver fundamental knowledge and information in each module and
 
 You can check the schedule all at once from [this calendar](#calendar).
 
-|Module|Topics|Load|ETF|Kahoot|[Quiz](#quiz)| 
-|:-----|:-----|:--:|:--:|:-----------:|:-----------:|
-|**Module 00**|Preliminaries|1|January 05|||
-|**Module 01**|Basic MATLAB Programming|2|January 12|[Link](tutorial/kahoot/kahoot_mod01.pdf) ||
-|**Module 02**|Vectors and Matrices|2|January 19|[Link](tutorial/kahoot/kahoot_mod02.pdf) |**Quiz 01** (January 27)|
-|**Module 03**|Selection Statement |2|January 26|[Link](tutorial/kahoot/kahoot_mod03.pdf)| |
-|**Module 04**|Loop Statement|2|February 02|[Link](tutorial/kahoot/kahoot_mod04.pdf)|**Quiz 02** (Februray 17)|
-|**Module 05**|Built-in Functions|3|February 09|[Link](tutorial/kahoot/kahoot_mod05_share.pdf)||
-|**Module 06**|Operator|3|March 07|||
-|**Module 07**|Function|3|March 21||**Quiz 03** (March 24)|
-|**Module 08**|Plotting|1|March 16|||
-|**Module 09**|Data Structure|2|March 23|||
-|**Module 11**|Text Manipulation|2|March 30||**Quiz 04** (TBD)|
+|Module|Topics|PREA|[Quiz](#quiz)| 
+|:-----|:-----|:--:|:-----------:|
+|**Module 00**|Preliminaries|January 08||
+|**Module 01**|Basic MATLAB Programming|January 12||
+|**Module 02**|Vectors and Matrices|May 08||
+|**Module 03**|Selection Statement|May 15||
+|**Module 04**|Loop Statement|May 23||
+|**Module 05**|Built-in Functions|||
+|**Module 06**|Operator|March 07||
+|**Module 07**|Function|March 21||
+|**Module 08**|Plotting|||
+|**Module 09**|Data Structure|March 23||
+|**Module 11**|Text Manipulation|March 30||
 
 ### Lecture Video 
 Students can watch lecture videos for each module. If students are absent from present the classes unavoidably or cannot follow in-person lectures, please watch the lecture videos for their study.  
@@ -136,7 +129,7 @@ Students can watch lecture videos for each module. If students are absent from p
 |**Module 11**|[<img src="http://img.youtube.com/vi/qubtDteNV38/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=qubtDteNV38)  [<img src="http://img.youtube.com/vi/NgntRda2sCY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=NgntRda2sCY)|
 
 ## Course Attendance
-Students are highly encouraged to attend all classes and have to attend the classes to receive 12 point attendance scores. There will be 10 fun games using [Kahoot](https://kahoot.it/) during classes, and students will join the question through their cell phones. There will be one or two game per each module and students receive 1.5 point **if they just join the game.** The maximum score that students will receive from these games is 12, not 15, which mean students can get a full mark (12 points) if they join at least eight games. This considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. Note that the instructor do not notify in advance when or what class the game in each module starts.  
+Students are highly encouraged to attend all classes and have to attend the classes to receive 10 point attendance scores. There will be 12 fun games using [Kahoot](https://kahoot.it/) during classes, and students will join the question through their cell phones. There will be one or two game per each module and students receive 1.5 point **if they just join the game.** The maximum score that students will receive from these games is 12, not 15, which mean students can get a full mark (12 points) if they join at least eight games. This considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. Note that the instructor do not notify in advance when or what class the game in each module starts.  
 
 Note that students **do not have to** inform TA or instructor for their absent in the class. No matter the reason, students **cannot** get the point if they do not join the game during the class. Students can still get a full attendance mark although they miss one or two classes (games). Thus, we will not arrange a special accommodation for the attendance. Please do not send an email to the instructor or TA to explain your absent.   
 
@@ -175,36 +168,34 @@ The tutorials are self-study resources to assist students in the problems of cou
 You do not have to memorize any of the solutions. You can freely access all these solutions during the quizzes because they are open-book quizzes. However, I tell you, without going through this process, you cannot write your own script during the quizzes and will not get a good mark on them. 
 
 ## Programming Lab
-The programming labs will be held in a main computer lab (CPH 1346). The programming labs include <del> instruction sessions (Lab 01, 02) </del>, quiz solution review sessions (Lab 05, 08, 11), quiz review sessions (Lab 03, 06, Extra) and quizzes (Lab 04, 07, 10). These labs (except for quizzes) are designed to focus on hands-on practice with MATLAB programming. Students can use the computers in the lab or bring their own laptop if MATLAB is installed. **The instructor and TA will not check the attendance** but highly recommend coming to this sessions.  
-
-<!---
-### Schedule
-|Lab|Topics|Date|Instructor|
-|:---|:-------|:-----|:-----|
-|Lab 01|<del> Getting started with MATLAB </del>|<del> January 06 at 1:30pm </del>|<del> Chul Min Yeum</del>|
-|Lab 02|<del> Helping your first homework (HW01) </del>|<del> January 13 at 1:30pm|<del> Chul Min Yeum & Jesse Parker </del>|
-|Lab 03|[Quiz 01 Review Session (**online**)](tutorial/review/Q1_Review.md) |January 20 at 1:30pm|Jesse Parker|
-|Lab 04|Quiz 01 (**online**)|January 27 at 1:30pm|Chul Min Yeum & TAs|
-|Lab 05|Quiz 01 Solution Review (**online**)|February 03 at 1:30pm|Chul Min Yeum|
-|Lab 06|Practice Module 03 and 04|February 10 at 1:30pm|Chul Min Yeum|
-|Lab 07|Quiz 02|February 17 at 1:30pm|Chul Min Yeum & TAs|
-|Lab 08|Quiz 02 Solution Review|March 10 at 1:30pm|Chul Min Yeum|
-|Lab 09|Quiz 03 Review Session|March 17 at 1:30pm|Jesse Parker|
-|Lab 10|Quiz 03|March 24 at 1:30pm|Chul Min Yeum & TAs|
-|Lab 11|Quiz 03 Solution Review|March 31 at 1:30pm|Chul Min Yeum|
-|Extra|Quiz 04 Review Session|April 04 at 1:30pm|Jesse Parker|
---->
+The programming labs will be held in a main computer lab (CPH 1346). The programming labs include module reviews and quizzes. The programming labs are designed to focus on hands-on practice with MATLAB programming. Students can use the computers in the lab or bring their own laptop if MATLAB is installed. **The instructor and TAs will check the attendance but they will not used for grading.** Students are highly encouraged to attend the programming labs.  
 
 ## Quiz
-The quizzes will be delivered through the MATLAB Grader like, tutorials or homework assignments. The quizzes will be posted on [*(W22) CIVE 121: Quizzes*](https://grader.mathworks.com/courses/64270-w22-cive-121-quizzes). The major differences are a **time limit** and **a limited submission**. Remember that although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB (program) editor before submission. 
+The quizzes will be delivered through the MATLAB Grader like, tutorials or homework assignments. The quizzes will be posted on 
+
+AE: 
+
+EG: 
+
+
+[*(W22) CIVE 121: Quizzes*](https://grader.mathworks.com/courses/64270-w22-cive-121-quizzes). The major differences are a **time limit** and **a limited submission**. Remember that although students do not pass pre-designed tests, they are not able to go back and edit their submitted solutions. Students are strongly encouraged to test and evaluate their solutions using a MATLAB (program) editor before submission. 
  
-### Schedule  
-|Exam|Topics|Date|Duration|Location|Instruction|
+### Schedule 
+## AE
+|Quiz|Topics|Date|Duration|Location|Instruction|
 |:---|:-------|:-----|:----|:----|:----|
-|**Quiz 01**|Module 01 ~ 02|January 27 at 1:30 pm|100 min|Online|[**Quiz 01**](doc/Quiz1_Description.md) |
-|**Quiz 02**|Module 01 ~ 04|February 17 at 1:30 pm|120 min|CPH 1346|[**Quiz 02**](doc/Quiz2_Description.md)|
-|**Quiz 03**|Module 01 ~ 07|March 24 at **1:40** pm|120 minutes|CPH 1346|[**Quiz 03**](doc/Quiz3_Description.md)|
-|**Quiz 04**|Module 01 ~ 07, 09, 11|April 18 at 12:30 pm|150 minutes|CPH 1346|   
+|**Quiz 01**|Module 01 ~ 02|January 27 at 1:30 pm|100 minutes|CPH 1346|TBD|
+|**Quiz 02**|Module 01 ~ 05|February 17 at 1:30 pm|120 minutes|CPH 1346|TBD|
+|**Quiz 03**|Module 01 ~ 07|March 24 at 1:30 pm|120 minutes|CPH 1346|TBD|
+|**Quiz 04**|Module 01 ~ 07, 09, 11|April 18 at 12:30 pm|150 minutes|CPH 1346|TBD|
+
+## EG
+|Quiz|Topics|Date|Duration|Location|Instruction|
+|:---|:-------|:-----|:----|:----|:----|
+|**Quiz 01**|Module 01 ~ 02|January 27 at 1:30 pm|100 minutes|CPH 1346|TBD|
+|**Quiz 02**|Module 01 ~ 05|February 17 at 1:30 pm|120 minutes|CPH 1346|TBD|
+|**Quiz 03**|Module 01 ~ 07|March 24 at 1:30 pm|120 minutes|CPH 1346|TBD|
+|**Quiz 04**|Module 01 ~ 07, 09, 11|April 18 at 12:30 pm|150 minutes|CPH 1346|TBD|
 
 ## Policy for Cheating 
 Students are encouraged to work in groups through collaborative learning only for homework assignments, but are required to submit their assignments individually. Students **must not share their solutions with other students**. The TA will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs or instructor. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. Also, you might be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). **Both copiers and copyees are guilty of cheating and will receive an equal penalty.** The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement, which means they will not receive extra points.  
@@ -220,38 +211,41 @@ The homework assignments will be designed using the MATLAB Grader. This tool all
 
 Again, please do not get used to writing your script directly to the MATLAB Grader only to pass the testers. For quizzes, students will only be able to submit their code on MATLAB Grader with a limited number. Thus, students are encouraged to use the MATLAB (program) editor to prepare the problems in the quizzes.  
 
-The **Late submission policy** allow students to have **a maximum one-week delay for two of the six homework assignments (HW07 is not included here).** Students do not have to inform TA for their delayed submission as well as the reason for the delay. The MATLAB Grader records your submission time. TAs will just count the number of delays in your homework assignments. TAs will inform the students who delay their submission a second time. If the number of delays is more than two, the third delayed homework will be zero. Students must pay close attention to deadlines. 
+Each homework assignment have 2 points on a final grade and students can get the maximum 10 points from the homework assignment. 
+
+ Late submission will not be accepted 
+
+All problems in homeworks have equal weights. 
+
+All students must submit homework assignments on time. **No late submission will be accepted for any reason.** All delayed submission will be zero. Students must pay close attention to deadlines. Since students only submit six (out of 8) homeworks to get a full mark, please do not waste your two chances for optional submission. 
+
+Note that students do not ask TAs or instructor delayed submission. In case of significant health issues that stop from submitting 
+
+
+a third homework assignment being submitted late, students should contact both the First-Year Engineering Office and the instructor, and clearly explain why they had to submit all **three homework assignments** late. Therefore, **please do not waste your two chances for delayed submission**.
+
+
+
+The **Late submission policy** allow students to have **a maximum one-week delay for two of the six homework assignments (HW07 is not included here).** Students do not have to inform TA for their delayed submission as well as the reason for the delay. The MATLAB Grader records your submission time. TAs will just count the number of delays in your homework assignments. TAs will inform the students who delay their submission a second time. If the number of delays is more than two, the third delayed homework will be zero. 
 
 In case of significant health issues that results in a third homework assignment being submitted late, students should contact both the First-Year Engineering Office and the instructor, and clearly explain why they had to submit all **three homework assignments** late. Therefore, **please do not waste your two chances for delayed submission**. Again, **no late submission is accepted after the second due date OR if you have used up both your extra weeks**, and any missed homework will be given a **grade of 0**. There is no exception.  
 
 Note that TAs will check the time records of the latest submitted solutions. **If the students revise their solution after the first due date, it will be considered that you are using one of your two late submission attempts**. Please do not revise your submission after the due date unless you plan on using your late week. No revisions are allowed after the second due date.
 
 ### Schedule
-|HW|Topic|Point|Start date|First due date|Second due date|
-|:---|:-----|:-----|:----|:-----|:-----|
-|HW 01|Module 01            |2|January 07|January 18|January 25|
-|HW 02|Module 01 ~ Module 02|2|January 12|January 25|February 01|
-|HW 03|Module 01 ~ Module 03|2|January 24|February 08|February 15|
-|HW 04|Module 01 ~ Module 04|2|February 02|February 09|February 15|
-|HW 05|Module 01 ~ Module 06|2|February 28|March 15|March 22|
-|HW 06|Module 01 ~ Module 07|4|March 07|March 22|March 29|
-|HW 07|Module 01 ~ Module 11|4|March 21|April 05|April 05|
+|HW|Topic|Start date|First due date|
+|:---|:-----|:-----|:----|:-----|
+|HW 01|Module 01            |January 07|January 18|
+|HW 02|Module 01 ~ Module 02|January 12|January 25|
+|HW 03|Module 01 ~ Module 04|January 24|February 08|
+|HW 04|Module 01 ~ Module 05|February 02|February 09|
+|HW 05|Module 01 ~ Module 06|February 02|February 09|
+|HW 06|Module 01 ~ Module 07|February 28|March 15|
+|HW 07|Module 01 ~ Module 09|March 07|March 22|
+|HW 08|Module 01 ~ Module 11|March 21|April 05|
 
-* You can check the schedule all at once from [this calendar](#calendar).
-* Students can start homework assignments if they are visible in the MATLAB Grader.
-* There is no more delay for the last homework (HW 07). 
+* Students can start homework assignments anytime if they are visible in the MATLAB Grader.
 * Each homework assignments will be closed at 11:45pm on its second due date (NOT 11:59pm). You CANNOT submit your work after the second due date. Please submit your work 30 minutes earlier. 
-
-### Homework Solution Review
-|Module|Update Date|Video| 
-|:----|:----|:----| 
-|**HW 01**|January 26|[<img src="http://img.youtube.com/vi/KZpmXBNsAOk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=KZpmXBNsAOk)|
-|**HW 02**|February 02|[<img src="http://img.youtube.com/vi/bdSxr9wuCP8/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=bdSxr9wuCP8)|
-|**HW 03**|February 16|[<img src="http://img.youtube.com/vi/3xXsQVnupQk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=3xXsQVnupQk)|
-|**HW 04**|February 16|[<img src="http://img.youtube.com/vi/c6qtLnsTuwc/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=c6qtLnsTuwc)|
-|**HW 05**|March 23|[<img src="http://img.youtube.com/vi/-D7BBLJ1dzY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=-D7BBLJ1dzY)|
-|**HW 06**|March 30||
-|**HW 07**|April 06||
 
 ## Communication  
 **All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/767310) but all information related to the course will be posted on this course website. The instructor and TA will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussions.   
@@ -270,28 +264,19 @@ Please follow the instruction having Discussions on LEARN below:
 Before you ask questions, please take a look at the following [**Q&A document**](qna) first. It is a compilation of frequently asked questions for each Module. You might find the answers to your questions!
 
 ## Grading  
-The final grade will be based on the total marks earned from 7 homework assignments and 4 quizzes. Their grade components are provided as:
+The final grade will be based on the total marks earned from 6 homework assignments (out of 8) and 4 quizzes. Their grade components are provided as:
 
 |Component|Scores|
 |:---|:-----|
-|**Attendance**| 12 |
-|**Homework assignments**| 18 |
+|**Pre-assessment**| 8 |
+|**Attendance**| 10 |
+|**Homework assignments**| 12 |
 |**Quiz #1**| 10 |
 |**Quiz #2**| 15 |
 |**Quiz #3**| 20 |
 |**Quiz #4**| 25 |
 |**Online engagement**|extra up to 4*|
 |**Total** |100| 
-
-## Calendar
-|![](doc/calendar/jan_2022.png)|
-|:---:|
-|![](doc/calendar/feb_2022.png)|
-|![](doc/calendar/mar_2022.png)|
-|![](doc/calendar/apr_2022.png)|
-
-## Fair Contingencies for Emergency Remote Teaching
-We are facing unusual and challenging times. The course outline presents the instructor’s intentions for course assessments, their weights, and due dates in Winter 2022. As best as possible, we will keep to the specified assessments, weights, and dates. To provide contingency for unforeseen circumstances, **the instructor reserves the right to modify course topics and/or assessments and/or weight and/or deadlines with due and fair notice to students.** In the event of such challenges, the instructor will work with the Department/Faculty to find reasonable and fair solutions that respect rights and workloads of students, staff, and faculty. 
 
 ## Note
 ### Academic integrity

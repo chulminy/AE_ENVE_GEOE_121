@@ -35,10 +35,6 @@
 
 Note the full schedule can be found from [**here**](#calendar)
 
-## Announcement
-* **Apr 04, 2022:** [Instruction for Quiz 4](doc/Quiz4_Description.md) and [Quiz 3](doc/Quiz3_W22_result.md) results are posted. 
-* **Mar 25, 2022:** HW07 has been posted.  
-
 ## Table of Contents
 - [Course Description](#course-description)
 - [Course Objectives](#course-objectives)
@@ -105,16 +101,16 @@ You can check the schedule all at once from [this calendar](#calendar).
 |Module|Topics|Load|ETF|Kahoot|[Quiz](#quiz)| 
 |:-----|:-----|:--:|:--:|:-----------:|:-----------:|
 |**Module 00**|Preliminaries|1|January 05|||
-|**Module 01**|Basic MATLAB Programming|2|January 12|[Link](tutorial/kahoot/kahoot_mod01.pdf) ||
-|**Module 02**|Vectors and Matrices|2|January 19|[Link](tutorial/kahoot/kahoot_mod02.pdf) |**Quiz 01** (January 27)|
-|**Module 03**|Selection Statement |2|January 26|[Link](tutorial/kahoot/kahoot_mod03.pdf)| |
-|**Module 04**|Loop Statement|2|February 02|[Link](tutorial/kahoot/kahoot_mod04.pdf)|**Quiz 02** (Februray 17)|
-|**Module 05**|Built-in Functions|3|February 09|[Link](tutorial/kahoot/kahoot_mod05_share.pdf)||
+|**Module 01**|Basic MATLAB Programming|2|January 12|||
+|**Module 02**|Vectors and Matrices|2|January 19||**Quiz 01** (January 27)|
+|**Module 03**|Selection Statement |2|January 26|| |
+|**Module 04**|Loop Statement|2|February 02||**Quiz 02** (Februray 17)|
+|**Module 05**|Built-in Functions|3|February 09|||
 |**Module 06**|Operator|3|March 07|||
 |**Module 07**|Function|3|March 21||**Quiz 03** (March 24)|
 |**Module 08**|Plotting|1|March 16|||
 |**Module 09**|Data Structure|2|March 23|||
-|**Module 11**|Text Manipulation|2|March 30||**Quiz 04** (TBD)|
+|**Module 11**|Text Manipulation|2|March 30||**Quiz 04** (April 18)|
 
 ### Lecture Video 
 Students can watch lecture videos for each module. If students are absent from present the classes unavoidably or cannot follow in-person lectures, please watch the lecture videos for their study.  
@@ -239,16 +235,6 @@ Note that TAs will check the time records of the latest submitted solutions. **I
 * Students can start homework assignments if they are visible in the MATLAB Grader.
 * There is no more delay for the last homework (HW 07). 
 * Each homework assignments will be closed at 11:45pm on its second due date (NOT 11:59pm). You CANNOT submit your work after the second due date. Please submit your work 30 minutes earlier. 
-
-### Homework Solution Review
-|Module|Update Date|Video| 
-|:----|:----|:----| 
-|**HW 01**|January 26|[<img src="http://img.youtube.com/vi/KZpmXBNsAOk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=KZpmXBNsAOk)|
-|**HW 02**|February 02|[<img src="http://img.youtube.com/vi/bdSxr9wuCP8/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=bdSxr9wuCP8)|
-|**HW 03**|February 16|[<img src="http://img.youtube.com/vi/3xXsQVnupQk/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=3xXsQVnupQk)|
-|**HW 04**|February 16|[<img src="http://img.youtube.com/vi/c6qtLnsTuwc/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=c6qtLnsTuwc)|
-|**HW 05**|March 23|[<img src="http://img.youtube.com/vi/-D7BBLJ1dzY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=-D7BBLJ1dzY)|
-|**HW 06**|Apr 04|[<img src="http://img.youtube.com/vi/fnrVB1FKeRE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=fnrVB1FKeRE)|
 
 ## Communication  
 **All communication will be made through [**LEARN**](https://learn.uwaterloo.ca/d2l/home/767310) but all information related to the course will be posted on this course website. The instructor and TA will frequently announce on LEARN after updating the web page.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussions.   
