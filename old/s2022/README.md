@@ -27,7 +27,7 @@
 * **Apr 20, 2022:** Welcome!
 
 ## Course Schedule
-[**AE Schedule**](doc/schedule_ae_enve_geoe.md#course-schedule-ae)
+[**AE Schedule**](doc/schedule_ae_enve_geoe.md#course-schedule-ae)  
 [**ENVE/GEOE Schedule**](doc/schedule_ae_enve_geoe.md#course-schedule-envegeoe)
 
 ## Key Due Date
@@ -44,7 +44,7 @@
 |June 19 at 11:45pm|Pre-assessment|Module 06|
 |June 26 at 11:45pm|Pre-assessment|Module 07|
 |July 01 at 11:45pm|Homework|HW 05|
-|July 06 at 11:45pm|Homework|HW 06|
+|July 08 at 11:45pm|Homework|HW 06|
 |July 10 at 11:45pm|Pre-assessment|Module 09|
 |July 17 at 11:45pm|Pre-assessment|Module 11|
 |July 22 at 11:45pm|Homework|HW 07|
@@ -237,7 +237,7 @@ Note that TAs will check the time records of the latest submitted solutions. Ple
 ### Schedule
 |HW|Topic|Start date|Due date|
 |:---|:-----|:-----|:----|
-|HW 01|Module 01            |May 02|May 13|
+|HW 01|Module 01            |May 04|May 13|
 |HW 02|Module 01 ~ Module 02|May 09|May 20|
 |HW 03|Module 01 ~ Module 04|May 23|June 03|
 |HW 04|Module 01 ~ Module 05|May 30|June 10|
