@@ -4,11 +4,22 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="120">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **TA (Graduate):** Rishabh Bajaj (r6bajaj@uwaterloo.ca) <br> **Class:** Mon & Wed (1:30 to 3:00 PM) at RCH 302 <br> **Programming Lab:** Thu (1:30 to 3:30 AM) at CPH 1346 <br> **Office hours (TA)**: Mon & Wed (9:00 to 11:50 AM), Thu (3:30 to 5:00 PM) at E2-1787 <br> **Office hours (Instructor)**: Mon (3:00 to 04:00 PM) at E2-2313|
 
-**Last updated:** 2022-04-04  
+**Last updated:** 2022-04-19  
+
+**Previous offerings of this course**
+- [**Computational Method (Spring, 2021)**](old/s2021)
+- [**Computational Method (Spring, 2020)**](old/s2020)
+- [**Computational Method (Spring, 2019)**](old/s2019)
 
 **Key links**
+- [**LEARN**](https://learn.uwaterloo.ca/d2l/home/767310)
+- [**MATLAB Grader- (W22) CIVE 121: Homework**](https://grader.mathworks.com/courses/63549-w22-cive-121-homework)
+- [**MATLAB Grader- (W22) CIVE 121: Quizzes**](https://grader.mathworks.com/courses/64270-w22-cive-121-quizzes)
+- [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method)
+- [**MATLAB Grader- Quizzes in previous years**](https://grader.mathworks.com/courses/63504-quizzes-in-previous-years-computational-method)
 - [**FAQ document**](qna)
 - [**Course material**](comp_method_book_cm_s21.pdf)
+- [**Attendance & Extra mark document**](https://uofwaterloo.sharepoint.com/:x:/s/tm-cee-uwcviss/EcEWEvABwh9CovMIkkh56SABkTBaeF5QYH5Cw2LRthettg?e=kDQ3xm)  
 
 **Course**
 - Apr 04: Instruction for Quiz 4: [Link](doc/Quiz4_Description.md)

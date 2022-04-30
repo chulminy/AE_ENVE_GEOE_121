@@ -52,7 +52,7 @@
 |May 25 (Wed) at 11:00am|Class 07|M04|RCH 305|
 |May 27 (Fri) at 2:30pm|Lab 03|M01-M04|CPH 1346|
 |May 30 (Mon) at 11:00am|Class 08|M04-05|RCH 305|
-|** (Tue) at 11:00am**|Class 09|M05|RCH 305|
+|May 30 (Tue) at 4:30pm|Class 09|M05|RCH 305|
 |June 03 (Fri) at 2:30pm|Lab 04|M01-M05|CPH 1346|
 |June 06 (Mon) at 11:00am|Class 10|M03-05|RCH 305|
 |June 08 (Wed) at 11:00am|Class 11|Review Q2|RCH 305|
@@ -62,8 +62,8 @@
 |June 24 (Fri) at 2:30pm|Lab 05|M01-M06|CPH 1346|
 |June 27 (Mon) at 11:00am|Class 14|M07|RCH 305|
 |June 29 (Wed) at 11:00am|Class 15|M07|RCH 305|
-| **(Fri) at 12:30pm**|Lab 06|M01-M07|CPH 1346|
 |July 04 (Mon) at 11:00am|Class 16|M08|RCH 305|
+|July 04 (Mon) at 4:30pm|Lab 06|M01-M07|CPH 1346|
 |July 06 (Wed) at 11:00am|Class 17|Review Q3|RCH 305|
 |July 08 (Fri) at 2:30pm|Quiz 03|M01-M08|CPH 1346|
 |July 11 (Mon) at 11:00am|Class 18|M09|RCH 305|
