@@ -21,7 +21,7 @@
 - [**Course material**](comp_method_book_cm_s21.pdf)
 - [**MATLAB Grader- (S22) AE 121: Quizzes**](https://grader.mathworks.com/courses/76605-s22-ae-121-quizzes)
 - [**MATLAB Grader- (S22) ENVE/GEOE 121: Quizzes**](https://grader.mathworks.com/courses/76610-s22-enve-geoe-121-quizzes)
-- [**Attendance & Extra mark document**](https://uofwaterloo.sharepoint.com/:x:/r/sites/tm-cee-uwcviss/Shared%20Documents/AE_ENVE_GEOE121/attendance_participation_marks_s22.xlsx?d=wa33bd587446c42b18441c6a7bc1a965a&csf=1&web=1&e=ZDN0tD)  
+- [**Attendance & Extra mark document**](https://uofwaterloo.sharepoint.com/:x:/s/tm-cee-uwcviss/EYfVO6NsRLFChEHGp7walloBJrxbgeyFDrQPGyigCA-_Rw?e=sjcvUi)  
 
 ## Announcement
 * **Apr 20, 2022:** Welcome!
@@ -165,7 +165,7 @@ To participate the game, the instructor will show the students a game pin number
 |![](doc/img/kahoot_step3.png)|![](doc/img/kahoot_step4.png)|
 |**Step 3**|**Step 4**|
 
-We will update your attendance, pre-assessement, and participation mark record to [this document](https://uofwaterloo.sharepoint.com/:x:/r/sites/tm-cee-uwcviss/Shared%20Documents/AE_ENVE_GEOE121/attendance_participation_marks_s22.xlsx?d=wa33bd587446c42b18441c6a7bc1a965a&csf=1&web=1&e=ZDN0tD). If the record is not correct, please send an email to TA. When students check the attendance by dishonest means (e.g. a student present at a class join the game using more than one account, remotely access the game using a pin number, informed by a student present at a class), they are considered as an academic offense and receive 0 for **all attendance score**. And they are disciplined by [Policy for Cheating](#policy-for-cheating)    
+We will update your attendance, pre-assessement, and participation mark record to [this document](https://uofwaterloo.sharepoint.com/:x:/s/tm-cee-uwcviss/EYfVO6NsRLFChEHGp7walloBJrxbgeyFDrQPGyigCA-_Rw?e=sjcvUi). If the record is not correct, please send an email to TA. When students check the attendance by dishonest means (e.g. a student present at a class join the game using more than one account, remotely access the game using a pin number, informed by a student present at a class), they are considered as an academic offense and receive 0 for **all attendance score**. And they are disciplined by [Policy for Cheating](#policy-for-cheating)    
 
 ## Tutorial
 The tutorials are self-study resources to assist students in the problems of course material, homework assignments, and quizzes. Students can find the problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader. The model answers for all tutorial problems were posted on this [**page**](tutorial). All students are **highly recommended** to solve practice problems to prepare for your quizzes. Here is how to study the tutorial. 
