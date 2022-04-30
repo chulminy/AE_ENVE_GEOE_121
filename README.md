@@ -21,14 +21,14 @@
 - [**Course material**](comp_method_book_cm_s21.pdf)
 - [**MATLAB Grader- (S22) AE 121: Quizzes**](https://grader.mathworks.com/courses/76605-s22-ae-121-quizzes)
 - [**MATLAB Grader- (S22) ENVE/GEOE 121: Quizzes**](https://grader.mathworks.com/courses/76610-s22-enve-geoe-121-quizzes)
-- [**Attendance & Extra mark document**]()  
+- [**Attendance & Extra mark document**](https://uofwaterloo.sharepoint.com/:x:/r/sites/tm-cee-uwcviss/Shared%20Documents/AE_ENVE_GEOE121/attendance_participation_marks_s22.xlsx?d=wa33bd587446c42b18441c6a7bc1a965a&csf=1&web=1&e=ZDN0tD)  
 
 ## Announcement
 * **Apr 20, 2022:** Welcome!
 
 ## Course Schedule
-[**AE Schedule**](doc/schedule_ae_enve_geoe.md#course-schedule-ae)  
-[**ENVE/GEOE Schedule**](doc/schedule_ae_enve_geoe.md#course-schedule-envegeoe)
+* [**AE Schedule**](doc/schedule_ae_enve_geoe.md#course-schedule-ae.md)  
+* [**ENVE/GEOE Schedule**](doc/schedule_ae_enve_geoe.md#course-schedule-envegeoe.md)
 
 ## Key Due Date
 |Due Date|Type|Deliverable|
@@ -104,14 +104,14 @@ This course is not based on any particular textbook. However, the [course materi
 * Moore, Holly. *"MATLAB for Engineers,"* Pearson, 2017.
 
 ## Course Outline
-All lectures will be delivered in person. **All students must watch lecture videos from** [**here**](#lecture-video) **or** [**YouTube Channel**](https://youtube.com/playlist?list=PLa1nAPP8qUX9qwRR6Sj_dboIriPIGYgsm) **before attending the class.** You will study ten modules and each module has one or two videos. The lectures will cover the course materials (You can download it from [**here**](comp_method_book_cm_s21.pdf)), developed by the instructor. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and all previous modules. 
+All lectures will be delivered in person. However, **all students must watch lecture videos from** [**here**](#lecture-video) **or** [**YouTube Channel**](https://youtube.com/playlist?list=PLa1nAPP8qUX9qwRR6Sj_dboIriPIGYgsm) **before attending the class.** You will study ten modules and each module has one or two videos. The lectures will cover the course materials (You can download it from [**here**](comp_method_book_cm_s21.pdf)), developed by the instructor. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and all previous modules. 
 
 Lectures are to deliver fundamental knowledge and information in each module and **are not to give a direction on how to solve your homework assignments or quizzes**. However, all the practice problems were designed based on the course materials. Thus, if students do not find the relevance between them, they have not understood lectures yet and should carefully review them again. 
 
 ### Pre-assessment
-To confirm whether students watch the lecture videos, students need to pass a pre-assessment for each module before its due date. The assessment will start from Module 02. A pre-assement question for each module will be posted on [**(S22) AE/ENVE/GEOE 121: Homework**](https://grader.mathworks.com/courses/75314-s22-ae-enve-geoe-121-homework).
+To confirm whether students watch the lecture videos, students need to pass a pre-assessment for each module before its due date. The assessment will start from Module 02. Pre-assessment questions for each module will be posted on [**(S22) AE/ENVE/GEOE 121: Homework**](https://grader.mathworks.com/courses/75314-s22-ae-enve-geoe-121-homework).
 
-Students receive 1.5 point if they pass the pre-assessment for each module. The maximum scores that students will receive from the pre-assessment are 9. This means students can get a full mark if they pass 6 pre-assessements among 8 ones (M02-M07, M09, M11). This considers unavoidable absence, such as illness, job interview. Students do not have to inform TA or instructor for delay submission. No matter the reason, students pass the question before the due date. Otherwise, they cannot get a score.  
+Students receive 1.5 point if they pass the pre-assessment for each module before its [deadline](#schedule). The maximum scores that students will receive from the pre-assessment are 9. This means students can get a full mark if they pass 6 pre-assessements among 8 ones (M02-M07, M09, M11). This considers unavoidable absence, such as illness, job interview. Students do not have to inform TA or instructor for delay submission. No matter the reason, students pass the question before the due date (there will be no dalay). Otherwise, they cannot get a score.  
 
 ### Schedule
 |Module|Topics|PREA|
@@ -126,9 +126,9 @@ Students receive 1.5 point if they pass the pre-assessment for each module. The 
 |**Module 07**|Function|June 26|
 |**Module 08**|Plotting|N/A|
 |**Module 09**|Data Structure|July 10|
-|**Module 11**|Text Manipulation|July 18|
+|**Module 11**|Text Manipulation|July 17|
 
-Here, 'PREA' indicates the deadline for the pre-assessment of the corresponding module. You can check all due date from [**this schedule table here**](#key-due-date)
+Here, 'PREA' indicates the deadline for the pre-assessment of the corresponding module (before 11:45pm). You can check all due date from [**this schedule table here**](#key-due-date)
 
 ### Lecture Video 
 Students can watch lecture videos for each module. 
@@ -148,9 +148,9 @@ Students can watch lecture videos for each module.
 |**Module 11**|[<img src="http://img.youtube.com/vi/qubtDteNV38/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=qubtDteNV38)  [<img src="http://img.youtube.com/vi/NgntRda2sCY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=NgntRda2sCY)|
 
 ## Course Attendance
-Students are highly encouraged to attend all classes. They have to attend the classes to receive 9 point attendance scores. There will be more than 12 fun games using [Kahoot](https://kahoot.it/) during classes, and students will join the question through their cell phones. There will be one or two game per each module and students receive 1 point **if they just join the game.** The maximum score that students will receive from these games is 9, which mean students can get a full mark (9 points) if they join at least nine games. Similar to the pre-assessement, this considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. Note that the instructor do not notify in advance when or what class the game in each module starts.  
+Students are highly encouraged to attend all classes. They have to attend the classes to receive 9 point attendance scores. There will be one or two Kahoot games in each module. Students receive 1.5 point if they simply **join ALL kahoot sessions** in the corresponding module. For example, Module 02 has two Kahoot sessions. If students only attend one session, they will not receive point. The maximum score that students will receive from these games is 9, which mean students can get a full mark (9 points) if they join at least 6  modules among 8 modules (M02-M08, M09, M11). Similar to the pre-assessement, this considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. 
 
-Again, students **do not have to** inform TA or instructor for their absent in the class. No matter the reason, students **cannot** get the point if they do not join the game during the class. Students can still get a full attendance mark although they miss one or two classes (games). Thus, we will not arrange a special accommodation for the attendance. Please do not send an email to the instructor or TA to explain your absent.   
+Again, students **do not have to** inform TA or instructor for their absent in the class. No matter the reason, students **cannot** get the point if they do not join the game during the class. Students can still get a full attendance mark although they miss one or two classes (games). Thus, we will **not arrange a special accommodation for the attendance.** Please do not send an email to the instructor or TA to explain your absent.   
 
 To participate the game, the instructor will show the students a game pin number. 
 
@@ -165,7 +165,7 @@ To participate the game, the instructor will show the students a game pin number
 |![](doc/img/kahoot_step3.png)|![](doc/img/kahoot_step4.png)|
 |**Step 3**|**Step 4**|
 
-We will update your attendance, pre-assessement, and participation mark record to [this document](). If the record is not correct, please send an email to TA. When students check the attendance by dishonest means (e.g. a student present at a class join the game using more than one account, remotely access the game using a pin number, informed by a student present at a class), they are considered as an academic offense and receive 0 for **all attendance score**. And they are disciplined by [Policy for Cheating](#policy-for-cheating)    
+We will update your attendance, pre-assessement, and participation mark record to [this document](https://uofwaterloo.sharepoint.com/:x:/r/sites/tm-cee-uwcviss/Shared%20Documents/AE_ENVE_GEOE121/attendance_participation_marks_s22.xlsx?d=wa33bd587446c42b18441c6a7bc1a965a&csf=1&web=1&e=ZDN0tD). If the record is not correct, please send an email to TA. When students check the attendance by dishonest means (e.g. a student present at a class join the game using more than one account, remotely access the game using a pin number, informed by a student present at a class), they are considered as an academic offense and receive 0 for **all attendance score**. And they are disciplined by [Policy for Cheating](#policy-for-cheating)    
 
 ## Tutorial
 The tutorials are self-study resources to assist students in the problems of course material, homework assignments, and quizzes. Students can find the problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader. The model answers for all tutorial problems were posted on this [**page**](tutorial). All students are **highly recommended** to solve practice problems to prepare for your quizzes. Here is how to study the tutorial. 
@@ -217,7 +217,7 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 ## Policy for Cheating 
 <del>Students are encouraged to work in groups through collaborative learning only for homework assignments </del>. 
 
-**This course has two full-time WEEF TAs. If you have a question, you need to visit the WEEF TA office to ask their helps. Also, you can use LEAN discussion board to ask questions. Do not discuss your homework to your colleagues.**  
+**This course has two full-time WEEF TAs. If you have a question, you need to visit the WEEF TA office to ask their helps. Also, you can use LEAN discussion board to ask questions. Do not discuss your homework to your colleagues before their submission.**  
 
 Students are required to submit their assignments individually. The TA will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs or instructor. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. Also, you might be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). **Both copiers and copyees are guilty of cheating and will receive an equal penalty.** **The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement and pre-assessment.**
 
@@ -232,7 +232,7 @@ The homework assignments will be designed using the MATLAB Grader. This tool all
 
 You do not get used to writing your script directly to the MATLAB Grader only to pass the testers. For quizzes, students will only be able to submit their code on MATLAB Grader with a limited number. Thus, students are encouraged to use the MATLAB (program) editor to prepare the problems in the quizzes.  
 
-There are 8 homework assignments. Each homework assignment have 2 points on a final grade and students can get the maximum 12 points from the homework assignment. This means students get a full mark (12 points) if they submit 6 homework assignments **on time**. **No late submission will be accepted for any reason.** All delayed submission will be zero. Although students are not able to submit the homeworks beyond their control (E.g., illness, job interview), **the instructor will not give any accommodation.** Thus, please do not waste your two chances for optional submission. Students do not ask TAs or instructor delayed submission. In case of significant health issues that stop from submitting more than two weeks, students should contact both the First-Year Engineering Office and the instructor and get a formal approval.   
+There are 8 homework assignments. Each homework assignment have 2 points on a final grade and students can get the maximum 12 points from the homework assignment. This means students get a full mark (12 points) if they submit 6 homework assignments **on time**. **No late submission will be accepted for any reason.** **All delayed submission will be zero**. Although students are not able to submit the homeworks beyond their control (E.g., illness, job interview), **the instructor will not give any accommodation.** Thus, please do not waste your two chances for optional submission. Students do not ask TAs or instructor delayed submission. In case of significant health issues that stop from submitting more than two weeks, students should contact both the First-Year Engineering Office and the instructor and get a formal approval.   
 
 TAs will not manually grade students' homework. If they pass all testers, they will get a full mark. All problems are equal weights. For example, students pass only 3 questions out of 6, students will get 1 point.  
 
@@ -246,7 +246,7 @@ Note that TAs will check the time records of the latest submitted solutions. Ple
 |HW 03|Module 01 ~ Module 04|May 23|June 03|
 |HW 04|Module 01 ~ Module 05|May 30|June 10|
 |HW 05|Module 01 ~ Module 06|June 20|July 01|
-|HW 06|Module 01 ~ Module 07|June 27|July 06|
+|HW 06|Module 01 ~ Module 07|June 27|July 08|
 |HW 07|Module 01 ~ Module 07, 09|July 11|July 22|
 |HW 08|Module 01 ~ Module 07, 09, 11|July 18|July 28|
 
