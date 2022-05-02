@@ -3,8 +3,9 @@
 * **Email**: x97gao@uwaterloo.ca 
 * **Date**: May 4, 2020 
  
-*Updated: April 27, 2021 by Bianca Angheluta*
-*Updated v2: May 2, 2022 by Ethan Woo*
+*Updated: April 27, 2021 by Bianca Angheluta
+
+*Updated v2: May 2, 2022 by Ethan Woo
 
 ## Table of Contents  
 * **MATLAB Grader Account Creation**  
