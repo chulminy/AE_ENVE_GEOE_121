@@ -251,7 +251,6 @@ Note that TAs will check the time records of the latest submitted solutions. Ple
 |HW 08|Module 01 ~ Module 07, 09, 11|July 18|July 28|
 
 * Students can start homework assignments anytime if they are visible in the MATLAB Grader.
-* Each homework assignments will be closed at 11:45pm on its second due date (NOT 11:59pm). You CANNOT submit your work after the second due date. Please submit your work 30 minutes earlier. 
 
 ## Communication  
 **All communication will be made through LEARN but all information related to the course will be posted on this course website.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussions.   
