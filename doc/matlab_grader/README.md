@@ -4,6 +4,7 @@
 * **Date**: May 4, 2020 
  
 *Updated: April 27, 2021 by Bianca Angheluta*
+*Updated v2: May 2, 2022 by Ethan Woo*
 
 ## Table of Contents  
 * **MATLAB Grader Account Creation**  
@@ -12,7 +13,7 @@
 
 ## MATLAB Grader Account Creation
 * Go to the MATLAB Grader sign up page: https://grader.mathworks.com/    
-* Students will receive an invitation email to join the "AE/ENVE/GEOE 121 (S21)" and "Tutorial:Computational Method" courses in the MATLAB Grader.
+* Students will receive an invitation email to join the "AE/ENVE/GEOE 121 (S22)" and "Tutorial:Computational Method" courses in the MATLAB Grader.
 * Students will need to make a MATLAB Grader account before being able to access the course. 
 * Students are required to use the MATLAB Grader for their tutorials, homework, and quizzes.  
 
@@ -39,7 +40,7 @@
 ![Personal Info](img/Account4.png)
 
 ## MATLAB Grader Questions
-* Go to our course (AE/ENVE/GEOE 121): https://grader.mathworks.com/courses/41892-ae-enve-geoe-121-s21  
+* Go to our course (AE/ENVE/GEOE 121): https://grader.mathworks.com/courses/18318-tutorial-computational-method
 
 |||
 |:--------|:-----------|
