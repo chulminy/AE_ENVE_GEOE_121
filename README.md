@@ -111,7 +111,7 @@ Lectures are to deliver fundamental knowledge and information in each module and
 ### Pre-assessment
 To confirm whether students watch the lecture videos, students need to pass a pre-assessment for each module before its due date. The assessment will start from Module 02. Pre-assessment questions for each module will be posted on [**(S22) AE/ENVE/GEOE 121: Homework**](https://grader.mathworks.com/courses/75314-s22-ae-enve-geoe-121-homework).
 
-Students receive 1.5 point if they pass the pre-assessment for each module before its [deadline](#schedule). The maximum scores that students will receive from the pre-assessment are 9. This means students can get a full mark if they pass 6 pre-assessements among 8 ones (M02-M07, M09, M11). This considers unavoidable absence, such as illness, job interview. Students do not have to inform TA or instructor for delay submission. No matter the reason, students pass the question before the due date (there will be no dalay). Otherwise, they cannot get a score.  
+Students receive 1.5 point if they pass the pre-assessment for each module before its [deadline](#schedule). The maximum scores that students will receive from the pre-assessment are 9. This means students can get a full mark if they pass 6 pre-assessements among 8 ones (M02-M07, M09, M11). This considers unavoidable absence, such as illness, job interview. Students do not have to inform TA or instructor for delay submission. No matter the reason, students pass the question before the due date (there will be no delay). Otherwise, they cannot get a score.  
 
 ### Schedule
 |Module|Topics|PREA|
