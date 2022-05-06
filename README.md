@@ -259,7 +259,7 @@ Note that TAs will check the time records of the latest submitted solutions. Ple
 
 Students are invited to ask questions and answer them and share their knowledge and resources. Please direct your communications to the Discussion Forum on LEARN. However, if there is a good reason not to use the discussion forum (e.g., personal matters, a question that might reveal your solution of your report, etc.), please directly contact the TAs or instructor via MS Team.  
 
-To encourage participation, when students ask at least one question each month in LEARN, office hours, or emails, they will receive **1 point of an engagement extra points each month**. Students will receive up to 4 points in total. **If the questions are trivial and easy to be answered from the course materials or lecture/tutorial videos, they will not be counted.** 
+To encourage participation, when students ask at least one question each month in LEARN, they will receive **1 point of an engagement extra points each month**. Students will receive up to 4 points in total. **If the questions are trivial and easy to be answered from the course materials or lecture/tutorial videos, they will not be counted.** 
 
 Please follow the instruction having Discussions on LEARN below:
 - Please be respectful of your peers, instructor, and others in your posts and comments.
