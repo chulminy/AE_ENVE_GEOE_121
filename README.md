@@ -221,7 +221,7 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 ## Policy for Cheating 
 <del>Students are encouraged to work in groups through collaborative learning only for homework assignments </del>. 
 
-**This course has two full-time WEEF TAs. If you have a question, you need to visit the WEEF TA office to ask their helps. Also, you can use LEAN discussion board to ask questions. Do not discuss your homework to your colleagues before their submission.**  
+**This course has two full-time WEEF TAs. If you have a question, you need to visit the WEEF TA office to ask their helps. Also, you can use LEARN discussion board to ask questions. Do not discuss your homework to your colleagues before their submission.**  
 
 Students are required to submit their assignments individually. The TA will run software to check your scripts to detect plagiarism. Please do not think that you are able to deceive TAs or instructor. Although you pass all the problems in the MATLAB Grader, you will get a 0 grade if your solution is considered plagiarism with a zero-tolerance. Also, you might be reported to Engineering Undergraduate Associate Dean as [**an academic offense**](#discipline). **Both copiers and copyees are guilty of cheating and will receive an equal penalty.** **The penalty includes a zero mark on the corresponding homework assignment or quiz and a zero mark on online engagement and pre-assessment.**
 
@@ -261,7 +261,7 @@ Note that TAs will check the time records of the latest submitted solutions. Ple
 
 Students are invited to ask questions and answer them and share their knowledge and resources. Please direct your communications to the Discussion Forum on LEARN. However, if there is a good reason not to use the discussion forum (e.g., personal matters, a question that might reveal your solution of your report, etc.), please directly contact the TAs or instructor via MS Team.  
 
-To encourage online participation, When students ask at least one question each month in LEARN, they will receive **1 point of an online engagement extra points each month**. Students will receive up to 4 points in total. **If the questions are trivial and easy to be answered from the course materials or lecture/tutorial videos, they will not be counted.** 
+To encourage participation, when students ask at least one question each month in LEARN, they will receive **1 point of an engagement extra points each month**. Students will receive up to 4 points in total. **If the questions are trivial and easy to be answered from the course materials or lecture/tutorial videos, they will not be counted.** 
 
 Please follow the instruction having Discussions on LEARN below:
 - Please be respectful of your peers, instructor, and others in your posts and comments.
