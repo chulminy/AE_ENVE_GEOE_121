@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA 1:** Ethan Woo (ethan.woo@uwaterloo.ca) <br> **TA 2:** Violet Cotton (violet.cotton@uwaterloo.ca) <br><br> **Class (AE121):** Mon & Tue (2:00 to 3:30 PM) at CPH 3604  <br> **Programming Lab (AE121):** Thu (12:30 to 3:20 PM) at CPH 1346 <br> <br> **Class (ENVE/GEOE121):** Mon & Wed (11:00 to 12:30 PM) at RCH 305<br> **Programming Lab (ENVE/GEOE121):** Fri (2:30 to 5:20 PM) at CPH 1346 <br> <br> **Office hours (TA)**: Visit the WEEF TA office (E2 1787) <br> **Office hours (Instructor)**: By appointment|
 
-**Last updated:** 2022-05-04  
+**Last updated:** 2022-05-11  
 
 **Previous offerings of this course**
 - [**Computational Method (Winter, 2022)**](old/w2022)
@@ -23,15 +23,19 @@
 - [**MATLAB Grader- (S22) ENVE/GEOE 121: Quizzes**](https://grader.mathworks.com/courses/76610-s22-enve-geoe-121-quizzes)
 - [**Attendance & Extra mark document**](https://uofwaterloo.sharepoint.com/:x:/s/tm-cee-uwcviss/EYfVO6NsRLFChEHGp7walloBJrxbgeyFDrQPGyigCA-_Rw?e=sjcvUi)  
 
-**Course**
-May 10: Instruction for Quiz 1: [Link](doc/Quiz1_Description.md)
+**Folders**
+[**Pre-assessment**](tutorial/PREA)
+[**Class materials**](tutorial/CLASS)
+[**Kahoot**](tutorial/KAHOOT)
 
+**Course**  
+May 10: Instruction for Quiz 1: [Link](doc/Quiz1_Description.md)  
 
 ## Announcement
 * **May 08, 2022:** HW02 is posted. The deadline of HW02 is on May 20 at 11:45 pm.  
 * **May 08, 2022:** PREA (M03) is posted. You need to submit your answer before on May 15 at 11:45 pm.  
 * **May 04, 2022:** HW01 is posted. The deadline of HW01 is on May 13 at 11:45 pm.  
-* **Apr 20, 2022:** Welcome!
+
 
 ## Course Schedule
 * [**AE Schedule**](doc/schedule_ae_enve_geoe.md#course-schedule-ae.md)  
@@ -208,18 +212,18 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 ## AE
 |Quiz|Topics|Date|Duration|Location|Instruction|
 |:---|:-------|:-----|:----|:----|:----|
-|**Quiz 01**|Module 01 ~ 02|May 19 at 12:30 pm|100 minutes|CPH 1346|TBD|
+|**Quiz 01**|Module 01 ~ 02|May 19 at 12:30 pm|100 minutes|CPH 1346|[**Link**](doc/Quiz1_Description.md)|
 |**Quiz 02**|Module 01 ~ 05|June 09 at 12:30 pm|120 minutes|CPH 1346|TBD|
 |**Quiz 03**|Module 01 ~ 07|July 07 at 12:30 pm|120 minutes|CPH 1346|TBD|
-|**Quiz 04**|Module 01 ~ 07, 09, 11|TBD|150 minutes|CPH 1346|TBD|
+|**Quiz 04**|Module 01 ~ 07, 09, 11|August 4|150 minutes|CPH 1346|TBD|
 
 ## ENVE/GEOE
 |Quiz|Topics|Date|Duration|Location|Instruction|
 |:---|:-------|:-----|:----|:----|:----|
-|**Quiz 01**|Module 01 ~ 02|May 20 at 2:30 pm|100 minutes|CPH 1346|TBD|
+|**Quiz 01**|Module 01 ~ 02|May 20 at 2:30 pm|100 minutes|CPH 1346|[**Link**](doc/Quiz1_Description.md)|
 |**Quiz 02**|Module 01 ~ 05|June 10 at 2:30 pm|120 minutes|CPH 1346|TBD|
 |**Quiz 03**|Module 01 ~ 07|July 08 at 2:30 pm|120 minutes|CPH 1346|TBD|
-|**Quiz 04**|Module 01 ~ 07, 09, 11|TBD|150 minutes|CPH 1346|TBD|
+|**Quiz 04**|Module 01 ~ 07, 09, 11|August 4|150 minutes|CPH 1346|TBD|
 
 ## Policy for Cheating 
 <del>Students are encouraged to work in groups through collaborative learning only for homework assignments </del>. 

@@ -5,7 +5,7 @@
 % a@2 = [1 2 3];
 
 % val1 = 10;
-% val2= 9 + 11;
+% val2= 9 + val1;
 % val1 = 11 + 12;
 % 
 % Runtime error
@@ -13,16 +13,18 @@
 % b2 = a2(4) + 1;
 % 
 % 
-% return
 
 % A = [1 2;3 4];
 % val1 = A(3,4);
-
+% 
+% 
+% 
+% return
 
 
 % logical error
 A = [1 2;3 4];
-B = [3 4;5 6; 5 6];
+B = [3 4;5 6];
 
 % m1 = A.*B;
 m1 = A*B;
