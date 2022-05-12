@@ -23,10 +23,10 @@
 - [**MATLAB Grader- (S22) ENVE/GEOE 121: Quizzes**](https://grader.mathworks.com/courses/76610-s22-enve-geoe-121-quizzes)
 - [**Attendance & Extra mark document**](https://uofwaterloo.sharepoint.com/:x:/s/tm-cee-uwcviss/EYfVO6NsRLFChEHGp7walloBJrxbgeyFDrQPGyigCA-_Rw?e=sjcvUi)  
 
-**Folders**
-[**Pre-assessment**](tutorial/PREA)
-[**Class materials**](tutorial/CLASS)
-[**Kahoot**](tutorial/KAHOOT)
+**Folders**   
+[**Pre-assessment**](tutorial/PREA)   
+[**Class materials**](tutorial/CLASS)   
+[**Kahoot**](tutorial/KAHOOT)   
 
 **Course**  
 May 10: Instruction for Quiz 1: [Link](doc/Quiz1_Description.md)  
