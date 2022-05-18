@@ -32,6 +32,7 @@
 - May 10: Instruction for Quiz 1: [Link](doc/Quiz1_Description.md)  
 
 ## Announcement
+* **May 18, 2022:** PREA (M04) is posted. You need to submit your answer before on May 22 at 11:45 pm.  
 * **May 08, 2022:** HW02 is posted. The deadline of HW02 is on May 20 at 11:45 pm.  
 * **May 08, 2022:** PREA (M03) is posted. You need to submit your answer before on May 15 at 11:45 pm.  
 * **May 04, 2022:** HW01 is posted. The deadline of HW01 is on May 13 at 11:45 pm.  
