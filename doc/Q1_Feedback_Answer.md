@@ -35,7 +35,6 @@ All 63 students responded to the survey and the results are presented below:
 
 
 ## Major changes based on students' feedback
-* Kahoot questions will be posted on a course website a day or two before the class. 
 * The first three lab questions will be open a day or two before each lab so that students can solve them in advance.
 
 
