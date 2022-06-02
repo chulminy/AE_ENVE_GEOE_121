@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA 1:** Ethan Woo (ethan.woo@uwaterloo.ca) <br> **TA 2:** Violet Cotton (violet.cotton@uwaterloo.ca) <br><br> **Class (AE121):** Mon & Tue (2:00 to 3:30 PM) at CPH 3604  <br> **Programming Lab (AE121):** Thu (12:30 to 3:20 PM) at CPH 1346 <br> <br> **Class (ENVE/GEOE121):** Mon & Wed (11:00 to 12:30 PM) at RCH 305<br> **Programming Lab (ENVE/GEOE121):** Fri (2:30 to 5:20 PM) at CPH 1346 <br> <br> **Office hours (TA)**: Visit the WEEF TA office (E2 1787) <br> **Office hours (Instructor)**: By appointment|
 
-**Last updated:** 2022-05-27  
+**Last updated:** 2022-06-01  
 
 **Previous offerings of this course**
 - [**Computational Method (Winter, 2022)**](old/w2022)
@@ -28,10 +28,12 @@
 - [**Kahoot**](tutorial/KAHOOT)   
 
 **Course**  
+- May 31: Instruction for Quiz 2: [Link](doc/Quiz2_Description.md)  
 - May 24: Course feedback (4th Week): [Link](doc/Q1_Feedback_Answer.md)  
 - May 10: Instruction for Quiz 1: [Link](doc/Quiz1_Description.md)  
 
 ## Announcement
+* **June 01, 2022:** HW04 is posted. The deadline of HW04 is on June 10 at 11:45 pm.    
 * **May 26, 2022:** PREA (M05) is posted. You need to submit your answer before on May 29 at 11:45 pm.  
 * **May 08, 2022:** HW03 is posted. The deadline of HW03 is on June 03 at 11:45 pm.  
 
