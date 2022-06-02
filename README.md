@@ -33,6 +33,7 @@
 - May 10: Instruction for Quiz 1: [Link](doc/Quiz1_Description.md)  
 
 ## Announcement
+* **June 01, 2022:** Quiz 1 problems for AE and ENVE/GEOE are posted. Please see your grader.   
 * **June 01, 2022:** HW04 is posted. The deadline of HW04 is on June 10 at 11:45 pm.    
 * **May 26, 2022:** PREA (M05) is posted. You need to submit your answer before on May 29 at 11:45 pm.  
 * **May 08, 2022:** HW03 is posted. The deadline of HW03 is on June 03 at 11:45 pm.  
