@@ -17,12 +17,12 @@ You can use both your laptop and a desktop computer in the computer lab during t
 Before starting the quiz, you need to copy and paste all files in **a Desktop folder**. If you choose to use one of the desktop computers in the lab, you can save your files in a USB drive and copy them in the computer or can download the files from your cloud drive **BEFORE** starting the quiz. **Make sure that you must turn off all messenger programs or background cloud sync programs.** You cannot use any shared folder (e.g., cloud drive) during the quiz. Accessing different folders other than the Desktop folder might be considered as cheating.
 
 There are six questions:
-- Q1-1 (★): 20 points
-- Q1-2 (★): 20 points
-- Q1-3 (★★): 20 points
-- Q1-4 (★★): 15 points
-- Q1-5 (★★★): 20 points
-- Q1-6 (★★★★): 5 points
+- Q2-1 (★): 20 points
+- Q2-2 (★): 20 points
+- Q2-3 (★★): 20 points
+- Q2-4 (★★): 15 points
+- Q2-5 (★★★): 20 points
+- Q2-6 (★★★★): 5 points
 
 ## Quiz Schedule
 **AE:** June 9 at 12:30pm ~ 2:30 pm    
