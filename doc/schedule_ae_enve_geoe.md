@@ -27,7 +27,7 @@
 |June 30 (Thu) at 12:30pm|Lab 06|M01-M07|CPH 1346|
 |July 04 (Mon) at 2:00pm|Class 16|M08|CPH 3604|
 |July 05 (Tue) at 2:00pm|Class 17|Review Q3|CPH 3604|
-|July 07 (Thu) at 12:30pm|Quiz 03|M01-M08|CPH 1346|
+|July 07 (Thu) at 12:30pm|Quiz 03|M01-M07|CPH 1346|
 |July 11 (Mon) at 2:00pm|Class 18|M09|CPH 3604|
 |July 12 (Tue) at 2:00pm|Class 19|M09|CPH 3604|
 |July 14 (Thu) at 12:30pm|Lab 07|M01-M07, M09|CPH 1346|
@@ -65,7 +65,7 @@
 |July 04 (Mon) at 11:00am|Class 16|M08|RCH 305|
 |July 04 (Mon) at 4:30pm|Lab 06|M01-M07|CPH 1346|
 |July 06 (Wed) at 11:00am|Class 17|Review Q3|RCH 305|
-|July 08 (Fri) at 2:30pm|Quiz 03|M01-M08|CPH 1346|
+|July 08 (Fri) at 2:30pm|Quiz 03|M01-M07|CPH 1346|
 |July 11 (Mon) at 11:00am|Class 18|M09|RCH 305|
 |July 13 (Wed) at 11:00am|Class 19|M09|RCH 305|
 |July 15 (Fri) at 2:30pm|Lab 07|M01-M07, M09|CPH 1346|
