@@ -34,7 +34,8 @@
 - May 10: Instruction for Quiz 1: [Link](doc/Quiz1_Description.md)  
 
 ## Announcement
-* **June 16, 2022:** PREA (M06) is posted. You need to submit your answer before on June 19 at 11:45 pm.   
+* **June 27, 2022:** For ENVE/GEOE students, LAB 06 will be held on July 4 at 4:30pm (CPH 1346) because the lab on July 1 is canceled.   
+* **June 27, 2022:** A special help session is scheduled on June 27 at 4:30pm (CPH 1346).  
 * **June 16, 2022:** Quiz 2 problems for AE and ENVE/GEOE are posted. Please see your grader.   
  
 ## Course Schedule
