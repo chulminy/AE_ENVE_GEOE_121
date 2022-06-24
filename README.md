@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA 1:** Ethan Woo (ethan.woo@uwaterloo.ca) <br> **TA 2:** Violet Cotton (violet.cotton@uwaterloo.ca) <br><br> **Class (AE121):** Mon & Tue (2:00 to 3:30 PM) at CPH 3604  <br> **Programming Lab (AE121):** Thu (12:30 to 3:20 PM) at CPH 1346 <br> <br> **Class (ENVE/GEOE121):** Mon & Wed (11:00 to 12:30 PM) at RCH 305<br> **Programming Lab (ENVE/GEOE121):** Fri (2:30 to 5:20 PM) at CPH 1346 <br> <br> **Office hours (TA)**: Visit the WEEF TA office (E2 1787) <br> **Office hours (Instructor)**: By appointment|
 
-**Last updated:** 2022-06-20  
+**Last updated:** 2022-06-24  
 
 **Previous offerings of this course**
 - [**Computational Method (Winter, 2022)**](old/w2022)
@@ -35,7 +35,7 @@
 
 ## Announcement
 * **June 27, 2022:** For ENVE/GEOE students, LAB 06 will be held on July 4 at 4:30pm (CPH 1346) because the lab on July 1 is canceled.   
-* **June 27, 2022:** A special help session is scheduled on June 27 at 4:30pm (CPH 1346).  
+* **June 27, 2022:** A special help session is scheduled on June 27 at 4:30pm (E2 1796).  
 * **June 16, 2022:** Quiz 2 problems for AE and ENVE/GEOE are posted. Please see your grader.   
  
 ## Course Schedule
@@ -55,7 +55,7 @@
 |June 10 at 11:45pm|Homework|HW 04|
 |June 19 at 11:45pm|Pre-assessment|Module 06 review|
 |June 26 at 11:45pm|Pre-assessment|Module 07 review|
-|July 01 at 11:45pm|Homework|HW 05|
+|July 04 at 11:45pm|Homework|HW 05|
 |July 08 at 11:45pm|Homework|HW 06|
 |July 10 at 11:45pm|Pre-assessment|Module 09 review|
 |July 17 at 11:45pm|Pre-assessment|Module 11 review|
@@ -257,7 +257,7 @@ Note that TAs will check the time records of the latest submitted solutions. Ple
 |HW 02|Module 01 ~ Module 02|May 09|May 20|
 |HW 03|Module 01 ~ Module 04|May 23|June 03|
 |HW 04|Module 01 ~ Module 05|May 30|June 10|
-|HW 05|Module 01 ~ Module 06|June 20|July 01|
+|HW 05|Module 01 ~ Module 06|June 20|July 04|
 |HW 06|Module 01 ~ Module 07|June 27|July 08|
 |HW 07|Module 01 ~ Module 07, 09|July 11|July 22|
 |HW 08|Module 01 ~ Module 07, 09, 11|July 18|July 28|
