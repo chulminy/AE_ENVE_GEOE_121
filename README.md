@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA 1:** Ethan Woo (ethan.woo@uwaterloo.ca) <br> **TA 2:** Violet Cotton (violet.cotton@uwaterloo.ca) <br><br> **Class (AE121):** Mon & Tue (2:00 to 3:30 PM) at CPH 3604  <br> **Programming Lab (AE121):** Thu (12:30 to 3:20 PM) at CPH 1346 <br> <br> **Class (ENVE/GEOE121):** Mon & Wed (11:00 to 12:30 PM) at RCH 305<br> **Programming Lab (ENVE/GEOE121):** Fri (2:30 to 5:20 PM) at CPH 1346 <br> <br> **Office hours (TA)**: Visit the WEEF TA office (E2 1787) <br> **Office hours (Instructor)**: By appointment|
 
-**Last updated:** 2022-06-24  
+**Last updated:** 2022-06-28  
 
 **Previous offerings of this course**
 - [**Computational Method (Winter, 2022)**](old/w2022)
@@ -28,6 +28,7 @@
 - [**Kahoot**](tutorial/KAHOOT)   
 
 **Course**  
+- June 28: Instruction for Quiz 3: [Link](doc/Quiz3_Description.md)  
 - June 20: Course feedback (7th Week): [Link](doc/Q2_Feedback_Answer.md)  
 - May 31: Instruction for Quiz 2: [Link](doc/Quiz2_Description.md)  
 - May 24: Course feedback (4th Week): [Link](doc/Q1_Feedback_Answer.md)  
@@ -35,9 +36,8 @@
 
 ## Announcement
 * **June 27, 2022:** For ENVE/GEOE students, LAB 06 will be held on July 4 at 4:30pm (CPH 1346) because the lab on July 1 is canceled.   
-* **June 27, 2022:** A special help session is scheduled on June 27 at 4:30pm (E2 1796).  
-* **June 16, 2022:** Quiz 2 problems for AE and ENVE/GEOE are posted. Please see your grader.   
- 
+
+
 ## Course Schedule
 * [**AE Schedule**](doc/schedule_ae_enve_geoe.md#course-schedule-ae.md)  
 * [**ENVE/GEOE Schedule**](doc/schedule_ae_enve_geoe.md#course-schedule-envegeoe.md)
@@ -222,8 +222,8 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 |Quiz|Topics|Date|Duration|Location|Instruction|
 |:---|:-------|:-----|:----|:----|:----|
 |**Quiz 01**|Module 01 ~ 02|May 20 at 2:30 pm|100 minutes|CPH 1346|[**Link**](doc/Quiz1_Description.md)|
-|**Quiz 02**|Module 01 ~ 05|June 10 at 2:30 pm|120 minutes|CPH 1346|TBD|
-|**Quiz 03**|Module 01 ~ 07|July 08 at 2:30 pm|120 minutes|CPH 1346|TBD|
+|**Quiz 02**|Module 01 ~ 05|June 10 at 2:30 pm|120 minutes|CPH 1346|[**Link**](doc/Quiz2_Description.md)|
+|**Quiz 03**|Module 01 ~ 07|July 08 at 2:30 pm|120 minutes|CPH 1346|[**Link**](doc/Quiz3_Description.md)|
 |**Quiz 04**|Module 01 ~ 07, 09, 11|August 4|150 minutes|CPH 1346|TBD|
 
 ## Policy for Cheating 
