@@ -2,6 +2,8 @@ x_tr = [1 2 3 6]; % true
 x_ts = [3 2 5 6]; % test
 [bulls, cows] = CompBC(x_tr, x_ts)
 
+disp('Done!');
+
 function [bulls, cows] = CompBC(x_true, x_test)
 
 bulls = CompBulls(x_true, x_test);
