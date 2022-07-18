@@ -4,7 +4,7 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA 1:** Ethan Woo (ethan.woo@uwaterloo.ca) <br> **TA 2:** Violet Cotton (violet.cotton@uwaterloo.ca) <br><br> **Class (AE121):** Mon & Tue (2:00 to 3:30 PM) at CPH 3604  <br> **Programming Lab (AE121):** Thu (12:30 to 3:20 PM) at CPH 1346 <br> <br> **Class (ENVE/GEOE121):** Mon & Wed (11:00 to 12:30 PM) at RCH 305<br> **Programming Lab (ENVE/GEOE121):** Fri (2:30 to 5:20 PM) at CPH 1346 <br> <br> **Office hours (TA)**: Visit the WEEF TA office (E2 1787) <br> **Office hours (Instructor)**: By appointment|
 
-**Last updated:** 2022-07-03  
+**Last updated:** 2022-07-04  
 
 **Previous offerings of this course**
 - [**Computational Method (Winter, 2022)**](old/w2022)
@@ -28,6 +28,7 @@
 - [**Kahoot**](tutorial/KAHOOT)   
 
 **Course**  
+- July 18: Course feedback (11th Week): [Link](doc/Q3_Feedback_Answer.md)  
 - June 28: Instruction for Quiz 3: [Link](doc/Quiz3_Description.md)  
 - June 20: Course feedback (7th Week): [Link](doc/Q2_Feedback_Answer.md)  
 - May 31: Instruction for Quiz 2: [Link](doc/Quiz2_Description.md)  
@@ -35,7 +36,8 @@
 - May 10: Instruction for Quiz 1: [Link](doc/Quiz1_Description.md)  
 
 ## Announcement
-* **June 27, 2022:** For ENVE/GEOE students, LAB 06 will be held on July 4 at 4:30pm (CPH 1346) because the lab on July 1 is canceled.   
+* **July 18, 2022:** Q3 problems are posted.
+* **July 18, 2022:** Q3 feedback review is posted [here](doc/Q3_Feedback_Answer.md).  
 
 
 ## Course Schedule
