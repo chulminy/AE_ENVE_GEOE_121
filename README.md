@@ -28,6 +28,7 @@
 - [**Kahoot**](tutorial/KAHOOT)   
 
 **Course**  
+- July 29: Instruction for Quiz 4: [Link](doc/Quiz4_Description.md)  
 - July 18: Course feedback (11th Week): [Link](doc/Q3_Feedback_Answer.md)  
 - June 28: Instruction for Quiz 3: [Link](doc/Quiz3_Description.md)  
 - June 20: Course feedback (7th Week): [Link](doc/Q2_Feedback_Answer.md)  
