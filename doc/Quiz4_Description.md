@@ -19,13 +19,15 @@ Also, you can use a noise-canceling headset or listen to music if they are helpf
 Before starting the quiz, you need to copy and paste all files in **a Desktop folder**. If you choose to use one of the desktop computers in the lab, you can save your files in a USB drive and copy them in the computer or can download the files from your cloud drive **BEFORE** starting the quiz. **Make sure that you must turn off all messenger programs or background cloud sync programs.** You cannot use any shared folder (e.g., cloud drive) during the quiz. Accessing different folders other than the Desktop folder might be considered as cheating.
 
 There are seven questions:
-- Q4-1 (★) 
-- Q4-2 (★) 
-- Q4-3 (★★)
-- Q4-4 (★★): Mod 09
-- Q4-5 (★★★)
-- Q4-6 (★★★): Custom Poker Game
-- Q4-7 (★★★★)
+- Q4-1 (★) (20 points) 
+- Q4-2 (★) (15 points)
+- Q4-3 (★★) (15 points)
+- Q4-4 (★★) (15 points): Mod 09
+- Q4-5 (★★★) (15 points)
+- Q4-6 (★★★) (15 points): Custom Poker Game
+- Q4-7 (★★★★) (10 points)
+
+Note that the maximum score that students can receive is 100 points. 
 
 ## Quiz Schedule
 **AE:** August 4 at 4:00pm ~ 6:30 pm (CPH 1346)
