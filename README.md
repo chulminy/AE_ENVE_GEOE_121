@@ -4,23 +4,26 @@
 |:--------|:-----------|
 |<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA 1:** Ethan Woo (ethan.woo@uwaterloo.ca) <br> **TA 2:** Violet Cotton (violet.cotton@uwaterloo.ca) <br><br> **Class (AE121):** Mon & Tue (2:00 to 3:30 PM) at CPH 3604  <br> **Programming Lab (AE121):** Thu (12:30 to 3:20 PM) at CPH 1346 <br> <br> **Class (ENVE/GEOE121):** Mon & Wed (11:00 to 12:30 PM) at RCH 305<br> **Programming Lab (ENVE/GEOE121):** Fri (2:30 to 5:20 PM) at CPH 1346 <br> <br> **Office hours (TA)**: Visit the WEEF TA office (E2 1787) <br> **Office hours (Instructor)**: By appointment|
 
-**Last updated:** 2022-07-04  
-
 **Previous offerings of this course**
+- [**Computational Method (Spring, 2022)**](old/s2022)
 - [**Computational Method (Winter, 2022)**](old/w2022)
 - [**Computational Method (Spring, 2021)**](old/s2021)
 - [**Computational Method (Spring, 2020)**](old/s2020)
 - [**Computational Method (Spring, 2019)**](old/s2019)
 
 **Key links**
+
+<!-- 
 - [**LEARN**](https://learn.uwaterloo.ca/d2l/home/809136)
 - [**MATLAB Grader- (S22) AE/ENVE/GEOE 121: Homework**](https://grader.mathworks.com/courses/75314-s22-ae-enve-geoe-121-homework)
 - [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method)
 - [**MATLAB Grader- Quizzes in previous years**](https://grader.mathworks.com/courses/63504-quizzes-in-previous-years-computational-method)
-- [**FAQ document**](qna)
-- [**Course material**](comp_method_book_cm_s21.pdf)
 - [**MATLAB Grader- (S22) AE 121: Quizzes**](https://grader.mathworks.com/courses/76605-s22-ae-121-quizzes)
 - [**MATLAB Grader- (S22) ENVE/GEOE 121: Quizzes**](https://grader.mathworks.com/courses/76610-s22-enve-geoe-121-quizzes)
+-->
+
+- [**FAQ document**](qna)
+- [**Course material**](comp_method_book_cm_s21.pdf)
 
 **Folders**   
 - [**Pre-assessment**](tutorial/PREA)   
@@ -37,9 +40,6 @@
 - May 10: Instruction for Quiz 1: [Link](doc/Quiz1_Description.md)  
 
 ## Announcement
-* **July 18, 2022:** Q3 problems are posted.
-* **July 18, 2022:** Q3 feedback review is posted [here](doc/Q3_Feedback_Answer.md).  
-
 
 ## Course Schedule
 * [**AE Schedule**](doc/schedule_ae_enve_geoe.md#course-schedule-ae.md)  
@@ -218,8 +218,8 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 |:---|:-------|:-----|:----|:----|:----|
 |**Quiz 01**|Module 01 ~ 02|May 19 at 12:30 pm|100 minutes|CPH 1346|[**Link**](doc/Quiz1_Description.md)|
 |**Quiz 02**|Module 01 ~ 05|June 09 at 12:30 pm|120 minutes|CPH 1346|[**Link**](doc/Quiz2_Description.md)|
-|**Quiz 03**|Module 01 ~ 07|July 07 at 12:30 pm|120 minutes|CPH 1346|TBD|
-|**Quiz 04**|Module 01 ~ 07, 09, 11|August 4|150 minutes|CPH 1346|TBD|
+|**Quiz 03**|Module 01 ~ 07|July 07 at 12:30 pm|120 minutes|CPH 1346|[**Link**](doc/Quiz3_Description.md)|
+|**Quiz 04**|Module 01 ~ 07, 09, 11|August 4|150 minutes|CPH 1346|[**Link**](doc/Quiz4_Description.md)|
 
 ## ENVE/GEOE
 |Quiz|Topics|Date|Duration|Location|Instruction|
@@ -227,7 +227,7 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 |**Quiz 01**|Module 01 ~ 02|May 20 at 2:30 pm|100 minutes|CPH 1346|[**Link**](doc/Quiz1_Description.md)|
 |**Quiz 02**|Module 01 ~ 05|June 10 at 2:30 pm|120 minutes|CPH 1346|[**Link**](doc/Quiz2_Description.md)|
 |**Quiz 03**|Module 01 ~ 07|July 08 at 2:30 pm|120 minutes|CPH 1346|[**Link**](doc/Quiz3_Description.md)|
-|**Quiz 04**|Module 01 ~ 07, 09, 11|August 4|150 minutes|CPH 1346|TBD|
+|**Quiz 04**|Module 01 ~ 07, 09, 11|August 4|150 minutes|CPH 1346|[**Link**](doc/Quiz4_Description.md)|
 
 ## Policy for Cheating 
 <del>Students are encouraged to work in groups through collaborative learning only for homework assignments </del>. 
