@@ -1,0 +1,1 @@
+![](poker_table.png)

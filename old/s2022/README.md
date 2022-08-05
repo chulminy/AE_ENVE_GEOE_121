@@ -1,4 +1,4 @@
-# AE/ENVE/GEOE121: Computational Method 
+# AE/ENVE/GEOE121: Computational Method (S2022)
 
 |||
 |:--------|:-----------|
@@ -30,6 +30,14 @@
 - [**Class materials**](tutorial/CLASS)   
 - [**Kahoot**](tutorial/KAHOOT)   
 
+**Course**  
+- July 29: Instruction for Quiz 4: [Link](doc/Quiz4_Description.md)  
+- July 18: Course feedback (11th Week): [Link](doc/Q3_Feedback_Answer.md)  
+- June 28: Instruction for Quiz 3: [Link](doc/Quiz3_Description.md)  
+- June 20: Course feedback (7th Week): [Link](doc/Q2_Feedback_Answer.md)  
+- May 31: Instruction for Quiz 2: [Link](doc/Quiz2_Description.md)  
+- May 24: Course feedback (4th Week): [Link](doc/Q1_Feedback_Answer.md)  
+- May 10: Instruction for Quiz 1: [Link](doc/Quiz1_Description.md)  
 
 ## Announcement
 
