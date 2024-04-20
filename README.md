@@ -147,10 +147,10 @@ To participate the game, the instructor will show the students a game pin number
 We will update your attendance record in LEARN. If the record is not correct, please send an email to TA. When students check the attendance by dishonest means (e.g. a student present at a class join the game using more than one account, remotely access the game using a pin number, informed by a student present at a class), they are considered as an academic offense and receive 0 for **all attendance score**. And they are disciplined by [Policy for Cheating](#policy-for-cheating)    
 
 ## Course Calendar
-|![](doc/img/May2024.jpg) |
+|![](doc/calendar/May2024.jpg) |
 |:---:|
-|![](doc/img/June2024.jpg) | 
-|![](doc/img/July2024.jpg) | 
+|![](doc/calendar/June2024.jpg) | 
+|![](doc/calendar/July2024.jpg) | 
 
 
 ## Tutorial
