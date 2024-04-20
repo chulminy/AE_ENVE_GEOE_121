@@ -1,6 +1,6 @@
 # AE/ENVE/GEOE121: Computational Method (S2024)
 
-|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Seth Baily  (shpbaile@uwaterloo.ca) <br> **Class (AE121):** M&W (10:30-11:30 AM) & T (8:30-9:30 AM) at CPH-3604  <br> **Class (ENVE/GEOE121):** T (3:30-5:00 PM) & W (2:30-4:00 PM) at E2-1732 <br> **Programming Lab (AEG121):** Mon (3:00 to 6:00 PM) at CPH 1346 <br> <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: After each class or by appointment|
+|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Seth Baily  (shpbaile@uwaterloo.ca) <br> **Class (AE121):** M&W (10:30-11:30 AM) & T (8:30-9:30 AM) at CPH-3604  <br> **Class (EG121):** T (3:30-5:00 PM) & W (2:30-4:00 PM) at E2-1732 <br> **Programming Lab (AEG121):** Mon (3:00 to 6:00 PM) at CPH 1346 <br> <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: After each class or by appointment|
 |:--------|:-----------|
 
 **Previous offerings of this course**
@@ -11,11 +11,10 @@
 - [**Computational Method (Spring, 2019)**](old/s2019)
 
 **Key links**
-
+- [**LEARN**]()
+- [**MATLAB Grader- (S24) AE/ENVE/GEOE 121: Homework**](https://grader.mathworks.com/courses/139771)
+- [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318)
 <!-- 
-- [**LEARN**](https://learn.uwaterloo.ca/d2l/home/809136)
-- [**MATLAB Grader- (S22) AE/ENVE/GEOE 121: Homework**](https://grader.mathworks.com/courses/75314-s22-ae-enve-geoe-121-homework)
-- [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method)
 - [**MATLAB Grader- Quizzes in previous years**](https://grader.mathworks.com/courses/63504-quizzes-in-previous-years-computational-method)
 - [**MATLAB Grader- (S22) AE 121: Quizzes**](https://grader.mathworks.com/courses/76605-s22-ae-121-quizzes)
 - [**MATLAB Grader- (S22) ENVE/GEOE 121: Quizzes**](https://grader.mathworks.com/courses/76610-s22-enve-geoe-121-quizzes)
@@ -63,7 +62,6 @@ By the end of this course, students should be able to
 * Debug your code to identify and fix programming errors.
 * Identify suitable keywords to search for code snippets on the web.
 * Apply MATLAB to write your own program (very important).
-
 * (newly added) Explain programming logics to use GenAI
 * (newly added) Read the existing MATLAB scripts
 
@@ -127,9 +125,9 @@ Students can watch lecture videos for each module.
 |**Module 11**|[<img src="http://img.youtube.com/vi/qubtDteNV38/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=qubtDteNV38)  [<img src="http://img.youtube.com/vi/NgntRda2sCY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=NgntRda2sCY)|
 
 ## Course Attendance
-Students have to attend all classes to receive 15 point attendance scores. The attendance will be checked using Kahoot game sessions. There are several Kahoot game sessions across the classes. Among them, I will check the attendance only for 8 sessions. I will check the attendance at the class when the student participation is low. 
+Students have to attend all classes to receive 12 point attendance scores. The attendance will be checked using Kahoot game sessions. There are several Kahoot game sessions across the classes. Among them, I will check the attendance only for 8 sessions. I will check the attendance at the class when the student participation is low. 
 
-Students receive 3 points if they simply **join the kahoot sessions** in that day. The maximum score that students will receive from these games is 15, which mean students can get a full mark (15 points) if they join at least 5 sessions that the intructors accounts the attendance. This considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. 
+Students receive 2.4 points if they simply **join the kahoot sessions** in that day. The maximum score that students will receive from these games is 12, which mean students can get a full mark (12 points) if they join at least 5 sessions that the intructors accounts the attendance. This considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. 
 
 Again, students **DO NOT HAVE TO** inform TA or instructor for their absent in the session that checks the attendance. No matter the reason, students **cannot** get the point if they do not join the game during the class. Students can still get a full attendance mark although they miss one or two classes (games). Thus, we will **not arrange a special accommodation for the attendance.** Please do not send an email to the instructor or TA to explain your absent.   
 
