@@ -1,8 +1,7 @@
-# AE/ENVE/GEOE121: Computational Method 
+# AE/ENVE/GEOE121: Computational Method (S2024)
 
-|||
+|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Seth Baily  (shpbaile@uwaterloo.ca) <br> **Class (AE121):** M&W (10:30-11:30 AM) & T (8:30-9:30 AM) at CPH-3604  <br> **Class (ENVE/GEOE121):** T (3:30-5:00 PM) & W (2:30-4:00 PM) at E2-1732 <br> **Programming Lab (AEG121):** Mon (3:00 to 6:00 PM) at CPH 1346 <br> <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: After each class or by appointment|
 |:--------|:-----------|
-|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Seth Baily  (shpbaile@uwaterloo.ca) <br> **Class (AE121):** Mon & Wed (10:30 to 11:30 AM) & Tues (8:30 to 9:30 AM) at CPH 3604  <br> **Class (ENVE/GEOE121):** Tue (3:30 to 5:00 PM) & Wed (2:30 to 4:00 PM) at E2-1732 <br> **Programming Lab (AEG121):** Mon (3:00 to 6:00 PM) at CPH 1346 <br> <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: After each class or By appointment|
 
 **Previous offerings of this course**
 - [**Computational Method (Spring, 2022)**](old/s2022)
@@ -54,16 +53,19 @@ This course introduces computer programming for engineering students using MATLA
 This course includes lectures, tutorials, homework assignments, and quizzes:
 * [**Lectures**](#course-outline) are to cover the major topics, discussing the important programming concepts with worked-out examples. The instructor will teach the [*course material*](comp_method_book_cm_s21.pdf). 
 * [**Tutorials**](#tutorial) are **self-study** resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial: Computational Method*](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader.       
-* [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*(S24) AE/ENVE/GEOE 121: Homework*](https://grader.mathworks.com/courses/75314-s22-ae-enve-geoe-121-homework) in the MATLAB Grader.
+* [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*(S24) AE/ENVE/GEOE 121: Homework*](https://grader.mathworks.com/courses/139771-s24-ae-enve-geoe-121-homework) in the MATLAB Grader.
 * [**Quizzes**](#quiz) are to evaluate your knowledge and programming skills. There will be four quizzes over the course. 
 
 ## Course Objectives
 By the end of this course, students should be able to  
-* Develop MATLAB programming logic to solve problems. 
+* Develop MATLAB programming logics to solve problems. 
 * Compose working, efficient, and readable MATLAB scripts in various ways.
 * Debug your code to identify and fix programming errors.
 * Identify suitable keywords to search for code snippets on the web.
 * Apply MATLAB to write your own program (very important).
+
+* (newly added) Explain programming logics to use GenAI
+* (newly added) Read the existing MATLAB scripts
 
 ## Study Guide
 * Attend all lectures. There are [video recordings of all lecture modules](#lecture-video) so you can review them if you do not understand the lectures clearly.    
@@ -188,10 +190,10 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 ### Schedule 
 |Quiz|Topics|Date|Duration|Location|Instruction|
 |:---|:-------|:-----|:----|:----|:----|
-|**Quiz 01**|Module 01 ~ 02|||||
-|**Quiz 02**|Module 01 ~ 05|||||
-|**Quiz 03**|Module 01 ~ 07|||||
-|**Quiz 04**|Module 01 ~ 07, 09, 11|||||
+|**Quiz 01**|Module 01 ~ 02|May 27||CPH-1346||
+|**Quiz 02**|Module 01 ~ 04|June 24||CPH-1346||
+|**Quiz 03**|Module 01 ~ 07|July 15||CPH-1346||
+|**Quiz 04**|Module 01 ~ 07, 09, 11|||CPH-1346||
 
 
 ## Policy for Cheating 
@@ -224,14 +226,14 @@ Note that TAs will check the time records of the latest submitted solutions. Ple
 ### Schedule
 |HW|Topic|Start date|Due date|
 |:---|:-----|:-----|:----|
-|HW 01|Module 01            |||
-|HW 02|Module 01 ~ Module 02|||
-|HW 03|Module 01 ~ Module 04|||
-|HW 04|Module 01 ~ Module 05|||
-|HW 05|Module 01 ~ Module 06|||
-|HW 06|Module 01 ~ Module 07|||
-|HW 07|Module 01 ~ Module 07, 09|||
-|HW 08|Module 01 ~ Module 07, 09, 11|||
+|HW 01|Module 01            |May 06|May 17 at 23:45pm|
+|HW 02|Module 01 ~ Module 02|May 13|May 31 at 23:45pm|
+|HW 03|Module 01 ~ Module 04|May 27|June 14 at 23:45pm|
+|HW 04|Module 01 ~ Module 05|June 10|June 28 at 23:45pm|
+|HW 05|Module 01 ~ Module 06|June 17|July 05 at 23:45pm|
+|HW 06|Module 01 ~ Module 07|June 24|July 12 at 23:45pm|
+|HW 07|Module 01 ~ Module 07, 09|July 8|July 26 at 23:45pm|
+|HW 08|Module 01 ~ Module 07, 09, 11|July 15|July 31 at 23:45pm|
 
 * Students can start homework assignments anytime if they are visible in the MATLAB Grader.
 
@@ -261,7 +263,6 @@ Before you ask questions, please take a look at the following [**Q&A document**]
 |**Total** |100| 
 
 ## Note
-
 ### Generative artificial intelligence
 Generative artificial intelligence (GenAI) trained using large language models (LLM) or other methods to produce text, images, music, or code, like Chat GPT, DALL-E, or GitHub CoPilot, may be used for assignments in this class with proper documentation, citation, and acknowledgement. Recommendations for how to cite GenAI in student work at the University of Waterloo may be found through the Library: https://subjectguides.uwaterloo.ca/chatgpt_generative_ai. Please be aware that generative AI is known to falsify references to other work and may fabricate facts and inaccurately express ideas. GenAI generates content based on the input of other human authors and may therefore contain inaccuracies or reflect biases. 
 
