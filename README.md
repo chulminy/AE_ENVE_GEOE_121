@@ -1,6 +1,6 @@
 # AE/ENVE/GEOE121: Computational Method (S2024)
 
-|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Seth Baily  (shpbaile@uwaterloo.ca) <br> **Class (AE121):** M&W (10:30-11:30 AM) & T (8:30-9:30 AM) at CPH-3604  <br> **Class (EG121):** T (3:30-5:00 PM) & W (2:30-4:00 PM) at E2-1732 <br> **Programming Lab (AEG121):** Mon (3:00 to 6:00 PM) at CPH 1346 <br> <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: After each class or by appointment|
+|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Seth Baily  (shpbaile@uwaterloo.ca) <br> **Graduate TA:** Fuad Hasan (f7hasan@uwaterloo.ca) <br> **Class (AE121):** M&W (10:30-11:30 AM) & T (8:30-9:30 AM) at CPH-3604  <br> **Class (EG121):** T (3:30-5:00 PM) & W (2:30-4:00 PM) at E2-1732 <br> **Programming Lab (AEG121):** Mon (3:00 to 6:00 PM) at CPH 1346 and CPH 1325 <br> <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: After each class or by appointment|
 |:--------|:-----------|
 
 **Previous offerings of this course**
@@ -11,7 +11,7 @@
 - [**Computational Method (Spring, 2019)**](old/s2019)
 
 **Key links**
-- [**LEARN**]()
+- [**LEARN**](https://learn.uwaterloo.ca/d2l/home/1030742)
 - [**MATLAB Grader- (S24) AE/ENVE/GEOE 121: Homework**](https://grader.mathworks.com/courses/139771)
 - [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318)
 <!-- 
@@ -62,8 +62,8 @@ By the end of this course, students should be able to
 * Debug your code to identify and fix programming errors.
 * Identify suitable keywords to search for code snippets on the web.
 * Apply MATLAB to write your own program (very important).
-* (newly added) Explain programming logics in the context of using GenAI
-* (newly added) Interpret and understand existing MATLAB scripts
+* **(newly added) Explain programming logics in the context of using GenAI**
+* **(newly added) Interpret and understand existing MATLAB scripts**
 
 ## Study Guide
 * Attend all lectures. There are [video recordings of all lecture modules](#lecture-video) so you can review them if you do not understand the lectures clearly.    
@@ -125,11 +125,11 @@ Students can watch lecture videos for each module.
 |**Module 11**|[<img src="http://img.youtube.com/vi/qubtDteNV38/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=qubtDteNV38)  [<img src="http://img.youtube.com/vi/NgntRda2sCY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=NgntRda2sCY)|
 
 ## Course Attendance
-Students have to attend all classes to receive 12 point attendance scores. The attendance will be checked using Kahoot game sessions. There are several Kahoot game sessions across the classes. Among them, I will check the attendance only for 8 sessions. I will check the attendance at the class when the student participation is low. 
+Students have to attend all classes to receive 12 point attendance scores. The attendance will be checked using Kahoot game sessions. There are several Kahoot game sessions across the classes. Among them, I will randomly check the attendance only for **8 sessions**. I will check the attendance at the class when the student participation is low. 
 
-Students receive 2.4 points if they simply **join the kahoot sessions** in that day. The maximum score that students will receive from these games is 12, which mean students can get a full mark (12 points) if they join at least 5 sessions that the intructors accounts the attendance. This considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. 
+Students receive 2.4 points if they simply **join the kahoot sessions** in the class. The maximum score that students will receive from these games is 12, which mean students can get a full mark (12 points) if they join at least 5 sessions that the intructors accounts the attendance. This considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. 
 
-Again, students **DO NOT HAVE TO** inform TA or instructor for their absent in the session that checks the attendance. No matter the reason, students **cannot** get the point if they do not join the game during the class. Students can still get a full attendance mark although they miss one or two classes (games). Thus, we will **not arrange a special accommodation for the attendance.** Please do not send an email to the instructor or TA to explain your absent.   
+Students **DO NOT HAVE TO** inform TA or instructor for their absent in the session when I check the attendance. No matter the reason, students **cannot** get the point if they do not join the game during the class. For example, even if a student has COVID and cannot attend, no exception will be made. The rationale is that there is no reason a student cannot attend random three classes.  Students can still get a full attendance mark although they miss one or two classes (games). Thus, we will **not arrange a special accommodation for the attendance.** Please do not send an email to the instructor or TA to explain your absent. 
 
 To participate the game, the instructor will show the students a game pin number. 
 
@@ -144,7 +144,9 @@ To participate the game, the instructor will show the students a game pin number
 |![](doc/img/kahoot_step3.png)|![](doc/img/kahoot_step4.png)|
 |**Step 3**|**Step 4**|
 
-We will update your attendance record in LEARN. If the record is not correct, please send an email to TA. When students check the attendance by dishonest means (e.g. a student present at a class join the game using more than one account, remotely access the game using a pin number, informed by a student present at a class), they are considered as an academic offense and receive 0 for **all attendance score**. And they are disciplined by [Policy for Cheating](#policy-for-cheating)    
+**(Very Important)** When students check the attendance by dishonest means (e.g. a student present at a class join the game using more than one account, remotely access the game using a pin number, informed by a student present at a class), they are considered as an academic offense and receive 0 for **all attendance score**. And they are disciplined by [Policy for Cheating](#policy-for-cheating)    
+
+We will update your attendance record in LEARN. If the record is not correct, please send an email to TA.   
 
 ## Course Calendar
 |![](doc/calendar/May2024.jpg) |
@@ -173,7 +175,7 @@ The tutorials are self-study resources to assist students in the problems of cou
 You do not have to memorize any of the solutions. You can freely access all these solutions during the quizzes because they are open-book quizzes. However, I tell you, without going through this process, you cannot write your own script during the quizzes and will not get a good mark on them. 
 
 ## Programming Lab
-The programming labs will be held in a main computer lab (CPH-1346). The programming labs include module reviews and quizzes. The programming labs are designed to focus on hands-on practice with MATLAB programming. Students can use the computers in the lab or bring their own laptop if MATLAB is installed. Students are highly encouraged to attend the programming labs.  
+The programming labs will be held in a main computer lab (CPH-1346 and CPH-1325). The programming labs include module reviews and quizzes. The programming labs are designed to focus on hands-on practice with MATLAB programming. Students can use the computers in the lab or bring their own laptop if MATLAB is installed. Students are highly encouraged to attend the programming labs.  
 
 ## Quiz
 The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments, and written tests. 
@@ -188,10 +190,10 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 ### Schedule 
 |Quiz|Topics|Date|Duration|Location|Instruction|
 |:---|:-------|:-----|:----|:----|:----|
-|**Quiz 01**|Module 01 ~ 02|May 27||CPH-1346||
-|**Quiz 02**|Module 01 ~ 04|June 24||CPH-1346||
-|**Quiz 03**|Module 01 ~ 07|July 15||CPH-1346||
-|**Quiz 04**|Module 01 ~ 07, 09, 11|||CPH-1346||
+|**Quiz 01**|Module 01 ~ 02|May 27||CPH-1346 and CPH-1325 ||
+|**Quiz 02**|Module 01 ~ 04|June 24||CPH-1346 and CPH-1325||
+|**Quiz 03**|Module 01 ~ 07|July 15||CPH-1346 and CPH-1325||
+|**Quiz 04**|Module 01 ~ 07, 09, 11|||CPH-1346 and CPH-1325||
 
 
 ## Policy for Cheating 
