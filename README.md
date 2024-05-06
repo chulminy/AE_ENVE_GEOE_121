@@ -1,6 +1,6 @@
 # AE/ENVE/GEOE121: Computational Method (S2024)
 
-|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Seth Baily  (shpbaile@uwaterloo.ca) <br> **Graduate TA:** Fuad Hasan (f7hasan@uwaterloo.ca) <br> **Class (AE121):** M&W (10:30-11:30 AM) & T (8:30-9:30 AM) at CPH-3604  <br> **Class (EG121):** T (3:30-5:00 PM) & W (2:30-4:00 PM) at E2-1732 <br> **Programming Lab (AEG121):** Mon (3:00 to 6:00 PM) at CPH 1346 and CPH 1325 <br> <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: After each class or by appointment|
+|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Seth Baily  (shpbaile@uwaterloo.ca) <br> **Graduate TA:** Fuad Hasan (f7hasan@uwaterloo.ca) <br> **Class (AE121):** M&W (10:30-11:30 AM) & T (8:30-9:30 AM) at CPH-3604  <br> **Class (EG121):** T (3:30-5:00 PM) & W (2:30-4:00 PM) at E2-1732 <br> **Lab (AEG121):** Mon (3:00 to 6:00 PM) at CPH 1346 and CPH 1325 <br> <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: After each class or by appointment|
 |:--------|:-----------|
 
 **Previous offerings of this course**
