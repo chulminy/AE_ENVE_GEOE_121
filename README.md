@@ -134,7 +134,7 @@ Students **DO NOT HAVE TO** inform TA or instructor for their absent in the sess
 To participate the game, the instructor will show the students a game pin number. 
 
 * Step 1: Go to the Kahoot! website [https://kahoot.it/](https://kahoot.it/) and type a pin number. The instructor will show the pin number in each game. 
-* Step 2: ** (Mandatory) Type your university ID as your nick name**
+* Step 2: **(Mandatory) Type your university ID as your nick name**
 * Step 3. You are ready for joining the game    
 
 |![](doc/img/kahoot_step1.png)|![](doc/img/kahoot_step2.png)|
