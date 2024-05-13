@@ -97,15 +97,15 @@ Lectures are to deliver fundamental knowledge and information in each module and
 |:-----|:-----|:--:|:-----------:|
 |**Module 00**|Preliminaries|1 (1)||
 |**Module 01**|Basic MATLAB Programming|3 (4)||
-|**Module 02**|Vectors and Matrices|3 (7)|Quiz 01|
-|**Module 03**|Selection Statement |3 (10)||
-|**Module 04**|Loop Statement|3 (13)|Quiz 02|
-|**Module 05**|Built-in Functions|3 (16)||
-|**Module 06**|Operator|4 (20)||
-|**Module 07**|Function|4 (24)|Quiz 03|
-|**Module 08**|Plotting|1 (25)||
-|**Module 09**|Data Structure|3 (28)|
-|**Module 11**|Text Manipulation|3 (31)|Quiz 04|
+|**Module 02**|Vectors and Matrices|4 (8)|Quiz 01|
+|**Module 03**|Selection Statement |3 (11)||
+|**Module 04**|Loop Statement|4 (15)|Quiz 02|
+|**Module 05**|Built-in Functions|3 (18)||
+|**Module 06**|Operator|5 (23)||
+|**Module 07**|Function|5 (28)|Quiz 03|
+|**Module 08**|Plotting|1 (29)||
+|**Module 09**|Data Structure|3 (32)|
+|**Module 11**|Text Manipulation|3 (35)|Quiz 04|
 
 ### Lecture Video 
 Students can watch lecture videos for each module. 
