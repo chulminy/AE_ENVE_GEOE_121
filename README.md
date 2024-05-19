@@ -14,6 +14,8 @@
 - [**LEARN**](https://learn.uwaterloo.ca/d2l/home/1030742)
 - [**MATLAB Grader- (S24) AE/ENVE/GEOE 121: Homework**](https://grader.mathworks.com/courses/139771)
 - [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318)
+- [**MATLAB Grader- (S24) Quizzes in previous years**](https://grader.mathworks.com/courses/142536)
+
 <!-- 
 - [**MATLAB Grader- Quizzes in previous years**](https://grader.mathworks.com/courses/63504-quizzes-in-previous-years-computational-method)
 - [**MATLAB Grader- (S22) AE 121: Quizzes**](https://grader.mathworks.com/courses/76605-s22-ae-121-quizzes)
