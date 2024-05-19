@@ -24,6 +24,7 @@
 
 - [**FAQ document**](qna)
 - [**Course material**](comp_method_book_cm_s21.pdf)
+- [**Kahoot**](tutorial\Kahoot)
 
 **Folders**   
 - [**Class materials**](tutorial/CLASS)   
