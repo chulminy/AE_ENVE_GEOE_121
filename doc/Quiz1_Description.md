@@ -4,7 +4,7 @@
 **Quiz #1** is designed to evaluate your understanding of the key concepts covered in **Modules 1 and 2**. This is an individual, in-person exam held in CPH-1346 and CPH-1325. Your specific room and seat assignment will be provided on the quiz date. You must complete all problems independently and are not allowed to discuss them with others. If you have questions, you may ask the TA proctors or the instructor at any time. The quiz consists of two parts: a written portion and a graded test.
 
 **Guidelines for the Written Test**
-![](img\Q1_first_page_written_test.jpg)  
+![](img/Q1_first_page_written_test.jpg)  
 
 **Please bring writing utensil, eraser, pencil sharpener**
 
