@@ -26,7 +26,7 @@ Before starting the quiz, you need to copy and paste all files in **a Desktop fo
 There are five questions:
 - Q1-1 (★): 10 points
 - Q1-2 (★★): 15 points
-- Q1-4 (★★★): 25 points
+- Q1-3 (★★★): 25 points
 
 ## Quiz Schedule
 **AE/ENVE/GEOE:** May 27 at 03:10pm ~ 4:50 pm - 60 min (written test) + 50 min (grader test)
