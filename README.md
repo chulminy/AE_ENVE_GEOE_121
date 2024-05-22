@@ -30,6 +30,8 @@
 - [**Class materials**](tutorial/CLASS)   
 
 ## Announcement
+- May 22: Instruction for Quiz 1: [Link](doc/Quiz1_Description.md)  
+
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -192,7 +194,7 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 ### Schedule 
 |Quiz|Topics|Date|Duration|Location|Instruction|
 |:---|:-------|:-----|:----|:----|:----|
-|**Quiz 01**|Module 01 ~ 02|May 27||CPH-1346 and CPH-1325 ||
+|[**Quiz 01**](doc/Quiz1_Description.md)|Module 01 ~ 02|May 27|110 minutes|CPH-1346 and CPH-1325 |[**Link**](doc/Quiz1_Description.md)|
 |**Quiz 02**|Module 01 ~ 04|June 24||CPH-1346 and CPH-1325||
 |**Quiz 03**|Module 01 ~ 07|July 15||CPH-1346 and CPH-1325||
 |**Quiz 04**|Module 01 ~ 07, 09, 11|||CPH-1346 and CPH-1325||
