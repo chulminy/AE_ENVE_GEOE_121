@@ -30,6 +30,8 @@
 - [**Class materials**](tutorial/CLASS)   
 
 ## Announcement
+- June 12: Instruction for Quiz 2: [Link](doc/Quiz2_Description.md)  
+
 - May 22: Instruction for Quiz 1: [Link](doc/Quiz1_Description.md)  
 
 
