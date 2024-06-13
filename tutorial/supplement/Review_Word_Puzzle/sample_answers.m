@@ -77,7 +77,7 @@ end
 %% option 2
 
 % search columns
-is_run = false;
+x
 for ii=1:puzzle_size
     col_vec = puzzle(:,ii);
     for jj=1:(puzzle_size-n_word+1)
@@ -88,6 +88,7 @@ for ii=1:puzzle_size
         for kk=1:n_word
             if word_db(kk) ~= test_word(kk)
                 is_word = false;
+                break;
             end
         end
 
