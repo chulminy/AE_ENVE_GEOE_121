@@ -31,9 +31,7 @@
 
 ## Announcement
 - July 09: Instruction for Quiz 3: [Link](doc/Quiz3_Description.md)  
-
 - June 12: Instruction for Quiz 2: [Link](doc/Quiz2_Description.md)  
-
 - May 22: Instruction for Quiz 1: [Link](doc/Quiz1_Description.md)  
 
 
@@ -110,8 +108,8 @@ Lectures are to deliver fundamental knowledge and information in each module and
 |**Module 03**|Selection Statement |3 (11)||
 |**Module 04**|Loop Statement|4 (15)|Quiz 02|
 |**Module 05**|Built-in Functions|3 (18)||
-|**Module 06**|Operator|5 (23)||
-|**Module 07**|Function|5 (28)|Quiz 03|
+|**Module 06**|Operator|5 (23)|Quiz 03|
+|**Module 07**|Function|5 (28)||
 |**Module 08**|Plotting|1 (29)||
 |**Module 09**|Data Structure|3 (32)|
 |**Module 11**|Text Manipulation|3 (35)|Quiz 04|
