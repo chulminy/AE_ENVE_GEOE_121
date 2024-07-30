@@ -262,8 +262,8 @@ Before you ask questions, please take a look at the following [**Q&A document**]
 |**Quiz #1**| 10 |
 |**Quiz #2**| 15 |
 |**Quiz #3**| 23 |
-|**Quiz #4**| 30 |
-|**Total** |100| 
+|**Quiz #4**| 35 |
+|**Total** |105| 
 
 ## Note
 ### Generative artificial intelligence
