@@ -1,9 +1,9 @@
 # AE/ENVE/GEOE121: Computational Method (S2024)
 
-|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** TBD  (TBD) <br> **Class (CIVE121):** M&W (2:30-4:00 PM) at RCH-302  <br> **Lab (CIVE121):** W (2:30 to 5:00 PM) at E2-1792 <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: By appointment|
+|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** TBD  (TBD) <br> **Class (CIVE121):** Mon&Wed (2:30-4:00 PM) at RCH-302  <br> **Lab (CIVE121):** Wed (2:30 to 5:00 PM) at E2-1792 <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: By appointment|
 |:--------|:-----------|
 
-**Previous offerings of this course**
+**Courses in previous terms**
 - [**Computational Method (Spring, 2024)**](old/s2024)
 - [**Computational Method (Spring, 2022)**](old/s2022)
 - [**Computational Method (Winter, 2022)**](old/w2022)
@@ -30,7 +30,7 @@
 - [**Class materials**](tutorial/CLASS)   
 
 ## Announcement
-- Jan 01: Welcome to CIVE 121!
+- January 01, 2025: Welcome to CIVE 121
 
 ## Key Dates
 * Family Day, Monday, February 17, 2024
@@ -61,8 +61,8 @@ This course introduces computer programming for engineering students using MATLA
 
 This course includes lectures, tutorials, and quizzes:
 * [**Lectures**](#course-outline) are to cover the major topics, discussing the important programming concepts with worked-out examples. The instructor will teach the [*course material*](comp_method_book_cm_s21.pdf). 
-* [**Tutorials**](#tutorial) are **self-study** resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial: Computational Method*](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader.       
-* [**Lab assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on the MATLAB Grader.
+* [**Tutorials**](#tutorial) are **self-study** resources to assist students to solve the problems in the course material, lab assignments, and quizzes. Students can find the problems on [*Tutorial: Computational Method*](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader.       
+* [**Programming Lab**](#programming-lab) are to provide practice for programming and evaluate your progress on the understanding of the course material. They are posted on the MATLAB Grader.
 * [**Quizzes**](#quiz) are to evaluate your knowledge and programming skills. There will be four quizzes over the course. 
 
 ## Course Objectives
@@ -98,7 +98,7 @@ This course is not based on any particular textbook. However, the [course materi
 ## Course Outline
 All lectures will be delivered in person. The lectures will cover the course materials (You can download it from [**here**](comp_method_book_cm_s21.pdf)), developed by the instructor. Quizzes are all cumulative. The quizzes to be covered are based on the knowledge from the current and all previous modules. 
 
-Lectures are to deliver fundamental knowledge and information in each module and **are not to give a direction on how to solve your homework assignments or quizzes**. However, all the practice problems were designed based on the course materials. Thus, if students do not find the relevance between them, they have not understood lectures yet and should carefully review them again. 
+Lectures are to deliver fundamental knowledge and information in each module and **are not to give a direction on how to solve quizzes**. However, all the practice problems were designed based on the course materials. Thus, if students do not find the relevance between them, they have not understood lectures yet and should carefully review them again. 
 
 ### Schedule
 |Module|Topics|Hours (cumsum)|[Quiz](#quiz)| 
@@ -118,7 +118,7 @@ Lectures are to deliver fundamental knowledge and information in each module and
 ## Course Attendance
 Students have to attend all classes to receive 15 point attendance scores. The attendance will be checked using Kahoot game sessions. There are several Kahoot game sessions across the classes. Among them, I will randomly check the attendance only for **8 sessions**. I will check the attendance at the class when the student participation is low. 
 
-Students receive 2.5 points if they simply **join the kahoot sessions** in the class. The maximum score that students will receive from these games is 15, which mean students can get a full mark (15 points) if they join at least 6 sessions that the intructors accounts the attendance. This considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. 
+Students receive 2.5 points if they simply **join the Kahoot sessions** in the class. The maximum score that students will receive from these games is 15, which mean students can get a full mark (15 points) if they join at least 6 sessions that the intructors accounts the attendance. This considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. 
 
 Students **DO NOT HAVE TO** inform TA or instructor for their absent in the session when I check the attendance. No matter the reason, students **cannot** get the point if they do not join the game during the class. For example, even if a student has illness and cannot attend, no exception will be made. The rationale is that there is no reason a student cannot attend random three classes.  Students can still get a full attendance mark although they miss one or two classes (games). Thus, we will **not arrange a special accommodation for the attendance.** Please do not send an email to the instructor or TA to explain your absent. 
 
@@ -196,7 +196,7 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 
 **This course is supported by a full-time WEEF TA. If you have any questions, please visit the WEEF TA office for assistance, or you may also post queries on the LEARN discussion board.**  
 
-**Quiz:** Our teaching team will throughly review your answer. TAs will use software to detect any plagiarism in your scripts. It's important to understand that attempting to deceive the TAs or the instructor is futile. Even if you successfully solve all problems on the MATLAB Grader, **your quiz will be graded zero if found to be plagiaristic.** This applies equally to those who copy and those who allow their work to be copied, with both parties facing potential reporting to the Engineering Undergraduate Associate Dean (AD) for academic offenses. 
+**Quiz:** Our teaching team will throughly review your answer. TAs will use software to detect any plagiarism in your scripts. It's important to understand that attempting to deceive the TAs or the instructor is futile. Even if you successfully solve all problems on the MATLAB Grader, **your quiz (both written and grader) will be graded zero if found to be plagiaristic.** This applies equally to those who copy and those who allow their work to be copied, with both parties facing potential reporting to the Engineering Undergraduate Associate Dean (AD) for academic offenses. 
 
 **Attendance:** It has been observed that some students share links to allow absent peers to participate in Kahoot sessions remotely. This is a serious offense. Detected violations will result in a loss of all attendance marks, irrespective of past presence. Violations will result in a loss of 15 marks and be reported to AD. Repeated offenses may result in further disciplinary action from the AD. Please act with integrity to avoid regrets.
 
