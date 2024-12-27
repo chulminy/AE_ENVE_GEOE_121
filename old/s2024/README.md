@@ -1,6 +1,6 @@
 # AE/ENVE/GEOE121: Computational Method (S2024)
 
-|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** TBD  (TBD) <br> **Class (CIVE121):** M&W (2:30-4:00 PM) at RCH-302  <br> **Lab (CIVE121):** W (2:30 to 5:00 PM) at E2-1792 <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: By appointment|
+|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** TBD <br> **Class:** Mon (2:30-4:00 PM) & Wed (8:30-10:00 AM) at <br> **Lab:** T (3:30-5:00 PM) & W (2:30-4:00 PM) at E2-1732 <br> **Lab (AEG121):** Mon (3:00 to 6:00 PM) at CPH 1346 and CPH 1325 <br> <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: After each class or by appointment|
 |:--------|:-----------|
 
 **Previous offerings of this course**
@@ -11,33 +11,18 @@
 - [**Computational Method (Spring, 2020)**](old/s2020)
 - [**Computational Method (Spring, 2019)**](old/s2019)
 
-**Key links**  
-- [**LEARN**](https://learn.uwaterloo.ca/d2l/home/1118775)
-- [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318) 
-- [**FAQ document**](qna)
-- [**Course material**](comp_method_book_cm_s21.pdf)
-
-<!-- - [**Kahoot**](tutorial/Kahoot) -->
-<!-- - [**MATLAB Grader- (S24) Quizzes in previous years**](https://grader.mathworks.com/courses/142536)  -->
-
 <!-- 
 - [**MATLAB Grader- Quizzes in previous years**](https://grader.mathworks.com/courses/63504-quizzes-in-previous-years-computational-method)
 - [**MATLAB Grader- (S22) AE 121: Quizzes**](https://grader.mathworks.com/courses/76605-s22-ae-121-quizzes)
 - [**MATLAB Grader- (S22) ENVE/GEOE 121: Quizzes**](https://grader.mathworks.com/courses/76610-s22-enve-geoe-121-quizzes)
 -->
 
+- [**FAQ document**](qna)
+- [**Course material**](comp_method_book_cm_s21.pdf)
+- [**Kahoot**](tutorial/Kahoot)
+
 **Folders**   
 - [**Class materials**](tutorial/CLASS)   
-
-## Announcement
-- Jan 01: Welcome to CIVE 121!
-
-## Key Dates
-* Family Day, Monday, February 17, 2024
-* Winter Reading Week, Monday, February 17 – Sunday, February 23, 2024.
-* Good Friday, Friday, March 29, 2024.
-* Pre-examination Study Days: Monday, April 7 and Tuesday, April 8, 2024.
-* Final Exam Period: Wednesday, April 9 to Friday, April 25, 2024.
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -52,6 +37,7 @@
 - [Programming Lab](#programming-lab)
 - [Quiz](#quiz)
 - [Policy for Cheating](#policy-for-cheating)
+- [Homework Assignment](#homework-assignment)
 - [Communication](#communication)
 - [Grading](#grading)
 - [Note](#note)
@@ -59,10 +45,10 @@
 ## Course Description
 This course introduces computer programming for engineering students using MATLAB. MATLAB is an easy and readable programming language and is an excellent choice for those who are learning programming for the first time. This course will cover various topics including programming fundamentals, matrix operations, and data visualization. Students who complete this course will gain a fundamental understanding of computer programming techniques and be able to operate, analyze, and visualize all types of data for future engineering studies. **Remember that this course is not a simple MATLAB tutorial course.** It is an introductory programming course that utilizes MATLAB to illustrate general concepts in computer programming.  
 
-This course includes lectures, tutorials, and quizzes:
+This course includes lectures, tutorials, homework assignments, and quizzes:
 * [**Lectures**](#course-outline) are to cover the major topics, discussing the important programming concepts with worked-out examples. The instructor will teach the [*course material*](comp_method_book_cm_s21.pdf). 
 * [**Tutorials**](#tutorial) are **self-study** resources to assist students to solve the problems in the course material, homework assignments, and quizzes. Students can find the problems on [*Tutorial: Computational Method*](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader.       
-* [**Lab assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on the MATLAB Grader.
+* [**Homework assignments**](#homework-assignment) are to provide practice for programming and evaluate your progress on the understanding of the course material. The homework assignments will be posted on [*(S24) AE/ENVE/GEOE 121: Homework*](https://grader.mathworks.com/courses/139771-s24-ae-enve-geoe-121-homework) in the MATLAB Grader.
 * [**Quizzes**](#quiz) are to evaluate your knowledge and programming skills. There will be four quizzes over the course. 
 
 ## Course Objectives
@@ -76,13 +62,15 @@ By the end of this course, students should be able to
 * **(newly added) Interpret and understand existing MATLAB scripts**
 
 ## Study Guide
+* Attend all lectures. There are [video recordings of all lecture modules](#lecture-video) so you can review them if you do not understand the lectures clearly.    
 * Solve problems in the course materials and tutorials by yourself (please follow [the following instruction](#tutorial)).
 * Type and run all scripts of sample solutions in the course material and tutorial videos. Never skim the code.  
 * Make online engagement through **LEARN** or or ask for help from TA.   
 * Watch tutorial videos to check your answers to the problems.
 * Employ an editor, Workspace browser, and debugging tool to solve the problems (not on MATLAB Grader). 
 
-**Special Guide Using Generative Artificial Intelligence:** You may utilize generative AI tools to support studies. However, it's important that you first attempt to solve the problems on your own and then compare your solutions with those generated by the AI. This approach ensures you enhance your programming skills. Please note that the use of generative AI tools is not permitted during quizzes. 
+**Special Guide Using Generative Artificial Intelligence:** You may utilize generative AI tools to support your homework and studies. However, it's important that you first attempt to solve the problems on your own and then compare your solutions with those generated by the AI. This approach ensures you enhance your programming skills. Please note that the use of generative AI tools is not permitted during quizzes. 
+
 
 ## Prerequisites
 "Linear algebra" (AE/CIVE/ENVE/GEOE 115) is a prerequisite for this course, which you  already learned in the 1A term. If you are not familiar with these topics, please review corresponding lecture slides or tutorials. 
@@ -96,7 +84,7 @@ This course is not based on any particular textbook. However, the [course materi
 * Moore, Holly. *"MATLAB for Engineers,"* Pearson, 2017.
 
 ## Course Outline
-All lectures will be delivered in person. The lectures will cover the course materials (You can download it from [**here**](comp_method_book_cm_s21.pdf)), developed by the instructor. Quizzes are all cumulative. The quizzes to be covered are based on the knowledge from the current and all previous modules. 
+All lectures will be delivered in person. The lectures will cover the course materials (You can download it from [**here**](comp_method_book_cm_s21.pdf)), developed by the instructor. Homework assignments and quizzes are all cumulative. The assignments and quizzes to be covered are based on the knowledge from the current and all previous modules. 
 
 Lectures are to deliver fundamental knowledge and information in each module and **are not to give a direction on how to solve your homework assignments or quizzes**. However, all the practice problems were designed based on the course materials. Thus, if students do not find the relevance between them, they have not understood lectures yet and should carefully review them again. 
 
@@ -105,22 +93,39 @@ Lectures are to deliver fundamental knowledge and information in each module and
 |:-----|:-----|:--:|:-----------:|
 |**Module 00**|Preliminaries|1 (1)||
 |**Module 01**|Basic MATLAB Programming|3 (4)||
-|**Module 02**|Vectors and Matrices|4 (8)|**Quiz 01**|
+|**Module 02**|Vectors and Matrices|4 (8)|Quiz 01|
 |**Module 03**|Selection Statement |3 (11)||
-|**Module 04**|Loop Statement|4 (15)|**Quiz 02**|
+|**Module 04**|Loop Statement|4 (15)|Quiz 02|
 |**Module 05**|Built-in Functions|3 (18)||
-|**Module 06**|Operator|5 (23)|**Quiz 03**|
+|**Module 06**|Operator|5 (23)|Quiz 03|
 |**Module 07**|Function|5 (28)||
 |**Module 08**|Plotting|1 (29)||
 |**Module 09**|Data Structure|3 (32)|
-|**Module 11**|Text Manipulation|3 (35)|**Quiz 04**|
+|**Module 11**|Text Manipulation|3 (35)|Quiz 04|
+
+### Lecture Video 
+Students can watch lecture videos for each module. 
+
+|Module|Video| 
+|:----|:----|
+|**Module 00**|[<img src="http://img.youtube.com/vi/65e-4AVwE4s/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=65e-4AVwE4s) [<img src="http://img.youtube.com/vi/1zDLYaxqKHE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=1zDLYaxqKHE)|
+|**Module 01**| [<img src="http://img.youtube.com/vi/-vJBm23Wk6k/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=-vJBm23Wk6k)  [<img src="http://img.youtube.com/vi/ObDfOQkglSo/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=ObDfOQkglSo)|
+|**Module 02**| [<img src="http://img.youtube.com/vi/83HysRVk5Zg/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=83HysRVk5Zg) [<img src="http://img.youtube.com/vi/5rP8F1pwggA/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=5rP8F1pwggA)|
+|**Module 03**| [<img src="http://img.youtube.com/vi/6zSqabjvOJM/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=6zSqabjvOJM)|
+|**Module 04**| [<img src="http://img.youtube.com/vi/VLzROWaeJQY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=VLzROWaeJQY)  [<img src="http://img.youtube.com/vi/lnKsXv7fsys/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=lnKsXv7fsys)|
+|**Module 05**|[<img src="http://img.youtube.com/vi/o-Z_DiDkwGs/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=o-Z_DiDkwGs)  [<img src="http://img.youtube.com/vi/Rj6P1iDoqZw/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Rj6P1iDoqZw)|
+|**Module 06**|[<img src="http://img.youtube.com/vi/3btxqXW6JjU/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=3btxqXW6JjU)  [<img src="http://img.youtube.com/vi/lCkpP0HTS1I/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=lCkpP0HTS1I)|
+|**Module 07**|[<img src="http://img.youtube.com/vi/otwRHFWzsH0/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=otwRHFWzsH0)  [<img src="http://img.youtube.com/vi/Wna92qy3PyE/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=Wna92qy3PyE)|
+|**Module 08**|**No Lecture Video**|
+|**Module 09**|[<img src="http://img.youtube.com/vi/R_lxqZWc1rs/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=R_lxqZWc1rs)  [<img src="http://img.youtube.com/vi/VmGPrzd7pik/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=VmGPrzd7pik)|
+|**Module 11**|[<img src="http://img.youtube.com/vi/qubtDteNV38/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=qubtDteNV38)  [<img src="http://img.youtube.com/vi/NgntRda2sCY/0.jpg" width = "150" height="120">](https://www.youtube.com/watch?v=NgntRda2sCY)|
 
 ## Course Attendance
-Students have to attend all classes to receive 15 point attendance scores. The attendance will be checked using Kahoot game sessions. There are several Kahoot game sessions across the classes. Among them, I will randomly check the attendance only for **8 sessions**. I will check the attendance at the class when the student participation is low. 
+Students have to attend all classes to receive 12 point attendance scores. The attendance will be checked using Kahoot game sessions. There are several Kahoot game sessions across the classes. Among them, I will randomly check the attendance only for **8 sessions**. I will check the attendance at the class when the student participation is low. 
 
-Students receive 2.5 points if they simply **join the kahoot sessions** in the class. The maximum score that students will receive from these games is 15, which mean students can get a full mark (15 points) if they join at least 6 sessions that the intructors accounts the attendance. This considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. 
+Students receive 2.4 points if they simply **join the kahoot sessions** in the class. The maximum score that students will receive from these games is 12, which mean students can get a full mark (12 points) if they join at least 5 sessions that the intructors accounts the attendance. This considers unavoidable absence, such as illness, job interview. The students need to bring their cell phones or laptops to join these games. If students did not bring the phone or laptop or its battery is out, students must inform TA before starting the game. 
 
-Students **DO NOT HAVE TO** inform TA or instructor for their absent in the session when I check the attendance. No matter the reason, students **cannot** get the point if they do not join the game during the class. For example, even if a student has illness and cannot attend, no exception will be made. The rationale is that there is no reason a student cannot attend random three classes.  Students can still get a full attendance mark although they miss one or two classes (games). Thus, we will **not arrange a special accommodation for the attendance.** Please do not send an email to the instructor or TA to explain your absent. 
+Students **DO NOT HAVE TO** inform TA or instructor for their absent in the session when I check the attendance. No matter the reason, students **cannot** get the point if they do not join the game during the class. For example, even if a student has COVID and cannot attend, no exception will be made. The rationale is that there is no reason a student cannot attend random three classes.  Students can still get a full attendance mark although they miss one or two classes (games). Thus, we will **not arrange a special accommodation for the attendance.** Please do not send an email to the instructor or TA to explain your absent. 
 
 To participate the game, the instructor will show the students a game pin number. 
 
@@ -139,15 +144,14 @@ To participate the game, the instructor will show the students a game pin number
 We will update your attendance record in LEARN. If the record is not correct, please send an email to TA.   
 
 ## Course Calendar
-|![](doc/calendar/Jan2025.PNG) |
+|![](doc/calendar/May2024.jpg) |
 |:---:|
-|![](doc/calendar/Feb2025.PNG) | 
-|![](doc/calendar/Mar2025.PNG) | 
-|![](doc/calendar/Apr2025.PNG) |
+|![](doc/calendar/June2024.jpg) | 
+|![](doc/calendar/July2024.jpg) | 
 
 
 ## Tutorial
-The tutorials are self-study resources to assist students in the problems of course material and quizzes. Students can find the problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader. The model answers for all tutorial problems were posted on this [**page**](tutorial). All students are **highly recommended** to solve practice problems to prepare for your quizzes. Here is how to study the tutorial. 
+The tutorials are self-study resources to assist students in the problems of course material, homework assignments, and quizzes. Students can find the problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) in the MATLAB Grader. The model answers for all tutorial problems were posted on this [**page**](tutorial). All students are **highly recommended** to solve practice problems to prepare for your quizzes. Here is how to study the tutorial. 
 
 * **Step 1.** Understand a problem listed on each Module in MATLAB Grader: You need to carefully read the description of problems on [**Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318-tutorial-computational-method) or from this [page](tutorial).
 
@@ -166,10 +170,11 @@ The tutorials are self-study resources to assist students in the problems of cou
 You do not have to memorize any of the solutions. You can freely access all these solutions during the quizzes because they are open-book quizzes. However, I tell you, without going through this process, you cannot write your own script during the quizzes and will not get a good mark on them. 
 
 ## Programming Lab
-The programming labs include module reviews and quizzes. The programming labs are designed to focus on hands-on practice with MATLAB programming. Students can use the computers in the lab or bring their own laptop if MATLAB is installed. Students are highly encouraged to attend the programming labs. WE will not check the attendance of the programming lab. 
+The programming labs will be held in a main computer lab (CPH-1346 and CPH-1325). The programming labs include module reviews and quizzes. The programming labs are designed to focus on hands-on practice with MATLAB programming. Students can use the computers in the lab or bring their own laptop if MATLAB is installed. Students are highly encouraged to attend the programming labs.  
 
 ## Quiz
-The quizzes will be delivered through the MATLAB Grader like tutorials or lab assignments, and written tests. 
+The quizzes will be delivered through the MATLAB Grader like tutorials or homework assignments, and written tests. 
+
 <!-- 
 * **AE**: [https://grader.mathworks.com/courses/76605-s22-ae-121-quizzes](https://grader.mathworks.com/courses/76605-s22-ae-121-quizzes)
 * **ENVE/GEOE**: [https://grader.mathworks.com/courses/76610-s22-enve-geoe-121-quizzes](https://grader.mathworks.com/courses/76610-s22-enve-geoe-121-quizzes)
@@ -180,28 +185,49 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 ### Schedule 
 |Quiz|Topics|Date|Duration|Location|Instruction|
 |:---|:-------|:-----|:----|:----|:----|
-|**Quiz 01**|Module 01 ~ 02|Jan 29||||
-|**Quiz 02**|Module 01 ~ 04|Feb 26||||
-|**Quiz 03**|Module 01 ~ 07|Mar 19||||
-|**Quiz 04**|Module 01 ~ 07, 09, 11|TBD||||
-
-<!--
 |[**Quiz 01**](doc/Quiz1_Description.md)|Module 01 ~ 02|May 27|110 minutes|CPH-1346 and CPH-1325 |[**Link**](doc/Quiz1_Description.md)|
 |[**Quiz 02**](doc/Quiz2_Description.md)|Module 01 ~ 04|June 24|130 minutes|CPH-1346 and CPH-1325|[**Link**](doc/Quiz2_Description.md)|
 |[**Quiz 03**](doc/Quiz3_Description.md)|Module 01 ~ 06|July 15|130 minutes|CPH-1346 and CPH-1325|[**Link**](doc/Quiz3_Description.md)|
 |[**Quiz 04**](doc/Quiz4_Description.md)|Module 01 ~ 07, 09, 11|August 09|150 minutes|CPH-1346 and CPH-1325|[**Link**](doc/Quiz4_Description.md)|
--->
+
 
 ## Policy for Cheating 
 
 **This course is supported by a full-time WEEF TA. If you have any questions, please visit the WEEF TA office for assistance, or you may also post queries on the LEARN discussion board.**  
 
-**Quiz:** Our teaching team will throughly review your answer. TAs will use software to detect any plagiarism in your scripts. It's important to understand that attempting to deceive the TAs or the instructor is futile. Even if you successfully solve all problems on the MATLAB Grader, **your quiz will be graded zero if found to be plagiaristic.** This applies equally to those who copy and those who allow their work to be copied, with both parties facing potential reporting to the Engineering Undergraduate Associate Dean (AD) for academic offenses. 
+**Homework:** Our teaching team will not actively monitor for cheating on your homework assignments. With the advancements in GenAI, we do not find it necessary to rigorously inspect these assignments. The homework is designed to help you engage with and understand the course material through a series of problems. While you may obtain full marks on homework by submitting solutions generated by GenAI or provided by your colleagues, and passing the MATLAB Grader tests, this approach will not prepare you adequately for the quizzes.
 
-**Attendance:** It has been observed that some students share links to allow absent peers to participate in Kahoot sessions remotely. This is a serious offense. Detected violations will result in a loss of all attendance marks, irrespective of past presence. Violations will result in a loss of 15 marks and be reported to AD. Repeated offenses may result in further disciplinary action from the AD. Please act with integrity to avoid regrets.
+**Quiz:** Our teaching team will throughly review your answer. TAs will use software to detect any plagiarism in your scripts. It's important to understand that attempting to deceive the TAs or the instructor is futile. Even if you successfully solve all problems on the MATLAB Grader, your quiz will be graded zero if found to be plagiaristic. This applies equally to those who copy and those who allow their work to be copied, with both parties facing potential reporting to the Engineering Undergraduate Associate Dean (AD) for academic offenses. 
+
+**Attendance:** It has been observed that some students share links to allow absent peers to participate in Kahoot sessions remotely. This is a serious offense. Detected violations will result in a loss of all attendance marks, irrespective of past presence. Violations will result in a loss of 12 marks and be reported to AD. Repeated offenses may result in further disciplinary action from the AD. Please act with integrity to avoid regrets.
 
 Please review [**Policy 71 – Student Discipline**](https://uwaterloo.ca/secretariat/policies-procedures-guidelines/policy-71).
           
+## Homework Assignment
+The homework assignments will be designed using the MATLAB Grader. This tool allows students instant feedback on the correctness of their solutions through the pre-designed testers. Thus, students can be highly motivated and inspired to persevere with completing the assignments. Problems in the homework assignments are more challenging than examples or problems in the course materials. You might seek bits of help from your colleagues or TAs. 
+
+You do not get used to writing your script directly to the MATLAB Grader only to pass the testers. For quizzes, students will only be able to submit their code on MATLAB Grader with a limited number. Thus, students are encouraged to use the MATLAB (program) editor to prepare the problems in the quizzes.  
+
+There are 8 homework assignments. Each homework assignment have 2 points on a final grade and students can get the maximum 10 points from the homework assignment. This means students get a full mark (10 points) if they submit 5 homework assignments **on time**. **No late submission will be accepted for any reason.** **All delayed submission will be zero**. Although students are not able to submit the homeworks beyond their control (E.g., illness, job interview), **the instructor will not give any accommodation.** Thus, please do not waste your three chances for optional submission. Students do not ask TAs or instructor delayed submission. In case of significant health issues that stop from submitting more than two weeks, students should contact both the First-Year Engineering Office and the instructor and get a formal approval.   
+
+TAs will not manually grade students' homework. If they pass all testers, they will get a full mark. All problems are equal weights. For example, students pass only 3 questions out of 6, students will get 1 point.  
+
+Note that TAs will check the time records of the latest submitted solutions. Please do not revise (resubmit) your homework assignment after due date. This will be considered as delay submission. 
+
+### Schedule
+|HW|Topic|Start date|Due date|
+|:---|:-----|:-----|:----|
+|HW 01|Module 01            |May 06|May 17 at 23:45pm|
+|HW 02|Module 01 ~ Module 02|May 13|May 31 at 23:45pm|
+|HW 03|Module 01 ~ Module 04|May 27|June 14 at 23:45pm|
+|HW 04|Module 01 ~ Module 05|June 10|June 28 at 23:45pm|
+|HW 05|Module 01 ~ Module 06|June 17|July 05 at 23:45pm|
+|HW 06|Module 01 ~ Module 07|June 24|July 12 at 23:45pm|
+|HW 07|Module 01 ~ Module 07, 09|July 8|July 26 at 23:45pm|
+|HW 08|Module 01 ~ Module 07, 09, 11|July 15|July 31 at 23:45pm|
+
+* Students can start homework assignments anytime if they are visible in the MATLAB Grader.
+
 ## Communication  
 **All communication will be made through LEARN but all information related to the course will be posted on this course website.** Students are responsible for checking the course website regularly. LEARN will be only used for announcements and online Q&A discussions.   
 
@@ -219,11 +245,12 @@ Before you ask questions, please take a look at the following [**Q&A document**]
 ## Grading  
 |Component|Scores|
 |:---|:-----|
-|**Attendance**|15|
-|**Quiz #1**| 15 |
-|**Quiz #2**| 20 |
-|**Quiz #3**| 25 |
-|**Quiz #4**| 30 |
+|**Attendance**|12|
+|**Homework assignments**|10|
+|**Quiz #1**| 10 |
+|**Quiz #2**| 15 |
+|**Quiz #3**| 23 |
+|**Quiz #4**| 35 |
 |**Total** |105| 
 
 ## Note
