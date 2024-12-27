@@ -1,6 +1,6 @@
 # AE/ENVE/GEOE121: Computational Method (S2024)
 
-|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** TBD  (TBD) <br> **Class (CIVE121):** Mon&Wed (2:30-4:00 PM) at RCH-302  <br> **Lab (CIVE121):** Wed (2:30 to 5:00 PM) at E2-1792 <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: By appointment|
+|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** TBD  (TBD) <br> **Class (CIVE121):** Mon (2:30-4:00 PM) and Wed (8:30-10:00 AM) at RCH-302  <br> **Lab (CIVE121):** Wed (2:30 to 5:00 PM) at E2-1792 <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: By appointment|
 |:--------|:-----------|
 
 **Courses in previous terms**
