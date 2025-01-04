@@ -1,4 +1,4 @@
-# AE/ENVE/GEOE121: Computational Method (W2025)
+# CIVE121: Computational Method (W2025)
 
 |<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Pallavi Ahir (pahir@uwaterloo.ca) <br> **Class:** Mon (2:30-4:00 PM) and Wed (8:30-10:00 AM) at RCH-302  <br> **Lab:** Wed (2:30 to 5:00 PM) at E2-1792 <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: By appointment|
 |:--------|:-----------|
@@ -14,7 +14,7 @@
 **Key links**  
 - [**LEARN**](https://learn.uwaterloo.ca/d2l/home/1118775)
 - [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318) 
-- [**MATLAB Grader- Practice Questions**](https://grader.mathworks.com/courses/163682-w25-ae-enve-geoe-121-homework) 
+- [**MATLAB Grader- Practice Questions**](https://grader.mathworks.com/courses/163709) 
 - [**FAQ document**](qna)
 - [**Course material**](comp_method_book_cm_s21.pdf)
 
@@ -27,8 +27,10 @@
 - [**MATLAB Grader- (S22) ENVE/GEOE 121: Quizzes**](https://grader.mathworks.com/courses/76610-s22-enve-geoe-121-quizzes)
 -->
 
+<!-- 
 **Folders**   
 - [**Class materials**](tutorial/CLASS)   
+-->
 
 ## Announcement
 - January 01, 2025: Welcome to CIVE 121
