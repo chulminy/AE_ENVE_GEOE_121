@@ -183,10 +183,10 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 ### Schedule 
 |Quiz|Topics|Date|Duration|Location|Instruction|
 |:---|:-------|:-----|:----|:----|:----|
-|**Quiz 01**|Module 01 ~ 02|Jan 29||||
-|**Quiz 02**|Module 01 ~ 04|Feb 26||||
-|**Quiz 03**|Module 01 ~ 07|Mar 19||||
-|**Quiz 04**|Module 01 ~ 07, 09, 11|TBD||||
+|**Quiz 01**|Module 01 ~ 02 (PQ1-2)|Jan 29||||
+|**Quiz 02**|Module 01 ~ 04 (PQ1-3)|Feb 26||||
+|**Quiz 03**|Module 01 ~ 07 (PQ1-6)|Mar 19||||
+|**Quiz 04**|Module 01 ~ 07, 09, 11 (PQ1-8)|TBD||||
 
 <!--
 |[**Quiz 01**](doc/Quiz1_Description.md)|Module 01 ~ 02|May 27|110 minutes|CPH-1346 and CPH-1325 |[**Link**](doc/Quiz1_Description.md)|
