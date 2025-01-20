@@ -6,6 +6,8 @@
 **Guidelines for the Written Test**
 ![](img/Q1_first_page_written_test_W25.jpg)  
 
+**Cheating sheet: Only one side of a letter page.**
+
 **Please bring writing utensil, eraser, pencil sharpener**
 
 **Guidelines for the Grader Test**
@@ -19,7 +21,9 @@ The grader test is open book, allowing you to access all class materials, includ
 * Digital/offline notes that you have made your own. 
 Note that your digital or offline note (in pdf or word) contains only texts that you made and should not be a form of drag/drop website or tutorial YouTube contents. You never use searching engine like Google to search for information. **Your internet browser must only be used to access the course website and MATLAB Grader.** You **cannot** watch lecture or tutorial videos during the quiz.
 
-You can use both your laptop and a desktop computer in the computer lab during the quiz. It would be nice to use the desktop for showing quiz problems and your laptop for programming (and vice versa). However, you **CANNOT** **your tablets or cell phones**. Also, you can use a noise-canceling headset or listen to music if they are helpful for you to focus on your quiz. However, you need to control the volume not to disturb other students. Some students brought a keyboard and that would be fine as well. 
+You can use both your laptop and a desktop computer in the computer lab during the quiz. It would be nice to use the desktop for showing quiz problems and your laptop for programming (and vice versa). However, you **CANNOT** **cell phones**. Also, you can use a noise-canceling headset or listen to music if they are helpful for you to focus on your quiz. However, you need to control the volume not to disturb other students. Some students brought a keyboard and that would be fine as well. 
+
+** You may use a tablet PC exclusively for viewing PDF lecture notes. You can't write it on your tablet PC. Synchronization with OneDrive or any other cloud-based note-syncing services is not permitted. **
 
 If you choose to use one of the desktop computers in the lab, you can save your files in a USB drive and copy them in the computer or can download the files from your cloud drive **BEFORE** starting the quiz. **Make sure that you must turn off all messenger programs or background cloud sync programs.** You cannot use any shared folder (e.g., cloud drive) during the quiz. Accessing different folders other than the Desktop folder might be considered as cheating.
 
