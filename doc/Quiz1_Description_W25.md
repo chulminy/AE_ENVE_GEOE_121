@@ -7,7 +7,6 @@
 ![](img/Q1_first_page_written_test_W25.jpg)  
 
 **Cheating sheet: Only one side of a letter page.**
-
 **Please bring writing utensil, eraser, pencil sharpener**
 
 **Guidelines for the Grader Test**
@@ -23,7 +22,7 @@ Note that your digital or offline note (in pdf or word) contains only texts that
 
 You can use both your laptop and a desktop computer in the computer lab during the quiz. It would be nice to use the desktop for showing quiz problems and your laptop for programming (and vice versa). However, you **CANNOT** **cell phones**. Also, you can use a noise-canceling headset or listen to music if they are helpful for you to focus on your quiz. However, you need to control the volume not to disturb other students. Some students brought a keyboard and that would be fine as well. 
 
-** You may use a tablet PC exclusively for viewing PDF lecture notes. You can't write it on your tablet PC. Synchronization with OneDrive or any other cloud-based note-syncing services is not permitted. **
+**You may use a tablet PC exclusively for viewing PDF lecture notes. You can't write it on your tablet PC. Synchronization with OneDrive or any other cloud-based note-syncing services is not permitted.**
 
 If you choose to use one of the desktop computers in the lab, you can save your files in a USB drive and copy them in the computer or can download the files from your cloud drive **BEFORE** starting the quiz. **Make sure that you must turn off all messenger programs or background cloud sync programs.** You cannot use any shared folder (e.g., cloud drive) during the quiz. Accessing different folders other than the Desktop folder might be considered as cheating.
 
@@ -40,6 +39,6 @@ For Quiz 1, you must solve all questions within **45 minutes**. **Since the leng
 
 **Thus, although you pass the testers on the grader, you will get zero if your programming logic is not correct. There is no partial mark if you pass the tester with a WRONG logic.**
 
-A set of assessments (or tests) in the MATLAB Grader is designed in each problem for “preliminary” auto-grading but your solutions will be manually re-graded to provide partial marks. Please do not be discouraged when you see that you have not passed all your tests. You need to include a **concise comment** in your scripts using ‘%’ (comment symbol) to obtain better partial marks. If the programming logic is correct based on the judgment on your comments, higher partial marks will be obtained. You can use any MATLAB built-in function at your own risk unless otherwise noted. However, if you misuse or misapply built-in functions that have not been covered in lectures or tutorials, you will not get partial marks for using them. Please do not use a built-in functions that we have not covered in our course if you are unsure of its applications. The maximum score that you can get is 50. The score will contribute to the final grade with the corresponding weights outlined in the course website. 
+A set of assessments (or tests) in the MATLAB Grader is designed in each problem for “preliminary” auto-grading but your solutions will be manually re-graded to provide partial marks. Please do not be discouraged when you see that you have not passed all your tests. You need to include a **concise comment** in your scripts using ‘%’ (comment symbol) to obtain better partial marks. If the programming logic is correct based on the judgment on your comments, higher partial marks will be obtained. You can use any MATLAB built-in function at your own risk unless otherwise noted. However, if you misuse or misapply built-in functions that have not been covered in lectures or tutorials, you will not get partial marks for using them. Please do not use a built-in functions that we have not covered in our course if you are unsure of its applications. 
 
 Note that when you move to a different question without submitting your script on MATLAB Grader, the code will not be available when you reopen the previous question. Please do not work your script on MATLAB Grader. Instead, please use the MATLAB Editor to code your answers and save them in your computer. 
