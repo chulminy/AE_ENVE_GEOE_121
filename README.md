@@ -184,7 +184,7 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 |Quiz|Topics|Date|Duration|Location|Instruction|
 |:---|:-------|:-----|:----|:----|:----|
 |[**Quiz 01**](doc/Quiz1_Description_W25.md)|Module 01 ~ 02 (PQ1-2)|Jan 29|95 minutes|E2-1792|[**Quiz 01**](doc/Quiz1_Description_W25.md)|
-|**Quiz 02**|Module 01 ~ 04 (PQ1-3)|Feb 25|120 minutes|E2-1792|[**Quiz 02**](doc/Quiz2_Description_W25.md)|
+|[**Quiz 02**](doc/Quiz2_Description_W25.md)|Module 01 ~ 04 (PQ1-3)|Feb 25|120 minutes|E2-1792|[**Quiz 02**](doc/Quiz2_Description_W25.md)|
 |**Quiz 03**|Module 01 ~ 07 (PQ1-6)|Mar 19||||
 |**Quiz 04**|Module 01 ~ 07, 09, 11 (PQ1-8)|TBD||||
 
