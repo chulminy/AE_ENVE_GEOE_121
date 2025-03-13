@@ -39,7 +39,7 @@ There are five questions:
 - Q3-6 (★★★★): 5 points (extra)
 
 ## Quiz Schedule
-February 25 at 02:40 pm ~ 4:55 pm - **50 min** (written test) + **75 min** (grader test)
+March 19 at 02:40 pm ~ 4:55 pm - **50 min** (written test) + **75 min** (grader test)
 
 ## Submission & Grading (MATLAB Grader)
 **Since the length of the quiz is also set to accommodate students who have technology challenges (e.g., slow internet connection, computer), no extra time will be provided.** Note that if your solution is submitted after the designated due time, it will not be graded. Please submit your solutions on time. You can access and solve the problems in any order. As promised, the number of stars to identify the difficulty of the problems will be provided to help students time management. You can submit your answer **unlimited times**. **We will only grade your final submission.** Great care should be taken before you submit your solution. Thus, it is highly recommended that you run and check your solution in the MATLAB program installed on your computer. Remember that we will **manually** grade your script at the end and review your programming logic. 
