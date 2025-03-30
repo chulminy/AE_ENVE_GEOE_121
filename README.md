@@ -115,7 +115,7 @@ Lectures are to deliver fundamental knowledge and information in each module and
 |**Module 06**|Operator|5 (23)|[**Quiz 03**](doc/Quiz3_Description_W25.md)|
 |**Module 07**|Function|5 (28)||
 |**Module 08**|Plotting|1 (29)||
-|**Module 09**|Data Structure|3 (32)|**Quiz 04**|
+|**Module 09**|Data Structure|3 (32)|[**Quiz 04**](doc/Quiz4_Description_W25.md)|
 |<strike>**Module 11**</strike>|<strike>Text Manipulation</strike>|<strike>3 (35)</strike>||
 
 ## Course Attendance
@@ -186,7 +186,7 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 |[**Quiz 01**](doc/Quiz1_Description_W25.md)|Module 01 ~ 02 (PQ1-2)|Jan 29|95 minutes|E2-1792|[**Quiz 01**](doc/Quiz1_Description_W25.md)|
 |[**Quiz 02**](doc/Quiz2_Description_W25.md)|Module 01 ~ 04 (PQ1-3)|Feb 25|120 minutes|E2-1792|[**Quiz 02**](doc/Quiz2_Description_W25.md)|
 |[**Quiz 03**](doc/Quiz3_Description_W25.md)|Module 01 ~ 06 (PQ1-6)|Mar 19|125 minutes |E2-1792|[**Quiz 03**](doc/Quiz3_Description_W25.md)|
-|**Quiz 04**|Module 01 ~ 07, 09 (PQ1-7)|Apr 16|150 minutes|E2-1792||
+|[**Quiz 04**](doc/Quiz4_Description_W25.md)|Module 01 ~ 07 (PQ1-7)|Apr 16|120 minutes|E2-1792|[**Quiz 04**](doc/Quiz4_Description_W25.md)|
 
 <!--
 |[**Quiz 01**](doc/Quiz1_Description.md)|Module 01 ~ 02|May 27|110 minutes|CPH-1346 and CPH-1325 |[**Link**](doc/Quiz1_Description.md)|
