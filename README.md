@@ -1,9 +1,10 @@
-# CIVE121: Computational Method (W2025)
+# AE/ENVE/GEOE 121: Computational Method (S2025)
 
-|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **TA:** Pallavi Ahir (pahir@uwaterloo.ca) <br> **Class:** Mon (2:30-4:00 PM) and Wed (8:30-10:00 AM) at RCH-302  <br> **Lab:** Wed (2:30 to 5:00 PM) at E2-1792 <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: By appointment|
+|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **WEEF TA:** TBD (TBD) <br> **Graduate TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **AE Class:** Mon (1:00-2:20 PM) and Wed (1:00-2:20 AM) at CPH-3604 <br> **EG Class:** Mon (8:30-9:50 PM) and Wed (8:30-9:50 AM) at EIT-1015 <br> **Lab:** Mon (3:30 to 5:50 PM) at E2-1792 and CPH-1325 <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: By appointment|
 |:--------|:-----------|
 
 **Courses in previous terms**
+- [**Computational Method (Winter, 2025)**](old/s2025)
 - [**Computational Method (Spring, 2024)**](old/s2024)
 - [**Computational Method (Spring, 2022)**](old/s2022)
 - [**Computational Method (Winter, 2022)**](old/w2022)
@@ -14,7 +15,7 @@
 **Key links**  
 - [**LEARN**](https://learn.uwaterloo.ca/d2l/home/1118775)
 - [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318) 
-- [**MATLAB Grader- Practice Questions**](https://grader.mathworks.com/courses/163709) 
+- [**MATLAB Grader- Practice Questions**](https://grader.mathworks.com/courses/166380) 
 - [**FAQ document**](qna)
 - [**Course material**](comp_method_book_cm_s21.pdf)
 
@@ -33,14 +34,30 @@
 -->
 
 ## Announcement
-- January 01, 2025: Welcome to CIVE 121
+- January 01, 2025: Welcome to AEG 121
 
+## Make-up Class
+* **Make-up Class (EG121):**
+    * Thursday, May 15, 2025
+    * Tuesday, June 10, 2025
+    * Tuesday, July 8, 2025
+
+* **Make-up Class (AE121):**
+    * Thursday, June 12, 2025
+    * Thursday, July 10, 2025
+
+* **Make-up Lab (AE/ENGE/GEOE 121):**
+    * Wednesday, July 2, 2025 (Victoria Day Makeup)
+    * Tuesday, July 22, 2025
+        
 ## Key Dates
-* Family Day, Monday, February 17, 2024
-* Winter Reading Week, Monday, February 17 – Sunday, February 23, 2024.
-* Good Friday, Friday, March 29, 2024.
-* Pre-examination Study Days: Monday, April 7 and Tuesday, April 8, 2024.
-* Final Exam Period: Wednesday, April 9 to Friday, April 25, 2024.
+* Victoria Day: Monday, May 25, 2025
+* **Quiz 01:** June 02, 2025
+* **Quiz 02:** June 23, 2025
+* **Quiz 03:** July 14, 2025
+* Midterm Week: June 16 – June 20, 2025.
+* Final Exam Period: August 5 - August 16, 2025.
+
 
 ## Table of Contents
 - [Course Description](#course-description)
@@ -116,7 +133,7 @@ Lectures are to deliver fundamental knowledge and information in each module and
 |**Module 07**|Function|5 (28)||
 |**Module 08**|Plotting|1 (29)||
 |**Module 09**|Data Structure|3 (32)|[**Quiz 04**](doc/Quiz4_Description_W25.md)|
-|<strike>**Module 11**</strike>|<strike>Text Manipulation</strike>|<strike>3 (35)</strike>||
+
 
 ## Course Attendance
 Students have to attend all classes to receive 15 point attendance scores. The attendance will be checked using Kahoot game sessions. There are several Kahoot game sessions across the classes. Among them, I will randomly check the attendance only for **8 sessions**. I will check the attendance at the class when the student participation is low. 
@@ -142,11 +159,11 @@ To participate the game, the instructor will show the students a game pin number
 We will update your attendance record in LEARN. If the record is not correct, please send an email to TA.   
 
 ## Course Calendar
-|![](doc/calendar/Jan2025.PNG) |
+|![](doc/calendar/May2025.PNG) |
 |:---:|
-|![](doc/calendar/Feb2025.PNG) | 
-|![](doc/calendar/Mar2025.PNG) | 
-|![](doc/calendar/Apr2025.PNG) |
+|![](doc/calendar/June2025.PNG) | 
+|![](doc/calendar/July2025.PNG) | 
+
 
 
 ## Tutorial
@@ -183,10 +200,10 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 ### Schedule 
 |Quiz|Topics|Date|Duration|Location|Instruction|
 |:---|:-------|:-----|:----|:----|:----|
-|[**Quiz 01**](doc/Quiz1_Description_W25.md)|Module 01 ~ 02 (PQ1-2)|Jan 29|95 minutes|E2-1792|[**Quiz 01**](doc/Quiz1_Description_W25.md)|
-|[**Quiz 02**](doc/Quiz2_Description_W25.md)|Module 01 ~ 04 (PQ1-3)|Feb 25|120 minutes|E2-1792|[**Quiz 02**](doc/Quiz2_Description_W25.md)|
-|[**Quiz 03**](doc/Quiz3_Description_W25.md)|Module 01 ~ 06 (PQ1-6)|Mar 19|125 minutes |E2-1792|[**Quiz 03**](doc/Quiz3_Description_W25.md)|
-|[**Quiz 04**](doc/Quiz4_Description_W25.md)|Module 01 ~ 07 (PQ1-7)|Apr 16|120 minutes|E2-1792|[**Quiz 04**](doc/Quiz4_Description_W25.md)|
+|**Quiz 01**|Module 01 ~ 02 (PQ1-2)|June 02||||
+|**Quiz 02**|Module 01 ~ 04 (PQ1-3)|June  23||||
+|**Quiz 03**|Module 01 ~ 06 (PQ1-6)|July 14||||
+|**Quiz 04**|Module 01 ~ 07, 09 (PQ1-7)|TBD||||
 
 <!--
 |[**Quiz 01**](doc/Quiz1_Description.md)|Module 01 ~ 02|May 27|110 minutes|CPH-1346 and CPH-1325 |[**Link**](doc/Quiz1_Description.md)|
