@@ -4,7 +4,7 @@
 |:--------|:-----------|
 
 **Courses in previous terms**
-- [**Computational Method (Winter, 2025)**](old/s2025)
+- [**Computational Method (Winter, 2025)**](old/w2025)
 - [**Computational Method (Spring, 2024)**](old/s2024)
 - [**Computational Method (Spring, 2022)**](old/s2022)
 - [**Computational Method (Winter, 2022)**](old/w2022)
