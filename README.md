@@ -125,14 +125,14 @@ Lectures are to deliver fundamental knowledge and information in each module and
 |:-----|:-----|:--:|:-----------:|
 |**Module 00**|Preliminaries|1 (1)||
 |**Module 01**|Basic MATLAB Programming|3 (4)||
-|**Module 02**|Vectors and Matrices|4 (8)|[**Quiz 01**](doc/Quiz1_Description_W25.md)|
+|**Module 02**|Vectors and Matrices|4 (8)|**Quiz 01**|
 |**Module 03**|Selection Statement |3 (11)||
-|**Module 04**|Loop Statement|4 (15)|[**Quiz 02**](doc/Quiz2_Description_W25.md)|
+|**Module 04**|Loop Statement|4 (15)|**Quiz 02**|
 |**Module 05**|Built-in Functions|3 (18)||
-|**Module 06**|Operator|5 (23)|[**Quiz 03**](doc/Quiz3_Description_W25.md)|
+|**Module 06**|Operator|5 (23)|**Quiz 03**|
 |**Module 07**|Function|5 (28)||
 |**Module 08**|Plotting|1 (29)||
-|**Module 09**|Data Structure|3 (32)|[**Quiz 04**](doc/Quiz4_Description_W25.md)|
+|**Module 09**|Data Structure|3 (32)|**Quiz 04**|
 
 
 ## Course Attendance
