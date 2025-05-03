@@ -1,6 +1,6 @@
 # AE/ENVE/GEOE 121: Computational Method (S2025)
 
-|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **WEEF TA:** TBD (TBD) <br> **Graduate TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **AE Class:** Mon (1:00-2:20 PM) and Wed (1:00-2:20 AM) at CPH-3604 <br> **EG Class:** Mon (8:30-9:50 PM) and Wed (8:30-9:50 AM) at EIT-1015 <br> **Lab:** Mon (3:30 to 5:50 PM) at E2-1792 and CPH-1325 <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: By appointment|
+|<img src="doc/img/civil_engineer.png" height="200">|**Instructor:** Chul Min Yeum (cmyeum@uwaterloo.ca) <br> **WEEF TA:** Daniella Chan (daniella.chan@uwaterloo.ca) <br> **Graduate TA:** Jesse St. John - Parker (jstjohnparker@uwaterloo.ca) <br> **AE Class:** Mon (1:00-2:20 PM) and Wed (1:00-2:20 AM) at CPH-3604 <br> **EG Class:** Mon (8:30-9:50 PM) and Wed (8:30-9:50 AM) at EIT-1015 <br> **Lab:** Mon (3:30 to 5:50 PM) at E2-1792 and CPH 1346 <br> **Office hours (TA)**: Visit the WEEF TA office (E2-1787) <br> **Office hours (Instructor)**: By appointment|
 |:--------|:-----------|
 
 **Courses in previous terms**
@@ -32,9 +32,6 @@
 **Folders**   
 - [**Class materials**](tutorial/CLASS)   
 -->
-
-## Announcement
-- January 01, 2025: Welcome to AEG 121
 
 ## Make-up Class
 * **Make-up Class (EG121):**
@@ -206,10 +203,10 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 |**Quiz 04**|Module 01 ~ 07, 09 (PQ1-7)|TBD||||
 
 <!--
-|[**Quiz 01**](doc/Quiz1_Description.md)|Module 01 ~ 02|May 27|110 minutes|CPH-1346 and CPH-1325 |[**Link**](doc/Quiz1_Description.md)|
-|[**Quiz 02**](doc/Quiz2_Description.md)|Module 01 ~ 04|June 24|130 minutes|CPH-1346 and CPH-1325|[**Link**](doc/Quiz2_Description.md)|
-|[**Quiz 03**](doc/Quiz3_Description.md)|Module 01 ~ 06|July 15|130 minutes|CPH-1346 and CPH-1325|[**Link**](doc/Quiz3_Description.md)|
-|[**Quiz 04**](doc/Quiz4_Description.md)|Module 01 ~ 07, 09, 11|August 09|150 minutes|CPH-1346 and CPH-1325|[**Link**](doc/Quiz4_Description.md)|
+|[**Quiz 01**](doc/Quiz1_Description.md)|Module 01 ~ 02|May 27|110 minutes|CPH-1346 and E2-1792 |[**Link**](doc/Quiz1_Description.md)|
+|[**Quiz 02**](doc/Quiz2_Description.md)|Module 01 ~ 04|June 24|130 minutes|CPH-1346 and E2-1792|[**Link**](doc/Quiz2_Description.md)|
+|[**Quiz 03**](doc/Quiz3_Description.md)|Module 01 ~ 06|July 15|130 minutes|CPH-1346 and E2-1792|[**Link**](doc/Quiz3_Description.md)|
+|[**Quiz 04**](doc/Quiz4_Description.md)|Module 01 ~ 07, 09, 11|August 09|150 minutes|CPH-1346 and E2-1792|[**Link**](doc/Quiz4_Description.md)|
 -->
 
 ## Policy for Cheating 
