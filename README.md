@@ -17,7 +17,7 @@
 - [**MATLAB Grader- Tutorial: Computational Method**](https://grader.mathworks.com/courses/18318) 
 - [**MATLAB Grader- Practice Questions**](https://grader.mathworks.com/courses/166380) 
 - [**FAQ document**](qna)
-- [**Course material**](comp_method_book_cm_s21.pdf)
+- [**Course material**](comp_method_book_cm_s25.pdf)
 
 <!-- - [**Kahoot**](tutorial/Kahoot) -->
 <!-- - [**MATLAB Grader- (S24) Quizzes in previous years**](https://grader.mathworks.com/courses/142536)  -->
