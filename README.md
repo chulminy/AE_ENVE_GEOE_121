@@ -35,20 +35,20 @@
 
 ## Make-up Class
 * **Make-up Class (EG121):**
-    * Thursday, May 15, 2025
-    * Tuesday, June 10, 2025
-    * Tuesday, July 8, 2025
+    * Thursday, May 15, 2025 at 3:30 - 4:20pm
+    * Tuesday, June 10, 2025 at 2:30 - 3:20pm
+    * Tuesday, July 8, 2025  at 2:30 - 3:20pm
 
 * **Make-up Class (AE121):**
-    * Thursday, June 12, 2025
-    * Thursday, July 10, 2025
+    * Thursday, June 12, 2025 at 2:30 - 3:20pm
+    * Thursday, July 10, 2025 at 2:30 - 3:20pm
 
 * **Make-up Lab (AE/ENGE/GEOE 121):**
-    * Wednesday, July 2, 2025 (Victoria Day Makeup)
-    * Tuesday, July 22, 2025
+    * Wednesday, July 2, 2025 (Victoria Day Makeup) at 3:30pm
+    * Tuesday, July 22, 2025 at 4:30 - 7:00pm
         
 ## Key Dates
-* Victoria Day: Monday, May 25, 2025
+* Victoria Day: Monday, May 19, 2025
 * **Quiz 01:** June 02, 2025
 * **Quiz 02:** June 23, 2025
 * **Quiz 03:** July 14, 2025
@@ -156,6 +156,11 @@ To participate the game, the instructor will show the students a game pin number
 We will update your attendance record in LEARN. If the record is not correct, please send an email to TA.   
 
 ## Course Calendar
+
+
+
+
+
 |![](doc/calendar/May2025.PNG) |
 |:---:|
 |![](doc/calendar/June2025.PNG) | 
