@@ -3,7 +3,7 @@
 ## General Description
 **Quiz #1** is designed to evaluate your understanding of the key concepts covered in **Modules 1 and 2**. This is an individual, in-person exam held in CPH-1346 and E2-1792. **Your specific room and seat assignment will be provided on the quiz date.** You must complete all problems independently and are not allowed to discuss them with others. If you have questions, you may ask the TA proctors or the instructor at any time. The quiz consists of two parts: a written portion and a MATLAB Grader test.
 
-**Guidelines for the Written Test**
+### Guidelines for the Written Test
 
 * This is a **closed-book exam**, but students are allowed to refer to a single-sided cheating sheet.
 * The duration for Q1 is 50 minutes
@@ -14,7 +14,7 @@
 * Do not separate pages.
 * At the end of the quiz, **you will see the MATLAB Grader questions that you will solve the following session**. This is not a part of this written test. 
 
-**Guidelines for the Grader Test**
+### Guidelines for the Grader Test
 The Grader Test is open-book. You may access the following materials:
 
 * MATLAB Grader
@@ -48,10 +48,10 @@ There are four questions:
 - Q1-3 (★★★): 20 points
 - Extra (★★★★):  5 points (can be transferred to your written test grade)
 
-## Quiz Schedule
+### Quiz Schedule
 **AE/ENVE/GEOE:** June 02 at 03:35pm ~ 5:10 pm - 50 min (written test) + 45 min (grader test)
 
-## Submission & Grading (MATLAB Grader)
+### Submission & Grading (MATLAB Grader)
 For Quiz 1, you must solve all questions within the designated time. **Since the length of the quiz is also set to accommodate students who have technology challenges (e.g., slow internet connection, computer), no extra time will be provided.** Note that if your solution is submitted after the designated due time, it will not be graded. Please submit your solutions on time. You can access and solve the problems in any order. As promised, the number of stars to identify the difficulty of the problems will be provided to help students time management. You can submit your answer **only third times**. Once you make the third submission of your solution for each problem, you can still view the problem but the “submit” button is inactive (meaning that you cannot re-submit a problem that you already submitted three times). **We will only grade your third submission if you submit your solution three times.** Great care should be taken before you submit your solution. Thus, it is highly recommended that you run and check your solution in the MATLAB program installed on your computer. Remember that we will **manually** grade your script at the end and review your programming logic. 
 
 **Thus, although you pass the testers on the grader, you will get zero if your programming logic is not correct. There is no partial mark if you pass the tester with a WRONG logic.**
