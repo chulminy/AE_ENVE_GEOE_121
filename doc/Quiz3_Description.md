@@ -30,6 +30,8 @@
 
 > Note: You may not use any other websites, search engines (e.g., Google), or shared cloud drives during the test.
 
+> (**Important**) Useing GPT or similar tools during the quiz is obvious cheating. 
+
 **Device Use Policy:**
 * You may use both the lab desktop computer and your personal laptop or tablet.
 * Your laptop/tablet is only for viewing PDF notes. Only a PDF viewer should be used.
