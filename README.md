@@ -158,10 +158,6 @@ We will update your attendance record in LEARN. If the record is not correct, pl
 
 ## Course Calendar
 
-
-
-
-
 |![](doc/calendar/May2025.PNG) |
 |:---:|
 |![](doc/calendar/June2025.PNG) | 
@@ -205,7 +201,7 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 |:---|:-------|:-----|:----|:----|:----|
 |**Quiz 01**|Module 01 ~ 02 (PQ1-2)|June 02|95 minutes|CPH-1346 and E2-1792 |[**Link**](doc/Quiz1_Description.md)|
 |**Quiz 02**|Module 01 ~ 04 (PQ1-3)|June  23|105 minutes |CPH-1346 and E2-1792 |[**Link**](doc/Quiz2_Description.md)|
-|**Quiz 03**|Module 01 ~ 06 (PQ1-6)|July 14||||
+|**Quiz 03**|Module 01 ~ 06 (PQ1-6)|July 14|120 minutes|CPH-1346 and E2-1792 |[**Link**](doc/Quiz3_Description.md)|
 |**Quiz 04**|Module 01 ~ 07, 09 (PQ1-7)|TBD||||
 
 <!--
