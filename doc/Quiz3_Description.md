@@ -52,7 +52,7 @@ There are four questions:
 - Extra (★★★★): 10 points (can be transferred to your written test grade)
 
 ### Quiz Schedule
-**AE/ENVE/GEOE:** June 23 at 03:30pm ~ 5:30 pm - 45 min (written test) + 75 min (grader test)
+**AE/ENVE/GEOE:** July 14 at 03:30pm ~ 5:30 pm - 45 min (written test) + 75 min (grader test)
 
 ### Submission & Grading (MATLAB Grader)
 For Quiz 3, you must solve all questions within the designated time. **Since the length of the quiz is also set to accommodate students who have technology challenges (e.g., slow internet connection, computer), no extra time will be provided.** Note that if your solution is submitted after the designated due time, it will not be graded. Please submit your solutions on time. You can access and solve the problems in any order. As promised, the number of stars to identify the difficulty of the problems will be provided to help students time management. You can submit your answer **unlimited times**. **We will only grade your final submission.** Great care should be taken before you submit your solution. Thus, it is highly recommended that you run and check your solution in the MATLAB program installed on your computer. Remember that we will **manually** grade your script at the end and review your programming logic. 
