@@ -46,13 +46,14 @@
 
 * **Make-up Lab (AE/ENGE/GEOE 121):**
     * Wednesday, July 2, 2025 (Victoria Day Makeup) at 3:30pm
-    * Tuesday, July 22, 2025 at 4:30 - 7:00pm
+    * (Cancelled) ~~Tuesday, July 22, 2025 at 4:30 - 7:00pm~~
         
 ## Key Dates
 * Victoria Day: Monday, May 19, 2025
 * **Quiz 01:** June 02, 2025
 * **Quiz 02:** June 23, 2025
 * **Quiz 03:** July 14, 2025
+* **Quiz 04:** August 11, 2025
 * Midterm Week: June 16 – June 20, 2025.
 * Final Exam Period: August 5 - August 16, 2025.
 
@@ -128,9 +129,9 @@ Lectures are to deliver fundamental knowledge and information in each module and
 |**Module 04**|Loop Statement|4 (15)|**Quiz 02**|
 |**Module 05**|Built-in Functions|3 (18)||
 |**Module 06**|Operator|5 (23)|**Quiz 03**|
-|**Module 07**|Function|5 (28)||
+|**Module 07**|Function|5 (28)|**Quiz 04**|
 |**Module 08**|Plotting|1 (29)||
-|**Module 09**|Data Structure|3 (32)|**Quiz 04**|
+|**Module 09**|Data Structure|3 (32)||
 
 
 ## Course Attendance
@@ -201,8 +202,8 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 |:---|:-------|:-----|:----|:----|:----|
 |**Quiz 01**|Module 01 ~ 02 (PQ1-2)|June 02|95 minutes|CPH-1346 and E2-1792 |[**Link**](doc/Quiz1_Description.md)|
 |**Quiz 02**|Module 01 ~ 04 (PQ1-3)|June  23|105 minutes |CPH-1346 and E2-1792 |[**Link**](doc/Quiz2_Description.md)|
-|**Quiz 03**|Module 01 ~ 06 (PQ1-6)|July 14|120 minutes|CPH-1346 and E2-1792 |[**Link**](doc/Quiz3_Description.md)|
-|**Quiz 04**|Module 01 ~ 07, 09 (PQ1-7)|TBD||||
+|**Quiz 03**|Module 01 ~ 06 (PQ1-5)|July 14|120 minutes|CPH-1346 and E2-1792 |[**Link**](doc/Quiz3_Description.md)|
+|**Quiz 04**|Module 01 ~ 07 (PQ1-6)|August 11|150 minutes|CPH-1346 and E2-1792 ||
 
 <!--
 |[**Quiz 01**](doc/Quiz1_Description.md)|Module 01 ~ 02|May 27|110 minutes|CPH-1346 and E2-1792 |[**Link**](doc/Quiz1_Description.md)|
