@@ -203,7 +203,7 @@ The major differences are a **time limit** and **a limited submission**. Remembe
 |**Quiz 01**|Module 01 ~ 02 (PQ1-2)|June 02|95 minutes|CPH-1346 and E2-1792 |[**Link**](doc/Quiz1_Description.md)|
 |**Quiz 02**|Module 01 ~ 04 (PQ1-3)|June  23|105 minutes |CPH-1346 and E2-1792 |[**Link**](doc/Quiz2_Description.md)|
 |**Quiz 03**|Module 01 ~ 06 (PQ1-5)|July 14|120 minutes|CPH-1346 and E2-1792 |[**Link**](doc/Quiz3_Description.md)|
-|**Quiz 04**|Module 01 ~ 07 (PQ1-6)|August 11|150 minutes|CPH-1346 and E2-1792 ||
+|**Quiz 04**|Module 01 ~ 07 (PQ1-6)|August 11|150 minutes|CPH-1346 and E2-1792 |[**Link**](doc/Quiz4_Description.md)|
 
 <!--
 |[**Quiz 01**](doc/Quiz1_Description.md)|Module 01 ~ 02|May 27|110 minutes|CPH-1346 and E2-1792 |[**Link**](doc/Quiz1_Description.md)|
