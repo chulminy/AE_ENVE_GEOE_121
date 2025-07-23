@@ -20,7 +20,7 @@
     * MATLAB installed on the lab computer
     * Lecture slides (PDF format)
     * Your personal digital or handwritten notes
-* The duration for Q3 (Grader) is **90 minutes**. 
+* The duration for Q4 (Grader) is **90 minutes**. 
 * The maximum score for the grader test is **60**. 
 
 **Permitted Programs and Tools:**
@@ -30,10 +30,10 @@
 
 > Note: You may not use any other websites, search engines (e.g., Google), or shared cloud drives during the test.
 
-> (**Important**) Your seat will be announced 30 minutes before the quiz.
-> (**Important**) Please arrive at the lab 10 minutes early to prepare for the exam.
-> (**Important**) Useing GPT or similar tools during the quiz is obvious cheating. 
-> (**Important**) You are not allowed to leave the room even if you finish early.
+> (**Important**) Your seat will be announced 30 minutes before the quiz.  
+> (**Important**) Please arrive at the lab 10 minutes early to prepare for the exam.  
+> (**Important**) Useing GPT or similar tools during the quiz is obvious cheating.   
+> (**Important**) You are not allowed to leave the room even if you finish early.  
 
 **Device Use Policy:**
 * You may use both the lab desktop computer and your personal laptop or tablet.
